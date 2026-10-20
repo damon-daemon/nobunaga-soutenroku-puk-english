@@ -1,0 +1,936 @@
+@5000
+Head of the provincial government of Totomi, in charge of its administration, justice, police and all affairs. Sagara Taketo and others held it; Kato Mitsuyasu and others claimed it.
+@5002
+Head of the provincial government of Suruga, in charge of its administration, justice, police and all affairs. Claimed by Usami Sadayuki (an Uesugi vassal), Kikkawa Motoharu and others.
+@5004
+Head of the provincial government of Kai, in charge of its administration, justice, police and all affairs. Kuroda Nagamasa held it; Hayami Tokiyuki (a Toyotomi vassal) and others claimed it.
+@5006
+Head of the provincial government of Sagami, in charge of its administration, justice, police and all affairs. Okubo Tadachika and others held it; Hojo Ujiyasu and others claimed it.
+@5008
+Head of the provincial government of Mino, in charge of its administration, justice, police and all affairs. Hashiba Hidenaga and others held it; Baba Nobufusa, Hara Toratane and others claimed it.
+@5010
+Head of the provincial government of Shinano, in charge of its administration, justice, police and all affairs. Nabeshima Katsushige, Nanbu Toshinao and others held it; Takeda Shingen and others claimed it.
+@5012
+Head of the provincial government of Shimotsuke, in charge of its administration, justice, police and all affairs. Matsudaira Tadayoshi and others held it; Miyoshi Masayasu and Chosokabe Kunichika claimed it.
+@5014
+Head of the provincial government of Dewa, in charge of its administration, justice, police and all affairs. Mogami Yoshiaki, Sakazaki Naomori (Ukita Tadaie's son) and others held it.
+@5016
+Head of the provincial government of Kaga, in charge of its administration, justice, police and all affairs. Niwa Nagashige, Okubo Tadatsune (Tadachika's son) and others held it.
+@5018
+Head of the provincial government of Etchu, in charge of its administration, justice, police and all affairs. Osafune Sadachika, Terasawa Hiromasa (Hirotaka's father), Hosokawa Tadaoki and others held it.
+@5020
+Head of the provincial government of Echigo, in charge of its administration, justice, police and all affairs. Claimed by Hosokawa vassals such as Miyoshi Masanaga and Kozai Motonari.
+@5022
+Head of the provincial government of Tanba, in charge of its administration, justice, police and all affairs. Tokugawa vassals such as Matsudaira Yasunaga and Honda Tomimasa held it.
+@5024
+Head of the provincial government of Tajima, in charge of its administration, justice, police and all affairs. Yamaguchi Shigemasa (a Tokugawa vassal), Yagyu Munenori and others held it.
+@5026
+Head of the provincial government of Inaba, in charge of its administration, justice, police and all affairs. Claimed by Miyoshi Masakatsu, Niizeki Hisamasa (a Mogami vassal) and others.
+@5028
+Head of the provincial government of Hoki, in charge of its administration, justice, police and all affairs. Sugi Shigenori and others held it; Ishikawa Kazumasa and others claimed it.
+@5030
+Head of the provincial government of Izumo, in charge of its administration, justice, police and all affairs. Ishikawa Kazumasa, Honda Tadatomo and others held it.
+@5032
+Head of the provincial government of Mimasaka, in charge of its administration, justice, police and all affairs. Date Masamune, Mori Tadamasa and others held it; Akao Kiyotsuna and others claimed it.
+@5034
+Head of the provincial government of Bizen, in charge of its administration, justice, police and all affairs. Claimed by Hatano Tanemichi (a Hosokawa vassal), Ishikawa Sadakiyo and others.
+@5036
+Head of the provincial government of Bitchu, in charge of its administration, justice, police and all affairs. Niwa Nagamasa and others held it; Harada Naomasa, Mori Takamoto and others claimed it.
+@5038
+Head of the provincial government of Bingo, in charge of its administration, justice, police and all affairs. Fukushima Tadakatsu (Masanori's 2nd son), Ikeda Tomomasa, Ishikawa Sadamichi and others held it.
+@5040
+Head of the provincial government of Aki, in charge of its administration, justice, police and all affairs. Claimed by Seki Morinobu (an Ise lord), Tagaya Masahiro, Jinbo Ujiharu and others.
+@5042
+Head of the provincial government of Suo, in charge of its administration, justice, police and all affairs. Kinoshita Nobushige (a Toyotomi vassal), Matsudaira Yasushige (a Tokugawa vassal) and others held it.
+@5044
+Head of the provincial government of Kii, in charge of its administration, justice, police and all affairs. Claimed by Ikeda Tsuneoki, Aoki Kazunori, Ishikawa Yasutsugu and others.
+@5046
+Head of the provincial government of Awa, in charge of its administration, justice, police and all affairs. Hachisuka Iemasa and others held it; Miyoshi Nagaharu and others claimed it.
+@5048
+Head of the provincial government of Sanuki, in charge of its administration, justice, police and all affairs. Ikoma Kazumasa, Sakai Tadakatsu and others held it; Sogo Kazumasa and others claimed it.
+@5050
+Head of the provincial government of Iyo, in charge of its administration, justice, police and all affairs. Abe Masakatsu and others held it; Ikeda Hideuji (a Toyotomi vassal) and others claimed it.
+@5052
+Head of the provincial government of Chikuzen, in charge of its administration, justice, police and all affairs. Famous as the title of Miyoshi Yoshioki, Kuroda Nagamasa and Hashiba Hideyoshi.
+@5054
+Head of the provincial government of Chikugo, in charge of its administration, justice, police and all affairs. Tanaka Yoshimasa and others held it; Ikeda Nagamasa, Ikeda Katsumasa and others claimed it.
+@5056
+Head of the provincial government of Hizen, in charge of its administration, justice, police and all affairs. Kawajiri Hidenaga (Hidetaka's son), Ryuzoji Masaie and others held it.
+@5058
+Head of the provincial government of Buzen, in charge of its administration, justice, police and all affairs. Oka Toshikatsu and others held it; Mori Katsunaga, Miyoshi Yoshikata and others claimed it.
+@5060
+Head of the provincial government of Bungo, in charge of its administration, justice, police and all affairs. Sugi Okikazu and others held it; Matsukura Shigemasa and others claimed it.
+@5062
+Post handling edicts and memorials, and overseeing many rites; it checked the edicts drafted by the inner secretaries. Directly under the Junior Counsellor, above the Junior Inner Secretary.
+@5066
+Post handling edicts and memorials and the general business of the provinces. Like the outer secretaries, men gifted with the pen were chosen, as a rule from senior 6th rank, upper grade.
+@5068
+Post handling edicts and memorials and the general business of the provinces. Like the outer secretaries, men gifted with the pen were chosen; one of junior 5th rank was called "Shi no Taifu".
+@5070
+Secretary of the Ministry of Central Affairs, who aided its Minister and handled all its business. Sagara Taketo and others held it; Hirate Masahide claimed it as "Nakatsukasa-no-jo".
+@5072
+Post under Central Affairs handling edicts and memorials, drafting edicts and certificates of rank. Confucian scholars and other fine writers were often chosen.
+@5076
+Kept the emperor's treasures and robes in the Palace Storehouse with its officials. Craftsmen also belonged to the Storehouse, such as weavers and shoe and leather makers, each making their goods.
+@5078
+Head of the Office of the Imperial Kin, under the Household, in charge of the rolls, stipends and seasonal robes of the imperial family. Held mainly by the Shirakawa, generation after generation, it is said.
+@5080
+Head of the Office of the Emperor's Table, under the Household, which cooked the emperor's meals; tasting for poison was the head's duty. Itakura Shigemasa (a Tokugawa vassal) and others held it.
+@5082
+Head of the Office of the Emperor's Table, under the Household, which cooked and served the emperor's meals; tasting for poison was his duty. He ran the office with its Chief, doing the same work.
+@5084
+Head of the Office of Sake Brewing, under the Household, which specialised in making sake, from Harima tax rice, it is said. Below him were clerks, brewers and servants.
+@5086
+Head of the Office of the East Market, under eastern Kyoto, who oversaw trade there, kept weights and measures, valued goods and fixed prices. Katagiri Katsumoto and others held it.
+@5088
+Head of the Office of the West Market, under western Kyoto, who oversaw trade there, kept weights and measures, valued goods and fixed prices; he also policed the market and carried out sentences there.
+@5090
+Official of the Board of Censors, which handled prosecution apart from the Council and ministries, aiding the Chief Censor. Nobunaga, Rokkaku Sadayori and many others styled themselves Danjo-no-chu.
+@5092
+Lieutenant of the Left Guards, who guarded the palace. Takigawa Kazumasu, Tachibana Muneshige, Tomita Ippaku and others held it. One promoted to 5th rank was called "Sakon-no-taifu".
+@5096
+Lieutenant of the Right Guards, who guarded the palace. One promoted to 5th rank was called "Ukon-no-taifu"; Takayama Shigetomo's common name "Ukon" comes from this.
+@5100
+Secretary of the Ministry of Ceremonial, in charge of civil officials and all its business, over posts such as clerks and scribes.
+@5102
+Secretary of the Ministry of Civil Affairs, in charge of officials' family rites and all its business, over posts such as clerks and scribes.
+@5104
+Secretary of the Ministry of Popular Affairs, in charge of provincial registers, taxes and all its business, over posts such as clerks and scribes.
+@5106
+Secretary of the Ministry of War, in charge of officers, soldiers, weapons and all its business, over posts such as clerks.
+@5108
+Secretary of the Ministry of Justice, in charge of trials, sentences and all its business, over posts such as clerks and scribes.
+@5110
+Secretary of the Ministry of the Treasury, in charge of payments and all its business, over posts such as clerks and scribes.
+@5112
+Secretary of the Ministry of the Household, in charge of all imperial needs and all its business, over posts such as clerks and scribes.
+@5114
+Deputy head of the Imperial Attendants, who held the ropes of the emperor's palanquin on his outings. The attendants stayed in the palace on duty and attended the emperor when he went out.
+@5116
+Deputy head of the Library, under Central Affairs, in charge of compiling national histories and keeping the court's books, aiding its Head. Hotta Masataka (a Tokugawa vassal) and others held it.
+@5118
+Deputy head of Palace Crafts, under Central Affairs, managing craftsmen and aiding its Head; he also led many craftsmen, such as painters and goldsmiths.
+@5120
+Deputy head of the University, under Ceremonial, in charge of teaching students and Confucian rites. The university held exams at year's end, set from the Chinese classics and other works.
+@5122
+Deputy head of Court Music, under Civil Affairs, in charge of all court music and dance, aiding its Head. Ikoma Chikamasa, Okuyama Masayuki (a Toyotomi vassal) and others held it.
+@5124
+Deputy head of Foreign Affairs, under Civil Affairs, in charge of monks and nuns and receiving foreign envoys. Sakuma Morimasa, "Demon Genba", styled himself Genba-no-jo, the post below it.
+@5126
+Deputy head of Accounts, under Popular Affairs, in charge of revenue, spending and budgets, aiding its Head; he also oversaw posts such as clerks.
+@5128
+Deputy head of Taxes, under Popular Affairs, in charge of tax revenue and the rice stores. The taxes collected from the provinces were reckoned by officials called reckoners.
+@5130
+Deputy head of Carpentry, under the Household, in charge of building court facilities and making crafts, aiding its Head and leading craftsmen such as tilers and smiths.
+@5132
+Deputy head of the Left Stables, aiding its Head in keeping the palace's horses and tack and provincial horse ranches. Kato Yoshiaki (a Toyotomi vassal), Yamana Nobumichi and others held it.
+@5134
+Deputy head of the Right Stables, aiding its Head in keeping the palace's horses and tack and provincial ranches. There were 32 ranches in Kai, Musashi, Shinano, Kozuke and elsewhere, it is said.
+@5136
+Deputy head of the Arsenal, aiding its Head in keeping and trading weapons; the post was once split into Left and Right. Sugi Okishige (an Ouchi vassal) and others held it.
+@5138
+Head of the Office of the Hayato Guard, under the Ministry of War, in charge of the Hayato, soldiers from Osumi and Satsuma. Susukida Kanesuke, Naruse Masanari (a Tokugawa vassal) and others held it.
+@5140
+Head of the Office of Weaving, under the Treasury, whose task was weaving and dyeing fine silks for the court. Famous as the title of Furuta Shigenari, one of the age's foremost tea masters.
+@5142
+Head of the Office of the Court Ladies, under the Household, who chose, trained and managed the lower court ladies. Asano Nagashige, Hattori Kazutada (Oda Nobunaga's page) and others held it.
+@5148
+Vice-head of the provincial government of Kazusa; as a prince was its governor, the vice-governor ruled. Imagawa Yoshimoto and Matsudaira Tadateru held it, and it is famous as Oda Nobunaga's claimed title.
+@5150
+Vice-head of the provincial government of Hitachi; as a prince was its governor, the vice-governor ruled. Aoyama Tadanari (a Tokugawa vassal), Kimura Shigekore (a Toyotomi vassal) and others held it.
+@5152
+Vice-head of the provincial government of Kozuke; as a prince was its governor, the vice-governor ruled. Honda Masazumi and others held it; Rusu Masakage and others claimed it.
+@5154
+Head of the provincial government of Awa, in charge of its administration, justice, police and all affairs. Satomi Tadayoshi and others held it; famous as the title of Sanada Masayuki.
+@5156
+Head of the provincial government of Wakasa, in charge of its administration, justice, police and all affairs. Kyogoku Tadataka, Naito Kiyotsugu (a Tokugawa vassal) and others held it.
+@5158
+Head of the provincial government of Noto, in charge of its administration, justice, police and all affairs. Claimed by Nobesawa Mitsunobu, Inomata Kuninori and others.
+@5160
+Head of the provincial government of Sado, in charge of its administration, justice, police and all affairs. Honda Masanobu, Todo Takatora and others held it; Hayashi Michikatsu and others claimed it.
+@5162
+Head of the provincial government of Tango, in charge of its administration, justice, police and all affairs. Kyogoku Takatomo, Takenaka Shigekado, Ito Nagatsugu and others held it.
+@5164
+Head of the provincial government of Iwami, in charge of its administration, justice, police and all affairs. Okubo Nagayasu (magistrate of the Iwami silver mine), Matsushita Yukitsuna and others held it.
+@5166
+Head of the provincial government of Nagato, in charge of its administration, justice, police and all affairs. Mori Hidenari (Terumoto's heir), Kuki Moritaka, Kimura Shigenari and others held it.
+@5168
+Head of the provincial government of Tosa, in charge of its administration, justice, police and all affairs. Ogawa Suketada (a Toyotomi vassal), Yamauchi Kazutoyo and others held it.
+@5170
+Head of the provincial government of Hyuga, in charge of its administration, justice, police and all affairs. Miyoshi Nagayasu and others held it; famous as the title of Akechi Mitsuhide.
+@5172
+Head of the provincial government of Osumi, in charge of its administration, justice, police and all affairs. Kuki Yoshitaka, Shimazu Tadatsune (later Iehisa) and others held it.
+@5174
+Head of the provincial government of Satsuma, in charge of its administration, justice, police and all affairs. Shimazu Tadatsune (later Iehisa) and others held it.
+@5176
+Junior secretary of the Ministry of Central Affairs, in charge of palace affairs. He handled all the ministry's business, and oversaw lower posts such as clerks and scribes.
+@5178
+Junior secretary of the Ministry of Ceremonial, in charge of civil officials. He handled all the ministry's business, and oversaw lower posts such as clerks and scribes.
+@5180
+Junior secretary of the Ministry of Civil Affairs, in charge of officials' family rites. He handled all the ministry's business, and oversaw lower posts such as clerks and scribes.
+@5182
+Junior secretary of the Ministry of Popular Affairs, in charge of provincial registers and taxes. He handled all the ministry's business, over posts such as clerks and scribes.
+@5184
+Junior secretary of the Ministry of War, 2 in number, in charge of military officers. He handled all the ministry's business, over posts such as clerks and scribes.
+@5186
+Junior secretary of the Ministry of Justice, 2 in number, in charge of trials and sentences. He handled all the ministry's business, over posts such as clerks and scribes.
+@5188
+Junior secretary of the Ministry of the Treasury, 2 in number, in charge of payments. He handled all the ministry's business, over posts such as clerks and scribes.
+@5190
+Junior secretary of the Ministry of the Household, 2 in number, in charge of all imperial needs. He handled all the ministry's business, over posts such as clerks and scribes.
+@5192
+Deputy head of the Palace Storehouse, under Central Affairs, in charge of the emperor's treasures and robes. Famous as the title of Sassa Narimasa and of Oishi Yoshio, hero of the 47 ronin.
+@5194
+Deputy head of Palace Sewing, under Central Affairs, in charge of rating court ladies and overseeing sewing, aiding its Head. Onoki Shigetsugu, Honda Yasutoshi (a Tokugawa vassal) and others held it.
+@5196
+Deputy head of the Granary, under the Household, in charge of rice and grain from imperial lands, aiding its Head. Iida Okihide (an Ouchi vassal) and others held it.
+@5198
+Deputy head of Palace Grounds, under the Household, in charge of the emperor's carriages and cleaning the palace, aiding its Head; he also oversaw posts such as senior clerks.
+@5200
+Deputy head of Housekeeping, under the Household, who cleaned the halls and kept the fittings for rites, aiding its Head and overseeing lower posts such as senior clerks.
+@5202
+Head of the Office of Palace Water, under the Household, in charge of water and the ice houses. "Mondo" is also read "mohitori", "mohi" meaning drinking water. Ueda Shigeyasu and others held it.
+@5204
+Head of the Crown Prince's attendants, an office like the Imperial Attendants, whose main tasks were night duty, guarding, errands and attending the Prince on his outings.
+@5206
+Head of the Crown Prince's kitchen, an office like the Emperor's Table under the Household, mainly preparing his meals. It was abolished when the Emperor's Table took over its work, it is said.
+@5208
+Head of the Crown Prince's storehouse, an office like the Palace Storehouse, keeping the gold, jewels and treasures of his household and sewing his robes.
+@5210
+Lieutenant of the Left Palace Guards, who guarded the palace gates, aiding the Commander. One promoted to 5th rank was called "Saemon-no-taifu". Fukushima Masanori and others held it.
+@5216
+Lieutenant of the Right Palace Guards, who guarded the palace gates and aided the Commander. One promoted to 5th rank was called "Uemon-no-taifu".
+@5222
+Lieutenant of the Left Gate Guards, who guarded the emperor's person; first 1 in number, later raised to 20-25. "Bue" is the Chinese name of the Gate Guards.
+@5228
+Lieutenant of the Right Gate Guards, who guarded the emperor's person; first 1 in number, later raised to 20-25. "Bue" is the Chinese name of the Gate Guards.
+@5234
+Head of the Akita Castle office, who guarded the castle against Ezo raids. Oda Nobutada and others held it, and generations of Ando heads claimed it.
+@5236
+Post handling palace business, chosen from 6th-rank courtiers, who served the emperor's meals among other things. They too had an order of seating; the highest was called gokuro.
+@5242
+Post of the office of eastern Kyoto, in charge of its justice, government and police, and of the roads and bridges within it. The Kyoto offices were later replaced by the police commission.
+@5244
+Post of the office of western Kyoto, in charge of its justice, government and police, and of the roads and bridges within it. The Kyoto offices were later replaced by the police commission.
+@5246
+Post of the Palace Kitchens, the partner office of the Emperor's Table: while the Table served the emperor's meals, the Kitchens handled meals given to his subjects.
+@5248
+Post of Palace Repairs, an office that repaired the palace with the Bureau of Carpentry and bore great tasks such as rebuilding it. It also had posts such as deputies, clerks and reckoners.
+@5250
+Head of the Crown Prince's grounds, an office like Palace Grounds, mainly keeping the water, firewood and charcoal of his household and cleaning its gardens.
+@5252
+Head of the Crown Prince's crafts, an office like Carpentry, mainly doing building and copper and iron casting in his household.
+@5254
+Head of the Crown Prince's stables, an office like the Stables, obtaining and keeping the Prince's horses and saddles. Ono Harufusa (Ono Harunaga's brother) and others held it.
+@5256
+Official of the Audit Office, which examined the papers handed over when posts changed hands; he also oversaw lower posts such as recorders and scribes.
+@5258
+Head of the provincial government of Izumi, in charge of its administration, justice, police and all affairs. Todo Takatora, Matsudaira Ienori (a Tokugawa vassal) and others held it.
+@5260
+Head of the provincial government of Iga, in charge of its administration, justice, police and all affairs. Tsutsui Sadatsugu and others held it; Ando Morinari and others claimed it.
+@5262
+Head of the provincial government of Shima, in charge of its administration, justice, police and all affairs. Hanabusa Masanari (an Ukita vassal), Terasawa Hirotaka, Matsumae Yoshihiro and others held it.
+@5264
+Head of the provincial government of Izu, in charge of its administration, justice, police and all affairs. Sanada Nobuyuki, Matsumae Yoshihiro and others held it; Akaike Nagato and others claimed it.
+@5266
+Head of the provincial government of Hida, in charge of its administration, justice, police and all affairs. Gamo Ujisato, Ota Kazuyoshi (a Toyotomi vassal) and others held it.
+@5268
+Head of the provincial government of Oki, in charge of its administration, justice, police and all affairs. Ishida Masatsugu (Mitsunari's father), Kakiya Tsunefusa (a Toyotomi vassal) and others held it.
+@5270
+Head of the provincial government of Awaji, in charge of its administration, justice, police and all affairs. Wakisaka Yasumoto (Yasuharu's 2nd son) and others held it.
+@5272
+Head of the provincial government of Iki, in charge of its administration, justice, police and all affairs. Kasai Harunobu, Ishikawa Sadamasa (a Toyotomi vassal) and others held it.
+@5274
+Head of the provincial government of Tsushima, in charge of its administration, justice, police and all affairs. Yamauchi Kazutoyo, Ando Shigenobu (a Tokugawa vassal) and others held it.
+@5276
+Post below the Senior Outer Secretary, handling edicts and memorials and taking part in many rites; skill with the pen was a must. Below it were clerks and servants.
+@5280
+Post below the Senior Scribe of the Left, handling edicts and memorials and the general business of the provinces. Like the outer secretaries, men gifted with the pen were chosen.
+@5282
+Post below the Senior Scribe of the Right, handling edicts and memorials and the general business of the provinces. Like the outer secretaries, men gifted with the pen were chosen.
+@5284
+Post under Central Affairs handling edicts and memorials, drafting edicts and certificates of rank. It ranked below the Senior and Middle Inner Secretaries, but the middle post was abolished.
+@5288
+Post of the office of eastern Kyoto, in charge of its justice, government and police; it also kept the roads and bridges and drew up the ordinances issued in its wards.
+@5290
+Post of the office of western Kyoto, in charge of its justice, government and police; it also kept the roads and bridges and drew up the ordinances issued in its wards.
+@5292
+Post below the Senior Secretary of the Palace Kitchens: while the Emperor's Table served the emperor's meals, the Kitchens handled meals given to his subjects.
+@5294
+Post below the Senior Secretary of Palace Repairs, an office that repaired the palace with the Bureau of Carpentry and bore great tasks such as rebuilding it. Below were deputies, clerks and reckoners.
+@5296
+Post of the Left Stables, keeping the horses of the palace and provincial ranches, and their tack. The Stables also had posts such as horse doctors, riders and grooms; horse doctors treated the horses.
+@5298
+Post of the Right Stables, keeping the horses of the palace and provincial ranches, and their tack. The Stables also had posts such as horse doctors, riders and grooms; horse doctors treated the horses.
+@5300
+Post of the Arsenal, which bought and sold weapons, and kept strict watch over ceremonial arms for New Year and receiving foreign envoys, as well as weapons and armour for war.
+@5302
+Post below the Lieutenant of the Left Palace Guards, who guarded the palace gates, aiding the Commander. One promoted to 5th rank was called "Saemon-no-taifu".
+@5308
+Post below the Lieutenant of the Right Palace Guards, who guarded the palace gates, aiding the Commander. One promoted to 5th rank was called "Uemon-no-taifu".
+@5314
+Post below the Lieutenant of the Left Gate Guards, who guarded the emperor's person; first 1 in number, later 20-25. "Bue" is the Chinese name of the Gate Guards.
+@5320
+Post below the Lieutenant of the Right Gate Guards, who guarded the emperor's person; first 1 in number, later 20-25. "Bue" is the Chinese name of the Gate Guards.
+@5326
+Post aiding the Senior Inspector, attending payments by the Treasury and Palace Storehouse and keeping the storehouse keys; in fact, court ladies usually kept them.
+@5330
+Senior official of the Imperial Attendants, who stayed in the palace on guard and errands and attended the emperor on his outings. Those of the best family and trust were chosen as inner attendants.
+@5332
+Senior official of the Library, under Central Affairs, in charge of keeping the court's books, compiling national histories, copying books and supplying stationery to all offices.
+@5334
+Senior official of Palace Crafts, a post outside the code under Central Affairs, over its craftsmen, weavers, painters and goldsmiths. Asano Naganori, famed for the 47 ronin, held it.
+@5336
+Post of the University, under Ceremonial, in charge of teaching and Confucian rites. The university also had doctors of law and of letters, who taught law and history.
+@5338
+Senior official of Court Music, under Civil Affairs, in charge of all matters of music and dance, leading the masters of song, dance, flute, Tang music and Korean music.
+@5340
+Senior official of Foreign Affairs, under Civil Affairs, in charge of monks and nuns and receiving foreign envoys ("ban" means foreigners). The bureau also had posts such as senior and junior clerks.
+@5342
+Senior official of Accounts, under Popular Affairs, in charge of revenue, spending and budgets. The bureau also had posts such as acting deputies, clerks, scribes and servants.
+@5344
+Post of the Bureau of Taxes, under Popular Affairs, in charge of tax revenue and the rice stores. The taxes collected from the provinces were reckoned by officials called reckoners.
+@5346
+Post of the Bureau of Carpentry, under the Household, in charge of building court facilities and making crafts, aiding its Head and leading craftsmen such as tilers and smiths.
+@5348
+Leader of the Imperial Attendants, who stayed in the palace on guard and errands and attended the emperor on outings. Those on night duty under Central Affairs were called inner attendants.
+@5350
+Post of the Library aiding its Senior Clerk, under Central Affairs, in charge of keeping the court's books, compiling histories, copying books and supplying stationery to all offices.
+@5352
+Post of Palace Crafts aiding its Senior Clerk, a post outside the code under Central Affairs, managing craftsmen and leading weavers, painters and goldsmiths.
+@5354
+Post of the University aiding its Senior Clerk, under Ceremonial, in charge of students' exams and Confucian rites. The university also had doctors of law and of letters.
+@5356
+Post of Court Music aiding its Senior Clerk, under Civil Affairs, in charge of all matters of music and dance, such as choosing and training musicians and dancers.
+@5358
+Senior post of Foreign Affairs aiding its Senior Clerk, under Civil Affairs, in charge of monks and nuns and receiving foreign envoys; it also led lower posts such as clerks and servants.
+@5360
+Post of Accounts aiding its Senior Clerk, under Popular Affairs, in charge of revenue, spending and budgets, leading lower posts such as acting deputies, clerks, scribes and servants.
+@5362
+Post of Taxes aiding its Senior Clerk, under Popular Affairs, in charge of tax revenue and the rice stores. Taxes from the provinces were reckoned by officials called reckoners.
+@5364
+Post of Carpentry aiding its Senior Clerk, under the Household, in charge of building court facilities and making crafts, and leading craftsmen such as tilers and smiths.
+@5366
+Post of the Left Stables, keeping the horses and tack of the palace and provincial ranches. Senior and junior clerks were first 1 each, but as horses were in demand, they were later raised to 30 each.
+@5368
+Post of the Right Stables, keeping the horses and tack of the palace and provincial ranches. Senior and junior clerks were first 1 each, but as horses were in demand, they were later raised to 30 each.
+@5370
+Post of the Arsenal aiding its Senior Clerk, which bought and sold weapons, and kept strict watch over ceremonial arms for New Year and foreign envoys, and weapons and armour for war.
+@5372
+Post of the Palace Storehouse, under Central Affairs, keeping the emperor's treasures and robes: a great task, handling costly treasures, gold and silver, and preparing the emperor's clothes.
+@5374
+Post of Palace Sewing, under Central Affairs, in charge of rating court ladies and overseeing sewing. The bureau also had clerks, scribes, palace women, dyers, sewers and servants.
+@5376
+Post of the Granary, under the Household, in charge of food harvested from imperial lands and supplying food to all offices; it also obtained food for rites and banquets.
+@5378
+Post of Palace Grounds, under the Household, in charge of the emperor's carriages and cleaning the palace. The bureau had a boiler room and bath house, and heated the water for the emperor's bath.
+@5380
+Post of Housekeeping, under Central Affairs, which cleaned the palace and prepared the halls for rites. While Palace Grounds cleaned the gardens, Housekeeping cleaned the halls.
+@5382
+Post of the Palace Storehouse aiding its Senior Clerk, under Central Affairs, keeping the emperor's treasures and robes: a great task, handling costly treasures, gold and silver, and his clothes.
+@5384
+Post of Palace Sewing aiding its Senior Clerk, under Central Affairs, in charge of rating court ladies and overseeing sewing, leading lower posts such as clerks, scribes and palace women.
+@5386
+Post of the Granary aiding its Senior Clerk, under the Household, in charge of food harvested from imperial lands and supplying food to all offices.
+@5388
+Post of Palace Grounds aiding its Senior Clerk, under the Household, in charge of the emperor's carriages and cleaning the palace; it also heated the water for the emperor's bath.
+@5390
+Post of Housekeeping aiding its Senior Clerk, under Central Affairs, which cleaned the palace for rites, prepared the halls, and cleaned the palace buildings.
+@5392
+Kept the emperor's treasures and robes in the Palace Storehouse with its officials. The Storehouse also had posts such as keepers of its stores, storemen and attendants.
+@5394
+Vice-head of the Office of the Imperial Kin, under the Household, in charge of the rolls, stipends and seasonal robes of the imperial family. Held mainly by the Shirakawa, it is said.
+@5396
+Vice-head of the Office of the Emperor's Table, under the Household, which cooked the emperor's meals. The office also had the Niedono, which received local specialties offered by the provinces.
+@5398
+Vice-head of the Emperor's Table, under the Household, in charge of all the emperor's meals and the actual cooking, aiding its Chief. Ono Tadaaki (Tokugawa sword master) and others claimed it.
+@5400
+Vice-head of the Office of Sake Brewing, under the Household, which specialised in making sake, from Harima tax rice, it is said. Below him were clerks, brewers and servants.
+@5402
+Vice-head of the Office of the East Market, under eastern Kyoto, in charge of running the market. Kyoto's East Market had 51 shops, open in the first half of each month, it is said.
+@5404
+Vice-head of the Office of the West Market, under western Kyoto, in charge of running the market. Kyoto's West Market had 31 shops, open in the second half of each month, it is said.
+@5406
+Vice-head of the Office of the Hayato Guard, in charge of the Hayato, soldiers from Osumi and Satsuma. The office was first under the Palace Guards, later under the Ministry of War.
+@5408
+Vice-head of the Office of Weaving, under the Treasury, in charge of weaving and dyeing silks, aiding its Chief and overseeing posts such as clerks.
+@5410
+Vice-head of the Office of the Court Ladies, under the Household, in charge of choosing and training them, aiding its Chief and overseeing lower posts such as clerks.
+@5412
+Vice-head of the Office of Palace Water, under the Household, in charge of water, gruel and the ice houses, aiding its Chief and overseeing posts such as clerks.
+@5414
+Vice-head of the Crown Prince's attendants, an office like the Imperial Attendants, whose main tasks were night duty, guarding, errands and attending the Prince on his outings.
+@5416
+Vice-head of the Crown Prince's kitchen, an office like the Emperor's Table, mainly preparing his meals. It was abolished when the Emperor's Table took over its work, it is said.
+@5418
+Vice-head of the Crown Prince's storehouse, an office like the Palace Storehouse, keeping the gold, jewels and treasures of his household and sewing his robes.
+@5420
+Head of the warrior government, the shogunate; first the general sent against the Emishi, later given supreme command of arms and rule by the court. Held by Minamoto no Yoritomo, Ashikaga Takauji, Ieyasu.
+@5422
+Aide to the shogun, second only to him in the shogunate, in charge of all affairs of state. The Shiba, Hosokawa and Hatakeyama held it by turns; after the Onin War it lost real power.
+@5424
+Post in charge of all military and civil affairs of the Kanto, with an office at Kamakura watching over the eastern provinces. Held by heirs of Motouji, Ashikaga Takauji's 2nd son, and by the Yamanouchi Uesugi.
+@5426
+Head of the Samurai Office, which guarded the court and shogunate and dealt with rebellion and violence. The Akamatsu, Isshiki, Yamana and Kyogoku held it by turns, and were called the Four Houses.
+@5428
+Head of the Mandokoro, which ran the shogunate's finances and judged suits over taxes and land. The Kyogoku, Sasaki, Nikaido, Ise and others held it.
+@5430
+Head of the Monchujo, whose main task in the Muromachi shogunate was checking and keeping records and documents. The Machino and Ota held it for generations; below it were deputies and staff.
+@5432
+Post that judged all kinds of suits. When held by the Kira, Ishibashi or other Ashikaga kin it was called "chief", when by the Settsu, Nikaido and others, "acting chief".
+@5434
+Post that debated all affairs of state and ordered their execution, at times held with the Mandokoro or Monchujo posts. Men versed in shogunal custom were chosen, such as the Nakahara and Miyoshi.
+@5438
+Post in charge of military and civil affairs in Kyushu, said to begin when Ashikaga Takauji, rising in Kyushu, sent Isshiki Noriuji to rule it. It lost real power after the Onin War.
+@5440
+Post in charge of military and civil affairs of the Chugoku region, ruling key roads and towns of San'in and Sanyo; also called Chugoku Commissioner. First set up in late Kamakura times against the Mongols.
+@5442
+Post in charge of military and civil affairs of Mutsu and Dewa; after the Ushu Commissioner was created, of Mutsu alone. After the Hatakeyama and Kira, the Shiba held it, taking the name Osaki.
+@5444
+Post in charge of military and civil affairs of Dewa. The heirs of Shiba Kaneyori, who entered Dewa in 1356, took the names Yamagata and Mogami and led its lords; Mogami Yoshiaki later claimed it.
+@5446
+Those allowed to dine with the shogun: in fact men of great houses, such as the three kanrei houses of Shiba, Hosokawa and Hatakeyama, who held no post.
+@5450
+Men of the Ashikaga shoguns' kin or great houses who did not rank as kanrei or Shogun's Companions. At the New Year rites they were allowed to stand next after the Companions.
+@5454
+Branch houses of the Province Lords, or men next to them in lineage or lands. In fact it meant those not close to the shoguns or their hereditary vassals, who merely paid homage.
+@5458
+Those who escorted the first shogun Ashikaga Takauji from Kamakura to Kyoto when he rose; their heirs inherited the title. Posts like this marked seating rank and carried no duties.
+@5462
+Post set up to lead the people and warriors of Yamato and manage its land. At first sent from the capital, the holders gradually settled there. Kofukuji, the Kitabatake, Tsutsui and others held it.
+@5464
+Post set up to lead the people and warriors of Kawachi and manage its land. At first sent from the capital, the holders gradually settled there. The Hosokawa, Hatakeyama and others held it.
+@5466
+Post set up to lead the people and warriors of Ise and manage its land. At first sent from the capital, the holders gradually settled there. The Isshiki, Kitabatake and others held it.
+@5468
+Post set up to lead the people and warriors of Musashi and manage its land. At first sent from the capital, the holders gradually settled there. The Yamanouchi Uesugi and others held it.
+@5470
+Post set up to lead the people and warriors of Kazusa and manage its land. At first sent from the capital, the holders gradually settled there. The Utsunomiya, Chiba and others held it.
+@5472
+Post set up to lead the people and warriors of Shimosa and manage its land. At first sent from the capital, the holders gradually settled there. The Chiba and others held it.
+@5474
+Post set up to lead the people and warriors of Hitachi and manage its land. At first sent from the capital, the holders gradually settled there. The Satake and others held it.
+@5476
+Post set up to lead the people and warriors of Omi and manage its land. At first sent from the capital, the holders gradually settled there. The Hosokawa, Rokkaku and others held it.
+@5478
+Post set up to lead the people and warriors of Kozuke and manage its land. At first sent from the capital, the holders gradually settled there. Held by the Yamanouchi Uesugi for generations.
+@5480
+Post set up to lead the people and warriors of Echizen and manage its land. At first sent from the capital, the holders gradually settled there. The Kai, Asakura and others held it.
+@5482
+Post set up to lead the people and warriors of Harima and manage its land. After the Onin War it gave daimyo a just cause for carving out their own realms. The Akamatsu, Yamana and others held it.
+@5484
+Post set up to lead the people and warriors of Higo and manage its land. After the Onin War it gave daimyo a just cause for carving out their own realms. The Kikuchi and others held it.
+@5486
+Post set up to lead the people and warriors of Yamashiro and manage its land. After the Onin War it gave daimyo a just cause for carving out their own realms. The Hatakeyama, Hosokawa and others held it.
+@5488
+Post set up to lead the people and warriors of Settsu and manage its land. After the Onin War it gave daimyo a just cause for carving out their own realms. The Yamana, Hosokawa and others held it.
+@5490
+Post set up to lead the people and warriors of Owari and manage its land. After the Onin War it gave daimyo a just cause for carving out their own realms. The Shiba and others held it.
+@5492
+Post set up to lead the people and warriors of Mikawa and manage its land. After the Onin War it gave daimyo a just cause for carving out their own realms. The Isshiki, Hosokawa and others held it.
+@5494
+Post set up to lead the people and warriors of Totomi and manage its land. After the Onin War it gave daimyo a just cause for carving out their own realms. The Imagawa, Shiba and others held it.
+@5496
+Post set up to lead the people and warriors of Suruga and manage its land. After the Onin War it gave daimyo a just cause for carving out their own realms. Held by the Imagawa for generations.
+@5498
+Post set up to lead the people and warriors of Kai and manage its land. After the Onin War it gave daimyo a just cause for carving out their own realms. Held by the Takeda for generations.
+@5001
+Governor of Suruga
+@5003
+Governor of Kai
+@5005
+Governor of Sagami
+@5007
+Governor of Mino
+@5009
+Governor of Shinano
+@5011
+Governor of Shimotsuke
+@5013
+Governor of Dewa
+@5015
+Governor of Kaga
+@5017
+Governor of Etchu
+@5019
+Governor of Echigo
+@5021
+Governor of Tanba
+@5023
+Governor of Tajima
+@5025
+Governor of Inaba
+@5027
+Governor of Hoki
+@5029
+Governor of Izumo
+@5031
+Governor of Mimasaka
+@5033
+Governor of Bizen
+@5035
+Governor of Bitchu
+@5037
+Governor of Bingo
+@5039
+Governor of Aki
+@5041
+Governor of Suo
+@5043
+Governor of Kii
+@5045
+Governor of Awa
+@5047
+Governor of Sanuki
+@5049
+Governor of Iyo
+@5051
+Governor of Chikuzen
+@5053
+Governor of Chikugo
+@5055
+Governor of Hizen
+@5057
+Governor of Buzen
+@5059
+Governor of Bungo
+@5061
+Senior Outer Secretary
+@5063
+Senior Outer Secretary
+@5065
+Senior Scribe of the Left
+@5067
+Senior Scribe of the Right
+@5069
+Senior Secretary of Central Affairs
+@5071
+Senior Inner Secretary
+@5073
+Senior Inner Secretary
+@5075
+Chief of the Palace Storehouse
+@5077
+Chief of the Imperial Kin
+@5079
+Chief of the Emperor's Table
+@5081
+Master of the Table
+@5083
+Chief of Sake Brewing
+@5085
+Chief of the East Market
+@5087
+Chief of the West Market
+@5089
+Senior Censor
+@5091
+Lieutenant of the Left Guards
+@5093
+Lieutenant of the Left Guards
+@5095
+Lieutenant of the Right Guards
+@5097
+Lieutenant of the Right Guards
+@5099
+Senior Secretary of Ceremonial
+@5101
+Senior Secretary of Civil Affairs
+@5103
+Senior Secretary of Popular Affairs
+@5105
+Senior Secretary of War
+@5107
+Senior Secretary of Justice
+@5109
+Senior Secretary of the Treasury
+@5111
+Senior Secretary of the Household
+@5113
+Deputy Head of the Imperial Attendants
+@5115
+Deputy Head of the Library
+@5117
+Deputy Head of Palace Crafts
+@5119
+Deputy Head of the University
+@5121
+Deputy Head of Court Music
+@5123
+Deputy Head of Foreign Affairs
+@5125
+Deputy Head of Accounts
+@5127
+Deputy Head of Taxes
+@5129
+Deputy Head of Carpentry
+@5131
+Deputy Head of the Left Stables
+@5133
+Deputy Head of the Right Stables
+@5135
+Deputy Head of the Arsenal
+@5137
+Chief of the Hayato Guard
+@5139
+Chief of Weaving
+@5141
+Chief of the Court Ladies
+@5143
+Junior Censor
+@5145
+Junior Censor
+@5147
+Vice-Governor of Kazusa
+@5149
+Vice-Governor of Hitachi
+@5151
+Vice-Governor of Kozuke
+@5153
+Governor of Awa
+@5155
+Governor of Wakasa
+@5157
+Governor of Noto
+@5159
+Governor of Sado
+@5161
+Governor of Tango
+@5163
+Governor of Iwami
+@5165
+Governor of Nagato
+@5167
+Governor of Tosa
+@5169
+Governor of Hyuga
+@5171
+Governor of Osumi
+@5173
+Governor of Satsuma
+@5175
+Junior Secretary of Central Affairs
+@5177
+Junior Secretary of Ceremonial
+@5179
+Junior Secretary of Civil Affairs
+@5181
+Junior Secretary of Popular Affairs
+@5183
+Junior Secretary of War
+@5185
+Junior Secretary of Justice
+@5187
+Junior Secretary of the Treasury
+@5189
+Junior Secretary of the Household
+@5191
+Deputy Head of the Palace Storehouse
+@5193
+Deputy Head of Palace Sewing
+@5195
+Deputy Head of the Granary
+@5197
+Deputy Head of Palace Grounds
+@5199
+Deputy Head of Housekeeping
+@5201
+Chief of Palace Water
+@5203
+Chief of the Prince's Attendants
+@5205
+Chief of the Prince's Kitchen
+@5207
+Chief of the Prince's Storehouse
+@5209
+Lieutenant of the Left Palace Guards
+@5211
+Lieutenant of the Left Palace Guards
+@5213
+Lieutenant of the Left Palace Guards
+@5215
+Lieutenant of the Right Palace Guards
+@5217
+Lieutenant of the Right Palace Guards
+@5219
+Lieutenant of the Right Palace Guards
+@5221
+Lieutenant of the Left Gate Guards
+@5223
+Lieutenant of the Left Gate Guards
+@5225
+Lieutenant of the Left Gate Guards
+@5227
+Lieutenant of the Right Gate Guards
+@5229
+Lieutenant of the Right Gate Guards
+@5231
+Lieutenant of the Right Gate Guards
+@5233
+Warden of Akita Castle
+@5235
+Sixth-Rank Kurodo
+@5237
+Sixth-Rank Kurodo
+@5239
+Sixth-Rank Kurodo
+@5241
+Senior Secretary of the Eastern Capital
+@5243
+Senior Secretary of the Western Capital
+@5245
+Senior Secretary of the Palace Kitchens
+@5247
+Senior Secretary of Palace Repairs
+@5249
+Chief of the Prince's Grounds
+@5251
+Chief of the Prince's Crafts
+@5253
+Chief of the Prince's Stables
+@5255
+Clerk of Audits
+@5257
+Governor of Izumi
+@5259
+Governor of Iga
+@5261
+Governor of Shima
+@5263
+Governor of Izu
+@5265
+Governor of Hida
+@5267
+Governor of Oki
+@5269
+Governor of Awaji
+@5271
+Governor of Iki
+@5273
+Governor of Tsushima
+@5275
+Junior Outer Secretary
+@5277
+Junior Outer Secretary
+@5279
+Junior Scribe of the Left
+@5281
+Junior Scribe of the Right
+@5283
+Junior Inner Secretary
+@5285
+Junior Inner Secretary
+@5287
+Junior Secretary of the Eastern Capital
+@5289
+Junior Secretary of the Western Capital
+@5291
+Junior Secretary of the Palace Kitchens
+@5293
+Junior Secretary of Palace Repairs
+@5295
+Senior Clerk of the Left Stables
+@5297
+Senior Clerk of the Right Stables
+@5299
+Senior Clerk of the Arsenal
+@5301
+Ensign of the Left Palace Guards
+@5303
+Ensign of the Left Palace Guards
+@5305
+Ensign of the Left Palace Guards
+@5307
+Ensign of the Right Palace Guards
+@5309
+Ensign of the Right Palace Guards
+@5311
+Ensign of the Right Palace Guards
+@5313
+Ensign of the Left Gate Guards
+@5315
+Ensign of the Left Gate Guards
+@5317
+Ensign of the Left Gate Guards
+@5319
+Ensign of the Right Gate Guards
+@5321
+Ensign of the Right Gate Guards
+@5323
+Ensign of the Right Gate Guards
+@5325
+Junior Inspector
+@5327
+Junior Inspector
+@5329
+Senior Clerk of the Imperial Attendants
+@5331
+Senior Clerk of the Library
+@5333
+Senior Clerk of Palace Crafts
+@5335
+Senior Clerk of the University
+@5337
+Senior Clerk of Court Music
+@5339
+Senior Clerk of Foreign Affairs
+@5341
+Senior Clerk of Accounts
+@5343
+Senior Clerk of Taxes
+@5345
+Senior Clerk of Carpentry
+@5347
+Junior Clerk of the Imperial Attendants
+@5349
+Junior Clerk of the Library
+@5351
+Junior Clerk of Palace Crafts
+@5353
+Junior Clerk of the University
+@5355
+Junior Clerk of Court Music
+@5357
+Junior Clerk of Foreign Affairs
+@5359
+Junior Clerk of Accounts
+@5361
+Junior Clerk of Taxes
+@5363
+Junior Clerk of Carpentry
+@5365
+Junior Clerk of the Left Stables
+@5367
+Junior Clerk of the Right Stables
+@5369
+Junior Clerk of the Arsenal
+@5371
+Senior Clerk of the Palace Storehouse
+@5373
+Senior Clerk of Palace Sewing
+@5375
+Senior Clerk of the Granary
+@5377
+Senior Clerk of Palace Grounds
+@5379
+Senior Clerk of Housekeeping
+@5381
+Junior Clerk of the Palace Storehouse
+@5383
+Junior Clerk of Palace Sewing
+@5385
+Junior Clerk of the Granary
+@5387
+Junior Clerk of Palace Grounds
+@5389
+Junior Clerk of Housekeeping
+@5391
+Clerk of the Palace Storehouse
+@5393
+Clerk of the Imperial Kin
+@5395
+Clerk of the Emperor's Table
+@5397
+Steward of the Table
+@5399
+Clerk of Sake Brewing
+@5401
+Clerk of the East Market
+@5403
+Clerk of the West Market
+@5405
+Clerk of the Hayato Guard
+@5407
+Clerk of Weaving
+@5409
+Clerk of the Court Ladies
+@5411
+Clerk of Palace Water
+@5413
+Clerk of the Prince's Attendants
+@5415
+Clerk of the Prince's Kitchen
+@5417
+Clerk of the Prince's Storehouse
+@5419
+Shogun
+@5421
+Kanrei
+@5423
+Kanto Kanrei
+@5425
+Head of the Samurai Office
+@5427
+Mandokoro Steward
+@5429
+Monchujo Steward
+@5431
+Hikitsuke Chief
+@5433
+Councillor
+@5435
+Councillor
+@5437
+Kyushu Commissioner
+@5439
+Saigoku Commissioner
+@5441
+Oshu Commissioner
+@5443
+Ushu Commissioner
+@5445
+Shogun's Companion
+@5447
+Shogun's Companion
+@5449
+Province Lord
+@5451
+Province Lord
+@5453
+Tozama Lord
+@5455
+Tozama Lord
+@5457
+Shogun's Escort
+@5459
+Shogun's Escort
+@5461
+Constable of Yamato
+@5463
+Constable of Kawachi
+@5465
+Constable of Ise
+@5467
+Constable of Musashi
+@5469
+Constable of Kazusa
+@5471
+Constable of Shimosa
+@5473
+Constable of Hitachi
+@5475
+Constable of Omi
+@5477
+Constable of Kozuke
+@5479
+Constable of Echizen
+@5481
+Constable of Harima
+@5483
+Constable of Higo
+@5485
+Constable of Yamashiro
+@5487
+Constable of Settsu
+@5489
+Constable of Owari
+@5491
+Constable of Mikawa
+@5493
+Constable of Totomi
+@5495
+Constable of Suruga
+@5497
+Constable of Kai
+@5499
+Constable of Sagami

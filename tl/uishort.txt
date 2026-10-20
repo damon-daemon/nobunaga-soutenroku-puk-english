@@ -1,0 +1,23 @@
+# Short forms of UI strings (English<TAB>short). A text widget, button or list cell too narrow for the
+# English shows the short form instead (vwf SHORTEN -> namehook kind 'W'); wide enough boxes keep the full text.
+# save/load list: phase and difficulty columns (44 px)
+Strategy	Strat.
+Military	Mil.
+Beginner	Begin.
+Advanced	Adv.
+Expert	Exp.
+# save/load list: scenario name (110 px; block 39 #3345-3356)
+Nobunaga's Birth	Oda's Birth
+Young Nobunaga	Coming of Age
+Battle of Okehazama	Okehazama
+Encircling Nobunaga	Oda Encircled
+The Honnoji Incident	Honnoji
+The Kiyosu Council	Kiyosu Council
+Battle of Funaokayama	Funaokayama
+Battle of Shizugatake	Shizugatake
+Heroes at Sekigahara	Sekigahara
+# domestic report tab (Magistrate)
+Magistrate	Magist.
+# editor buttons (53 px)
+Register	Save
+Ambition	Ambit.

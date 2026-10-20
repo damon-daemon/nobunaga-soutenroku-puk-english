@@ -1,0 +1,1014 @@
+@4500
+For the building we gathered every temple carpenter in Kyoto, Nara and Sakai. The pillars of the top floor are black lacquer, and the chambers are all in gold...
+@4502
+...Lord {02}{01}4? What is the matter? Is there something not to your liking...?
+@4503
+...No, not at all! The work is so magnificent that I, {02}{01}4, was left speechless. Mataemon, splendid work!
+@4504
+My lord! Such generous praise... I, Mataemon, am honoured beyond words.
+@4505
+Now... I must think of a name for the new castle... What I wish is to turn this war-torn land into one of peace and plenty...
+@4506
+That's it! This castle shall be named "Azuchi Castle"! Mataemon, what do you say? A good name, is it not?
+@4507
+A fine name indeed. Lord {02}{01}4's noble aim will reach your retainers and every soul in the realm.
+@4508
+Hahaha! Well said, Mataemon. To turn this land into one of peace and plenty, let us keep fighting!!
+@4509
+And so "Azuchi Castle" was completed. But after {02}{01}4's death, this peerless castle was set on fire by an unknown hand and burnt to the ground...
+@4510
+They say {02}{01}n, a vassal of the {02}{05}2, has driven out his lord {02}{05}4. It seems he has finally avenged his grandfather Yoshiie, killed on the strength of slander.
+@4511
+One day... {02}{01}n, who served the {02}{05}2 clan, summoned three men: {02}{02}n, {02}{03}n and {02}{04}n.
+@4512
+I have gathered you here for one reason only. I mean to put our long-laid plan into action. Are the preparations going smoothly?
+@4513
+All is well on my side. Most of the vassals have given up on Lord {02}{05}4 and promised to side with us.
+@4514
+I have looked into Lord {02}{05}4's state. He suspects nothing and is entirely off his guard... If we are to rise, the time is now.
+@4515
+All our troops are ready to march. They can move the moment you give the order, my lord.
+@4516
+Good... Then the time is right. {02}{05}4, who believed the slander of that Shimamura and had my grandfather Yoshiie killed... Now is the time to repay that grudge.
+@4517
+{02}{02}4, {02}{03}4, {02}{04}4! Give the order to march at once!
+@4518
+{02}{01}4's army swiftly surrounded {02}{05}N, the seat of {02}{05}4. Only a handful of troops stood by {02}{05}4...
+@4519
+Wh-wh-what is the meaning of this!? Hm! That is {02}{01}4 there, isn't it! Why do you commit such an outrage!?
+@4520
+An outrage? You wound me. Then what do you call your own deed, Lord {02}{05}4, killing my grandfather on the strength of slander?
+@4521
+There is no one left in this province who will side with the {02}{05}r. Leave the castle at once.
+@4522
+Grrr... To think it would come to this... I should have wiped out the whole {02}{01}2 line back then...
+@4523
+Nonsense... Who do you think let you live in comfort as lord of {02}{05}N? It was because we toiled ourselves to the bone.
+@4524
+Ugh... If I leave the castle quietly, will you spare my life?
+@4525
+You are an enemy we cannot forgive, but a debt is a debt... So I shall not take your life. Leave the castle at once.
+@4526
+V-very well... I shall leave the castle...
+@4527
+And so {02}{01}n drove out his lord {02}{05}n and took over the house he had served.
+@4528
+They say a succession dispute has broken out in the {02}{01}2 clan. {02}{01}n and {02}{02}n each claim to be "Kenshin's heir" and neither will yield. The {02}{01}2 seem to be split.
+@4529
+Some time had passed since Uesugi Kenshin's sudden death. It came so suddenly that Kenshin could not name a successor. A struggle for the headship was inevitable...
+@4530
+I am the heir of the late Lord Kenshin! I will not let an outsider inherit the headship of the {02}{01}2 clan!
+@4531
+Men! Rally to me, {02}{01}4!
+@4532
+{02}{01}4 swiftly seized the treasury of {02}{01}N and declared himself Kenshin's heir. Meanwhile, {02}{02}n...
+@4533
+What is {02}{01}4 saying! I am obviously Lord Kenshin's heir. My name, {02}{02}4, was Lord Kenshin's own name in his youth. That is proof enough!
+@4534
+Men! Rally to me, {02}{02}4! My brother is with me as well!
+@4535
+{02}{02}4 won over the former Kanto Kanrei {02}{03}n and his own elder brother {02}{04}n, and raised an army.
+@4536
+In response, {02}{01}4 made peace with {02}{05}n and brought the {02}{05}2 clan to his side. The {02}{01}2 clan was split in two.
+@4537
+On {02}{07}n's orders, {02}{01}n has punished his wife {02}{02}4 and his son {02}{03}4. It seems {02}{02}4 was suspected of dealing with the {02}{08}2, and {02}{03}4 of many cruel deeds.
+@4538
+{02}{01}n was in a difficult position. His wife {02}{02}4 was the adopted daughter of Imagawa Yoshimoto, while his son's wife {02}{04}4 was {02}{07}n's daughter.
+@4539
+{02}{02}4 bitterly resented that her husband had allied with her foster father's killer and married their son {02}{03}4 to that enemy's daughter, and she cruelly tormented {02}{04}4 again and again.
+@4540
+Thank you for your trouble, {02}{05}4. What was Lord {02}{07}4's mood?
+@4541
+My lord!!... Th-this is grave news. Lord {02}{07}4 says... th-that you must put to death... the young lord and Lady Tsukiyama...
+@4542
+What!?... On what grounds does he say this!?
+@4543
+Before I set out, the young lord's wife gave me a letter for Lord {02}{07}4... It seems that letter set out all manner of crimes by the young lord and Lady Tsukiyama...
+@4544
+...{02}{05}4, tell me these crimes.
+@4545
+Pale-faced, {02}{05}4 listed the crimes of the two that {02}{07}4 had told him. With each one he heard, {02}{01}4's dismay grew deeper.
+@4546
+That Lady Tsukiyama is in league with the {02}{08}2 and plots to destroy both the {02}{01}2 and the {02}{07}2...
+@4547
+...Enough. Did Lord {02}{07}4 say anything else?
+@4548
+If Lady Tsukiyama's hatred of the {02}{07}2 joins with {02}{03}4's rashness, they will surely bring harm to the {02}{01}2 clan... So for the future, they must be put to death at once...
+@4549
+I see... So that is what Lord {02}{07}4 said...
+@4551
+...We have a duty to end this age of war. I cannot forgive anyone who plots treason, not even my own wife and son. Ready the troops! We go to {02}{03}4!!
+@4552
+{02}{01}4 led his army with heavy steps towards {02}{03}4.
+@4553
+What is the matter, Father? Why have you brought an army to {02}{03}N...?
+@4554
+You are under suspicion, so I order you out of {02}{03}N! Leave this castle at once and confine yourself. Is that clear!
+@4555
+B-but why!? What suspicion can there be of me, {02}{03}4...? I humbly ask to hear the reason.
+@4556
+Silence! Who was it that drowned himself in dances that ruin a realm and killed a man for dancing badly! Do you not recall killing an innocent monk on the way back from hawking!
+@4557
+B-but I have made amends for all of that, have I not!
+@4558
+Do you not recall beating Princess {02}{04}4? Do you not recall killing Princess {02}{04}4's maid? And on top of it all...
+@4559
+You conspired with your mother, dealt with the {02}{08}2 and plotted to kill me, {02}{01}4... Do you still say there is nothing to suspect! Someone take this traitor away!
+@4560
+P-please wait, Father! I have had no dealings with the {02}{08}2. It is a misunderstanding! Father! Fatherrr!
+@4561
+Meanwhile, the news of "{02}{03}4 banished" threw {02}{02}4 into a panic. Just as she was thinking how to explain herself, an envoy arrived from {02}{01}4...
+@4562
+The old lord wishes to speak with you about the young lord.
+@4563
+Very well. I shall get ready at once. Please wait a moment...
+@4564
+{02}{02}4 fearfully stepped into the palanquin. The party rested not far from {02}{01}N. The moment {02}{02}4 stepped down from the palanquin...!
+@4565
+My lady... Forgive me!
+@4566
+Ahh! Is th-this... Lord {02}{01}4's order...? Or {02}{04}4's...?
+@4567
+It is for the {02}{01}2 clan. My lady, forgive me!
+@4568
+Ugh! For as long... as the {02}{01}2 house... endures... I shall... curse it...
+@4569
+Soon after {02}{02}4 left this world, {02}{06}n went as an envoy to {02}{03}4, who was in confinement.
+@4570
+I see... Then I, {02}{03}4, must go to my mother as well... {02}{06}4, I shall now take my own life. I ask you to be my second.
+@4571
+My young lord...
+@4572
+Tell Father this one thing: I, {02}{03}4, never conspired with the {02}{08}2... No, that is just regret talking... Father knows full well that I am innocent.
+@4573
+...
+@4574
+{02}{06}4, tell him only that {02}{03}4 died bravely by his own hand... Now... Are you ready? Do not botch it and make me suffer...
+@4575
+...My young lord!! Forgive me!!
+@4577
+My young lord!! Why! Why did it have to come to this! Ohhh...
+@4578
+And so the affair was settled. {02}{01}n proved his loyalty to {02}{07}n, even at the cost of the lives of his son {02}{03}4 and his wife {02}{02}4...
+@4579
+The {02}{01}2 clan had crushed one daimyo after another and risen to be among the greatest in Japan. One day their head {02}{01}4 gathered his vassals and held a council.
+@4580
+Now... thanks to all your work, our clan has no equal in power. "The next ruler of the realm will be {02}{01}4..." That is what most of the people are saying, I hear.
+@4581
+So... to strengthen that impression further, I wish to hold a "Grand Cavalry Parade". Speak freely if you have an opinion.
+@4582
+Forgive me... but what exactly is a "Grand Cavalry Parade"?
+@4583
+Hahaha... {02}{02}4, it simply means letting everyone see our troops. The aim is to make the world think, "The {02}{01}2 army looks mighty."
+@4584
+I see... So that is what it is. My, how ignorant of me... Forgive me.
+@4585
+No matter, no matter. Now you all understand the aim of the parade. Then, {02}{02}n! I appoint you chief magistrate. Prepare it without fault.
+@4586
+Yes, my lord! I shall carry out the task without staining the glory of the {02}{02}2 clan.
+@4587
+And {02}{02}n! I leave the works to you as construction magistrate. Do the job well.
+@4589
+Thanks to {02}{01}n and {02}{02}n, the preparations went smoothly, and at last the day of the Grand Cavalry Parade arrived.
+@4590
+Thank you both for your trouble, {02}{02}4 and {02}{03}4. Thanks to you, we can show our clan's glory far and wide. Many must be trembling inside.
+@4591
+Good! Then, everyone, let us go! Show the might of the {02}{01}2 clan to the full!
+@4592
+And so the Grand Cavalry Parade was held in grand style. {02}{01}4's aim, to show the {02}{01}2 clan's strength to people of every rank, had succeeded.
+@4593
+They say {02}{01}n and his son {02}{02}4 have wiped out the Iga Gentry. The province has been reduced to ashes, and many men and women, young and old, were killed, 75 commanders among them.
+@4594
+The Iga gentry were bound together by a pact, the "Iga Sokoku Ikki Covenant", and had long held out stubbornly against outside foes...
+@4595
+Saburozaemon, I am thinking of punishing the Iga gentry. What do you say?
+@4596
+An excellent idea indeed. But before sending out troops, should you not seek instructions from your father at {02}{01}N?
+@4597
+There is no need. A petty province like Iga... Our own army can deal with it.
+@4598
+But I hear the people of Iga come and go like phantoms, and use all manner of strange arts...
+@4599
+Never fear. With a large army we shall manage. Give the order to march!
+@4600
+{02}{02}4's army was crushed by the ninja arts of the Iga ninja and defeated. His chief retainer, Tsuge Saburozaemon, fell in battle.
+@4601
+{02}{02}4!!! You fool! Who said you could move troops without permission? And you got Tsuge killed as well!
+@4602
+I-I-I am terribly sorry. I thought our own forces would be more than enough to subdue a petty province like Iga...
+@4603
+Idiot! They say the Iga people use ninja arts, don't they! Did you think you could win by charging in blindly without any proper plan!
+@4604
+I disown you as my son! Go back to {02}{02}{9C} and behave yourself! I shall attack Iga myself. It is too dangerous to leave alone in any case.
+@4605
+P-please wait, Father! Give me one more chance, just one more, to clear my name. Otherwise I cannot die in peace.
+@4606
+Hmm... Then I shall give you one more chance. But fight exactly as I tell you! Otherwise, expect your head to roll at once!
+@4607
+And so {02}{02}4 was forgiven and marched on Iga again. This time he led an army more than five times larger and had won over several Iga clans.
+@4608
+Good! Men, light the torches! The Iga men attack under cover of darkness. If we make the night as bright as day, they cannot attack.
+@4609
+Men, attack! Let not a single one escape! Cut down every one who uses ninja arts!
+@4610
+And so the Iga Gentry were wiped out by {02}{02}n. The province was reduced to ashes, and many men and women, young and old, were killed, 75 commanders among them...
+@4611
+One day, called upon by {02}{07}n to take the field, {02}{01}n took lodgings at Honnoji with his eldest son {02}{03}4 and others.
+@4612
+Phew... I am tired today, no doubt about it. Dealing with the court nobles is no easy task.
+@4613
+Thank you for your trouble, {02}{03}4 and {02}{04}4. Tonight we set rank aside. Everyone, relax and enjoy yourselves.
+@4614
+To share in this family banquet... I, {02}{04}4, have made a fine memory to take from this life.
+@4615
+Hahaha... A memory to take from this life? Such an exaggeration. Hey, {02}{03}4! Are you drinking?
+@4616
+I have had plenty. Father, if you drink too much, it will hinder tomorrow's march.
+@4617
+Hahaha, don't worry. I know what I'm doing... Now, shall I dance a piece?
+@4618
+My lord... Atsumori again?
+@4619
+And why not? This is how I, {02}{01}4, keep my heart every day.
+@4620
+...Man's fifty years, compared to the world below heaven, are but a dream, an illusion... Once born, is there any who shall not perish...?
+@4621
+...Wahahaha. Truly, tonight is a merry night! Hahaha...
+@4622
+The banquet ran late into the night, and then {02}{01}4 fell asleep. A while later...
+@4623
+...Hm? What's that noise? Have the servants started a quarrel after the drinking... No, that's not it! Is Oran there!
+@4624
+My lord. What is the matter?
+@4625
+It seems some ruffians have got into the temple grounds. Go and see!
+@4626
+Yes, my lord!
+@4627
+My lord, what is the matter?
+@4628
+...You must hear it too, No. That is clearly the sound of soldiers on the march.
+@4629
+I-I hear it... S-surely not...
+@4630
+My liege! Soldiers! Soldiers have entered the temple!
+@4631
+I see... And the crest on their banners?
+@4632
+Th-the bellflower crest, my lord.
+@4633
+!?... J-Jubei...? But why...?
+@4634
+...Wahahaha! So {02}{06}4 has got the better of me after all. I always thought that if anyone in my house stood in the way of ruling the realm by arms, it would be {02}{06}4.
+@4635
+...Now it cannot be helped. I shall drag everyone who stands against me down to hell with me! No! Flee with the maids.
+@4636
+I will not! My father's house is already gone, and if my mother's kin rebel against you, I have nowhere left to return to.
+@4637
+Let me stay at your side, my lord! I... I wish to follow you wherever you go!
+@4638
+...Heh... Do as you please. I shall follow you soon. Don't lose your way at the crossroads of the six realms! And wait for me smiling, with your hair in order!
+@4639
+Come, Ran!! We shall cut down {02}{06}4's men, cut and cut and keep on cutting!
+@4640
+I, {02}{05}2 Ranmaru, will follow you, my liege, to the very ends of hell!!
+@4641
+Only a few hundred men were at Honnoji. {02}{02}4 and {02}{05}4 died fighting, and {02}{01}4, having seen them fall, vanished into the raging flames of Honnoji.
+@4642
+Meanwhile, {02}{03}4, who was lodging at Myokakuji...
+@4643
+What!?... {02}{06}4's army attacked Honnoji!? And Father... took his own life!? ...Curse you, {02}{06}4!!
+@4644
+Men! Gather at {02}{03}N at once!! This is a battle to avenge my father!! {02}{04}4, you come too!
+@4646
+But only 500 men gathered at {02}{03}N... Hopelessly outnumbered, {02}{03}4 and {02}{04}4 took their own lives at {02}{03}N.
+@4647
+It had seemed that the unrivalled genius {02}{01}n would end the age of war, but once more the land was about to be swept into the whirlpool of war.
+@4648
+Which officer will you play from now on? Please choose your officer.
+@4649
+Play as {02}{01}n?
+@4650
+They say {02}{01}n has built a new seat, "Osaka Castle". On seeing inside, {02}{02}n is said to have called it "the finest castle in the three realms".
+@4651
+Several years after {02}{01}n ordered the daimyo under him to build a new castle, it was at last completed. {02}{02}n was invited to see it.
+@4652
+Ah, Lord {02}{02}4! Thank you for coming such a long way. My new castle is finally finished. Allow me to show you round at once.
+@4652.1
+Ah, {02}{02}4! Well done for coming such a long way. My new castle is finally finished. I'll show you round at once.
+@4653
+The keep has five storeys and seven floors. The top floor is in black lacquer, with all manner of carvings: tigers, herons, birds, paulownia...
+@4655
+The roof tiles are covered in gold leaf, and my bed and the tea room are all covered in gold leaf too. It's so dazzling I can't sleep... Hahaha.
+@4657
+...Hm? What is it, Lord {02}{02}4? Is there something not to your liking...?
+@4657.1
+...Hm? What is it, {02}{02}4? Is there something not to your liking...?
+@4658
+...No, not at all. The building is so beyond imagining that I, {02}{02}4, was left speechless.
+@4659
+Hahaha! Is that so, is that so! Truly the finest castle in the land, is it not?
+@4660
+The finest in the land is not the half of it. Search all three realms and you will not find such a castle. It is the finest castle in the three realms.
+@4661
+Oh, the finest in the three realms, you say! Hahaha! That is too generous praise.
+@4661.1
+Oh, the finest in the three realms, you say! Hahaha! That is too generous praise.
+@4662
+You are too kind...
+@4663
+If you call this castle the finest in the three realms, then perhaps I should make it my base and set out across the sea to become king of the three realms! Hahahahaha!
+@4663.1
+If you call this castle the finest in the three realms, then perhaps I should make it my base and set out across the sea to become king of the three realms! Hahahahaha!
+@4664
+And so Osaka Castle was completed. From then on it was known across the land as "the finest castle in the three realms"...
+@4665
+They say {02}{01}n will from now on call himself "Toyotomi {02}{01}4". The new surname seems to carry his wish for "an enduring realm and happiness for all".
+@4666
+One day... the court noble Kikutei Harusue, who had close ties with {02}{01}n, came to visit {02}{01}4.
+@4667
+Lord {02}{01}4, congratulations on becoming Regent.
+@4668
+Yes, I owe you for that. While you are at it, there is one more thing I would like you to arrange.
+@4669
+My lord...? What might that be?
+@4670
+Well... I am thinking of changing my surname. This is the one I came up with. Would you take a look?
+@4671
+"Toyotomi"...? Read "To-yo-to-mi"...? But Lord {02}{01}4, do you not currently bear the Fujiwara surname...?
+@4672
+This name carries the wish for "an enduring realm and happiness for all". By becoming Regent, I have become ruler of the realm in name and in fact.
+@4673
+My wish is to create a world without war. If I bear one of the old surnames like Minamoto, Taira, Fujiwara or Tachibana, no one will understand my intent...
+@4674
+So I want the name "Toyotomi" to tell everyone what I wish for. Do you understand?
+@4675
+I understand! I shall work to obtain an imperial permit granting the name "Toyotomi".
+@4676
+Some time later, an imperial permit granting the name "Toyotomi" came down to {02}{01}4, and {02}{01}n changed his name to "Toyotomi {02}{01}4".
+@4677
+They say {02}{01}n was abducted by {02}{04}n. After much agonising, {02}{02}n seems to have killed both {02}{01}4 and {02}{04}4.
+@4678
+When {02}{05}n, a local clan that had followed {02}{04}n, went back on its submission, {02}{02}n flew into a rage and at once invaded {02}{05}2 lands.
+@4679
+In his fury {02}{02}4 put many to the sword, and {02}{05}4 fled to the {02}{04}2. This affair would grow into a crisis that shook the {02}{02}2 clan...
+@4680
+My lord, Lord {02}{04}n has proposed peace. What will you do?
+@4681
+There will be no peace at all! I'll crush every castle of the {02}{04}2!
+@4682
+But... if we take a hard line against someone who seeks peace, it may cause resentment later on.
+@4683
+Enough! I cannot forgive him for sheltering {02}{05}4, who made a fool of me! I will crush the {02}{04}2 house without fail!
+@4684
+{02}{02}4... Will you not accept Lord {02}{04}4's offer of peace?
+@4685
+But Father... If I do, the other lords will scorn me.
+@4686
+Long ago, in a certain battle, I borrowed troops from Lord {02}{04}4. I owe Lord {02}{04}4 a debt... Please, for my sake, forgive him.
+@4687
+...Very well. If you insist that much, Father, it cannot be helped...
+@4688
+Some days later, {02}{04}4 visited {02}{01}4's retirement residence to thank him for arranging the peace.
+@4689
+I, {02}{04}4, cannot thank you enough for the trouble you took to arrange the peace.
+@4690
+Welcome. Come, come in quickly.
+@4691
+The talks went on in a friendly mood. However...
+@4692
+My lord, my lord...
+@4693
+What is it? You look white as a sheet. Has something happened?
+@4694
+The {02}{02}2 mean to kill us! Behind the residence, drunken soldiers were sharpening their swords.
+@4695
+What! So that's how it is after all. If {02}{02}4 means to take that attitude, I have plans of my own...
+@4696
+The talks ended and it was time for {02}{04}4 to leave. Just as {02}{01}4 and {02}{04}4 reached the entrance side by side...!
+@4697
+Lord {02}{01}4! I hear you were plotting to kill me by treachery...
+@4698
+What? What are you saying...? Wh-whoa! What are you doing!!
+@4699
+Hahahaha! This is {02}{02}4's reward for his little tricks! Men! Back to {02}{04}2 lands with all speed!!
+@4700
+{02}{04}4 abducted {02}{01}4 and fled towards {02}{04}2 lands. {02}{02}4 heard the news while out hawking and at once gave chase with his troops.
+@4701
+Good, we're nearly in {02}{04}2 lands... Hm? What's that...?
+@4702
+Father!!
+@4703
+{02}{02}4! Oh, you've brought gunners! Never mind me! Fire!
+@4704
+Father...
+@4705
+My lord, there is no time to hesitate. You must decide!
+@4706
+{02}{02}4, what are you doing! Don't hesitate! Without hesitation, cut off the root of the trouble now!
+@4707
+Silence! Will you be silent!
+@4708
+Father... Forgive me... Gunners, forward!!
+@4709
+Fire!!!
+@4710
+Grr, so this is the end... Then I'll take {02}{01}4 to hell with me! Die!!
+@4711
+Gwah!...
+@4712
+Fatherrr!!
+@4713
+{02}{04}4 stabbed {02}{01}4 to death, then took his own life. {02}{01}4 had given his own life to teach his son {02}{02}4 how harsh an age of war is...
+@4714
+They say {02}{01}n visited Kamakura and spoke to the wooden statue of Lord Minamoto no Yoritomo, whereupon the statue turned into Yoritomo himself and lectured {02}{01}4.
+@4715
+One day, {02}{01}n visited Kamakura.
+@4716
+Oh... So this is the wooden statue of Lord Minamoto no Yoritomo.
+@4717
+When I think of it... the road so far feels both long and short. Only you and I have risen from nothing to the highest rank a subject can hold...
+@4718
+But you came of a line going back to the imperial house... And your forebears, Lord Yoriyoshi, Lord Yoshiie, Lord Tameyoshi and Lord Yoshitomo, all did their utmost for the warriors of the east.
+@4719
+That is why, when you raised troops to overthrow the Taira, the warriors of the east all flocked to you. Compared with that, I, {02}{01}4...
+@4720
+...rose to this rank from lowly birth, with no name or lineage. So if we compare deeds, surely I, {02}{01}4, come out ahead...
+@4721
+The moment {02}{01}4 laid his hand on the statue, it turned into Yoritomo himself!
+@4722
+...Is that really so...?
+@4723
+!?... S-surely not... A-are you Lord Yoritomo...?
+@4724
+{02}{01}4, listen well. You did not get where you are by your own strength alone.
+@4725
+Lord Oda Nobunaga, who valued your talent and gave you a place to work... Lady Neiko, who supported you from the shadows...
+@4726
+...And the many officers and men who gave their lives fighting for you... You are where you are because many supported you. Never take that lightly.
+@4727
+Y-yes, my lord! I have taken my predecessor's precious lesson to heart.
+@4728
+...That said, you and I are both men who reached the highest rank a subject can hold: friends across the ages, no doubt of it. If you are ever in trouble, come and visit me...
+@4729
+Y-yes, my lord! ...Lord Yoritomo? Lord Yoritomo?
+@4730
+When {02}{01}4 raised his head, Yoritomo was already gone, and only the wooden statue stood there as before...
+@4731
+One day... a tea gathering was held at {02}{01}n's residence, and {02}{02}n and others were invited.
+@4732
+Then I shall go first... Ah!
+@4733
+Lord {02}{02}4, what is the matter?
+@4734
+I-I am terribly sorry. My nose has dripped into the tea.
+@4735
+No one has noticed. Come, pass the tea bowl on.
+@4736
+B-but Lord {02}{01}4! You know of my illness, do you not?
+@4737
+Is that all? It is nothing.
+@4738
+Lord {02}{01}4!
+@4739
+...Lord {02}{02}4, do you remember what you once said to me?
+@4740
+"Men are not moved by money. Unless you treat them with sincerity, they will not truly serve you, however high their stipend, and will fail you when it matters." That is what you said.
+@4741
+...I was deeply moved by those words. Since then I have resolved that for you, Lord {02}{02}4, I would gladly give my life. Now...
+@4742
+Without hesitation, {02}{01}4 drained in one gulp the tea that {02}{02}4's nose had dripped into.
+@4743
+...Lord {02}{01}4, I am deeply moved by your heart. For your sake, I, {02}{02}4, will gladly give my life at any time.
+@4744
+Lord {02}{02}4...
+@4745
+The friendship between {02}{01}n and {02}{02}n lasted from then on until the day they both died...
+@4746
+They say {02}{01}n has ordered {02}{02}n to commit seppuku. It seems {02}{02}4's conduct went astray after {02}{01}4's own son {02}{03}4 was born.
+@4747
+{02}{01}n's nephew {02}{02}n had been handed the post of Regent by {02}{01}4 and was seen as {02}{01}4's successor.
+@4748
+But after {02}{01}4's own son {02}{03}4 was born, {02}{02}4's conduct went more and more astray. One time...
+@4749
+Hm?... What are you looking at! You laughed when you saw me just now! You think I'm a poor wretch who lost his place as heir of the {02}{01}2 clan!
+@4750
+What? N-not at all, my lord!
+@4751
+Liar! Take this!
+@4753
+Night after night he roamed the town and cut down townsfolk. Another time...
+@4754
+You called for me?
+@4755
+Hm... The truth is, I have a favour to ask. Your daughter from your first marriage... Omiya, was it? How old is she now?
+@4756
+She has turned 13, my lord. ...And the favour?
+@4757
+I see... 13 already. Then let this Omiya serve in the inner quarters.
+@4758
+My lord!? Surely you don't... Are you in your right mind? Omiya is your daughter!
+@4759
+Daughter? ...Nonsense. Omiya and I share no blood. So there is no harm in having her serve in the inner quarters. Understood? From tomorrow!
+@4761
+Of all things, he took as a concubine Omiya, the daughter his wife Ichi-no-Dai had brought into the marriage. Another time...
+@4763
+I am going hawking now. Look after things while I'm away.
+@4764
+Yes, my lord. By the way, where are you going...?
+@4765
+I think I'll climb Mount Hiei for once. There must be plenty of game there.
+@4766
+My lord, please wait! Mount Hiei is holy ground where killing is forbidden. If you force your way in, the world will be in an uproar. Please reconsider...
+@4767
+Be quiet! Stop arguing and just look after things while I'm gone! Now, I'm off.
+@4768
+My lord...
+@4769
+He held a great hunt on Mount Hiei, holy ground where killing was forbidden. This string of deeds angered {02}{01}4, and {02}{02}4 was ordered to commit seppuku.
+@4770
+Had I not been born into the {02}{01}2 clan... the {02}{01}2 clan... I would not have had to die like this... Perhaps I was born into the wrong house.
+@4771
+So {02}{02}4's life came to an end. His children, wives and concubines were all beheaded at Sanjo riverbed in Kyoto. Those who saw it are said to have said, "Lord {02}{01}4's age is over..."
+@4772
+They say {02}{01}n, a vassal of the {02}{02}2, received a famous spear from his lord {02}{02}4. It seems he had drained a huge cup of sake at a banquet in fine style.
+@4773
+One day, a banquet was held at {02}{02}N, the seat of {02}{02}n.
+@4774
+Hic... *hic*... {02}{01}4! Is {02}{01}4 not here!
+@4776
+...Hic... Th-there was a big cup, wasn't there? Bring it here.
+@4777
+At once, my lord... Here you are.
+@4778
+Good, good! Well done! Now, can anyone drain this cup filled with sake? ...
+@4779
+...What's this, what's this? No one!? What a bore! ...{02}{01}4, will you try it?
+@4780
+...My lord, you go too far with your jest.
+@4781
+Wh-what!? *hic* {02}{01}4!!! Y-you refuse... *hic*... my order!?
+@4782
+N-no... That is not it.
+@4783
+Very well! *hic* If you can drain this sake, I'll give you whatever you want, anything at all!
+@4784
+My lord, you will not go back on your word? Then I would like your treasured spear. Is that agreed?
+@4785
+That spear! Now I think of it, you've wanted it for a long time. *hic* You can have it! Now, *hic*, drink!
+@4786
+Then... here I go. Glug, glug... glug... glug... glug... glug...
+@4787
+... ... ... Ahhh...
+@4788
+Oh! Splendid, {02}{01}4!! As promised, the spear is yours!
+@4789
+Yes, my lord! I am most grateful!
+@4790
+And so {02}{01}n won the famous spear that {02}{02}n had treasured.
+@4791
+The tale of how {02}{01}4 drank was handed down to later ages in the folk song "Kuroda-bushi"...
+@4792
+It seems {02}{01}n has died and his son {02}{02}4 has taken over the headship. They say {02}{01}4 called five senior vassals and begged them over and over to see to things after his death.
+@4793
+One day, with death drawing near, {02}{01}n called five senior vassals to his bedchamber...
+@4794
+Ah... Are you all here...?
+@4795
+Lord {02}{01}4, take heart. There is still much that you must do...
+@4796
+No... it's all right. I don't have long now... That is why there is something I want to tell you all today.
+@4797
+What is it, my lord? If it is something we can do, anything at all...
+@4798
+{02}{03}4... when I die, stay at {02}{01}N and oversee the government until {02}{02}4 comes of age. Understood?
+@4800
+{02}{04}4... as before, I appoint you {02}{02}4's guardian. Raise {02}{02}4 to be a fine man... I'm counting on you.
+@4801
+Yes, my lord.
+@4802
+{02}{05}4... you have a gift for negotiation. When the others disagree on great matters, hear them all out fairly and bring them to agreement... Understood?
+@4803
+Yes, my lord! I shall never forget your words, Lord {02}{01}4.
+@4804
+{02}{06}4 and {02}{07}4, you too, support {02}{02}4 well... I beg you.
+@4807
+To leave {02}{02}4 behind in this world... that is my only regret. All of you, I beg you, look after him... I beg you, I beg you...
+@4808
+Some days later, {02}{01}4 left this world with this death poem:\n"Fallen like the dew, vanishing like the dew, such was I; even Naniwa's glory is a dream within a dream."
+@4809
+They say {02}{01}n has died. It seems he ate too much of a foreign dish called "tempura" and got a stomach ache.
+@4810
+One day, {02}{01}n's vassal {02}{02}n came to visit him...
+@4811
+Lord {02}{01}4, today I have brought a rare dish for you to try.
+@4812
+Oh... A dish I have never seen. What is it called?
+@4813
+It is a dish from overseas called tempura. Please do try it.
+@4814
+Let's see... Mm! This is delicious!
+@4815
+I am delighted that it pleases you, my lord.
+@4816
+Mm, mm... I can't stop. {02}{02}4, tell them to keep cooking it and bring more!
+@4817
+...Lord {02}{01}4, if you eat too much it will be bad for your health. Perhaps you should stop there...
+@4818
+Never mind that, just bring more! I've never had anything this good! How could I not eat it!
+@4819
+That night, a sudden, violent stomach ache struck {02}{01}4!
+@4820
+Ugh... ughh... It hurts! S-someone! Is anyone there!
+@4821
+What is the matter, my lord!
+@4822
+M-my stomach... My stomach hurts!
+@4823
+Didn't I warn you, my lord! This is what comes of stuffing yourself with food you are not used to...
+@4824
+Uh, uh, uhhh... ... ... ...
+@4825
+...Lord {02}{01}4? Hold on!
+@4826
+And so {02}{01}n, who was supposed to be cautious in all things, met a sudden end. He was {02}{01}p years old...
+@4827
+One day, {02}{02}n came to visit {02}{01}n, who lay ill.
+@4828
+Lord {02}{01}4! Take heart...
+@4829
+I'm done for... You've been a great help to me. I thank you.
+@4830
+Lord {02}{01}4!... Don't say such weak things!
+@4831
+There is just one thing I regret... I would like you to lend me your strength in the next world too...
+@4832
+But your house and mine follow different sects, so we will go to different places...
+@4833
+I see... Then from this very moment I shall take up your sect, Lord {02}{01}4. That way I can serve you for all eternity...
+@4834
+Oh, is that so? That puts my mind at ease...
+@4835
+But after {02}{01}n's death, {02}{02}n at once went back to his old sect...
+@4836
+One day, {02}{01}n, lord of {02}{01}N, was having a meal with his child {02}{02}4.
+@4837
+Oho... This looks good. Well then, let's eat.
+@4838
+Let's eat! First, some soup on my rice... Oh, there isn't enough soup.
+@4838.1
+Let's eat! First, some soup on my rice... Oops, not enough soup.
+@4839
+!... Ah... So the {02}{01}2 house will end with my generation...
+@4840
+? Father, what are you suddenly saying?
+@4841
+...{02}{02}4, listen well. A person sits down to a meal countless times in a lifetime. So pouring soup becomes a skill that is honed naturally.
+@4842
+Just now you poured soup on your rice twice. With such clumsiness, you can hardly be a judge of men...
+@4843
+If you cannot judge men, you cannot keep good warriors... This is an age of war. As things stand, when I die the {02}{01}2 house will be destroyed in an instant.
+@4844
+I understand... I shall take it to heart.
+@4845
+This tale of the meal is said to come from Hojo Ujiyasu, the great general who held vast lands in the Kanto, when he watched his son Ujimasa eat and admonished him.
+@4846
+One day, {02}{01}n was lecturing his son {02}{02}n on the proper attitude in battle.
+@4847
+...And therefore, in such a battle...
+@4848
+...Forgive me... Excuse me for a moment.
+@4849
+Hey, {02}{02}4! Where are you going!
+@4850
+T-to relieve myself, Father.
+@4851
+What!
+@4852
+After a while, {02}{02}4 came back from relieving himself...
+@4853
+Phew... Sorry to keep you waiting.
+@4854
+...{02}{02}4! Sit down there!
+@4855
+!... Y-yes...
+@4856
+{02}{02}4... What was I just talking to you about?
+@4857
+...? About war, was it not?
+@4858
+This is an age of war... You do understand how important talk of war is?
+@4859
+Yes... I believe I understand.
+@4860
+...Then why do you leave your seat to relieve yourself in the middle of such an important talk! You fool!
+@4861
+Eek...
+@4862
+I am talking about war, the gravest matter for a realm! Wet yourself if you must, but listen eagerly to the very end!!
+@4863
+...I understand. From now on I shall mend my ways...
+@4864
+Takenaka Hanbei is said to have scolded his son Shigekado, and Date Masamune his son Tadamune, in the same way. The tale shows how important talk of war was.
+@4866
+my liege
+@4867
+The {02}{01}2 shogunate has unified the land, and at last the age of war has come to an end!
+@4868
+At last, under the banner of the {02}{01}2 shogunate, we have united the land. It is all thanks to your work... Once again, I thank you all.
+@4868.1
+At last, under the banner of the {02}{01}2 shogunate, we have united the land. It is all thanks to your work... Once again, I thank you all.
+@4869
+At last this day has come. From the bottom of my heart I am glad I believed in {01}C{02}{13} and followed you this far.
+@4869.1
+At last this day has come. From the bottom of my heart I am glad I believed in {01}C{02}{13} and followed you this far.
+@4870
+There were many hardships on the way here... but thinking of today's joy, the hardships of the past come back as fond memories.
+@4871
+Still, {01}C{02}{13}, your command was superb. When I was at your side, I often wondered whether a god had taken hold of you...
+@4871.1
+Still, {01}C{02}{13}, your command was superb. Watching at your side, I often wondered whether a god had taken hold of you...
+@4872
+Those who fell before their dreams were realised can rest in peace now. I am sure they are rejoicing in their graves...
+@4872.1
+Those who fell before their dreams were realised can rest in peace now. Surely they are rejoicing in their graves...
+@4873
+But the truly hard part begins now. So that their deaths were not in vain, we must hold this land together so that war never breaks out again.
+@4873.1
+But the truly hard part begins now. So that their deaths were not in vain, we must hold this land together so that war never breaks out again.
+@4874
+Exactly! We must build a world where the people can live happily. Our responsibility is great.
+@4874.1
+Exactly! We must build a world where the people can live happily. Our responsibility is great.
+@4875
+Indeed, everyone is right. But just for today, let us all share this joy together.
+@4875.1
+Indeed, you are all right. But just for today, let us all share this joy together.
+@4876
+Yes! Just for today, the gods and Buddhas will forgive us. Let us enjoy this day that will never come again! First, a cup for {01}C{02}{13}...
+@4876.1
+Yes! Just for today, the gods and Buddhas will forgive us. Let us enjoy this day that will never come again! First, a cup for {01}C{02}{13}...
+@4877
+From tomorrow we begin building a new realm. The hardships will be far greater than before. Lend your strength for the sake of all the people... But today, we set rank aside!
+@4877.1
+From tomorrow we begin building a new realm. The hardships will be far greater than before. Lend your strength for the sake of all the people! ...Right, today we set rank aside!
+@4878
+And so the age of war ended and the rule of the {02}{01}2 shogunate began. The {02}{01}2 shogunate won the people's overwhelming support and is said to have flourished for centuries...
+@4879
+{02}{01}n has unified the land, and at last the age of war has come to an end!
+@4880
+At last, under the banner of the {02}{01}2, we have united the land. It is all thanks to your work... Once again, I thank you all.
+@4880.1
+At last, under the banner of the {02}{01}2, we have united the land. It is all thanks to your work... Once again, I thank you all.
+@4881
+At last this day has come. From the bottom of my heart I am glad I believed in {01}C{0C}{00} and followed you this far.
+@4881.1
+At last this day has come. From the bottom of my heart I am glad I believed in {01}C{0C}{00} and followed you this far.
+@4883
+Still, {01}C{0C}{00}, your command was superb. When I was at your side, I often wondered whether a god had taken hold of you...
+@4883.1
+Still, {01}C{0C}{00}, your command was superb. Watching at your side, I often wondered whether a god had taken hold of you...
+@4887
+Indeed, everyone is right. Our work is not over yet... From tomorrow we must carry out our duties with fresh hearts.
+@4887.1
+Indeed, you are all right. Our work is not over yet... From tomorrow we must carry out our duties with fresh hearts.
+@4888
+...By the way, {01}C{0C}{00}, by what means do you intend to govern the land from now on?
+@4889
+Well... I am thinking of becoming Shogun and founding a shogunate. I shall often need your help from now on. I am counting on you!
+@4889.1
+Well... I am thinking of becoming Shogun and founding a shogunate. I shall often need your help from now on. I'm counting on you!
+@4890
+Before long {02}{01}n was appointed Shogun and founded the {02}{01}2 shogunate. The {02}{01}2 shogunate won the people's overwhelming support and is said to have flourished for centuries...
+@4891
+{02}{02}n, lord of {02}{01}n, has unified the land, and at last the age of war has come to an end!
+@4900
+Yes! Just for today, the gods and Buddhas will forgive us. Let us enjoy this day that will never come again! First, a cup for {01}C{0C}{00}...
+@4900.1
+Yes! Just for today, the gods and Buddhas will forgive us. Let us enjoy this day that will never come again! First, a cup for {01}C{0C}{00}...
+@4902
+After this, {02}{01}n is said to have lived out a full life as a pillar of the {02}{02}2 clan...
+@4904
+At last the age of war has come to an end... Looking back, it has been a long road.
+@4904.1
+At last the age of war has come to an end... Looking back, it's been a long road.
+@4905
+We both had our hardships... but now that this day has come, even the hard days are good memories.
+@4905.1
+We both had our hardships... but now that this day has come, even the hard days are good memories.
+@4906
+Still, our lord's command was superb... It was as if a god had taken hold of our lord. Don't you think so, {01}C{0D}{00}?
+@4906.1
+Still, our lord's command was superb, was it not... It was as if a god had taken hold of our lord. Don't you think so, {01}C{0D}{00}?
+@4907
+Those who fell before their dreams were realised can rest in peace now... If only they could have lived to see this day.
+@4907.1
+Those who fell before their dreams were realised can rest in peace now... If only those fellows could have lived to see this day...
+@4908
+We cannot dwell on our feelings forever... We must go on helping our lord from now on. Is that not so, {01}C{0D}{00}?
+@4908.1
+We cannot dwell on our feelings forever... We must go on helping our lord from now on. Isn't that so, {01}C{0D}{00}?
+@4909
+Yes... everyone is right. From now on we must stand united and support our lord. We must strive so that the age of war never returns.
+@4909.1
+Yes... you are all right. From now on we must stand united and support our lord. We must strive so that the age of war never returns.
+@4911
+The Shogun {02}{01}n has brought every daimyo clan under his rule, and at last the age of war has come to an end!
+@4912
+At last we have rid the land of war. It is all thanks to your work... Once again, I thank you all.
+@4912.1
+At last we have rid the land of war. It is all thanks to your work... Once again, I thank you all.
+@4915
+Still, your skill in diplomacy was superb, {01}C{02}{13}. Your wish for peace, {01}C{02}{13}, must have reached everyone's heart.
+@4915.1
+Still, your skill in diplomacy was superb, {01}C{02}{13}. Your wish for peace, {01}C{02}{13}, must surely have reached everyone.
+@4918
+Exactly. We must show all the people of the realm that our wish for peace is no lie.
+@4918.1
+Exactly. We must show all the people of the realm that our wish for peace is no lie.
+@4921
+From tomorrow we begin building a new realm. The hardships will be far greater than before. Lend your strength for the sake of all the people.
+@4921.1
+From tomorrow we begin building a new realm. The hardships will be far greater than before. Lend your strength for the sake of all the people!
+@4922
+And so the rule of the {02}{01}2 shogunate began. The {02}{01}2 shogunate's government won the support of its vassal daimyo too, and is said to have flourished for centuries...
+@4923
+{02}{01}n has brought every daimyo clan under his rule, and at last the age of war has come to an end!
+@4931
+Indeed, everyone is right. Our work is not over yet... From tomorrow we must fulfil our duties with fresh hearts.
+@4931.1
+Indeed, you are all right. Our work is not over yet... From tomorrow we must fulfil our duties with fresh hearts.
+@4933
+Well... to win everyone over, the best course is to become Shogun and found a shogunate. I shall often need your help from now on. I am counting on you!
+@4933.1
+Well... to win everyone over, the best course is to become Shogun and found a shogunate. I shall often need your help from now on. I'm counting on you!
+@4934
+Before long {02}{01}n was appointed Shogun and founded the {02}{01}2 shogunate. Its government won the support of its vassal daimyo too, and is said to have flourished for centuries...
+@4935
+{02}{02}n, lord of {02}{01}n, has brought every daimyo clan under his rule, and at last the age of war has come to an end!
+@4950
+Still, our lord's diplomacy was superb. The wish for peace came through so keenly... Don't you think so, {01}C{0D}{00}?
+@4950.1
+Still, our lord's diplomacy was superb. His wish for peace came through so keenly. Don't you think so, {01}C{0D}{00}?
+@4953.1
+Yes... you are all right. The land is not yet united. From now on we must stand united and support our lord.
+@4955
+{02}{02}n, overlord of {02}{01}n, has brought every daimyo clan under his rule, and at last the age of war has come to an end!
+@4963
+{01}C{0C}{00}, Lord {02}{03}n has hurried here to offer congratulations.
+@4963.1
+{01}C{0C}{00}, Lord {02}{03}n has hurried here to offer congratulations!
+@4964
+Lord {02}{02}n, my heartiest congratulations. We of the {02}{01}2 clan intend to back you, Lord {02}{02}n, with all our strength.
+@4966
+After this, {02}{01}n joined the shogunate's council, though an outsider, and helped to establish the government of the {02}{02}2 shogunate...
+@4968
+Thanks to Lord {02}{02}n, a world without war has come at last. That much is cause for joy.
+@4968.1
+Thanks to Lord {02}{02}n, a world without war has come at last. That much is cause for joy.
+@4969
+I simply cannot accept it. I have always believed that {01}C{0C}{00} is the one fit to rule the realm...
+@4969.1
+I simply cannot accept it... I have always believed that {01}C{0C}{00} is the one fit to rule the realm...
+@4970
+Quite so. A world without war is a happy thing... and yet something about it does not sit right.
+@4970.1
+Quite so. A world without war is a good thing... and yet something about it doesn't sit right.
+@4971
+Everyone, stop grumbling. The war is over. If the people are unhappy with the {02}{03}2 clan's rule, that is when our turn will come, is it not?
+@4971.1
+Everyone, let us stop grumbling. The war is over. If the people are unhappy with the {02}{03}2 clan's rule, that is when we rise.
+@4972
+Quite so. For now, let us see how the {02}{03}2 clan fares... {01}C{0C}{00}, it is time to prepare to set out...
+@4972.1
+Quite so. For now, let's see how the {02}{03}2 clan fares... {01}C{0C}{00}, it is time to prepare to set out...
+@4973
+Yes, I must go and offer my congratulations to Lord {02}{02}4. Everyone, do not get any foolish ideas. Is that clear?
+@4973.1
+Right, I have to go and offer my congratulations to Lord {02}{02}4. Everyone, don't get any foolish ideas. Understood?
+@4974
+After this, {02}{01}n is said to have served well, assisting his lord {02}{02}n, who joined the shogunate's council though an outsider...
+@4976
+From now on we must all stand united and support our lord.
+@4976.1
+From now on we must all stand united and support our lord.
+@4978
+A world without war is a happy thing... and yet something about it does not sit right.
+@4978.1
+A world without war is a good thing... and yet something about it does not sit right.
+@4979
+I have always believed that {01}C{0C}{00} is the one fit to rule the realm...
+@4979.1
+I have always believed that {01}C{0C}{00} is the one fit to rule the realm...
+@4980
+Stop grumbling. I am going to offer my congratulations to Lord {02}{02}4. Look after things while I am away.
+@4980.1
+Stop grumbling. I'm going to offer my congratulations to Lord {02}{02}4. Look after things while I'm away.
+@4981
+The age of war has come to an end, with no one achieving the unification of the land...
+@4982
+In the fierce wars, the {02}{01}2 clan was destroyed, never again to appear on the stage of history...
+@4983
+With no successor, {02}{01}n set off on a wandering journey, never again to appear on the stage of history...
+@4983.1
+{02}{01}n died with no successor. {02}{01}4's dream of unifying the land was never realised...
+@4984
+{02}{01}n lost their life in the fierce wars. {02}{01}4's dream of unifying the land was never realised...
+@4985.1
+{02}{01}n died with no successor. {02}{01}4's dream of unifying the realm was never realised...
+@4986
+What!? {02})N has fallen!! We have no choice but to move our base to {02}{02}N and regroup.
+@4986.1
+{02})N has been taken!? It seems best to move our base to {02}{02}N and regroup.
+@4986.2
+{02})N has been taken!! It would be wise to make {02}{02}N our new base and regroup.
+@4987
+So {02})N has been taken... Lord {02}{02}n seems to be regrouping at {02}{02}N. We must do our part too.
+@4987.1
+So {02})N has fallen... Lord {02}{02}n seems to be regrouping at {02}{02}N. We must do our part too.
+@4987.2
+{02})N, Lord {02}{02}n's seat, has been taken, and the seat has been moved to {02}{02}N!
+@4988
+So {02}{02}n lost his seat while away and has moved to {02}{02}N.
+@4988.1
+So {02}{02}n lost the seat while away and has moved to {02}{02}N.
+@4988.2
+{02}{02}n lost the seat while away and has moved to {02}{02}N, it seems.
+@4989
+Our clan, abolished... Rather than become part of the {02}{0B}E, should I lead the 1st Corps and go independent...?
+@4989.1
+Our clan, abolished... Rather than become part of the {02}{0B}E, perhaps I should lead the 1st Corps and go independent...
+@4989.2
+Our clan has been abolished. Will you lead the 1st Corps and go independent rather than join the {02}{0B}E?
+@4989.3
+Our clan, abolished... Rather than become part of the {02}{0B}E, should I take the whole corps independent...?
+@4989.4
+Our clan, abolished... Rather than become part of the {02}{0B}E, perhaps I should take the whole corps independent...
+@4989.5
+Our clan has been abolished. Will you take the whole corps independent rather than join the {02}{0B}E?
+@4990
+Even if the house we served has fallen, I will not bow to the {02}{0B}E. Now, let us show the world the unity of our corps and strive to rule the realm!!
+@4990.1
+Even if the house we served has fallen, I will not bow to the {02}{0B}E. Now, let us show the world the unity of our corps and strive to rule the realm!!
+@4991
+So Lord {02}{03}n has declared independence... As a member of the same 1st Corps, I shall open a new path under Lord {02}{03}4.
+@4991.1
+So Lord {02}{03}n has declared independence... It seems best that we too open a new path with Lord {02}{03}4...
+@4991.2
+Lord {02}{03}n has declared independence! As part of the same 1st Corps, let us follow Lord {02}{03}4 and go independent together!
+@4991.3
+So our corps commander, Lord {02}{03}n, has declared independence... I shall follow Lord {02}{03}4 and open a new path.
+@4991.4
+So our corps commander, Lord {02}{03}n, has declared independence... Now we have no choice but to entrust our fate to Lord {02}{03}4...
+@4991.5
+Our corps commander, Lord {02}{03}n, has declared independence! We serve Lord {02}{03}4, so we have no choice but to follow.
+@4992
+So Lord {02}{03}n has gone independent... Perhaps I should aim to unify the land with Lord {02}{03}4... Shall my corps join the {02}{03}2 clan...?
+@4992.1
+So Lord {02}{03}n has gone independent... Should I call on the corps and go independent with Lord {02}{03}4...?
+@4992.2
+Lord {02}{03}n has gone independent, it seems. Will you call on the 1st Corps, go independent with the whole corps and join the {02}{03}2 clan?
+@4992.4
+So Lord {02}{03}n has gone independent... Should I take the whole corps independent with Lord {02}{03}4...?
+@4992.5
+Lord {02}{03}n has gone independent, it seems. Will you take the whole corps independent with Lord {02}{03}4 and join the {02}{03}2 clan?
+@4993
+We must not miss this chance! My corps too will go independent with Lord {02}{02}n, as the {02}{02}2 clan!
+@4993.1
+My corps too will go independent with Lord {02}{02}n. Everyone, please follow me.
+@4994
+{02})N is our home... Weak as we are, we will fight for {02})N too!
+@4994.1
+Oh, our turn, is it? We won't let {02})N fall into enemy hands!
+@4994.2
+We must defend {02})N... Now is the time to show them what we're made of!
+@4995
+Let me check the units placed at headquarters as reserves...
+@4995.1
+Let me check the units placed at headquarters as reserves...
+@4995.2
+Please check the units placed at headquarters as reserves.
+@4996
+There seem to be no units at headquarters.
+@4996.1
+There seem to be no units at headquarters.
+@4996.2
+There are no units at headquarters, my lord.
+@4996.3
+There are no units at headquarters.
+@4997
+In this situation, perhaps we should withdraw. Shall I withdraw my unit...?
+@4997.1
+In this situation, withdrawing seems wise. Perhaps I should withdraw my unit...
+@4997.2
+My unit will withdraw. Is that all right?
+@4998
+In this situation, perhaps we should withdraw. Shall I withdraw my unit from the battlefield...?
+@4998.1
+In this situation, withdrawing seems wise. Perhaps I should withdraw my unit from the battlefield...
+@4998.2
+My unit will withdraw from the battlefield. Is that all right?
+@4999
+The traps are already set, my lord!
+@4953
+Yes... everyone is right. The land is not yet united. From now on we must stand united and support our lord.

@@ -1,0 +1,982 @@
+@3750
+...What's that racket? Have the foot soldiers got drunk and started a brawl...? How crude... Someone stop them.
+@3751
+Hm? Hm!? Wh-what is it, what is it!? ...Gwah! Wh-who are you!?
+@3752
+Hattori Koheita! Lord {02}{02}4, prepare to die!
+@3753
+Hngh, you lowborn cur! Take this!!
+@3754
+Ugh!
+@3755
+Koheita, I'm here to help! Lord {02}{02}4, prepare yourself!
+@3756
+...Guh! ...Y-you... Who... sent you...?
+@3757
+I am Mori Shinsuke Hidetaka, man of {02}{01}2 Kazusa! Lord {02}{02}4, your head is mine!
+@3758
+Gwah!... N-not here... Am I... to die... here...?
+@3759
+The head of {02}{02}n! Taken by Mori Shinsuke Hidetaka!!
+@3760
+Well done, Shinsuke!! Men! Raise the victory cry!!
+@3761
+Ei! Ei!
+@3762
+Ohhh!!
+@3763
+So {02}{01}4 slew {02}{02}n in a brilliant surprise attack. With this victory, the name of {02}{01}n spread across the land in no time.
+@3764
+{02}{03}n became Shogun with {02}{01}n's help, but on realising he was nothing but a puppet, he began to scheme to seize real power...
+@3765
+Why, my liege, welcome. And what brings you to our temple today?
+@3766
+There is something I simply must tell you, Abbot. It concerns none other than {02}{01}4. That man means to destroy the {02}{02}2!
+@3767
+What!... And on what grounds?
+@3768
+My attendants tell me that a Christian padre recently called on {02}{01}4 and begged leave to build a Nanban temple.
+@3769
+And {02}{01}4 agreed, they say... In other words, he means to make enemies of every Buddhist sect, the {02}{02}2 included.
+@3770
+If we sit idle, {02}{01}4, that enemy of the Buddha, and his padres are sure to take over the whole land...
+@3771
+I see... So that is what happened. But to me the faithful are as dear as my own children. If we were to rise, what chance would we have?
+@3772
+Have no fear on that score. {02}{04}n, {02}{05}n and others have already made their hostility to {02}{01}4 clear...
+@3773
+And above all, {02}{06}n is to make his move very soon.
+@3774
+Oh... So {02}{06}2 too will raise the banner against {02}{01}4... Then we may well win.
+@3775
+...Very well. I shall send a call to arms to the faithful across the land.
+@3776
+Oh!... Abbot, I thank you for your help. Let us join forces and bring down {02}{01}4, enemy of the Buddha!
+@3777
+And so the {02}{02}2 declared their hostility to {02}{01}n. What would become of {02}{01}4...?
+@3778
+Since their crushing defeat by the {02}{01}2 at Nagashino, the {02}{03}2 had been losing power fast. Still, their head {02}{03}4 kept up his campaigns, and the people turned away from him...
+@3779
+Father, {02}{04}n has arrived.
+@3780
+I am honoured to meet you. My name is {02}{04}n. I have come in the hope of joining the ranks of the {02}{01}2.
+@3781
+Welcome! From now on, serve to the full. By the way, how do things stand in the {02}{03}2 house?
+@3782
+It is a candle flickering in the wind. Surrounded by mighty foes, {02}{03}4 keeps starting pointless wars...
+@3783
+He is desperate to disprove the talk that he falls short of the late Lord Shingen. The people suffer terribly and the land is torn apart.
+@3784
+I see! Then we must save the people of {02}{03}{9C}. We will prepare to march at once. Go home and get ready to guide us.
+@3785
+As you command. I will return to {02}{04}N at once and make every preparation. With your leave.
+@3786
+Even {02}{04}4, Shingen's own son-in-law, has given up on {02}{03}4... He is a truly ill-starred man, eh, {02}{02}4?
+@3787
+The misfortune of having too great a father... No... I am different. I know full well that I am nowhere near your equal, Father.
+@3788
+Ha ha ha! What a thing to say out of nowhere... Then strive to catch up with me, even a little, and to surpass me. Understood?
+@3789
+Yes! I will engrave your words on my heart, Father.
+@3790
+Then for this attack on the {02}{03}2, I name you commander-in-chief! Show me what you can do as heir to the {02}{01}2!
+@3791
+Yes, Father! I will bring back {02}{03}4's head for you without fail!
+@3792
+With {02}{04}n, Shingen's son-in-law, going over to the {02}{01}2, the way to conquer the {02}{03}2 lay open. {02}{03}4's fate hung by a thread...
+@3793
+Half a month after {02}{01}n struck down Akechi Mitsuhide at the battle of Yamazaki, the senior retainers of the Oda gathered for a council.
+@3794
+Who would succeed Nobunaga, and how his vast lands would be divided: these were the two questions. On the night before the council...
+@3795
+Oh, Lord {02}{01}4. What brings you here so late at night?
+@3796
+I wish to consult you, Lord {02}{03}4, about Lord Nobunaga's heir. Who do you think is fit for it?
+@3797
+Hmm... With Lord Nobutada gone too... It must be Lord {02}{05}4 or Lord {02}{06}4.
+@3798
+Unthinkable! So you think so too, Lord {02}{03}4? If Lord {02}{05}4 or Lord {02}{06}4 succeeds, the Oda clan will surely fall!
+@3799
+...I cannot let that pass. Why would the Oda clan fall? Explain yourself.
+@3500
+Persuade a castle lord of another clan to defect to yours.\n\nOn success, you can make him defect with [Order Defection] in the Military phase.\n\nIt succeeds more easily the higher the friendship between your daimyo and the target castle, and the lower that between the target and its daimyo. An envoy with high Intellect helps further.
+@3501
+Corps commanders and castle lords only. Promise another clan that your castle will defect.\n\nOn success, you can use [Switch Sides] in the Military phase.\n\nThe higher the friendship between your castle and the target clan, the likelier success. An envoy with high Intellect and the Eloquence or Plea skill helps further.
+@3502
+Corps commanders and castle lords only. Persuade another castle to back your gekokujo.\n\nA castle lord who agrees acts with you when you use [Secede] or [Switch Sides] in the Military phase.\n\nIt succeeds more easily the higher the friendship between your castle and the target, and the lower that between the target and its daimyo. An envoy with high Intellect helps further.
+@3503
+Corps commanders and castle lords only. Persuade another castle to go independent together with yours.\n\nOn success, when the target castle goes independent as a new clan in the Military phase, your castle joins it as a vassal.\n\nIt succeeds more easily the higher the friendship between your castle and the target, and the lower that between the target and its daimyo. An envoy with high Intellect helps further.
+@3504
+Slander an officer's castle lord to him, making him readier to betray.\n\nOn success, the target officer's loyalty falls.\n\nIt succeeds more easily the higher the envoy's Intellect and the lower the target's. An envoy of the same origin as the target helps further.
+@3505
+Give an officer of another clan a good impression of your clan, making him readier to betray.\n\nOn success, the target officer's {1C}[{1C}I~REF_V_Yashin~ambition{1C}] rises.\n\nIt succeeds more easily the higher your clan's prestige and the lower that of the target's daimyo, and the higher the envoy's Intellect and the lower the target's. An envoy of the same origin as the target helps further.
+@3506
+Poach an officer of another clan.\n\nOn success, the target officer enters your service. Even on failure, his loyalty may fall.\n\nIt succeeds more easily the higher your clan's prestige and the lower that of the target's daimyo, and the higher the envoy's Intellect and the lower the target's. An envoy of the same origin as the target helps further.
+@3507
+[Diplomacy] holds all kinds of negotiations with other daimyo, castle lords and minor powers.\n\nAs a daimyo, the ideal is to use diplomacy to isolate the clans you set as your corps' targets. Make pacts such as [{1C}[{1C}I~REF_SE_GA_DA_Gunjidoumei~Alliance{1C}]] with strong clans other than your targets, and avoid making needless enemies.\n\nHigh friendship with nearby minor powers also helps in many ways.\n\nIf you are not a daimyo, you can work on the court or the shogunate to gain a just cause for gekokujo...
+@3508
+Daimyo only. Propose a non-aggression pact to another clan, or an extension if you already have one. On success, the two clans agree not to fight for 2 years. Each clan's armies may pass through the other's castles, and no field battle occurs when their armies meet.\n\nYou can have non-aggression pacts with 2 clans at a time. It succeeds more easily the higher your friendship with the target clan and your prestige, and the lower the target's prestige. An envoy with high Politics and the Eloquence or Plea skill helps further.
+@3509
+Daimyo only. Propose a military alliance to another clan, or an extension if you already have one.\n\nOn success, the two clans are allied for 2 years: on top of the effects of a non-aggression pact, you can request {1C}[{1C}I~REF_V_Engun~reinforcements{1C}] in the Military phase.\n\nYou can have military alliances with 2 clans at a time. It succeeds more easily the higher your friendship with the target clan and your prestige, and the lower the target's prestige. An envoy with high Politics and the Eloquence or Plea skill helps further.
+@3510
+Daimyo only. Call on several clans to form an encirclement against one clan.\n\nOn success, the clans taking part get the effect of a non-aggression pact with each other, and their friendship rises.\n\nYou cannot call on clans that have a non-aggression pact, military alliance, marriage alliance or vassal relationship with the target.\n\nAn envoy with high Politics and the Eloquence or Plea skill succeeds more easily.
+@3511
+Press another clan to become your subordinate, or press a clan subordinate to you to become your vassal.\n\nIf subordination succeeds, the target becomes your subordinate clan. If vassalage succeeds, the target clan ceases to exist and is absorbed into yours; its castles join the corps of the castle that acted.\n\nIt succeeds more easily the higher your friendship with the target clan and your prestige, and the lower the target's prestige. An envoy with high Politics and the Eloquence or Intimidation skill helps further.
+@3512
+Daimyo only. Ask another clan to take yours under its rule, or ask your overlord clan to take your clan in as its vassal.\n\nOn success, your clan becomes subordinate to the target, or becomes its vassal.\n\nAs a vassal, your clan ceases to exist and its castles pass to the overlord clan.\n\nWhen asking to be subordinate, higher friendship with the target clan makes success likelier. An envoy with high Politics and the Eloquence or Plea skill helps further.
+@3513
+Daimyo only. End a vassal relationship with another clan, from either the ruling or the subordinate side.\n\nThe relationship ends, but your friendship with every castle of the target clan falls.
+@3514
+Give 500 gold to the clan that runs the shogunate to raise friendship.\n\nThe higher your friendship with the shogunate, the likelier [Denounce], [Post], [Ceasefire] and [Cause] succeed.\n\nAn envoy with high Politics and the Plea, Intimidation or Eloquence skill does better. Make some donations before dealing with the shogunate.
+@3515
+Daimyo only. Ask the clan that runs the shogunate to give your clan a shogunate post.\n\nOn success, you receive the post, and your clan's prestige and friendship with other clans rise.\n\nIt costs gold: the higher your friendship with the shogunate, the less. An envoy with the Eloquence or Plea skill lowers the cost further.
+@3516
+Daimyo only. Ask the clan that runs the shogunate to issue a punitive order against a clan.\n\nThe named clan loses friendship with other clans, and any {1C}[{1C}I~REF_V_Meiyaku~pact{1C}] it has with clans whose friendship falls may be broken. If it holds a shogunate post, it is stripped of it.\n\nIt succeeds more easily with high friendship with the shogunate and an envoy with high Politics and the Eloquence or Plea skill.
+@3517
+Daimyo only. Ask the clan that runs the shogunate to lift a punitive order against your clan.\n\nOn success, the order is lifted and your friendship with other clans rises.\n\nIt costs gold: the higher your friendship with the shogunate, the less.
+@3518
+Only the daimyo who runs the shogunate. Use the shogunate's authority to proclaim a punitive order against a clan across the land.\n\nThe named clan loses friendship with other clans, and any {1C}[{1C}I~REF_V_Meiyaku~pact{1C}] it has with clans whose friendship falls may be broken.\n\nIf the named clan holds a shogunate post, it is stripped of it.
+@3519
+Only the daimyo who runs the shogunate. Use the shogunate's authority to give another clan a shogunate post.\n\nOn success, friendship between that clan and yours rises.\n\nIt succeeds more easily the higher your friendship with the target clan and your prestige, and the lower the target's prestige. An envoy with high Politics and the Eloquence or Intimidation skill helps further.
+@3520
+Daimyo only. Ask the clan that runs the shogunate to send a ceasefire order to the clan whose army is besieging your castle.\n\nOn success, you receive a letter from the shogunate ordering a ceasefire. Your envoy takes it straight to the other daimyo to negotiate. If they accept, a half-year non-aggression pact is made. It succeeds more easily the higher the friendship of your clan and of the other clan with the shogunate, and the higher the envoy's Politics. An envoy with the Eloquence or Plea skill helps further.
+@3521
+Corps commanders and castle lords only. Obtain a just cause for gekokujo from the clan that runs the shogunate.\n\nOn success, you get the shogunate's warrant, and castle lords you send secret letters with [{1C}[{1C}I~REF_SE_GA_DA_HO_Gekokujoukanyuu~Secret Pact{1C}]] agree more easily.\n\nIt costs gold. It succeeds more easily with high friendship with the shogunate and an envoy with high Politics and the Eloquence or Plea skill.
+@3522
+Give 500 gold to the Imperial Court to raise court friendship. If the castle lord is a daimyo, the clan's court standing rises too.\n\nThe higher your castle's court friendship, the likelier [Enemy of Court], [Pardon], [Ceasefire] and [Cause] succeed. The higher your clan's court standing, the higher the court titles you can receive.\n\nAn envoy with high Politics and the Plea, Intimidation or Eloquence skill does better. Make some donations before dealing with the court.
+@3523
+Daimyo only. Ask the Imperial Court to grant you a higher court title.\n\nA high court title raises your clan's prestige and may help in diplomacy with those who value titles.\n\nThe higher the title, the more your court standing falls, so to rise further you must [Donate] to the court.
+@3524
+Spread slander about another castle lord at the Imperial Court.\n\nOn success, that castle lord's court friendship falls.\n\nIt succeeds more easily the lower the target's court friendship and the higher the envoy's Intellect. An envoy of "Court" origin helps further.
+@3525
+Daimyo only. Ask the Imperial Court to name a clan an enemy of the court.\n\nThe named clan loses friendship with other clans, and any {1C}[{1C}I~REF_V_Meiyaku~pact{1C}] it has with clans whose friendship falls may be broken. If it holds a court title, the title is taken away. It succeeds more easily the higher your court friendship and the envoy's Politics, and the lower the target's court friendship. An envoy with the Eloquence or Plea skill helps, and one of "Court" origin helps further.
+@3526
+Daimyo only. Ask the Imperial Court to lift your clan's branding as an enemy of the court.\n\nOn success, your clan is no longer an enemy of the court, and friendship with other clans rises.\n\nIt costs gold: the higher your court friendship, the less. An envoy of "Court" origin also lowers the cost.
+@3527
+Daimyo only. Ask the Imperial Court to send a ceasefire order to the clan whose army is besieging your castle.\n\nOn success, you receive an imperial letter ordering a ceasefire. Your envoy takes it straight to the other daimyo to negotiate. If they accept, a half-year non-aggression pact is made.\n\nIt succeeds more easily the higher the court friendship of your clan and of the other clan, and the higher the envoy's Politics. An envoy with the Eloquence or Plea skill and of "Court" origin helps further.
+@3528
+Corps commanders and castle lords only. Obtain a just cause for gekokujo from the Imperial Court.\n\nOn success, you get the court's warrant, and castle lords you send secret letters with [{1C}[{1C}I~REF_SE_GA_DA_HO_Gekokujoukanyuu~Secret Pact{1C}]] agree more easily.\n\nIt costs gold. It succeeds more easily the higher your castle's court friendship and the envoy's Politics, and the lower your daimyo's court friendship. An envoy with the Eloquence or Plea skill helps; one of "Court" origin helps further and halves the cost.
+@3529
+Send a minor power 200 gold to deepen ties.\n\nFriendship between your castle and the minor power rises.\n\nAn envoy with high Politics and the Plea, Intimidation or Eloquence skill does better, and one of the same origin as the minor power better still.
+@3530
+Spread slander about another castle to a minor power.\n\nOn success, friendship between the minor power and that castle lord falls.\n\nIt succeeds more easily the higher the minor power's friendship with your castle and the envoy's Intellect, and the lower its friendship with the other castle. An envoy of the same origin as the minor power helps further.
+@3531
+Propose a non-aggression pact to Gentry, Ikko, Monks or Pirates, or an extension if you already have one.\n\nOn success, you agree not to fight for 2 years, and your armies may pass through the minor power's base.\n\nThe minor power demands goods for the pact. The higher your friendship with it, the less it demands.
+@3532
+Press a minor power to become your subordinate.\n\nOn success, it becomes subordinate to your clan.\n\nIt succeeds more easily the higher your friendship with it and the more troops your clan has, and more easily still if many of your castles border its base.
+@3533
+Incite a minor power to rise up against or raid another clan's castle.\n\nOn success, it starts an uprising or raids against the target daimyo. A castle targeted by an uprising or raids has its gold and goods income halved.\n\nIt succeeds more easily with high friendship with the minor power and an envoy with high Intellect and the Eloquence or Plea skill. An envoy of the same origin as the minor power helps further.
+@3534
+Persuade Gentry, Ikko or Monks rising up against your clan, or Pirates raiding your lands, to stop.\n\nOn success, the uprising or raids stop. The minor power demands gold to be pacified. High friendship with your clan and an envoy with the Eloquence or Plea skill give you the upper hand.
+@3535
+Ask a pirate band to trade with Ming China.\n\nOn success, the trade ship returns after half a year with treasures or gold.\n\nIt costs 1000 gold, or half that if the band's friendship with your clan is close. A band with low friendship may refuse.
+@3536
+[Visit] lets you call on other daimyo, castle lords and officers to build friendships, scheme or poach.\n\nUse [{1C}[{1C}I~REF_SE_GA_DA_HO_Shinkou~Befriend{1C}]] and [{1C}[{1C}I~REF_SE_GA_DA_HO_Kinsenzouyo~Gift Gold{1C}]] under [Socialise] to win friendly castle lords, in your clan or others; it helps in many ways.\n\nIf you are not a daimyo, you can also invite friendly castle lords with [{1C}[{1C}I~REF_SE_GA_DA_HO_Gekokujoukanyuu~Secret Pact{1C}]] and prepare for independence.
+@3537
+Daimyo only. Marry a princess into another clan to form a marriage alliance. On success, it has the effect of a non-aggression pact and friendship rises. The princess must be a daughter of the daimyo or of a retainer of his blood.\n\nAn envoy with high Politics and the Eloquence or Plea skill succeeds more easily.\n\nYou can also announce the end of a marriage alliance. Friendship then falls, and the princess is sent home or put to death. If her husband is a castle lord of your clan, his castle's friendship with the daimyo falls.
+@3539
+[Domestic] lets you develop your castle and trade goods.\n\nFirst appoint magistrates with [{1C}[{1C}I~REF_SE_NA_Bugyou~Magistrates{1C}]]. They develop your castle's yield and commerce for more goods, and raise the defence of each bailey to prepare for siege battles. A recruitment magistrate brings ronin into your castle's service.\n\nIf you are short of goods or have some to spare, buy and sell with minor powers using [{1C}[{1C}I~REF_SE_NA_Baibai~Power Trade{1C}]].
+@3540
+Appoint magistrates to run the castle's domestic affairs.\n\nThere are 4: Farming, Commerce, Repair and Recruitment.\n\nEach turn, Farming raises yield, Commerce raises commerce, and Repair raises the castle's defence. The recruitment magistrate invites ronin who come to the province to serve.\n\nEach magistrate costs 10 gold per season. Once set, the same officers stay magistrates the next season.
+@3541
+Buy and sell rice, horses, guns and treasures with minor powers, once per turn (season) with each partner. What can be bought, and how much, depends on the minor power. Gentry, Ikko and Monks sell rice, and sometimes horses, guns and treasures. Christians sell guns, and sometimes horses and treasures.\n\nOnly the merchants of self-governing towns buy goods. Self-governing towns trade in all goods.
+@3542
+Daimyo and corps commanders only. Move goods from castle to castle.\n\nA daimyo can use the clan's castles; a corps commander, the castles in the corps.\n\nGoods cannot be sent to a castle that already holds the maximum. The maximum of each good is 99999.
+@3543
+[Military] lets you prepare your forces and give orders to your clan's corps.\n\nFirst, check each officer's troop type with [Unit Type] so that an army can march at any time.\n\nAs a corps commander, use [{1C}[{1C}I~REF_SE_NA_JO_Shiroshiji~Castle Orders{1C}]] to give each castle in your corps a target castle. Each castle will then scheme against its target.\n\nAs a daimyo, use [{1C}[{1C}I~REF_SE_GU_Gundanshiji~Corps Orders{1C}]] to give each corps a target clan. As your castles grow in number, manage your corps with [{1C}[{1C}I~REF_SE_GU_Hensei~Organise{1C}]]: change which castles each corps holds, or form new corps.
+@3544
+Change the troop type of each officer in your castle.\n\nThere are 5 types: Infantry, Pikes, Cavalry, Gunners and Mounted Gunners. Any officer can choose Infantry; the others only if the officer has learned them.\n\nCavalry need as many horses as troops, Gunners as many guns, and Mounted Gunners as many of both. Troops lacking goods wait in reserve, and join the unit when goods are added by trade and the like.
+@3545
+Raise troops with gold and rice.\n\nIt can be done once per turn (season). Each time, you can raise as many troops as recover in one turn.
+@3546
+Daimyo and corps commanders only. Give each castle in the corps a target castle.\n\nThe target must be a castle of the clan the corps is targeting. Each castle schemes against its target castle, or sends an army to attack it in the Military phase.
+@3547
+Daimyo only. Set the strategy for each corps of your clan, and for the 1st Corps of clans subordinate to you.\n\n"Choose Target" names the clan to target; clans with a pact or marriage alliance with you cannot be chosen. "Delegate" leaves the choice to each corps commander. "Defend Only" keeps the corps from sending out armies, so it only defends.\n\nIf your clan is subordinate to another, you can only give orders to the 2nd Corps and later; the 1st Corps follows the overlord clan's orders.
+@3548
+Daimyo only. Set which corps each of your castles belongs to.\n\nChoose the corps number, then the castles to put in it.\n\nThe commander of a corps whose castles changed, or of a new corps, is chosen automatically from its castle lords. To choose another, use [Personnel] - [Appoint] - [Corps Commander].
+@3549
+[Personnel] handles rewards and punishments for retainers, marrying off princesses, naming an heir and more.\n\nThe most important command is [{1C}[{1C}I~REF_SE_JI_SH_Chigyou~Fief{1C}]] under [Reward]. Officers whose fief does not match their merit grow discontent and lose loyalty, and disloyal officers are easier for other clans to poach. The fief also sets how many troops an officer can lead, so raising fiefs strengthens your army.\n\nIf you are a daimyo with several {1C}[{1C}I~REF_V_Ichimon~kin{1C}] officers, be sure to use [{1C}[{1C}I~REF_SE_JI_Yotsugishimei~Name Heir{1C}]]. If the daimyo dies suddenly before the heir is agreed on, a succession dispute may follow.
+@3550
+Change the fief of an officer in your castle.\n\nRaising it raises his loyalty; cutting it lowers it. The fief also sets the most troops he can lead.\n\nThe largest fief you can give depends on the officer's renown.\n\nFiefs come out of the castle's yield, so they cannot exceed it, and the more you give, the less rice the castle earns.
+@3551
+Give an officer 200 gold as a reward.\n\nA daimyo can reward officers of the clan; a corps commander, officers in the corps; a castle lord, officers in his castle.\n\nA reward raises the officer's loyalty. When a daimyo or corps commander rewards a castle lord under him, friendship with that lord rises.
+@3552
+Give treasures to an officer or take them away.\n\nA daimyo can use this on officers of the clan; a corps commander, officers in the corps; a castle lord, officers in his castle.\n\nGiving a treasure raises loyalty; taking one lowers it. When a daimyo or corps commander gives or takes a treasure from a castle lord under him, friendship with that lord rises or falls. The higher the grade, the bigger the change.\n\nSome treasures raise the holder's abilities or grant special skills. Check a treasure's effect and choose a fitting officer.
+@3553
+Banish or execute an officer.\n\nA daimyo can use this on officers of the clan; a corps commander, officers in the corps; a castle lord, officers in his castle.\n\nA banished officer leaves the clan and becomes a ronin. An executed officer never appears in the game again.\n\nBanishing or executing a loyal officer may lower other officers' loyalty. When a daimyo or corps commander does this to a castle lord, friendship with the other castle lords may fall.
+@3554
+Daimyo and corps commanders only. Move officers from castle to castle.\n\nA daimyo can move officers of the clan; a corps commander, officers in the corps.\n\nOfficers cannot be moved to a castle besieged by an enemy army. Castle lords and officers on campaign cannot be moved, nor an officer whose fief exceeds the yield the new castle has left (yield not given out as fiefs).
+@3555
+Daimyo and corps commanders only. Swap the officers and goods of two castles at once.\n\nA daimyo can use the clan's castles; a corps commander, the castles in the corps. The two castles must be linked by {1C}[{1C}I~REF_V_Hokyuusenn~supply lines{1C}].\n\nA castle with an army out cannot be transferred, nor one whose officers' total fief exceeds the other castle's yield.
+@3556
+Change the castle lord of a castle: a daimyo for the clan's castles, a corps commander for the corps' castles. Choose the new lord from the officers of that castle.\n\nThis may raise the ambition of other castle lords under you or lower their friendship with the daimyo, unless the new lord is {1C}[{1C}I~REF_V_Ichimon~kin{1C}] of the daimyo.\n\nA corps commander or ordinary castle lord can hand his seat to a retainer of his castle; he then becomes an ordinary officer there. Any gekokujo promise he made with other castle lords is void.
+@3557
+Daimyo only. Name the commander of each corps.\n\nOnly a castle lord of that corps can be named.\n\nFriendship between the daimyo and the new corps commander rises, and with the dismissed one it falls.
+@3558
+Marry a princess to a retainer.\n\nA daimyo can choose any officer of the clan; a corps commander or castle lord, the officers in his castle. Officers of your own blood cannot be chosen.\n\nA daimyo can marry off his own daughters or those of his blood relatives; a corps commander or castle lord, only his own.\n\nThe husband's loyalty rises and he is less likely to betray. For a daimyo, the husband becomes kin of the clan.
+@3559
+Choose your clan's heir (the officer the daimyo will hand the headship to) and win the other castle lords' agreement.\n\nWhen the daimyo has several heir candidates ({1C}[{1C}I~REF_V_Ichimon~kin{1C}] officers), each castle lord may favour a different one (his {1C}[{1C}I~REF_V_Yotsugisuisenbushou~recommended heir{1C}]).\n\nA daimyo who names an heir and wins agreement keeps good relations with the castle lords when the named heir succeeds after his death. Others who name an heir and win agreement raise the chance that the officer they favour becomes daimyo.
+@3560
+A daimyo-only command. Hand the headship to a {1C}[{1C}I~REF_V_Ichimon~kin{1C}] officer and step down.\n\nIt cannot be used when the daimyo or the heir is on campaign, or when there is no kin officer to inherit. The former daimyo chooses "Retire" or "Stay Active". "Retire" removes him from the game; "Stay Active" keeps him at the castle as an officer.\n\nThe daimyo and the kin officer must be in the same castle.
+@3561
+Invite other castle lords of your clan to a banquet.\n\nFriendship rises between all castle lords who accept.\n\nYou can invite as many as you like, at 200 gold each.\n\nThe castle lord hosts it himself, so it cannot be used when he has already acted or is on campaign, or when the castle is besieged.\n\nIf the host has the Tea Ceremony or Swordsman skill, a tea ceremony or sword tournament may be held.
+@3562
+[Ninja] hires ninja and uses them for stratagems. Start by hiring a ninja with [{1C}[{1C}I~REF_SE_NI_NI_Yatoiire~Hire{1C}]] under [Ninja]. Raising friendship with ninja bands first under [Diplomacy] - [Minor Powers] makes them likelier to lend skilled ninja.\n\nNext, send the ninja to [{1C}[{1C}I~REF_SE_NI_NI_Sennyuu~Infiltrate{1C}]] another castle. As a castle lord, start with the target castle your corps commander set.\n\nA ninja inside another castle lets you use stratagems such as [{1C}[{1C}I~REF_SE_NI_Hakai~Sabotage{1C}]] and [{1C}[{1C}I~REF_SE_NI_Ryuugen~Rumours{1C}]]. Scheming against the target castle earns your castle merit and raises your influence.
+@3563
+Hire ninja from a ninja band.\n\nA hired ninja stands guard at your castle and foils stratagems from other castles. A ninja on guard can also be sent to [Infiltrate] another castle to use many stratagems.\n\nTo hire, pay the goods the band asks. The larger the band and the higher your friendship with it, the more skilled the ninja you can hire; higher friendship also lets you hire more at once. Once the band reaches its limit of ninja lent to daimyo, no more can be hired.
+@3564
+Send a hired ninja to infiltrate another castle.\n\nYou then see that castle's troops and goods, and can order stratagems there such as [Sow Doubt], [Murder], [Sabotage] and [Rumours].\n\nNinja not sent to other castles stand guard at your castle and foil stratagems from other castles.\n\nWith a ninja on guard, you can also send [False Orders] to enemy armies in the Military phase.
+@3565
+Spread rumours that another castle plans rebellion, lowering friendship between it and its daimyo. If it works well, the castle lord is banished or executed.\n\nA ninja must [Infiltrate] the target castle first.\n\nIt succeeds more easily the lower the friendship between the target castle and its daimyo and that daimyo's Intellect, and the more skilled the ninja.
+@3566
+Attack an officer in another castle and wound him. If it works well, the officer dies.\n\nA ninja must [Infiltrate] the castle where the officer is first.\n\nIt succeeds more easily the lower the officer's Leadership and Intellect, and the more skilled the ninja. It is harder against an officer with the Swordsman skill.
+@3567
+Wreck the walls of another castle, lowering the defence of each bailey (main, second and third).\n\nA ninja must [Infiltrate] the target castle first.\n\nIt succeeds more easily the lower the castle's total bailey defence and troops, and the more skilled the ninja.
+@3568
+Spread slander about one castle to another, lowering friendship between them.\n\nA ninja must [Infiltrate] the target castle first.\n\nIt succeeds more easily the lower the friendship between the two castles and the target lord's Intellect, and the more skilled the ninja.
+@3569
+[Propose] asks the daimyo to carry out commands only a daimyo can use.\n\nIf the clan you want to attack differs from the target the daimyo set, try proposing [{1C}[{1C}I~REF_SE_TEG_GU_Gundanshiji~Corps Orders{1C}]].\n\nIf your corps' strategy calls for a certain clan as an ally, you might propose [{1C}[{1C}I~REF_SE_TEG_GA_Fusenkyoutei~Non-Aggression{1C}]] or [{1C}[{1C}I~REF_SE_TEG_GA_Gunjidoumei~Alliance{1C}]].\n\nA proposed command is carried out only if the council approves it. Raising friendship with the council's castle lords beforehand with [{1C}[{1C}I~REF_SE_NA_Shoutai~Invite{1C}]] under [Domestic] helps.
+@3570
+Propose to the daimyo a non-aggression pact with a clan.\n\nNon-aggression pacts can be held with 2 clans at a time.\n\nChoose the clan and propose; a council is held. If the council approves, the pact is negotiated.
+@3571
+Propose to the daimyo a military alliance with a clan.\n\nMilitary alliances can be held with 2 clans at a time.\n\nChoose the clan and propose; a council is held. If the council approves, the alliance is negotiated.
+@3572
+Propose to the daimyo that the clan submit to another daimyo, or, if already subordinate, change overlords.\n\nChoose the clan to serve and propose; a council is held. If the council approves, the clan asks to become subordinate.
+@3573
+Propose to the daimyo that the clan stop serving another clan and become independent.\n\nA council is held. If the council approves, independence is declared.
+@3574
+Propose to the daimyo a new target for your corps.\n\nChoose the clan to target and propose; a council is held. If the council approves, the target is changed.
+@3575
+Propose to the daimyo that a castle of another corps of your clan be handed to yours.\n\nChoose the castle and propose; a council is held. If the council approves, the castle joins your corps.
+@3576
+Propose to the daimyo that an officer of another corps be moved to yours.\n\nChoose the officer and propose; a council is held. If the council approves, the officer moves to your castle.\n\nTo move him on to another castle in the corps, use [Personnel] - [Reassign] - [Officer].
+@3577
+Ask the daimyo to make you {1C}[{1C}I~REF_V_Ichimon~kin{1C}] by marrying one of his princesses.\n\nChoose the princess and propose; a council is held. If the council approves, the marriage is allowed and you join the daimyo's kin.
+@3578
+Propose to the daimyo that a {1C}[{1C}I~REF_V_Ichimon~kin{1C}] officer of the clan be named heir.\n\nChoose the kin officer and propose; a council is held. If the council approves, that officer is named heir.
+@3579
+Propose to the daimyo that he retire.\n\nA council is held. If the council approves, the daimyo retires next season.\n\nThe named heir then becomes daimyo; if there is none, one of the {1C}[{1C}I~REF_V_Ichimon~kin{1C}] officers does.
+@3580
+[Propose] asks the corps commander to carry out commands only a corps commander can use. If the castle you want to attack differs from the target he set, try proposing [{1C}[{1C}I~REF_SE_TEJ_Shiroshiji~Castle Orders{1C}]].\n\nTo move to a front-line castle, propose [{1C}[{1C}I~REF_SE_TEJ_Tenpou~Transfer{1C}]]; to get an officer from another castle, propose [{1C}[{1C}I~REF_SE_TEJ_Bushouidou~Reassign{1C}]].\n\nThe corps commander may reject a proposal on his own. Raising friendship with his castle, and faithfully following his orders in the Military phase, make rejection less likely.
+@3581
+Propose to the corps commander a new target castle for your castle.\n\nThe proposal may be rejected if friendship between your castle and his is low, or if you have often ignored his orders in past campaigns.
+@3582
+Propose to the corps commander that you be transferred to another castle in the corps.\n\nThe proposal may be rejected if friendship between your castle and his is low, or if you have often ignored his orders in past campaigns.
+@3583
+Propose to the corps commander that an officer from another castle in the corps be moved to yours.\n\nThe proposal may be rejected if friendship between your castle and his is low, or if you have often ignored his orders in past campaigns.
+@3584
+Buy and sell rice, horses and guns with local merchants, once per turn (season). Local merchants do not deal in treasures.
+@3585
+In the Military phase, a corps commander sends armies from castles in the corps, and an ordinary castle lord from his own castle, to [{1C}[{1C}I~REF_GU_SHIRO_Shutujin~Sortie{1C}]] against the castles and armies of the target clan.\n\nIf your own forces are not enough, ask allied castle lords for help with [{1C}[{1C}I~REF_GU_CMD_Shutujinyousei~Request Sortie{1C}]] or [{1C}[{1C}I~REF_GU_CMD_Kyoudougunyousei~Request Aid{1C}]].\n\nWhen all sortie and march orders are given, press the {1B}PB button to advance time. Time runs for 3 months, in half-month steps. Press the {1B}PY button to give orders again. An army left with no orders when the situation changes switches from "Moving" to "Awaiting Orders": give it new orders.
+@3586
+Ask an allied castle to send out an army, for 500 gold.\n\nOn success, it sends an army toward the castle you name.\n\nYou can ask other castles of your clan, castles of clans in a military alliance or vassal relationship with yours, and bases of minor powers subordinate to you (Gentry, Ikko, Monks). Castles with an army already out cannot be asked.\n\nThe higher the friendship between that castle and yours, the likelier success. An envoy with high Politics and the Plea, Intimidation or Eloquence skill helps further.
+@3587
+Ask an allied castle to send reinforcements, for 500 gold.\n\nOn success, it sends reinforcements to your castle's army.\n\nYou can ask other castles of your clan, castles of clans in a military alliance or vassal relationship with yours, and bases of minor powers subordinate to you (Gentry, Ikko, Monks). Castles with an army already out cannot be asked.\n\nThe higher the friendship between that castle and yours, the likelier success. An envoy with high Politics and the Plea, Intimidation or Eloquence skill helps further.
+@3588
+Propose a ceasefire to an enemy army in the field, for 500 gold.\n\nOn success, the enemy army disbands and withdraws.\n\nThe army's commander-in-chief may demand gold. The higher the friendship between your castle and his and the envoy's Politics, and the fewer troops the army has, the less he demands.
+@3589
+Use a ninja to send false orders to another castle's army and make it withdraw.\n\nOn success, the army disbands and returns to its castle. Even on failure, it may be held up. [False Orders] also shows you information on armies from castles your ninja have not infiltrated.\n\nIt succeeds more easily the lower the Intellect of the target army's commander-in-chief and the more skilled the ninja.
+@3590
+Order a castle lord who promised to defect in the Strategy phase to defect now.\n\nThe castle lord then joins your clan.\n\nHe may refuse if defecting would leave his castle in a very bad position.
+@3591
+Switch your allegiance to another clan.\n\nOnly possible if you prepared it in the Strategy phase. Your castle then belongs to the new clan.\n\nCastle lords who agreed through [Pact] switch with you, unless switching would leave their castle in a very bad position.
+@3592
+Break away from your clan.\n\nOnly possible if you prepared for independence in the Strategy phase. Your castle becomes an independent clan.\n\nCastle lords who agreed through [Pact] go independent with you, unless it would leave their castle in a very bad position.
+@3593
+Daimyo and corps commanders only.\n\nGather your corps' armies in the field at a chosen castle or army.
+@3594
+Castle lords only.\n\nIf the corps commander has given your castle military orders, act as ordered.\n\nDoing otherwise when you have orders is disobedience. Repeated disobedience makes the corps commander likelier to reject your [Propose] in the Strategy phase.
+@3595
+Send an army out from a castle.\n\nA corps commander sends armies from castles in the corps; an ordinary castle lord from his own castle. Each castle can send one army.\n\nSelect the castle, choose [Sortie] and set a target castle or army. You can target as far as castles adjacent to friendly castles along the roads. From your own castle, choose the officers who join the army.\n\nPress the {1B}PB button to advance time; the army sets out and moves toward its target.
+@3596
+Cancel an army's sortie.\n\nAfter ordering a castle to [Sortie], select the castle again to [Cancel Sortie].
+@3597
+Centre the screen on the army sent out from this castle.
+@3598
+Change an army's march target (destination).\n\nPlace the cursor on the castle or army to target and press the {1B}PA button. You can target as far as castles adjacent to friendly castles along the roads.\n\nThe army heads for its new target. A distant target takes time to reach.
+@3599
+Order an army to wait where it is.\n\nIt waits there until ordered to [Resume March].
+@3600
+Order an army to disband and withdraw.\n\nIt disbands at once, and its officers return to their castles. If they are far from home, the return takes some time.
+@3601
+Order an army that is [Wait]ing to resume its march.\n\nIt moves on toward its march target.
+@3602
+Order an army that is using [Assault] or [Demand Surrender] on an enemy castle to stop and keep the castle under siege.\n\nThe army makes no attack and keeps up the siege. A besieged castle slowly loses bailey defence and its officers' morale.
+@3603
+Order an army that is using [Besiege] or [Demand Surrender] on an enemy castle to stop and assault it.\n\nThe army starts a siege battle and the siege battle screen opens. Win it, and the castle comes under your clan's rule.\n\nIf the castle is a daimyo's home castle, every castle of that clan becomes subordinate to you. Win by wiping out the defending units or taking the main bailey, and you abolish that clan and absorb it fully into yours.
+@3604
+Order an army that is using [Assault] or [Besiege] on an enemy castle to stop and demand surrender.\n\nThe army urges the besieged castle to surrender. If it accepts, the castle comes under your clan's rule. If it is a daimyo's home castle, every castle of that clan becomes subordinate to you.
+@3605
+The flags on castles, bases and armies on the map are coloured by their relation to your castle:\n\nBlue: the clan your castle serves\n (a white line marks your own castle)\nLight blue: clans in a military alliance,\n clans and minor powers in a vassal relationship\nPurple: clans and minor powers with a non-aggression pact,\n clans in a marriage alliance\nRed: clans and minor powers at war,\n your corps' target clan\nYellow: neutral clans and minor powers
+@3606
+If an officer of your castle is the army's commander-in-chief, you can arrange the units freely.\n\nChoose "Left Wing", "Centre", "Right Wing" or "Headquarters" and set the units there. Up to 10 units can join a field battle, up to 7 of them at headquarters.\n\nThe vanguard centre must always be filled. It is the key to a field battle, so place a unit with many squads and an officer with high Leadership there.
+@3607
+A commander-in-chief with high Intellect may lure the enemy onto ground of his choice. The effects of each ground:\nPlain: nothing special\nValley: only the vanguard centres fight\nForest: confusion comes easily\nRiver: no gunfire\nMountain: morale falls easily\nCoast: a friendly pirate band may give\n covering fire from ironclads\nWith fewer units, a "Valley" has no wings, so you may fight as equals despite the gap.\nWith fewer troops, a "Forest" makes confusion easier, offsetting the gap in numbers and raising your chances.
+@3608
+The victory conditions of a field battle:\n\n1. Your vanguard centre unit reaches the enemy headquarters\n2. You wipe out the enemy commander-in-chief's unit\n\nHeadquarters is the area enclosed by camp curtains: on the far left for the attackers, the far right for the defenders.\n\nIf neither side has won when time runs out, the battle is a draw.
+@3609
+How hard all the units fighting in the vanguard push the enemy. Push depends on the difference in troops between the two vanguards.\n\nWhere the blue and red arrows meet at the top left of the screen shows the current push. The longer the blue arrow, the more your push prevails (you are pushing the enemy back); the longer the red arrow, the more you are being pushed back.\n\nIf you are being pushed, give the vanguard units orders or [Swap] them with units at headquarters to push the enemy back.
+@3610
+Each unit in a field battle has morale.\n\nUnits fighting in the vanguard slowly lose morale over time. Lower morale means lower defence; at 20 or less the unit wavers. A unit at 0 morale can fight no longer and falls back to headquarters.\n\nA unit sent back to headquarters (reserve) recovers its morale to the level at the start of battle (or to 30 if it started below 30). Units that can use the [Inspire] tactic command can restore morale with it.
+@3611
+Each unit in a field battle has fighting spirit, shown by the blue lights of the meter in the unit's info panel.\n\nAt 5 or more, troop commands and tactic commands can be used. Units fighting in the vanguard slowly gain fighting spirit over time, faster the higher their officer's Leadership and Intellect. Using [Rally] while not confused adds 4 at once.\n\nDriving an enemy unit back to headquarters or destroying it, or pushing the enemy so far that the headquarters moves, raises fighting spirit greatly.
+@3612
+A troop command puts the unit in a strengthened state, temporarily raising its attack or defence according to its troop type.\n\nA strengthened unit slowly loses fighting spirit, and when it runs out the state ends.\n\nEach type's command:\nInfantry - [Assault Raid]  Pikes - [Spear Wall]\nCavalry - [Charge]  Gunners - [Volley]\nMounted Gunners - [Fire & Charge]
+@3613
+Sweat above the soldiers' heads in a vanguard unit means it is wavering. A wavering unit is easily confused.\n\nA unit wavers when its morale is 20 or less, or when it is in danger from being pushed back again and again.\n\nIf you are commander-in-chief with reserve units at headquarters, [Swap] a wavering unit with one of them before it breaks and falls back on its own.
+@3614
+Rings spinning above the soldiers' heads in a vanguard unit mean it is confused. A confused unit's attack falls sharply, and it cannot use troop commands or tactic commands other than [Restore Order]. It also loses its push, lowering your side's push.\n\nUnits become confused when hit by gunfire or the [Confuse] tactic command, in rain or snow, and so on, and more easily when fighting in a "Forest" or when wavering. Confusion ends after a while, sooner the higher the officer's Intellect. [Rally] or [Restore Order] ends it at once.
+@3615
+There are 5 troop types: Infantry, Pikes, Cavalry, Gunners and Mounted Gunners.\n\nIn field battles, each type is strong against the next along the arrows:\n\nInfantry/Gunners -> Pikes -> Cavalry/Mounted Gunners -> Infantry/Gunners\n\nA unit fighting a type it is strong against has higher attack. A strengthened unit can fight as an equal even against a type it is weak against.
+@3616
+The weather on the battlefield keeps changing.\n\nIn rain or snow, vanguard units are easily confused, and Gunners and Mounted Gunners cannot fire. Strengthened units and units holding a "gunnery manual" can still fire in rain or snow.
+@3617
+Keep your push ahead and drive the enemy units far back, and your headquarters moves forward.\n\nWhen it does, your vanguard units gain fighting spirit and morale, and the enemy vanguard is thrown into confusion.
+@3618
+Swap a vanguard unit with a unit at headquarters.\n\nWhen the unit from headquarters reaches the vanguard unit's position, the vanguard unit returns to headquarters in its place.\n\nIf you are not the commander-in-chief, he may reject it.
+@3619
+Send a vanguard unit back to headquarters.\n\nThe commander-in-chief can order any unit. Others can order their own unit, but the commander-in-chief may reject it.\n\nIf the vanguard centre unit falls back and the enemy reaches your headquarters, you lose the field battle. Falling back also raises the enemy units' fighting spirit, so take care.\n\nEnemy units in the row a unit left attack your vanguard centre, putting more strain on it.
+@3620
+Shout the unit's soldiers back into line.\n\nUsed when the unit is not confused, it adds 4 fighting spirit at once. Used when confused, it ends the confusion.\n\n[Rally] can be used once per unit per field battle.
+@3621
+Troop commands use each troop type's strengths to put the unit in a strengthened state, which temporarily raises its attack and more.\n\nThey can be used once 5 or more fighting spirit is built up. Afterwards fighting spirit slowly falls, and at 0 the state ends.
+@3622
+Strengthens an Infantry unit.\n\nAgainst a type it is strong against or the same type, [Assault Raid] raises its attack. Against a type it is weak against (Cavalry, Mounted Gunners), it cancels the match-up so the unit fights as an equal.
+@3623
+Strengthens a Pikes unit.\n\nAgainst a type it is strong against or the same type, [Spear Wall] raises its attack. Against a type it is weak against (Infantry, Gunners), it cancels the match-up so the unit fights as an equal.
+@3624
+Strengthens a Cavalry unit.\n\nAgainst a type it is strong against or the same type, [Charge] raises its attack greatly. Against a type it is weak against (Pikes), it cancels the match-up so the unit fights as an equal or better.
+@3625
+Strengthens a Gunners unit.\n\nAgainst a type it is strong against or the same type, [Volley] raises its attack. Against a type it is weak against (Cavalry, Mounted Gunners), it cancels the match-up so the unit fights as an equal. It may also confuse the enemy unit when used.\n\nThe unit can also fire in rain or snow, which may lower the enemy's morale or confuse it. It still cannot fire on "River" ground.
+@3626
+Strengthens a Mounted Gunners unit.\n\nAgainst a type it is strong against or the same type, [Fire & Charge] raises its attack greatly. Against a type it is weak against (Pikes), it cancels the match-up so the unit fights as an equal or better. It may also confuse the enemy unit when used.\n\nThe unit can also fire in rain or snow, which may lower the enemy's morale or confuse it.
+@3627
+Tactic commands are special moves with all kinds of effects. Which ones a unit can use depends on the tactics of the officer leading it.\n\nThey can be used once 5 or more fighting spirit is built up. As a rule, the higher the fighting spirit when used, the stronger the effect on success.\n\nThey cannot be used while strengthened. Afterwards fighting spirit returns to 0.
+@3628
+Throws an enemy unit into confusion. If it is already confused, makes recovery harder.\n\nIt succeeds more easily the higher your officer's Intellect and the lower the enemy officer's. Against a confused enemy it always succeeds.\n\nOn success, the higher your fighting spirit and the more your officer's Intellect exceeds the enemy's, the longer the confusion lasts.\n\nAn officer with 80 or more Intellect may also throw the enemy into chaos and cut its troops.
+@3629
+Greatly lowers an enemy unit's morale.\n\nIt succeeds more easily the higher your officer's Intellect and the lower the enemy officer's. Against a confused enemy it always succeeds.\n\nOn success, the higher your fighting spirit and the more your officer's Intellect exceeds the enemy's, the more the enemy's morale falls.
+@3630
+Drops an enemy unit's fighting spirit to 0 and lowers its morale.\n\nIt succeeds more easily the higher your officer's Intellect and the lower the enemy officer's. Against a confused enemy it always succeeds.\n\nOn success, the higher your fighting spirit and the more your officer's Intellect exceeds the enemy's, the more the enemy's morale falls.
+@3631
+Reduces an enemy unit's troops.\n\nIt succeeds more easily the higher your officer's Intellect and the lower the enemy officer's. Against a confused enemy it always succeeds.\n\nOn success, the higher your fighting spirit and the more your officer's Intellect exceeds the enemy's, the more troops the enemy loses.
+@3632
+Forces an enemy unit back to its headquarters.\n\nIt succeeds more easily the higher your fighting spirit and officer's Intellect, and the lower the enemy officer's Intellect; more easily still if the enemy is confused.
+@3633
+Restores the unit's morale.\n\nIt succeeds more easily the higher the officer's Intellect.\n\nOn success, the higher the fighting spirit and the officer's Intellect, the more morale rises, but never above its level at the start of the field battle.
+@3634
+Restores the unit's troops.\n\nIt succeeds more easily the higher the officer's Intellect.\n\nOn success, the higher the fighting spirit and the officer's Intellect, the more troops return, but never above the number at the start of the field battle.
+@3635
+Brings the unit out of confusion.\n\nCan be used only while confused.
+@3637
+D-pad: select a unit\n{1B}PA button: give the unit orders\n{1B}PX button: show/hide unit info\n{1B}PY button: show headquarters info\n{1B}PL/{1B}PR buttons: select a unit and centre it on screen\n{1B}PC button: change battle speed\n{1B}PZ button: show enemy unit info\n{1B}PE button: show help\n{1B}PF button: zoom in/out\nLeft stick: move the view\nRight stick: change the view angle
+@3638
+If the army's commander-in-chief is an officer of your castle, you can arrange the units freely.\n\nChoose one of the two gates facing outside the castle and set the units there. Up to 5 units in all can be placed.
+@3639
+If the castle under attack is yours, you can arrange the units freely.\n\nChoose one of the gates of each bailey and set the units there.\n\nThe most units per bailey: 3 in the main bailey, 4 in the second and 5 in the third.
+@3640
+After placing units, the defenders can set traps at the gates.\n\nOnce a trap is set, [Trap] becomes usable after a while in the siege battle. It strikes attacking units near that gate.\n\nLeaving a trapped gate lightly guarded on purpose to lure attackers in, then striking all at once, can work well.
+@3641
+The attackers win a siege battle when:\n\n1. They break a gate of the main bailey\n2. They destroy every defending unit\n3. The defenders surrender\n\nThe main bailey is the innermost bailey of the castle.
+@3642
+The defenders win a siege battle by destroying or driving off every attacking unit.\n\nThey lose if the attackers' victory conditions are met first.
+@3643
+A castle has 3 baileys, main, second and third, linked by gates.\n\nThe attackers enter a bailey by destroying one of its two gates with [Ram]. Breaking a gate of the main bailey wins the battle.\n\nThe defenders can move freely between baileys. Moving a unit to a bailey not yet under attack restores its morale.
+@3644
+Each unit in a siege battle has morale.\n\nUnits fighting the enemy slowly lose morale over time. When it is low, soldiers start to desert. A unit at 0 morale withdraws.\n\nA defending unit moved to a bailey not under attack slowly recovers morale.\n\nAttackers recover some morale when they break through a gate.
+@3645
+Each unit in a siege battle has fighting spirit, shown by the blue lights of the meter in the unit's info panel.\n\nAt 5 or more, tactic commands can be used. Using one returns it to 0.\n\nUnits fighting the enemy slowly gain fighting spirit over time, faster the higher their officer's Leadership.
+@3646
+Sweat above a unit's soldiers' heads means it is wavering.\n\nA unit wavers when its morale is 20 or less.\n\nA wavering unit is easily confused by gunfire, and its soldiers start to desert.
+@3647
+Rings spinning above the soldiers' heads in a unit mean it is confused.\n\nA confused unit accepts no command but [Leave], loses morale faster, and falls more easily for enemy tricks such as [False Report] and [Lure].\n\nUnits become confused when hit by enemy gunfire, [Confuse] or [Storm], and so on.\n\nConfusion ends over time, sooner for officers with high Intellect.
+@3648
+A unit hit by an enemy's [Confuse] may fall into chaos.\n\nA unit in chaos suffers the effects of confusion and loses troops as well.\n\nChaos ends over time, sooner for officers with high Intellect.
+@3649
+A unit hit by an attacker's [Provoke] may be provoked.\n\nA provoked unit accepts no command but [Leave], and goes out of the gate with its attack halved.
+@3650
+The weather on the battlefield keeps changing.\n\nRain or snow puts out fires in baileys and at gates, and stops Gunners and Mounted Gunners from firing and units with cannon from shelling. Units holding a "gunnery manual" treasure can still fire guns in rain or snow.
+@3651
+An officer holding a "cannon" treasure can fire cannon.\n\nWith the attackers, a cannon appears outside the castle and shells the gate, lowering its defence. With the defenders, it shells attacking units, reducing their troops and morale, and may confuse them.
+@3652
+Siege battles run in real time. To give a unit orders, select it with the D-pad and choose the order. For [Shoot], also choose the unit to shoot at.\n\nAs the defenders, choose [Castle] to use [Trap] or [Yield].
+@3653
+Move the unit to another gate.\n\nAfter moving, it uses [Ram]. If 3 units are already using [Ram] there, it uses [Shoot].
+@3654
+Attack the gate.\n\nUp to 3 units per gate can use [Ram]. Once the gate is broken, the unit can enter the bailey. The more defending units [Defend] the gate, the harder it is to break.
+@3655
+Attack a defending unit with bows or guns.\n\nGunners and Mounted Gunners fire guns; other units shoot bows. Guns cannot be fired in rain or snow.
+@3656
+Withdraw the unit from the battlefield.\n\nA unit ordered to [Leave] moves to where it can leave, then disappears from the battlefield. The order cannot be cancelled.
+@3657
+Move the unit to another gate.\n\nAfter moving, it uses [Defend]. If 3 units are already using [Defend] there, it uses [Shoot].
+@3658
+Hinder the attackers' [Ram] (attacks on the gate).\n\nThe more troops [Defend] a gate, the harder it is to break. Up to 3 units per gate can [Defend].
+@3659
+Attack an attacking unit with bows or guns.\n\nGunners and Mounted Gunners fire guns; other units shoot bows. Guns cannot be fired in rain or snow.
+@3661
+Spring the trap set at a gate.\n\nSelect [Castle], then [Trap]. The trap is ready a set time after the siege battle begins.\n\n[Trap] greatly reduces the troops of attacking units at the trapped gate. If the gate is broken before you use it, the trap is destroyed too.
+@3662
+Admit defeat and hand over the castle.\n\nSelect [Castle], then [Yield]. A daimyo who loses without ever using [Yield] may be refused subordination after the battle and have his clan abolished. When defeat is certain, it may be best to [Yield] with good grace. A surrender may still be refused, for example if friendship with the other castle lord is low.
+@3663
+Pull every unit in the bailey under attack back to the next bailey.\n\nUsing [Back] just before a gate breaks keeps losses down and lets you regroup in the next bailey.
+@3664
+Tactic commands are special moves with all kinds of effects. Which ones a unit can use depends on the tactics of the officer leading it.\n\nThey can be used once 5 or more fighting spirit is built up. As a rule, the higher the fighting spirit when used, the stronger the effect on success.\n\nAfterwards fighting spirit returns to 0.
+@3665
+Throws an enemy unit into confusion. If it is already confused, makes recovery harder.\n\nIt succeeds more easily the higher your officer's Intellect and the lower the enemy officer's.\n\nOn success, the higher your fighting spirit and officer's Intellect and the lower the enemy officer's, the longer the confusion lasts.\n\nAn officer with 80 or more Intellect may also throw the enemy into chaos and cut its troops.
+@3666
+Lowers an enemy unit's morale.\n\nIt succeeds more easily the higher your officer's Intellect and the lower the enemy officer's.\n\nOn success, the higher your fighting spirit and officer's Intellect and the lower the enemy officer's, the more the enemy's morale falls.
+@3667
+Lowers an enemy unit's fighting spirit.\n\nIt succeeds more easily the higher your officer's Intellect and the lower the enemy officer's.\n\nOn success, the higher your fighting spirit and officer's Intellect and the lower the enemy officer's, the more the enemy's fighting spirit falls.
+@3668
+Reduces an enemy unit's troops.\n\nIt succeeds more easily the higher your officer's Intellect and the lower the enemy officer's.\n\nOn success, the higher your fighting spirit and officer's Intellect and the lower the enemy officer's, the more troops the enemy loses.
+@3669
+Feeds an enemy unit a false report, moving it to another gate of the same bailey. If it works well, the unit may withdraw.\n\nIt succeeds more easily the higher your fighting spirit and officer's Intellect, and the lower the enemy officer's Intellect; more easily still if the enemy is confused.
+@3670
+Hurls fire pots at an enemy unit, reducing its troops.\n\nIt succeeds more easily the higher your officer's Intellect and the lower the enemy officer's.\n\nOn success, the higher your fighting spirit and officer's Intellect and the lower the enemy officer's, the more troops the enemy loses.
+@3671
+Moves to another gate of the same bailey, luring an enemy unit along.\n\nA lured unit moves to the other gate more slowly than usual.\n\nIt succeeds more easily the higher your fighting spirit and officer's Intellect, and the lower the enemy officer's Intellect; more easily still if the enemy is confused.\n\nAfter luring, the unit uses [Defend] or [Ram]. If 3 units are already doing so there, it uses [Shoot].
+@3672
+Attacking units only. Provokes an enemy unit into coming out of the gate.\n\nA provoked unit intercepts with lower attack than usual.\n\nIt succeeds more easily the higher your fighting spirit and officer's Intellect, and the lower the enemy officer's Intellect. It is harder against a unit led by the defending castle lord.
+@3673
+Restores the morale of allied units.\n\nIt succeeds more easily the higher the officer's Intellect.\n\nOn success, the higher the fighting spirit and the officer's Intellect, the more morale rises.
+@3674
+Restores the troops of allied units.\n\nIt succeeds more easily the higher the officer's Intellect.\n\nOn success, the higher the fighting spirit and the officer's Intellect, the more troops return, but never above the number at the start of the siege battle.
+@3675
+Brings allied units out of confusion.\n\nCan be used only when an allied unit at the same gate is confused.
+@3676
+Attacking units only. Sends spies into the castle to scout the units in the bailey and find the traps.\n\nIt succeeds more easily the higher your fighting spirit and officer's Intellect, and the lower the total defence of the baileys.\n\nUsing [Spy] once a trap is found may disarm it, or even spring it on the defending units.
+@3677
+Attackers only. Smashes a gate in one go, greatly lowering its defence. The gate may even open.\n\nIt succeeds more easily the higher the officer's Intellect, and more easily still with the Repair skill.\n\nOn success, the higher your fighting spirit and officer's Intellect, and the fewer the troops and the lower the Leadership of the defenders who [Defend] the gate, the more its defence falls.
+@3678
+Defending units only. Restores the defence of a gate under attack.\n\nIt succeeds more easily the higher the officer's Intellect, and more easily still with the Repair skill.\n\nOn success, the higher your fighting spirit and officer's Intellect, and the fewer the troops and the lower the Leadership of the attackers using [Ram] there, the more defence is restored.
+@3679
+Defending units only. Leaves through the gate to strike attacking units directly.\n\nIt succeeds more easily the higher the officer's Leadership and Intellect.\n\nOn success, the unit's morale rises according to its fighting spirit, and it goes out of the gate to fight the attackers.\n\nThe fight lasts until either the intercepting unit or the attackers at that gate are wiped out. Meanwhile the attackers are "engaged" and cannot use [Ram] or [Shoot] until they destroy the intercepting unit.
+@3680
+Attacking units only. Drives back a defending unit that used [Intercept] and storms through the gate with it.\n\nIt succeeds more easily the higher the officer's Leadership and Intellect. On success, the unit's morale rises according to its fighting spirit, and it storms through the gate to fight the defenders.\n\nThe fight lasts until either the storming unit or the defenders at that gate are wiped out. Meanwhile the defenders are "engaged" and cannot use [Defend] or [Shoot] until they destroy the storming unit.
+@3681
+Sets fire between gates, stopping enemy units from moving between them for a while.\n\nIt succeeds more easily the higher the officer's Intellect. For attackers, it is easier the lower the defence of that bailey's gates and the total defence of the baileys; for defenders, the higher they are.\n\nOn success, the higher the fighting spirit and the officer's Intellect, the longer the fire burns.
+@3682
+Sets fire to a gate, stopping the enemy's [Defend] and [Ram] for a while.\n\nIt succeeds more easily the higher the officer's Intellect. For attackers, it is easier the lower the defence of that gate and the total defence of the baileys; for defenders, the higher they are.\n\nOn success, the higher the fighting spirit and the officer's Intellect, the longer the gate burns.
+@3684
+D-pad: select a unit\n{1B}PA button: give the unit orders\n{1B}PX button: show/hide unit info\n{1B}PY button: centre the gates of the bailey under attack\n{1B}PL/{1B}PR buttons: select a unit and centre it on screen\n{1B}PC button: change battle speed\n{1B}PZ button: show enemy unit info\n{1B}PE button: show help\n{1B}PF button: zoom in/out\nLeft stick: move the view\nRight stick: change the view angle
+@3685
+The Imperial Court has held the ceremony for a new era. The new era name is %s.
+@3686
+It was autumn in 1543 (Tenbun 12)... A foreign ship drifted ashore at Tanegashima in Osumi. The red-haired, blue-eyed man who stepped off it is said to have carried a black rod...
+@3687
+I am honoured to meet you. I am a merchant of Portugal, and my name is Antonio da Mota.
+@3688
+Hmm, so you are a merchant of Portugal. Now, I have been curious for some time... What is that black rod you carry? I have never seen its like...
+@3689
+A black rod...? Ah, this is called a "gun." It is a kind of weapon. It strikes things far away, like this.
+@3690
+Oh...! This is splendid. I must have it. What do you say?
+@3691
+Very well. In thanks for your help, I shall give you two of them.
+@3692
+The black rod that spat fire with a roar and destroyed things far away: the "gun." Its power was soon known across the land, and it became a weapon no battle could do without...
+@3693
+It was autumn in 1549 (Tenbun 18)... A foreigner landed at Kagoshima in Satsuma. The man in a cloak is said to have carried a book called "the Bible"...
+@3694
+Who on earth are you? I have never seen such clothing...
+@3695
+I am a missionary of the Society of Jesus, and my name is Francis Xavier. I have come to spread the teachings of Deus among the people of Zipangu...
+@3696
+Hmm... The teachings of Deus... Rather different from those of the gods and the Buddha. Interesting. Very well, I grant you leave to preach.
+@3697
+Thank you. I am deeply grateful for your kindness...
+@3698
+The foreign faith brought by Francis Xavier of the Society of Jesus spread quickly, above all in the west, and with it all kinds of Western goods and learning swept across the land...
+@3699
+It was summer in 1534 (Tenbun 3)... At {02}{01}N a baby boy gave his first cry. His father was {02}{01}n; his mother, {02}{01}4's wife, Lady Dota.
+@3700
+My lord, my warmest congratulations on the birth of a son.
+@3701
+On behalf of all your vassals, we offer our congratulations.
+@3702
+Yes, well done. Nobuhiro may be my eldest, but he is a concubine's son. This child will be heir to the {02}{01}2 clan.
+@3703
+I appoint you his guardians. Raise him to be worthy of heading the {02}{01}2 clan. I shall also give him Aoyama Yosaemon and Naito Katsusuke.
+@3704
+Yes, my lord! I accept with all my heart. I, {02}{03}4, will serve the young master with my very life.
+@3705
+My lord, we have not yet heard the young master's name...
+@3706
+Oh! So you have not. This child's name is... Kipposhi! {02}{04}2 Kipposhi!!
+@3707
+Lord Kipposhi... A fine name indeed. And what a lusty cry he has! He will surely grow into a strong young man.
+@3708
+Hahaha! Let us hope so.
+@3709
+This boy named Kipposhi was {02}{04}n, who would one day lead the warring land toward peace...
+@3710
+It was spring in 1546 (Tenbun 15)... {02}{01}n, lord of {02}{01}N, called his heir Kipposhi to his room.
+@3711
+Father, what is it you want with me?
+@3712
+Hmm... You are old enough to come of age. The coming-of-age ceremony will be held in 10 days. Be sure you understand that.
+@3713
+I hate ceremonies. Can't we leave ceremonies to the old men?
+@3714
+Do not talk such nonsense! It is the most important ceremony of a man's life. Only once you come of age does the world see you as a grown man.
+@3715
+I see. Then it can't be helped. But I have one condition. Will you hear it?
+@3716
+What is it? Speak.
+@3717
+The name I take when I come of age... I want to be called "Nobunaga."
+@3718
+Oh...? And why is that?
+@3719
+Walking through town, I heard a ronin lecturing on names. He said "Nobunaga" is the name of one who will rule the realm.
+@3720
+Wahahaha... How amusing! Very well, you may take that name. So be sure to attend the ceremony.
+@3721
+And so Kipposhi completed his coming of age and took the name "{02}{02}n"...
+@3722
+{02}{02}n, long driven by the ambition to march on Kyoto and command the realm, at last set out from his castle, {02}{02}N, at the head of 40,000 men...
+@3723
+As you have all heard, {02}{02}4's army is marching on {02}{01}N. How can we beat {02}{02}4? Each of you, speak your mind.
+@3724
+My lord, if I may: the enemy has 40,000 men, we have 4,000... Fighting in the open would be unwise. Holding the castle is our best course...
+@3725
+I see. And the rest of you? ...Do you all agree with {02}{04}4?
+@3726
+I understand your views well. Go and rest for today. I shall go to bed too.
+@3727
+My lord! Please wait! The council has not reached a decision. We cannot leave without hearing your view, my lord.
+@3728
+...Enough! My mind is made up. Fretting does no good. I am going to bed; all of you, get some rest.
+@3729
+...What is this? What can our lord be thinking? Has he given up already? Is this the end of the {02}{01}2 clan...
+@3730
+That night...
+@3731
+News, my lord! Word has come that {02}{02}n's army is attacking Marune Fort!
+@3733
+...Bring my armour! We march! To the Atsuta Shrine! Follow me!!
+@3734
+Yes, my lord! Everyone! We march! Our lord has set out!!
+@3735
+Wh-what!? Our lord has set out!? And where to!? ...Atsuta Shrine!? ...Understood, I'll come at once. Everyone, follow our lord!!
+@3736
+Leaving {02}{01}N with just 5 riders, lord and men together, {02}{01}4 reached Atsuta Shrine and at once offered the prayer he had prepared...
+@3737
+I, {02}{01}n, go forth this day to thwart the ambition of {02}{02}n... Behold our righteous cause...
+@3738
+Hm! Listen well, all of you!! I heard the clash of steel from deep in the shrine! The god of Atsuta is with us!!
+@3739
+Ooooh!!
+@3740
+Now we go to strike down {02}{02}4! All of you! Entrust your lives to me! Fall behind, and your shame will last for generations!
+@3741
+{02}{01}4 raced headlong toward {02}{02}4's army, but word came that the Marune and Washizu forts had fallen, and he was at a loss...
+@3742
+Where is {02}{02}4's headquarters... The enemy must be close by now. At this rate...
+@3743
+My lord, it seems the scout has returned.
+@3744
+Oh, {02}{05}4! Well? Have you found where {02}{02}4 is?
+@3745
+Yes, my lord! They say {02}{02}4 is resting at Dengakuhazama even now, behind curtains he has had put up all around.
+@3746
+Oh! Is that so! Everyone! {02}{02}4 has walked into his grave of his own accord! To Dengakuhazama! Follow me!
+@3747
+Rain had begun to fall. When the {02}{01}2 army reached Dengakuhazama, the soldiers of the {02}{02}2 army were all in the middle of a feast...
+@3748
+...Victory is mine!
+@3749
+...Listen, all of you! We want one thing only: {02}{02}4's head. Leave the rest where they fall! Forward!!
+@3800
+They say a chief retainer once asked Lord {02}{05}4 what he would do once he ruled the realm. Do you know what Lord {02}{05}4 answered?
+@3801
+...No, I do not.
+@3802
+He said, "I shall dance for the court nobles of Kyoto"... I was too stunned to speak. At this rate the Oda clan is surely doomed.
+@3803
+Lord {02}{06}4 is certainly a finer man than Lord {02}{05}4, but he is rather too rash... I fear we will go the way of the Takeda.
+@3804
+The worst of it is how badly the two of them get on. Whichever succeeds Lord Nobunaga, there is sure to be a fight.
+@3805
+All you say makes sense... Then who do you think is fit to succeed Lord Nobunaga?
+@3806
+By right, the eldest son inherits. Lord Nobutada is dead, so by right it should be his son, the young Lord Samboshi.
+@3807
+...I see, you are right. Lord Samboshi is still a small child, so there should be no fighting over him...
+@3808
+And so {02}{01}n won over {02}{03}n, one of the senior vassals. The next day, the council at last began...
+@3809
+Now, first, Lord Nobunaga's successor... I believe Lord {02}{06}4 is the most fitting. In age and character alike, he is worthy to succeed to the Oda clan...
+@3810
+What a strange thing to say!
+@3811
+What!? What do you mean, strange? Then who do you say is fit?
+@3812
+By right, is it not the eldest son who inherits? The late Lord Nobutada's eldest son is alive and well. Should we not make Lord Samboshi the heir?
+@3813
+What are you saying? Lord Samboshi is only 3 years old! What can a child of 3 do!?
+@3814
+Lord Samboshi is indeed still young, but if all the vassals give their utmost to support him, there is no problem. What matters, I say, is the rightful line.
+@3815
+...Has anyone else a view? At this rate we will never agree.
+@3816
+...I agree with Lord {02}{01}4. Make Lord {02}{06}4 heir over Lord {02}{05}4, and trouble is sure to follow.
+@3817
+...I too side with Lord {02}{01}4. Lord Nobutada should have succeeded, and now that he is gone, it is surely right for his eldest son to succeed.
+@3818
+They are both right. Many houses have fallen because they would not pass the headship to the eldest son... Not even the Takeda were spared.
+@3819
+What do you say, Lord {02}{02}4? Do you still say Lord {02}{06}4 is fit to be heir?
+@3820
+Grrrr...
+@3821
+So Nobunaga's grandson, his eldest son's son Samboshi, was chosen to succeed to the Oda clan. But after this council, the rift between {02}{01}4 and {02}{02}4 only deepened...
+@3822
+{01}C{0C}{00}, an envoy from the Imperial Palace has arrived.
+@3823
+Well, well... Welcome. And what brings you here today?
+@3824
+It has been decided to appoint you Shogun. We earnestly hope you will accept.
+@3825
+Accept the private word of your appointment as Shogun?
+@3826
+What... Make me Shogun...? It is an honour far beyond one such as I... I humbly accept.
+@3827
+His Majesty earnestly wishes for peace in the empire. We count on you.
+@3829
+And so {02}{01}n became Shogun. It is said his vassals rejoiced greatly...
+@3830
+The burden would be too heavy for me. I am sorry, but I must decline.
+@3831
+Lord {02}{02}n, We find this most regrettable.
+@3832
+And so {02}{01}n declined the appointment as Shogun. It is said his vassals were unhappy with {02}{01}4's conduct...
+@3833
+One day, {02}{02}n, who had inherited the headship of the {02}{03}2 clan, visited his father {02}{01}n...
+@3834
+Oh! If it isn't {02}{02}4! What brings you here today?
+@3835
+It has been too long. The other day it was formally settled that I inherit the headship of the {02}{03}2 clan. I have come today to pay my respects, and...
+@3836
+...After all, I am a man of the {02}{01}2 clan. From today I wish to serve under the {02}{01}2 banner. I beg your leave.
+@3837
+I see! I am glad of the love you show your father. Then from today you shall follow me. Let us fight together, side by side!
+@3839
+And so {02}{02}n came to serve {02}{01}n...
+@3840
+{02}{02}n, long discontented with {02}{01}n, declared that he was breaking away from the {02}{01}2 clan.
+@3841
+My lord! Something terrible has happened! It seems {02}{02}n of {02}{02}N has broken away from our clan!
+@3842
+What!? {02}{02}4 has broken away!?
+@3843
+What is more, all the treasures handed down in our clan are gone. Ninja sent by {02}{02}4 must have taken them...
+@3844
+Curse you, {02}{02}4... Have you forgotten all the favour I showed you!? We march to punish him! Make ready!
+@3845
+My lord, please wait a while. The men are badly shaken by the news of {02}{02}4's betrayal. Please bear it a little longer...
+@3846
+Grrr... {02}{02}4...
+@3847
+Meanwhile, at the castle of {02}{02}4, who had broken away from the {02}{01}2 clan...
+@3848
+My lord, it went well. {02}{01}4's men seem badly shaken.
+@3849
+Yes. We even got the treasures handed down in the {02}{01}2 clan... I never thought it would go so well.
+@3850
+Our own men, on the other hand, are in high spirits. Hearing the news, ronin from all over seem to be joining us. This is the perfect chance to strike down {02}{01}4...
+@3851
+No, wait a while on that. Never underestimate {02}{01}4. He is a fearsome man to have as an enemy. Building our strength comes first.
+@3852
+Yes, my lord! As you command!
+@3853
+And so {02}{02}n broke away from the {02}{01}2 clan. What fate awaits {02}{01}4 and {02}{02}4...?
+@3854
+One day, {02}{01}4, head of the {02}{01}2 clan, gathered his vassals and held a council...
+@3855
+It seems you are all here. Today there is something I must tell you.
+@3856
+About the request you all made some time ago, that I retire... I have decided to set it aside.
+@3857
+You all know the reason well: I have no heir... With no heir, there is no point in retiring.
+@3858
+I know this decision is not what you wished, but from now on I will strive to be a good lord to you all. Please, lend me your strength.
+@3859
+And so {02}{01}n went on running the affairs of the {02}{01}2 clan...
+@3860
+One day, {02}{01}4, head of the {02}{01}2 clan, called for {02}{02}n, a candidate for heir...
+@3861
+I have decided to retire, and to hand the headship to {01}C{0B}{00}. I leave everything after that to you.
+@3862
+!? ...Why must {01}C{0C}{00} retire!?
+@3863
+...My vassals are pressing me to retire. I do not wish to... But as things stand, the {02}{01}2 clan will be torn apart.
+@3864
+To save the {02}{01}2 clan, there was no choice but for me to retire... Bitter as it is...
+@3865
+Now there is nothing for it but to entrust what follows to {01}C{0B}{00}. Make the {02}{01}2 clan flourish, for my sake as well...
+@3866
+...Understood. I will do my best, for {01}C{0C}{00}'s sake as well!
+@3867
+And so {02}{01}n retired, and {02}{02}n became the new head of the {02}{01}2 clan...
+@3868
+One day, {02}{02}n, a vassal of the {02}{01}2 clan, visited the head of the clan, {02}{01}4...
+@3869
+{01}C{0C}{00}... What has become of the matter I raised before?
+@3870
+...What matter?
+@3871
+The matter of {01}C{0C}{00}'s retirement. The vassals are all deeply unhappy with the way you do things.
+@3872
+At this rate the {02}{02}2 clan is sure to fall... Leave this to your {01}C{02}{00}. I will not do badly by you.
+@3873
+...Enough. I hand the headship of the {02}{01}2 clan to {01}C{0B}{00}. Do as you please...
+@3874
+Yes, my lord! I am most grateful that you have heard me. I will surely lead the {02}{02}2 clan to glory.
+@3876
+It seems {02}{02}4, son of {02}{01}n, has forcibly made {02}{04}4, daughter of {02}{03}n, his wife, though she was to marry {02}{06}n.
+@3877
+{02}{04}4, daughter of {02}{03}n, was beautiful and clever, and many offers came from nearby houses asking for her as a bride...
+@3878
+Of them all, {02}{03}4 chose {02}{06}4, eldest son of {02}{05}n, as {02}{04}4's husband. Then one day, with the wedding close at hand...
+@3879
+Hmm... To ask for {02}{04}4 as a bride at this late hour... And for the eldest son of {02}{01}n, no less...
+@3880
+The {02}{01}2 clan is rising like the morning sun. A tie with them would not be bad... But I cannot break my word. She will marry into the {02}{05}2 clan as planned.
+@3881
+{02}{03}4 at once sent {02}{01}4 a refusal...
+@3882
+Father, what answer did the {02}{03}2 clan send?
+@3883
+Hahaha, they refuse... {02}{03}4 is a man of firm principle. Even for us, he will not break his first promise.
+@3884
+I see... But I cannot give her up. I have heard she is the most beautiful woman in all the land...
+@3885
+If it has come to this, there is no help for it. I shall take her by force!
+@3886
+H-hey! {02}{02}4, where are you going!?
+@3887
+{02}{02}4 set out for {02}{03}N with 300 picked horsemen. By chance, {02}{04}4's wedding procession was passing nearby...
+@3888
+Eek! ...Wh-who are you!?
+@3889
+Hahaha, forgive my rudeness. My name is {02}{02}n. I have come to receive the princess. Come, this way.
+@3890
+What are you saying!? I am to marry Lord {02}{06}4. I do not know you! Stand back, you churl!
+@3891
+I know all that full well. I have come all this way because I simply must have you for my wife.
+@3892
+If you will not consent, I shall take you by force! Men, at them!
+@3893
+{02}{02}4's 300 picked horsemen cut down {02}{04}4's escort in moments... {02}{04}4 was carried off to {02}{02}N and made {02}{02}4's wife.
+@3894
+{02}{03}n and {02}{05}n were enraged by this outrage, and relations between each of them and the {02}{01}2 clan turned hostile...
+@3895
+It seems {02}{03}2 Yashichiro, a vassal of the {02}{01}2 clan, has killed his lord {02}{01}4. He seems to have wrongly believed {02}{01}4 had killed his father {02}{03}4.
+@3896
+"{02}{03}n is plotting rebellion." This rumour was whispered within the {02}{01}2 clan. Meanwhile, the head of the clan, {02}{01}4, set up his headquarters at Moriyama for a battle...
+@3897
+What!? ...Our lord has cut down my father!? Did he believe the rumours of rebellion!? Father would never rebel! If it has come to this, I have no choice...
+@3898
+Told that his father {02}{03}4 had been killed, Yashichiro went straight to {02}{01}4's headquarters...
+@3899
+Oh, Yashichiro! What is it, so suddenly? Has something happened at your camp?
+@3900
+...For my father!!!
+@3901
+Gwah! ...Wh-what are you doing...? What do you mean, for your father...?
+@3902
+You cut down my father, did you not! Believing groundless rumours!
+@3903
+Y-you have... made some mistake... Gwah!...
+@3904
+What is this commotion... Hm? Yashichiro, why are you here? ...M-my lord! Yashichiro, did you do this!? What have you done...
+@3905
+!? ...F-Father! Then... the news that our lord had cut you down was...
+@3906
+What are you saying!? It must have been an enemy spy's work! To be fooled so easily, you utter fool!
+@3907
+Gwah! ...F-Father... My lord... Forgive me... Gwah!...
+@3908
+My lord! I have punished the wretch... I am sorry, so very sorry...
+@3909
+{02}{01}4 was only {02}{01}p. His son {02}{02}4 succeeded him at once, but {02}{02}4 was only {02}{02}p. A long road of hardship began for the {02}{02}2 clan...
+@3910
+It seems {02}{02}n, deputy constable of {02}{01}{9C} Province in the service of the {02}{01}r, has died. {02}{01}n has taken on the {02}{02}2 name and is now called "Saito Dosan."
+@3911
+It was autumn in 1538 (Tenbun 7)... {02}{02}n, deputy constable of {02}{01}{9C} Province in the service of the {02}{01}r, lay ill in bed. One day {02}{02}4 sent for {02}{01}n.
+@3912
+Oh... Lord {02}{01}4...
+@3913
+Lord {02}{02}4, take heart! You must still serve our lord for a long time yet.
+@3914
+No, I have not long left... Today I have a favour to ask of you.
+@3915
+...? What is it? Anything I can do, I will.
+@3916
+I want you to carry on the name "{02}{02}2." If you take it on, I can go to the next world in peace.
+@3917
+! ...What are you saying? The {02}{02}2 are the house of the deputy constables of {02}{01}{9C} Province. It is no name for a man of low rank like me.
+@3918
+No, no... It is someone able like you I want to carry it on. Please... carry on the name "{02}{02}2."
+@3919
+...Very well. If your mind is so set, so be it. I shall carry on the name "{02}{02}2."
+@3920
+...Thank you. Now I can set out for the next world in peace...
+@3921
+And so {02}{01}n succeeded {02}{02}n and took the name "Saito Dosan."
+@3922
+It seems {02}{01}n's castle, {02}{01}N, has burned, and old records and treasures were lost. A quarrel between his vassals Akanuma Bitchu and Okuse Aki seems to be the cause.
+@3923
+One day... Akanuma Bitchu, master of the stables, and Okuse Aki, head of the pages, both in the service of {02}{01}n, came to {02}{01}N.
+@3924
+Akanuma Bitchu and Okuse Aki! What is it? What do you two want with me together?
+@3925
+We have come today because we must ask you to judge between us, my lord. You see, Okuse keeps picking a quarrel with me over our borders.
+@3926
+What are you saying!? You are the one complaining about the borders! Lie, and I will not let it pass!
+@3927
+Don't lie! I am not complaining about anything. I am only answering the quarrel you pick!
+@3928
+...Enough!! Will you both be quiet!!! I will hear each of you in turn first, then give my judgement! Is that clear?
+@3929
+Each stated his complaint against the other. After a while, the judgement came: "Akanuma Bitchu's suit is dismissed." Enraged, Akanuma headed for Okuse's room...
+@3930
+You, Okuse! You used your place as head of the pages to win our lord over!!
+@3931
+Wh-what are you saying!? I did no such thing! Stop making strange accusations just because you lost your suit!
+@3932
+Enough talk! Hiding behind our lord's authority... I won't stand for it!!
+@3933
+H-hey! Stop, stop I say! Gwah!...
+@3934
+Akanuma cut Okuse down, then at once set fire to {02}{01}N!!
+@3935
+Wahahaha! Let the {02}{01}2 clan be gone! Let everything burn to ashes! Wahahaha...
+@3936
+Soon after, Akanuma was killed by an army {02}{01}4 sent after him. It is said every old record and treasure of the {02}{01}2 clan was lost in the fire...
+@3937
+It seems {02}{02}n has banished his father {02}{01}4 and become head of the {02}{01}2 clan. {02}{02}4 and the vassals seem to have turned against {02}{01}4's harsh rule.
+@3938
+The harsh rule of {02}{01}4, head of the {02}{01}2 clan, had driven the people to the limit. Led by {02}{02}4, the {02}{01}2 clan watched with bitter hearts...
+@3939
+Father, you sent for me?
+@3940
+I intend to visit Lord {02}{05}4. For the future, we must keep on good terms with the {02}{05}2 clan. I thought I would see my daughter while I am there.
+@3941
+I see. A wise thought. Take care on your journey. Leave the castle to us while you are away.
+@3942
+Yes. I am counting on you.
+@3943
+And so {02}{01}4 set off to see {02}{05}n. A while later...
+@3944
+Lord {02}{02}4...
+@3945
+{02}{04}4 and {02}{03}4... What do you want?
+@3946
+The people's anger is about to boil over. With the old lord away, now is the perfect chance. Please decide!
+@3947
+Brother! I will follow you, so please decide!
+@3948
+...So it must be. There is no other way to save the people. We shall ask Father to stay on with the {02}{05}2 clan...
+@3949
+A few days later... {02}{01}4 set off home in fine spirits, but the moment he left {02}{05}N...
+@3950
+Hm!? Wh-what are you doing!? Do you know I am {02}{01}n!?
+@3951
+Quiet, please. A message from Lord {02}{02}4: "I am sorry, Father, but I must ask you to stay on with the {02}{05}2 clan."
+@3952
+What... You mean to throw me out!? Curse you, {02}{02}4... I will be back! I will come back, you'll see!!
+@3953
+And so {02}{02}n banished his father {02}{01}4 to {02}{05}{9C} and took over the headship of the {02}{01}2 clan...
+@3954
+It seems {02}{01}n, a vassal of the {02}{02}2 clan, has banished his lord {02}{02}4, who had sunk into endless drinking, and seized power in {02}{01}{9C} Province.
+@3955
+Some years after {02}{02}n succeeded to the {02}{02}2 clan with {02}{01}n's backing... {02}{01}4 had drowned {02}{02}4 in drink and feasting, and now moved to fulfil his own ambition.
+@3956
+Oh, {02}{01}4! You've come at a good time. Drink with me.
+@3957
+...I have an important matter to discuss. Please send everyone away.
+@3958
+What is this, all of a sudden... Just when I'm enjoying myself. Later, later.
+@3959
+...My lord!!
+@3960
+All right, all right... Everyone, leave us. I must talk with {02}{01}4...
+@3961
+They've all gone. So, what is it?
+@3962
+...With respect, I have come to ask that you retire, my lord.
+@3963
+...!? Why!? Why must I retire!?
+@3964
+Think on what you have done, my lord. Drowned in drink, you barely look at the affairs of state. Many vassals are voicing discontent. That they want you to retire is only natural...
+@3965
+Don't talk nonsense! I will never retire! I don't want to see your face! Get out!
+@3966
+Is that so. I have heard your thoughts clearly, my lord. Then I take my leave...
+@3967
+That night... {02}{01}4's army attacked {02}{02}4's residence. Drunk on wine, {02}{02}4 could do nothing and was driven out.
+@3968
+Farewell, Lord {02}{02}4. Leave the governing of {02}{02}{9C} to us... Hahaha.
+@3969
+Curse you, {02}{01}4... I will never forget this as long as I live...
+@3970
+And so {02}{01}n banished his lord {02}{02}n, seized power in {02}{02}{9C} Province and fulfilled his ambition...
+@3971
+It seems {02}{01}n, 12th shogun of the Muromachi shogunate, is to retire. His eldest son {02}{02}4 seems to have become the 13th shogun.
+@3972
+One day... The Shogun, {02}{01}n, sent for his son {02}{02}4.
+@3973
+Father... You sent for me so suddenly. What is it?
+@3974
+{02}{02}4... I am tired. I want to cast everything aside and retire. So I mean to hand the post of shogun to you.
+@3975
+What are you saying!? I am only {02}{02}p, still young and untried. I could not possibly have the strength to rule the land.
+@3976
+You will be fine. You show more promise than I. Do not make me suffer any more...
+@3977
+...Very well. I will surely restore the glory of the shogun's house by my own strength!
+@3978
+And so {02}{02}n became the 13th shogun of the Muromachi shogunate. Later he learned the sword from Tsukahara Bokuden and others, and came to be called "the Sword Saint Shogun"...
+@3979
+It seems {02}{02}4, daughter of {02}{01}n, has married {02}{04}4, eldest son of {02}{03}n. {02}{01}4 is said to have given {02}{02}4 a dagger.
+@3980
+One day... {02}{01}n sent for his daughter {02}{02}4, who was to marry {02}{04}n.
+@3981
+Father, you called for me?
+@3982
+The wedding is tomorrow at last. There is something I must tell you... I am giving you this.
+@3983
+...? Why do you give me a dagger?
+@3984
+If {02}{04}4 truly is a fool, stab him with this. Then come straight back to {02}{01}N. Understood?
+@3985
+...That I cannot accept. I am to be Lord {02}{04}4's wife, so depending on the time and the need...
+@3986
+...I may turn this blade on you, Father... Please understand that.
+@3987
+Ngh... Wahahahaha... Spoken like the Viper's daughter! She is too good a bride for the likes of {02}{04}4!
+@3988
+And so {02}{02}4, daughter of {02}{01}n, went to marry {02}{04}n...
+@3989
+It seems {02}{02}n has succeeded his brother {02}{01}4 as head of the {02}{01}2 clan. {02}{01}4 was sickly and lacked leadership, and seems to have lost his vassals' trust.
+@3990
+After his father Tamekage's death, {02}{01}4 had inherited the {02}{01}2 clan, but he was sickly and lacked leadership, and his vassals' hearts were slowly drifting away...
+@3991
+Thank you for coming. Today I have something important to discuss with you... It is none other than the headship of the {02}{01}2 clan.
+@3992
+...That again? I have only one answer! Now, if you will excuse me...
+@3993
+Wait, Lord {02}{01}4! This time you will hear me out. Your vassals' hearts have already left you.
+@3994
+At this rate you will destroy the {02}{01}2 clan. Is that what you want!?
+@3996
+Understood? Leave everything to Lord {02}{02}4. I will tell him myself to treat you with respect.
+@3997
+...I understand. I shall do as Lord {02}{03}4 says...
+@3998
+And so, through {02}{03}n's mediation, {02}{02}n was adopted by his own elder brother {02}{01}4 and succeeded to the {02}{02}2 clan.
+@3999
+No one then could have imagined that {02}{02}4 would one day be called "the Dragon of Echigo," feared across every province...

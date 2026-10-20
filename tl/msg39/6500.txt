@@ -1,0 +1,1790 @@
+@6500
+Daimyo {02}{01}n dies of illness and {02}{02}n inherits the headship.
+@6501
+The daimyo retires and a kin officer inherits the headship.
+@6502
+Daimyo {02}{01}n retires and {02}{02}n inherits the headship.
+@6503
+The daimyo is assassinated by another clan's scheme and a kin officer inherits the headship.
+@6504
+Daimyo {02}{01}n is assassinated by a scheme of daimyo {02}{03}n, and {02}{02}n inherits the headship.
+@6505
+Daimyo {02}{01}n is assassinated by someone's scheme, and {02}{02}n inherits the headship.
+@6506
+A retainer banishes the lord and becomes daimyo.
+@6507
+{02}{01}n banishes the lord and becomes daimyo.
+@6508
+A castle lord betrays the clan and switches sides.
+@6509
+{02}{01}n, castle lord of the {02}{01}v, betrays and switches to the {02}{02}v.
+@6509.1
+Castle lord {02}{01}n betrays and switches to the {02}{02}2 clan.
+@6510
+A castle lord rebels and goes independent.
+@6511
+{02}{01}n, castle lord of the {02}{01}v, rebels and goes independent with castle lords {02}{02}n and {02}{03}n.
+@6511.1
+Castle lord {02}{01}n rebels and goes independent with castle lords {02}{02}n and {02}{03}n.
+@6512
+{02}{01}n, castle lord of the {02}{01}v, rebels and goes independent with castle lord {02}{02}n.
+@6512.1
+Castle lord {02}{01}n rebels and goes independent with castle lord {02}{02}n.
+@6513
+{02}{01}n, castle lord of the {02}{01}v, rebels and goes independent.
+@6513.1
+Castle lord {02}{01}n rebels and goes independent.
+@6514
+A castle lord's rebellion fails and the lord punishes them.
+@6515
+{02}{01}n, castle lord of the {02}{01}v, fails in a rebellion and is punished.
+@6515.1
+Castle lord {02}{01}n fails in a rebellion and is punished.
+@6516
+A retainer deserts.
+@6517
+{02}{01}n, officer of the {02}{01}v, deserts.
+@6517.1
+Officer {02}{01}n deserts.
+@6518
+A ronin enters service.
+@6519
+Ronin {02}{01}n enters service at {02})N.
+@6520
+A retainer is poached by another clan's castle lord.
+@6521
+{02}{01}n, officer of the {02}{01}v, is poached by the lord of {02})N.
+@6521.1
+Officer {02}{01}n is poached by the lord of {02})N.
+@6522
+A retainer defects to another clan.
+@6523
+{02}{01}n, officer of the {02}{01}v, defects and joins {02})N.
+@6523.1
+Officer {02}{01}n defects and joins {02})N.
+@6524
+A retainer is slandered and punished by the lord.
+@6525
+{02}{01}n, officer of the {02}{01}v, is slandered by {02}{02}n and punished by the lord.
+@6525.1
+Officer {02}{01}n is slandered by {02}{02}n and punished by the lord.
+@6526
+{02}{01}n, officer of the {02}{01}v, is slandered by someone and punished by the lord.
+@6526.1
+Officer {02}{01}n is slandered by someone and punished by the lord.
+@6527
+A retainer is punished by the lord because of another clan's scheme.
+@6528
+{02}{01}n, officer of the {02}{01}v, is punished by the lord because of a scheme by the {02}{02}v.
+@6528.1
+Officer {02}{01}n is punished by the lord because of a scheme by the {02}{02}2 clan.
+@6529
+{02}{01}n, officer of the {02}{01}v, is punished by the lord because of another clan's scheme.
+@6529.1
+Officer {02}{01}n is punished by the lord because of another clan's scheme.
+@6530
+The daimyo marries a princess to a retainer, making them kin.
+@6531
+Daimyo {02}{01}n marries a princess to retainer {02}{02}n, making them kin.
+@6532
+An officer's wife dies.
+@6533
+The wife of {02}{01}n, officer of the {02}{01}v, dies.
+@6533.1
+The wife of officer {02}{01}n dies.
+@6534
+A castle lord's daughter has her hair-tying ceremony and appears.
+@6535
+The daughter of castle lord {02}{01}n has her hair-tying ceremony and appears.
+@6536
+A daimyo meets another clan and raises friendship.
+@6537
+Daimyo {02}{01}n meets {02}{02}n and raises friendship.
+@6538
+A castle lord visits a minor power and raises friendship.
+@6539
+Castle lord {02}{01}n visits the Imperial Court and raises friendship.
+@6540
+Castle lord {02}{01}n visits {02})S at {02})N and raises friendship.
+@6541
+A daimyo meets another daimyo and forms a military alliance.
+@6542
+Daimyo {02}{01}n meets {02}{02}n and {02}{03}n and forms a three-way military alliance.
+@6543
+Daimyo {02}{01}n meets {02}{02}n and forms a military alliance.
+@6544
+A daimyo meets another daimyo and forms a non-aggression pact.
+@6545
+Daimyo {02}{01}n meets {02}{02}n and {02}{03}n and forms a three-way non-aggression pact.
+@6546
+Daimyo {02}{01}n meets {02}{02}n and forms a non-aggression pact.
+@6547
+A daimyo forms a non-aggression pact with a minor power.
+@6548
+Daimyo {02}{01}n visits {02})S at {02})N and forms a non-aggression pact.
+@6549
+A daimyo marries a princess into another clan, forming a marriage alliance.
+@6550
+Daimyo {02}{01}n marries a princess into the {02}{02}v, forming a marriage alliance.
+@6550.1
+Daimyo {02}{01}n marries a princess into the {02}{02}2 clan, forming a marriage alliance.
+@6551
+A daimyo becomes another clan's vassal. If already its vassal, the daimyo becomes a retainer.
+@6552
+Daimyo {02}{01}n threatens the {02}{02}v into vassalage. If the {02}{02}v is already a vassal of {02}{01}n, it becomes a retainer.
+@6552.1
+Daimyo {02}{01}n threatens the {02}{02}2 clan into vassalage. If the {02}{02}2 clan is already a vassal of {02}{01}n, it becomes a retainer.
+@6553
+Daimyo {02}{01}n offers submission to the {02}{02}v and becomes its vassal. If {02}{01}n is already its vassal, the daimyo becomes a retainer.
+@6553.1
+Daimyo {02}{01}n offers submission to the {02}{02}2 clan and becomes its vassal. If {02}{01}n is already its vassal, the daimyo becomes a retainer.
+@6554
+A castle lord threatens a minor power into vassalage to the lord's clan.
+@6555
+Castle lord {02}{01}n threatens {02})S at {02})N into vassalage to the lord's clan.
+@6556
+A vassal daimyo breaks off vassalage and goes independent.
+@6557
+Daimyo {02}{01}n breaks off vassalage to the {02}{02}v and goes independent.
+@6557.1
+Daimyo {02}{01}n breaks off vassalage to the {02}{02}2 clan and goes independent.
+@6558
+Daimyo {02}{01}n breaks off vassalage and goes independent.
+@6559
+A vassal minor power breaks off vassalage and goes independent.
+@6560
+{02})S at {02})N breaks off vassalage to the {02}{02}v and goes independent.
+@6560.1
+{02})S at {02})N breaks off vassalage to the {02}{02}2 clan and goes independent.
+@6561
+{02})S at {02})N breaks off vassalage and goes independent.
+@6562
+A daimyo receives a court title.
+@6563
+Daimyo {02}{01}n is appointed {02}=2.
+@6564
+Daimyo {02}{01}n receives a court title.
+@6565
+A daimyo receives a post.
+@6566
+Daimyo {02}{01}n is appointed {02}G2.
+@6567
+Daimyo {02}{01}n receives a post.
+@6568
+A daimyo gives a treasure to a retainer. Nanban treasures and guns only after their arrival in Japan.
+@6569
+Daimyo {02}{01}n gives the {02}32 to officer {02}{02}n. Nanban treasures and guns only after their arrival in Japan.
+@6570
+Daimyo {02}{01}n gives a treasure to officer {02}{02}n. Nanban treasures and guns only after their arrival in Japan.
+@6571
+A castle or base burns and loses defence.
+@6572
+{02})N burns and loses defence.
+@6573
+Delete the selected registered event data. Are you sure?
+@6574
+Load the selected registered event data. Are you sure?
+@6575
+Trigger the selected registered event data. Are you sure?
+@6576
+Show this registered event as a test.
+@6577
+This registered event lacks the conditions needed for a test.
+@6578
+{02}{01}n, daimyo of {02}{01}{9C}, lay ill. Sensing death was near, {02}{01}4 summoned the vassals.
+@6578.1
+{02}{01}n, daimyo of {02}{01}:, lay ill. Sensing death was near, {02}{01}4 summoned the vassals.
+@6579
+Thank you all for coming. Today I wish to speak about the headship of the {02}{01}v after I am gone.
+@6579.1
+I have called you all here today for one reason: to speak about the headship of the {02}{01}v after I am gone.
+@6579.2
+Thank you all for coming. Today I wish to speak about the headship of the {02}{01}2 clan after I am gone.
+@6579.3
+I have called you all here today for one reason: to speak about the headship of the {02}{01}2 clan after I am gone.
+@6580
+{01}C{0D}{00}, do not say such things. The {02}{02}v still needs you.
+@6580.1
+{01}C{0C}{00}, please do not say such things. The {02}{02}v still needs you.
+@6580.2
+{02}{02}4, do not say such things. The {02}{02}2 clan still needs you.
+@6580.3
+{01}C{0C}{00}, please do not say such things. The {02}{02}2 clan still needs you.
+@6581
+No, I do not have long. I know my own body best.
+@6581.1
+No, I do not have long. I know my own body best.
+@6581.2
+No, I do not have long. I know my own body best.
+@6582
+{01}C{0D}{00}...
+@6582.1
+{01}C{0C}{00}...
+@6583
+I pass the headship to {01}C{0D}{00}. I leave the {02}{01}v in your hands.
+@6583.1
+I pass the headship to {01}C{0D}{00}. I leave the {02}{01}v in your hands.
+@6583.2
+I pass the headship to {01}C{0B}{00}. I leave the {02}{01}v in your hands.
+@6583.3
+I pass the headship to {01}C{0D}{00}. I leave the {02}{01}2 clan in your hands.
+@6583.4
+I pass the headship to {01}C{0D}{00}. I leave the {02}{01}2 clan in your hands.
+@6583.5
+I pass the headship to {01}C{0B}{00}. I leave the {02}{01}2 clan in your hands.
+@6584
+Yes. I, {02}{01}4, am still inexperienced, but I humbly accept.
+@6584.1
+Very well. I, {02}{01}4, humbly accept.
+@6584.2
+Yes, my lord. I, {02}{01}4, am still young, but I humbly accept.
+@6585
+Ah, that is a weight off my shoulders. I am tired... Let me sleep a little...
+@6585.1
+That is a weight off my shoulders. I am tired... Let me sleep a little...
+@6585.2
+Yes, that is a weight off my shoulders. I am tired... Let me sleep a little...
+@6586
+Soon after passing on the headship, {02}{01}4 breathed their last. It had been a turbulent life.
+@6587
+At {02}{01}N, home castle of {02}{01}n... {02}{01}4 summoned the vassal {02}{02}n and slowly began to speak.
+@6587.1
+At {02}{01}9, home castle of {02}{01}n... {02}{01}4 summoned the vassal {02}{02}n and slowly began to speak.
+@6588
+{01}C{0D}{00}... There is something I must talk to you about.
+@6588.1
+{01}C{0D}{00}... There is something I must talk to you about.
+@6588.2
+{01}C{0B}{00}... There is something I must talk to you about.
+@6589
+...? What might that be?
+@6589.1
+Oh... What is it?
+@6589.2
+...? What is it you wish to say?
+@6590
+I am truly grateful for {01}C{0D}{00}'s faithful service. I believe {01}C{0D}{00} could hold up this clan.
+@6590.1
+I am truly grateful for {01}C{0D}{00}'s faithful service. I believe {01}C{0D}{00} could hold up this clan.
+@6590.2
+I am grateful for {01}C{0B}{00}'s faithful service. I think you could hold up this clan.
+@6591
+You are too kind. I have only done all I could, little as it is. But what is this about...?
+@6591.1
+Come, no need for thanks. I have only done what I could.
+@6591.2
+You are too kind, my lord. I have only tried to do all I could, little as it is. But what is this about...?
+@6592
+I am glad to hear it... What I wish to say is this: I will pass the headship to {01}C{0D}{00} and retire.
+@6592.1
+I am glad to hear it... What I wish to say is this: I will pass the headship to {01}C{0D}{00} and retire.
+@6592.2
+Yes, I am glad to hear it... What I wish to say is this: I will pass the headship to {01}C{0B}{00} and retire.
+@6593
+What!? B-but why...?
+@6593.1
+What!? Why on earth...?
+@6594
+I am tired... It is time.
+@6594.1
+I am tired... It is time, I think.
+@6594.2
+I am tired... It is time.
+@6595
+What are you saying... You are still in fine health.
+@6595.1
+What are you saying... You are still in fine health.
+@6595.2
+What are you saying... You are still in fine health.
+@6596
+I believe I know when to step down.
+@6596.1
+I believe I know when to step down.
+@6596.2
+I believe I know when to step down.
+@6597
+Hmmm...
+@6597.1
+But...
+@6598
+My mind is made up.
+@6598.1
+My resolve will not waver.
+@6598.2
+My mind is already made up.
+@6599
+I understand... I shall unite the realm in {01}C{0C}{00}'s place!
+@6599.1
+Hmm... very well. I, {02}{01}4, shall unite the realm in {01}C{0D}{00}'s place!
+@6599.2
+I understand... I, {02}{01}4, shall unite the realm in {01}C{0C}{00}'s place!
+@6600
+Thank you for accepting... Now the clan is secure.
+@6600.1
+Oh, {01}C{0D}{00}, thank you. Now the clan is secure.
+@6600.2
+Yes, you accept! That is the {01}C{0B}{00} I know!
+@6601
+{02}{01}n retired and {02}{02}n inherited the headship. {02}{02}4's bid to rule the realm was about to begin...
+@6602
+At {02}{01}N, home castle of {02}{01}n... An assassin hired by the {02}{02}v had slipped past the tight guard.
+@6602.1
+At {02}{01}9, home castle of {02}{01}n... An assassin hired by the {02}{02}2 clan had slipped past the tight guard.
+@6603
+At {02}{01}N, home castle of {02}{01}n... An assassin hired by someone had slipped past the tight guard.
+@6603.1
+At {02}{01}9, home castle of {02}{01}n... An assassin hired by someone had slipped past the tight guard.
+@6604
+Holding their breath, the assassin waited for the moment...
+@6605
+The target should appear soon... Hm... There's {02}{02}n. At last, my chance has come...
+@6605.1
+The target should appear soon... Hm... There's {02}{02}n. At last, my chance has come...
+@6606
+Ugh! An i-intruder! S-someone...
+@6606.1
+Urgh! An i-intruder! S-someone...
+@6607
+Ugh, I failed to finish it... But with that wound, death won't be long. I must leave at once...
+@6607.1
+Hm... Did I fail to finish it? But with that wound, death won't be long. I must leave at once...
+@6608
+{01}C{0C}{00}, {01}C{0C}{00}! What has happened!
+@6608.1
+{01}C{0D}{00}, {01}C{0D}{00}! What is it!
+@6608.2
+{01}C{0C}{00}, {01}C{0C}{00}! What has happened!
+@6609
+An intruder... ugh...
+@6610
+{01}C{0C}{00}! Stay with me! Someone, a physician! Call a physician!
+@6610.1
+{01}C{0D}{00}! Stay with me! Someone, a physician! Call a physician!
+@6610.2
+{01}C{0C}{00}! Please stay with me! Someone, a physician! Call a physician!
+@6611
+{02}{01}4 was treated at once. But the wound was deep, and it was already too late.
+@6612
+{01}C{0C}{00}, hold on! Oh, who could have done this...
+@6612.1
+{01}C{0D}{00}, hold on! Grr, who could have done this...
+@6612.2
+{01}C{0C}{00}, please hold on! Ugh, who could have done this...
+@6613
+Ugh... it was {02}{03}n. {02}{03}4 hired an assassin... to take my life...
+@6613.1
+Urgh... it was {02}{03}n. Th-that one hired an assassin... to take my life...
+@6613.2
+Urgh... it was {02}{03}n. Th-that one hired an assassin... to take my life...
+@6614
+Ugh... I do not know... S-someone hired an assassin... to take my life...
+@6614.1
+Urgh... I do not know... S-someone hired an assassin... to take my life...
+@6614.2
+Urgh... I don't know... S-someone hired an assassin... to take my life...
+@6615
+{01}C{0D}{00}... Succeed me and a-avenge this wrong... I'm counting... on... you...
+@6615.1
+{01}C{0D}{00}... Succeed me and a-avenge this wrong... I'm counting... on... you...
+@6615.2
+{01}C{0B}{00}... Succeed me... and a-avenge this wrong... I'm counting... on... you...
+@6616
+{01}C{0C}{00}!? Curse you, {02}{03}n! I swear I will avenge {01}C{0C}{00}!
+@6616.1
+{01}C{0D}{00}!? Ugh, curse you, {02}{03}n! I swear I will avenge you!
+@6616.2
+{01}C{0C}{00}!? Ugh, curse you, {02}{03}n! I, {02}{01}4, swear I will avenge {01}C{0C}{00}!
+@6617
+{01}C{0C}{00}... I swear I will avenge {01}C{0C}{00}.
+@6617.1
+{01}C{0D}{00}... I swear I will avenge you.
+@6617.2
+{01}C{0C}{00}... I, {02}{01}4, swear I will avenge {01}C{0C}{00}.
+@6618
+And so {02}{01}n died at the hands of an assassin. It had been a turbulent life.
+@6619
+{02}{01}n, an officer of the {02}{02}v, had invited the lord, {02}{02}n, to the tea room at home.
+@6619.1
+{02}{01}n, an officer of the {02}{02}2 clan, had invited the lord, {02}{02}n, to the tea room at home.
+@6620
+That was a fine bowl of tea. Now, {01}C{0D}{00}, I shall be going back to the castle.
+@6620.1
+Hm, that was a fine bowl of tea. Now, {01}C{0D}{00}, I shall be going back to the castle.
+@6620.2
+Hm, a fair bowl of tea. Now, {01}C{0B}{00}, I shall be going back to the castle.
+@6621
+Back to the castle? Forgive me, {01}C{0C}{00}, but you no longer have a castle to go back to.
+@6621.1
+Back to the castle? Sorry, {01}C{0D}{00}, but you no longer have a castle to go back to.
+@6621.2
+Back to the castle? Forgive me, {01}C{0C}{00}, but you no longer have a castle to go back to.
+@6622
+What are you saying? I said I am going back to {02}{01}N. The least you can do is see me off.
+@6622.1
+What do you mean? I said I am going back to {02}{01}N.
+@6622.2
+What are you saying? I said I am going back to {02}{01}N. The least you can do is see me off.
+@6622.3
+What are you saying? I said I am going back to {02}{01}9. The least you can do is see me off.
+@6622.4
+What are you saying? I said I am going back to {02}{01}9. The least you can do is see me off.
+@6623
+Ohoho... Then let me see you to the castle.
+@6623.1
+Heh... Then I'll see you to the castle.
+@6623.2
+Heh... Then let me see you to the castle.
+@6624
+But... when {02}{01}4 tried to enter the castle, the gatekeepers barred the way.
+@6625
+What do you think you're doing!? I am the master of this castle!
+@6625.1
+What do you think you're doing!? I am the master of this castle!
+@6626
+Please do not make a fuss... From today, our clan's lord is Lord {02}{02}n.
+@6627
+By Lord {02}{02}4's mercy, the order is that Lord {02}{03}4 be banished.
+@6628
+What!? {01}C{0D}{00}! What is the meaning of this?
+@6628.1
+What!? {01}C{0D}{00}! What is the meaning of this?
+@6628.2
+What!? {01}C{0B}{00}! What is the meaning of this?
+@6629
+Just as you heard. From today I rule this clan in {01}C{0C}{00}'s place.
+@6629.1
+Just as you heard. From today I rule this clan in your place.
+@6629.2
+Just as you heard. From today I rule this clan in {01}C{0C}{00}'s place.
+@6630
+Wh-what! You defy me! How dare you, a mere vassal... Have you forgotten all I did for you!
+@6630.1
+I-it can't be! {01}C{0D}{00}, a traitor... What have I ever done to you!
+@6630.2
+Wh-what! You defy me! How dare you, a mere vassal... Have you forgotten all I did for you!
+@6631
+In this age of war, one who cannot hold the household together is bound to be driven out. Now, be gone at once!
+@6631.1
+This is an age of war. One who cannot hold the household together is bound to be driven out. Now, be gone!
+@6631.2
+This is an age of war. One who cannot hold the household together is bound to be driven out. Now, be gone at once!
+@6632
+C-curse you... {01}C{0B}{00}, I shall never forget this.
+@6632.1
+C-curse you... You'll pay for this! {01}C{0B}{00}, I shall never forget this.
+@6632.2
+Grrr! Curse you, {02}{02}4! I shall never forget this.
+@6633
+And so {02}{01}n banished the lord, {02}{02}n, became a daimyo, and joined the race to rule the realm.
+@6634
+In a room at {02}{01}N, {02}{01}n, head of the {02}{01}v, called in the vassal {02}{02}n and spoke in a low voice...
+@6634.1
+In a room in {02}{01}n's castle, {02}{01}n, head of the {02}{01}2 clan, called in the vassal {02}{02}n and spoke in a low voice...
+@6635
+{01}C{0B}{00}, do you know {01}C{16}{00}?
+@6635.1
+{01}C{0B}{00}, do you know {01}C{16}{00}?
+@6635.2
+{01}C{0B}{00}, do you know a person called {02}{03}n?
+@6635.3
+{01}C{0B}{00}, do you know a person called {02}{03}n?
+@6636
+Yes. Serving the {02}{04}v, I believe...
+@6636.1
+Yes. Quite a well-known figure.
+@6636.2
+Yes, I have heard of them. Quite a figure, they say...
+@6637
+Could you somehow persuade {01}C{16}{00} to side with us?
+@6637.1
+Could you somehow persuade {01}C{16}{00} to side with us?
+@6637.2
+I want that person among our vassals... Could you somehow persuade them?
+@6637.3
+I want that person among our vassals... Could you somehow persuade them?
+@6637.4
+I want that person on our side. Could you somehow persuade them?
+@6637.5
+I want that person on our side. Could you somehow persuade them?
+@6638
+Understood. I shall take on that task and try to persuade them to side with us.
+@6639
+{02}{01}4 promptly approached {02}{02}n and tried to persuade them. At first they would not listen at all, but {02}{01}4 kept at it patiently.
+@6640
+In time, good news reached {02}{01}4.
+@6641
+{01}C{0C}{00}, I have brought Lord {02}{03}4. This way, Lord {02}{03}4.
+@6641.1
+{01}C{0C}{00}, I have brought Lord {02}{03}4. This way, Lord {02}{03}4.
+@6642
+{01}C{0C}{00}, it has been a long time.
+@6642.1
+{01}C{0D}{00}, it's been a long time.
+@6642.2
+{01}C{0D}{00}, it has been a long time.
+@6642.3
+An honour to meet you. I am {02}{01}n.
+@6643
+{01}C{0D}{00}, thank you for coming. You are most welcome here.
+@6643.1
+{01}C{0D}{00}, thank you for coming. You are most welcome here.
+@6643.2
+{01}C{0D}{00}, thank you for coming. You are most welcome here.
+@6643.3
+Lord {02}{02}4, thank you for coming. You are most welcome here.
+@6643.4
+Lord {02}{02}4, thank you for coming. You are most welcome here.
+@6644
+"{01}C{0C}{00} is the one who will bring peace to the realm..." So Lord {02}{03}4 said. I thought so too, and so I came.
+@6644.1
+"{01}C{0D}{00} is the one who will bring peace to the realm..." I heard Lord {02}{03}4 say so, thought the same, and came.
+@6644.2
+"{01}C{0D}{00} is the one who will bring peace to the realm..." So Lord {02}{03}4 said. I thought so too, and so I came.
+@6644.3
+"Lord {02}{02}4 is the one who will bring peace to the realm..." So Lord {02}{03}4 said. I thought so too, and so I came.
+@6645
+With {01}C{0D}{00} on our side, we have the strength of a hundred. We shall surely bring peace to the realm.
+@6645.1
+With {01}C{0B}{00} on our side, we have the strength of a hundred. We shall surely bring peace to the realm.
+@6645.3
+With Lord {02}{02}4 on our side, we have the strength of a hundred. We shall surely bring peace to the realm.
+@6645.4
+With Lord {02}{02}4 on our side, we have the strength of a hundred. We shall surely bring peace to the realm.
+@6646
+And so {02}{01}n left the {02}{03}v and joined the {02}{02}v.
+@6646.1
+And so {02}{01}n left the {02}{03}2 clan and joined the {02}{02}2 clan.
+@6647
+In a room at {02}{01}N, the castle lord {02}{01}n called in the vassal {02}{02}n and spoke in a low voice...
+@6647.1
+In a room at {02}{01}9, the castle lord {02}{01}n called in the vassal {02}{02}n and spoke in a low voice...
+@6648
+{02}{02}4, how do things stand...
+@6648.1
+{02}{02}4, how do things stand...
+@6649
+At last I have won over everyone in the castle, Lord {02}{02}4...
+@6649.1
+At last I have won over everyone in the castle, Lord {02}{02}4...
+@6650
+Well done, {02}{02}4. Now my dream will come true...
+@6650.1
+Well done, {02}{02}4. Now my dream will come true...
+@6651
+By the way, {02}{03}4 suspects nothing, I trust...?
+@6651.1
+By the way, {02}{03}4 suspects nothing, I trust...
+@6652
+No, all is well...
+@6653
+I see... I can just picture {02}{03}4's astonished face.
+@6653.1
+I see... I can just picture {02}{03}4's astonished face.
+@6654
+All the vassals will follow you, Lord {02}{02}4...
+@6654.1
+All the vassals will follow you, Lord {02}{02}4...
+@6655
+Yes, from today I am a daimyo, and I aim for the realm! Our first target is {02}{03}N. Prepare for war!
+@6655.1
+Yes, from today I am a daimyo, and I aim for the realm! Our first target is {02}{03}N. Prepare for war!
+@6656
+And so {02}{01}n left the {02}{02}v and went independent. What effect would this have on the course of the realm...?
+@6657
+In a room at {02}{01}N, the castle lord {02}{01}n spoke to {02}{02}n in a low voice...
+@6657.1
+In a room at {02}{01}9, the castle lord {02}{01}n spoke to {02}{02}n in a low voice...
+@6658
+{01}C{0D}{00}, how do things stand...
+@6658.1
+{01}C{0D}{00}, how do things stand...
+@6659
+Yes, I have won over everyone in my castle too. We are ready any time, {01}C{0D}{00}.
+@6659.1
+Yes, I have won over everyone in my castle too. We are ready any time, {01}C{0D}{00}.
+@6660
+Oh, is that so. Now my dream will come true...
+@6660.1
+Oh, is that so. Now my dream will come true...
+@6661
+By the way, {02}{03}4 suspects nothing, I trust...
+@6662
+Yes, all is well.
+@6662.1
+Yes, all is well.
+@6663
+Ohoho... I can just picture {02}{03}4's astonished face.
+@6663.1
+Hahaha... I can just picture {02}{03}4's astonished face.
+@6664
+Our letter should be reaching {02}{03}4's castle about now... The time has come.
+@6664.1
+Our letter should be reaching {02}{03}4's castle about now... The time has come.
+@6665
+Yes, from today I am a daimyo, and I aim for the realm! Our first target is {02}{03}N. Now, prepare for war!
+@6665.1
+Yes, from today I am a daimyo, and I aim for the realm! Our first target is {02}{03}N. Now, prepare for war!
+@6666
+And so {02}{01}n and {02}{02}n went independent of the {02}{03}v. What effect would this have on the course of the realm...?
+@6667
+In a room at {02}{01}N, three had gathered: {02}{01}n, {02}{02}n and {02}{03}n...
+@6667.1
+In a room at {02}{01}9, three had gathered: {02}{01}n, {02}{02}n and {02}{03}n...
+@6669
+Yes, I have won over everyone in my castle too. We are ready any time. What about {01}C{18}{00}?
+@6669.1
+Yes, I have won over everyone in my castle too. We are ready any time. What about {01}C{18}{00}?
+@6670
+Ohoho, of course all is ready.
+@6670.1
+Heh, of course all is ready.
+@6671
+My, how reliable you all are. Now my dream will come true...
+@6671.1
+Oh, how reliable you all are. Now my dream will come true...
+@6676
+Yes, from today I am a daimyo, and I aim for the realm! First we take {02}{03}N. Now, prepare for war!
+@6676.1
+Yes, from today I am a daimyo, and I aim for the realm! First we take {02}{03}N. Now, prepare for war!
+@6677
+{02}{01}n, {02}{02}n and {02}{03}n went independent. What effect would this have on the course of the realm...?
+@6680
+I have won over almost everyone, but those who owe a debt to {02}{03}4 will not agree. What shall we do, Lord {02}{02}4...?
+@6681
+That is a problem. It is dangerous to go ahead like this. There is no choice... Shall we do away with them...
+@6681.1
+Hmm, that is a problem... It is dangerous to go ahead like this. No choice, then: we do away with them...
+@6682
+Then I shall poison them...
+@6682.1
+Then I shall poison them...
+@6683
+In haste, {02}{01}n had a vassal poison the obstacle. But this in turn led some to break away...
+@6684
+Doing away with that one was a mistake. I was too hasty...
+@6684.1
+Doing away with that one was a mistake. I was too hasty...
+@6685
+I never imagined anyone would break away...
+@6686
+At this rate, {02}{03}4 will find out...
+@6686.1
+At this rate, {02}{03}4 will find out...
+@6687
+No, there is no fear of that. They agreed once, after all; if they inform now, they share the guilt. They will keep quiet.
+@6688
+Yes, that is true... We must regain control of everyone in the castle before we are found out.
+@6688.1
+I see, that is true... We must regain control of everyone in the castle before we are found out.
+@6689
+Leave it to me. I shall win them over within days.
+@6690
+But, against {02}{01}n's hopes, an informer came forward. On hearing the news, {02}{02}n had {02}{01}n seized at once.
+@6691
+{02}{02}4, how dare you betray me! I will not let you live!
+@6691.1
+{02}{02}4, how dare you betray me! I will not let you live!
+@6692
+P-please wait, {01}C{0C}{00}! This is an enemy scheme! I am plotting no rebellion.
+@6693
+Enough, this is unseemly! Off with this one's head at once!
+@6693.1
+Enough, this is unseemly! Off with this one's head at once!
+@6694
+And so {02}{01}n's rebellion was uncovered and swiftly punished. What effect would this have on the course of the realm...?
+@6695
+In a room of a residence at {02}{01}N, {02}{01}n of the {02}{02}v had been downcast of late.
+@6695.1
+In a room of a residence at {02}{01}9, {02}{01}n of the {02}{02}2 clan had been downcast of late.
+@6696
+For many years {02}{01}4 had ridden the battlefields, living for war. And now that life had grown wearisome.
+@6696.1
+{02}{01}4 was worn out by battle after battle. The unbearable tension of war had eaten away at that young heart.
+@6697
+How long will this war go on... Will a day ever come when warriors and people alike can live in peace...
+@6697.1
+How long will this war go on... Will a day ever come when warriors and people alike can live in peace...
+@6698
+Feeling like this, I am of no more use to the {02}{02}v...
+@6698.1
+Feeling like this, I am of no more use to the {02}{02}v...
+@6699
+Yes, I shall leave, and watch over the {02}{02}v's fortunes from afar...
+@6699.1
+Yes, I shall leave, and watch over the {02}{02}v's fortunes from afar...
+@6700
+A journey may take my mind off things. Once my heart is at peace, perhaps I will come back one day...
+@6700.1
+A journey may take my mind off things. Once my heart is at peace, perhaps I will come back one day...
+@6701
+Having made up their mind, {02}{01}n left a farewell letter and quietly slipped away from the residence under cover of night.
+@6702
+At {02}{01}N... A vassal had come to see {02}{01}n.
+@6702.1
+At {02}{01}9... A vassal had come to see {02}{01}n.
+@6703
+Lord {02}{02}4, I hear a ronin called {02}{03}n has come to the castle town. Do you know of them?
+@6704
+What, {01}C{16}{00}!
+@6704.1
+No, I do not. What sort of person is this?
+@6704.2
+No, I do not. What sort of person is this?
+@6705.1
+They say it is a waste to leave such a talent wandering as a ronin.
+@6705.2
+A wanderer now, but famed for great valour, they say.
+@6705.3
+Very sharp, it seems. Rumour has it they were once a senior retainer somewhere.
+@6705.4
+Cultured and well versed in government, by all accounts.
+@6705.5
+Talk in the castle town is that they show real promise.
+@6706
+Bring {01}C{16}{00} to me at once.
+@6706.1
+How interesting. Bring that person to me at once.
+@6706.2
+Oh... how interesting. Bring that person to me at once.
+@6708
+{02}{01}4's vassal went straight to the castle town, tracked down {02}{02}n and brought them to {02}{01}4.
+@6709
+Why, {01}C{0C}{00}. It has been a long time. What business could you have with a wanderer like me?
+@6709.1
+Oh, {01}C{0D}{00}. It's been a long time. What do you want with a wanderer like me?
+@6709.2
+Why, {01}C{0D}{00}. It has been a long time. What business could you have with a wanderer like me?
+@6709.3
+Why, {01}C{0C}{00}. What business could you have with a wanderer like me?
+@6709.4
+Why, {01}C{0C}{00}. What business could you have with a wanderer like me?
+@6710
+I heard {01}C{0D}{00} was in the castle town, and invited you in the hope that you might lend me your strength.
+@6710.1
+I heard {01}C{0D}{00} was in the castle town, and invited you in the hope that you might lend me your strength.
+@6710.2
+I heard {01}C{0B}{00} was in the castle town, and called you here in the hope you might lend me your strength.
+@6710.3
+It seemed a waste for a talent like {01}C{0D}{00} to go unnoticed. Would you not like to serve me?
+@6710.4
+Yes, it seemed a waste for a talent like {01}C{0B}{00} to go unnoticed. Would you like to serve me?
+@6711
+If {01}C{0C}{00} asks, I can hardly refuse. I shall gladly help.
+@6711.1
+If {01}C{0D}{00} asks, I can hardly refuse... I shall gladly help.
+@6711.2
+If {01}C{0D}{00} asks, I cannot refuse. I shall gladly help.
+@6711.3
+I was growing tired of wandering. I shall gladly serve.
+@6711.4
+This is just what I needed. I shall gladly serve.
+@6712
+And so {02}{02}n came to serve {02}{01}n.
+@6713
+At {02})N... In one of its rooms, {02}{01}n of the {02}{01}v was holding secret talks with a vassal.
+@6713.1
+At {02}{01}n's home castle... In one of its rooms, {02}{01}n was holding secret talks with a vassal.
+@6715
+Yes. Serving the {02}{04}v now, I believe...
+@6715.1
+Yes. A figure known throughout the realm.
+@6716
+Yes, exactly. So I would like to bring {01}C{16}{00} into our clan. Have you any good ideas?
+@6716.1
+Yes, exactly. So I would like to bring {01}C{16}{00} into our clan. Have you any good ideas?
+@6716.2
+Yes, exactly. So I would like to bring {02}{03}n into our clan. Have you any good ideas?
+@6716.3
+Yes, exactly. So I would like to bring {02}{03}n into our clan. Have you any good ideas?
+@6717
+If it is Lord {02}{03}4, a letter in your own hand, my lord, should surely win them to our side.
+@6717.1
+A letter in your own hand, my lord, would surely please Lord {02}{03}4. I shall do the persuading.
+@6718
+It seems worth a try. I shall write the letter; {01}C{0B}{00}, go as my envoy.
+@6718.1
+Yes, let us try it. I shall write the letter at once; {01}C{0B}{00}, go as my envoy.
+@6719
+{02}{01}4 met {02}{02}n, handed over the letter, and skilfully talked {02}{02}n round.
+@6720
+I see, {01}C{18}{00} needs me. Though I serve another clan, we are of the same family. I shall help.
+@6720.1
+I see, {01}C{18}{00} needs me. Though I serve another clan, we are of the same family. I shall help.
+@6720.2
+I see, {01}C{18}{00} needs me. Though I serve another clan, we are of the same family. I shall help.
+@6720.3
+I see, Lord {02}{03}n thinks so highly of me... Very well, I shall help.
+@6720.4
+I see, Lord {02}{03}n thinks so highly of me... Very well, I shall help.
+@6721
+I knew Lord {02}{02}4 would give a good answer. Lord {02}{03}4 will be delighted.
+@6721.1
+Thank you! Lord {02}{02}4, I am so glad you have made up your mind.
+@6721.2
+Oh, I am grateful! Lord {02}{02}4, I am glad you have made up your mind.
+@6722
+And so {02}{01}n heeded the words of a {02}{02}v vassal and joined the {02}{02}v.
+@6722.1
+And so {02}{01}n heeded the words of a {02}{02}2 vassal and joined the {02}{02}2 clan.
+@6723
+In a room of a residence at {02}{01}N... {02}{01}n, an officer of the {02}{02}v, gazed gloomily at the garden.
+@6723.1
+In a room of a residence at {02}{01}9... {02}{01}n gazed gloomily at the garden.
+@6724
+Only a moment ago the castle lord, {02}{02}n, had cut their stipend for poor service. However they looked at it, the decision was unjust.
+@6725
+Just then, a letter arrived from {02}{02}n of {02})N.
+@6725.1
+Just then, a letter arrived from {02}{02}n of {02}{02}9.
+@6726
+From {01}C{18}{00}... I wonder why they've written so suddenly.
+@6726.1
+A letter from {01}C{18}{00}... It has been a long time. I wonder what it is about.
+@6726.2
+A letter from {02}{03}n, how unusual... What could it be?
+@6726.3
+A letter from {02}{03}n, how unusual... What could it be?
+@6727
+.........This is an invitation to defect to the {02}{03}v...
+@6727.1
+Wh-why, this is an invitation to defect! They want me to switch from the {02}{02}v to the {02}{03}v...
+@6728
+Rather than serve {01}C{0C}{00}, who treated me so, it would be better to go to {01}C{18}{00}...
+@6728.1
+Rather than serve {01}C{0C}{00}, who treated me so, it would be better to go to {01}C{18}{00}...
+@6728.2
+Rather than serve {01}C{0C}{00}, who treated me so, it would be better to go to the {02}{03}v...
+@6728.3
+Rather than serve {01}C{0C}{00}, who treated me so, it would be better to go to the {02}{03}v...
+@6728.4
+Rather than serve {02}{02}n, who treated me so, it might be better to go to the {02}{03}v...
+@6728.5
+Rather than serve {02}{02}n, who treated me so, it might be better to go to the {02}{03}v...
+@6728.6
+Rather than serve {02}{02}n, who treated me so, it might be better to go to {02}{03}n...
+@6729
+Answering {02}{02}n's invitation, {02}{01}n left the {02}{03}v and entered the service of the {02}{02}v.
+@6729.1
+Answering {02}{02}n's invitation, {02}{01}n left the {02}{03}2 clan and entered the service of the {02}{02}2 clan.
+@6730
+{02}{01}n had long disliked {02}{02}n, and set a scheme in motion to bring about their downfall.
+@6731
+A letter saying that its writer was plotting rebellion was forged in a hand just like {02}{02}n's, then deliberately left to be found.
+@6732
+News of the letter soon reached the lord, {02}{02}n. {02}{01}n was seized and dragged before the lord.
+@6733
+{01}C{0D}{00}, have you any last words?
+@6733.1
+{01}C{0D}{00}, have you any last words?
+@6733.2
+{02}{02}4, have you any last words?
+@6733.3
+{02}{02}4, have you any last words?
+@6734
+{01}C{0C}{00}, I am innocent!
+@6734.1
+{01}C{0D}{00}, I am innocent!
+@6734.2
+Lord {02}{02}4, I am innocent!
+@6735
+{01}C{0B}{00}, still making excuses at this point? How unseemly.
+@6735.1
+{01}C{0D}{00}, still making excuses at this point? Unseemly.
+@6735.2
+{02}{02}4, how unseemly! Still making excuses at this point?
+@6735.3
+{02}{02}4, unseemly! Still making excuses at this point?
+@6736
+{01}C{0C}{00}, this is someone's scheme. Please believe me!
+@6736.1
+{01}C{0D}{00}, this is someone's scheme. Believe me!
+@6736.2
+My lord, this is someone's scheme. Please believe me!
+@6737
+{01}C{0D}{00}, here is the proof! Do you claim you know nothing of this?
+@6737.1
+{01}C{0D}{00}, here is the proof! Do you claim you know nothing of this?
+@6737.2
+{02}{02}4, here is the proof! Look at it closely!
+@6737.3
+{02}{02}4, here is the proof! Look at it closely!
+@6738
+What, this is... a secret letter... So it is a scheme after all. I know this handwriting. Please look closely.
+@6738.1
+Hm, this is... a secret letter... So it is a scheme after all. I know this handwriting. Look closely.
+@6738.2
+Wh-why, this is... a secret letter... So it is a scheme after all. I know this handwriting. Please look closely.
+@6739
+I do know this handwriting... It is {02}{02}4's! Surely {02}{02}4 did not...
+@6739.1
+Hm, I do know this handwriting... It is {02}{02}4's! Surely {02}{02}4 did not...
+@6740
+No, there is no doubt. I regret to say the one behind this is {02}{03}n...
+@6740.1
+No, there is no doubt. I regret to say the one behind this is {02}{03}n...
+@6740.2
+No, there is no doubt. I regret to say the one behind this is {02}{03}n...
+@6741
+C-curse you! Trying to deceive me... Even {01}C{16}{00} I cannot forgive!
+@6741.1
+C-curse you, {02}{03}n! Trying to deceive me... Unforgivable!
+@6742
+And so, for all the pleading, {02}{01}n was ordered to commit seppuku. No one realised it was {02}{02}n's scheme...
+@6743
+The {02}{02}v was torn by factional strife. {02}{01}n was caught up in it and fell victim to someone's scheme.
+@6744
+One day a secret letter by {02}{01}n was found. It spoke of seizing the lord's castle and taking over the clan.
+@6747
+{01}C{0D}{00}, still making excuses at this point? How unseemly.
+@6747.1
+{01}C{0D}{00}, still making excuses at this point? Unseemly.
+@6748.2
+My lord, this is someone's scheme. Please believe me!
+@6750
+What, this is... a secret letter... I know nothing of such a thing.
+@6750.1
+Hm, this is... a secret letter... I know nothing of such a thing.
+@6750.2
+Wh-why, this is... a secret letter... I know nothing of such a thing.
+@6751
+Silence! This is plainly {01}C{0D}{00}'s handwriting. Cut your belly like a warrior.
+@6751.1
+Silence, silence! This is plainly {01}C{0B}{00}'s handwriting. Cut your belly like a warrior.
+@6752
+Oh, how terrible... To fall for such a simple scheme, the {02}{01}v cannot last long... How bitter...
+@6752.1
+Wh-what! To fall for such a simple scheme... The {02}{01}v cannot last long. How bitter...
+@6752.2
+Oh, how terrible... To fall for such a simple scheme, the {02}{02}2 clan cannot last long... How bitter...
+@6752.3
+Wh-what! To fall for such a simple scheme... The {02}{02}2 clan cannot last long. How bitter...
+@6753
+And so, for all the pleading, {02}{01}n was ordered to commit seppuku. Whose scheme it had been, no one would ever know...
+@6754
+At {02}{01}N, home castle of {02}{01}n... {02}{01}4 was devising a plan to defeat the {02}{02}v.
+@6754.1
+At {02}{01}9, home castle of {02}{01}n... {02}{01}4 was devising a plan to defeat the {02}{02}2 clan.
+@6755
+Defeating the {02}{02}v will be troublesome. Let us dispose of an enemy officer in secret and weaken their forces...
+@6755.1
+Defeating the {02}{02}v will be troublesome. Shall we dispose of an enemy officer in secret and weaken their forces...
+@6755.2
+{02}{03}n... As long as that one is there, defeating the {02}{02}v will be hard.
+@6755.3
+To defeat the {02}{02}v, what if we disposed of an enemy officer in secret and weakened their forces?
+@6755.4
+To defeat the {02}{02}v, what say we dispose of an enemy officer in secret and weaken their forces?
+@6756
+In that case, {02}{03}n would be a good choice...
+@6756.1
+True, without {02}{03}4 the {02}{02}v would be nothing to fear, but...
+@6756.2
+An excellent idea. If we are to remove someone, {02}{03}n would be a good choice...
+@6757
+I see, {02}{03}n... Then let us use a stratagem to do away with them.
+@6757.1
+{02}{03}n, eh... Good, we use a stratagem to do away with that one.
+@6757.2
+So I mean to set a stratagem to do away with {02}{03}4. Proceed as I have arranged.
+@6757.3
+So I mean to set a stratagem to do away with {02}{03}4. You will proceed as I have arranged.
+@6757.4
+I see, {02}{03}n... Then let us trap that one with a stratagem and do away with them.
+@6757.5
+Yes, {02}{03}n will do. We trap that one with a stratagem and do away with them.
+@6759
+Some time later, rumours spread at {02}{02}N of the {02}{02}v that {02}{03}n was plotting rebellion: the work of {02}{01}v spies.
+@6759.1
+Some time later, rumours spread at {02}{02}N of the {02}{02}v that {02}{03}n was plotting rebellion: the work of {02}{01}2 clan spies.
+@6760
+Lord {02}{02}4! I must speak with you at once about Lord {02}{03}4.
+@6761
+What is it? The rumour, is it? You must not be swayed by idle rumours.
+@6761.1
+What? The rumour of rebellion? Ignore such idle talk.
+@6762
+In truth I thought so too, but we caught what looks like a spy at the border...
+@6762.1
+In truth I thought so too... but we caught what looks like a spy at the border...
+@6763
+And?
+@6764
+The letter that spy carried said Lord {02}{02}4 had agreed to the {02}{03}v's invitation to betray us.
+@6764.1
+The letter that spy carried said Lord {02}{02}4 had agreed to the {02}{03}2 clan's invitation to betray us.
+@6765
+What! Is that true?
+@6765.1
+What! Is that true?
+@6766
+Yes. The handwriting seems to be Lord {02}{02}4's. There can be little doubt...
+@6767
+But I cannot believe it. Could this be an enemy scheme...
+@6767.1
+But I cannot believe it. Could this be an enemy scheme...
+@6767.2
+But I cannot believe it. {01}C{16}{00}, a traitor...
+@6767.3
+But I cannot believe it. {01}C{16}{00}, a traitor...
+@6768
+But there is no smoke without fire, they say...
+@6768.1
+{02}{03}n cannot have noticed yet... Let us seize them while we can.
+@6768.2
+But there is proof. Please act while there is time...
+@6769
+Yes... Summon {01}C{16}{00} and seize them.
+@6769.1
+Hmm... Summon {01}C{16}{00} and seize them.
+@6769.2
+There is no choice... Seize {01}C{16}{00}.
+@6769.3
+It cannot be helped... Seize {01}C{16}{00}.
+@6770
+Suspected of rebellion by the lord, {02}{01}4, {02}{02}n was seized and ordered to commit seppuku.
+@6771
+What effect would this have on the course of the realm...?
+@6772
+At {02}{01}N of the {02}{01}v, rumours spread that {02}{02}n was plotting rebellion.
+@6772.1
+At {02}{01}9 of the {02}{01}2 clan, rumours spread that {02}{02}n was plotting rebellion.
+@6773
+Lord {02}{02}4! I must speak with you at once.
+@6774
+About the rumour of rebellion, perhaps?
+@6774.1
+About the rumour of rebellion, perhaps?
+@6775
+So you have heard already...
+@6776
+Yes. I was just wondering who could be spreading such rumours.
+@6776.1
+Yes. I was just wondering who could be spreading such rumours.
+@6777
+In any case, we need only catch whoever is spreading them. There is no need to worry.
+@6777.1
+In any case, we need only seize whoever is spreading them. Don't let it trouble you.
+@6778
+No, the thing is... s-something terrible...
+@6779
+Something terrible? What is it? Speak.
+@6779.1
+Something terrible? What is it? Speak.
+@6780
+Y-yes. From what I heard, some sort of undeniable proof has been found...
+@6780.1
+Y-yes. From what I heard, some sort of undeniable proof has been found...
+@6781
+This is serious... I shall go to {01}C{17}{00} at once. Make ready!
+@6781.1
+Hmm, this is serious... I shall go to {01}C{17}{00} at once. Make ready!
+@6783
+{02}{01}n went to the lord, {02}{02}4, to clear their name, but was seized and ordered to commit seppuku.
+@6785
+At {02}{01}N, home castle of {02}{01}n... {02}{01}4 summoned the vassal {02}{02}n.
+@6785.1
+At {02}{01}9, home castle of {02}{01}n... {02}{01}4 summoned the vassal {02}{02}n.
+@6786
+{01}C{0C}{00}, {02}{01}4 is here at your call.
+@6787
+Thank you for coming. Today I wish to consult {01}C{0D}{00} about something. It concerns {02}{03}4...
+@6787.1
+Yes, thank you for coming. Today I wish to consult {01}C{0B}{00} about something. It concerns {02}{03}4...
+@6788
+Lady {02}{03}4?
+@6789
+Yes. She has been in low spirits lately. So I would like {01}C{0D}{00}'s help.
+@6789.1
+Yes. She has been in low spirits lately. So I would like {01}C{0B}{00}'s help.
+@6790
+Yes, my lord. If it is within my power, anything at all.
+@6791
+Well said! The truth is, {02}{03}4 seems to be lovesick.
+@6791.1
+Well said! The truth is, {02}{03}4 seems to be lovesick, and is pining away.
+@6792
+Ah, I see... !? Could it be that the one she loves is...?
+@6793
+You are quick. Yes, the one she loves is you.
+@6793.1
+You are quick. Yes, the one she loves is you.
+@6794
+I am a parent too, and I cannot bear to see {02}{03}4 suffer. What do you say... Will you not marry {02}{03}4?
+@6794.1
+I am a parent too, and I cannot bear to see {02}{03}4 suffer. What do you say? Will you marry {02}{03}4?
+@6795
+B-but, such a sudden proposal...
+@6796
+{01}C{0B}{00}, you said a moment ago you would help. Surely a warrior does not go back on his word?
+@6797
+V-very well. I gladly accept.
+@6798
+And so {02}{01}n married {02}{03}4, daughter of the lord, {02}{02}4.
+@6799
+{02}{02}4, wife of {02}{01}n, had fallen ill with an epidemic and lay in bed. Despite the physician's care she grew worse, and had little time left.
+@6800
+{02}{02}4, the physician says you will soon recover if you rest. Keep your spirits up.
+@6801
+Cough, cough... M-my husband... forgive me. Not only am I of no help, I am a burden to you...
+@6802
+What are you saying! It is because you are here that I can go to war with an easy mind. You must get well soon.
+@6803
+Such kind words... In this age of war, I was happy... to be... your wife...
+@6804
+{02}{02}4! {02}{02}4! Stay with me! Ugh, ugh... Why must you go before me...
+@6805
+{02}{01}n had lost a wife, {02}{02}4. But the age of war was not yet over, and there was no time even to grieve.
+@6806
+My daughter's hair-tying ceremony went off without a hitch.
+@6807
+In the Warring States era, the daimyo invaded, made peace and allied again and again. And now a meeting was held between the {02}{01}v and the {02}{02}v.
+@6807.1
+In the Warring States era, the daimyo invaded, made peace and allied again and again. And now a meeting was held between the {02}{01}2 and {02}{02}2 clans.
+@6808
+Lord {02}{02}4, it has been a long time.
+@6808.1
+Lord {02}{02}4, it's been a long time.
+@6809
+Yes. I am sorry to have troubled you to come all this way today.
+@6809.1
+Yes. I am sorry to have troubled you to come all this way today.
+@6810
+Not at all. For the friendship of our clans, I spare no effort.
+@6810.1
+Not at all. For the friendship of our clans, I spare no effort.
+@6811
+If we join hands, we can outwit the other clans.
+@6811.1
+If we join hands, we can outwit the other clans.
+@6812
+Just so. May we stay on good terms for many years to come.
+@6812.1
+Just so. May we stay on good terms for many years to come.
+@6813
+Ohoho, today is a good day. Now, let us drink to the prosperity of both clans.
+@6813.1
+Hahaha, today is a good day. Now, let us drink to the prosperity of both clans.
+@6814
+And so the friendship between the {02}{01}v and the {02}{02}v deepened. What effect would it have on the course of the realm...?
+@6814.1
+And so the friendship between the {02}{01}2 and {02}{02}2 clans deepened. What effect would it have on the course of the realm...?
+@6815
+Even in the age of war, no daimyo could ignore the authority of the Imperial Court. And in the palace, {02}{01}n sat facing a court noble.
+@6816
+Why, if it isn't {02}{02}4. Welcome, welcome.
+@6816.1
+Why, if it isn't {02}{02}4. Welcome, welcome.
+@6817
+I was in the area, and came to pay my respects.
+@6818
+Mm, mm, a fine attitude. His Majesty was greatly pleased with your recent gift.
+@6818.1
+Mm, mm, a fine attitude. His Majesty was greatly pleased with your recent gift.
+@6819
+I am most humbled to have troubled you.
+@6820
+Ohoho... {02}{02}4 serves the Court so faithfully.
+@6820.1
+Ho ho ho... {02}{02}4 serves the Court so faithfully.
+@6821
+And today I have brought this. Please accept it.
+@6822
+My, how thoughtful. We shall be sure to tell His Majesty of {02}{02}4's loyalty.
+@6822.1
+Oh, how thoughtful. We shall be sure to tell His Majesty of {02}{02}4's loyalty.
+@6823
+I am most grateful... Should anyone slight the Court, I, {02}{01}4, will come at once. I beg your continued favour.
+@6824
+And so {02}{01}n built close ties with the Imperial Court. What effect would this friendship have on the course of the realm...?
+@6825
+In the Warring States era, local powers rooted in the land were not to be taken lightly. And now a meeting was held between {02}{01}n and the {02}{02}v.
+@6826
+Why, {01}C{0D}{00}. What brings you here?
+@6826.1
+Why, {01}C{0D}{00}. What brings you here?
+@6827
+I wanted to see you again after so long, so I came. For our friendship, I spare no effort.
+@6827.1
+I wanted to see you again after so long, so I came. For our friendship, I spare no effort.
+@6828
+When you say it is for our friendship, I am flattered. Today let us talk to our hearts' content.
+@6828.1
+When you say it is for our friendship, I am flattered. Today let us talk to our hearts' content.
+@6829
+I have long wanted good relations with the {02}{02}v. I am delighted we can talk like this now.
+@6829.1
+I have long wanted good relations with the {02}{02}v. I am delighted we can talk like this now.
+@6830
+We feel the same. In truth, we never wanted to quarrel with Lord {02}{02}4. I look forward to our friendship.
+@6830.1
+We feel the same. In truth, we never wanted to quarrel with Lord {02}{02}4. I look forward to our friendship.
+@6831
+And I to ours.
+@6831.1
+Yes, and I to ours.
+@6832
+And so {02}{01}n built close ties with the {02}{02}v. What effect would this friendship have on the course of the realm...?
+@6833
+In the Warring States era, the daimyo made and broke many alliances. And now, between the {02}{01}v and the {02}{02}v too...
+@6833.1
+In the Warring States era, the daimyo made and broke many alliances. And now, between the {02}{01}2 and {02}{02}2 clans too...
+@6834
+Lord {02}{02}4, thank you for coming today.
+@6834.1
+Lord {02}{02}4, thank you for coming today.
+@6835
+I came because you said you had something of great importance to our clan. Let us not waste time: I would hear this important matter.
+@6835.1
+I came because you said you had something of great importance to our clan. Let us not waste time: let's hear this important matter.
+@6836
+Yes. The truth is, I thought we might form a military alliance.
+@6836.1
+Yes. The truth is, I thought we might form a military alliance.
+@6837
+Oh, a military alliance. I see... Not a bad idea.
+@6837.1
+Oh, a military alliance. Hm... Indeed, not a bad idea.
+@6838
+Fighting each other does us no good. It might be worthwhile to form an alliance and work together.
+@6838.1
+Fighting each other does us no good. It might be worthwhile to form an alliance and work together.
+@6839
+I see...
+@6840
+Then let bygones be bygones. You have no objection to joining hands?
+@6840.1
+Then let bygones be bygones. You have no objection to joining hands?
+@6841
+Very well.
+@6841.1
+Yes, very well.
+@6842
+Then let us drink to a long friendship between us.
+@6842.1
+Good. Then let us drink to a long friendship between us.
+@6843
+And so the {02}{01}v and the {02}{02}v formed a military alliance. What effect would it have on the course of the realm...?
+@6843.1
+And so the {02}{01}2 and {02}{02}2 clans formed a military alliance. What effect would it have on the course of the realm...?
+@6844
+In the Warring States era, the daimyo made and broke many alliances. And now, among the {02}{01}v, the {02}{02}v and the {02}{03}v too...
+@6844.1
+In the Warring States era, the daimyo made and broke many alliances. And now, among the {02}{01}2, {02}{02}2 and {02}{03}2 clans too...
+@6845
+Lord {02}{02}4, Lord {02}{03}4, thank you for coming today.
+@6845.1
+Lord {02}{02}4, Lord {02}{03}4, thank you for coming today.
+@6846
+I came because you said you had something of great importance to our clan. Lord {02}{02}4 here, I imagine, is the same.
+@6846.1
+I came because you said you had something of great importance to our clan. Lord {02}{02}4 here, I imagine, is the same.
+@6847
+Yes, that is so. Then let us hear your business at once.
+@6847.1
+Yes, just so. Then let's hear your business at once.
+@6848
+Yes. The truth is, I thought the three of us might form a military alliance.
+@6848.1
+Yes. The truth is, I thought the three of us might form a military alliance.
+@6849
+Oh, a military alliance. I see... Not a bad idea. What do you think, Lord {02}{02}4?
+@6849.1
+Oh, a military alliance. Hm... Indeed, not a bad idea. What do you think, Lord {02}{02}4?
+@6850
+It is true that fighting each other does us no good. An alliance among our three clans may be worthwhile.
+@6850.1
+It is true that fighting each other does us no good. An alliance among our three clans may be worthwhile.
+@6852
+Very well. That will spare us worries at our backs.
+@6852.1
+Very well. That will spare us worries at our backs.
+@6853
+Yes, I have no objection either.
+@6853.1
+Yes, I have no objection either.
+@6855
+And so the {02}{01}v, the {02}{02}v and the {02}{03}v formed a military alliance. What effect would an alliance of three daimyo have on the course of the realm...?
+@6855.1
+And so the {02}{01}2, {02}{02}2 and {02}{03}2 clans formed a military alliance. What effect would an alliance of three daimyo have on the course of the realm...?
+@6856
+In the Warring States era, the daimyo, each with their own designs, were now enemies, now allies. And now a turning point was coming between the {02}{01}v and the {02}{02}v...
+@6856.1
+In the Warring States era, the daimyo, each with their own designs, were now enemies, now allies. And now a turning point was coming between the {02}{01}2 and {02}{02}2 clans...
+@6857
+Lord {02}{02}4, thank you for accepting my offer.
+@6857.1
+Lord {02}{02}4, thank you for accepting my offer.
+@6858
+I had no reason to refuse... It is of benefit to our clan too.
+@6858.1
+I had no reason to refuse... It is of benefit to our clan too.
+@6859
+We gain nothing by fighting. So I thought it would be good to make a non-aggression pact and cooperate.
+@6859.1
+We gain nothing by fighting. So I thought it would be good to make a non-aggression pact and cooperate.
+@6860
+Then let bygones be bygones, and let us join hands.
+@6860.1
+Yes, let bygones be bygones, and let us join hands.
+@6861
+Then let us drink to celebrate our pact.
+@6861.1
+Then let us drink to celebrate our pact.
+@6862
+And so the {02}{01}v and the {02}{02}v made a non-aggression pact. What effect would it have on the course of the realm...?
+@6862.1
+And so the {02}{01}2 and {02}{02}2 clans made a non-aggression pact. What effect would it have on the course of the realm...?
+@6863
+In the Warring States era, the daimyo, each with their own designs, were now enemies, now allies. And now a turning point was coming for the {02}{01}v, the {02}{02}v and the {02}{03}v...
+@6863.1
+In the Warring States era, the daimyo, each with their own designs, were now enemies, now allies. And now a turning point was coming for the {02}{01}2, {02}{02}2 and {02}{03}2 clans...
+@6864
+Lord {02}{02}4, Lord {02}{03}4, thank you for accepting my offer.
+@6864.1
+Lord {02}{02}4, Lord {02}{03}4, thank you for accepting my offer.
+@6865
+Not at all. It benefits our clan, and I imagine Lord {02}{02}4 here feels the same.
+@6865.1
+Well, it benefits our clan too. I imagine Lord {02}{02}4 here feels the same.
+@6866
+Yes, indeed. A non-aggression pact among our three clans is a fine idea.
+@6866.1
+Yes, just so. A non-aggression pact among our three clans is a fine idea.
+@6867
+We gain more by cooperating than by fighting each other. That is why I put this to you both.
+@6867.1
+We gain more by cooperating than by fighting each other. That is why I put this to you both.
+@6868
+Then we let bygones be bygones and join hands. Agreed?
+@6868.1
+Then we let bygones be bygones and join hands. Agreed?
+@6869
+Yes, I have no objection.
+@6869.1
+Yes, I have no objection.
+@6870
+Then let us drink to celebrate our pact.
+@6870.1
+Then shall we drink to celebrate our pact?
+@6871
+And so the {02}{01}v, the {02}{02}v and the {02}{03}v made a non-aggression pact. What effect would a pact of three daimyo have on the course of the realm...?
+@6871.1
+And so {02}{01}2, {02}{02}2 and {02}{03}2 made a non-aggression pact. What effect would a pact of three daimyo have on the course of the realm...?
+@6874
+I have come today for one reason: I wish to make a non-aggression pact with your {02}{02}v...
+@6874.1
+I have come today for one reason: I wish to make a non-aggression pact with your {02}{02}v...
+@6875
+I see, not a bad idea. In fact, I too was thinking I did not want to fight Lord {02}{02}4.
+@6875.1
+I see, not a bad idea. In fact, I too was thinking I did not want to fight Lord {02}{02}4.
+@6876
+Oh, is that so? I feared you might refuse, but it seems I worried for nothing.
+@6876.1
+Oh, is that so? I thought you might refuse, but it seems I worried for nothing.
+@6877
+Today has turned out a good day. Now, let us drink to celebrate our pact.
+@6877.1
+Today has turned out a good day. Now, shall we drink to celebrate our pact?
+@6878
+And so {02}{01}n made a non-aggression pact with the {02}{02}v. What effect it would have, no one could know...
+@6879
+{02}{01}n, daimyo of {02}{01}{9C}, was thinking of drawing closer to {02}{02}n.
+@6879.1
+{02}{01}n, daimyo of {02}{01}:, was thinking of drawing closer to {02}{02}n.
+@6880
+Lord {02}{02}4, what is your business today?
+@6881
+Please deliver this letter to {02}{02}N.
+@6881.1
+Yes. Will you deliver this letter to {02}{02}N?
+@6881.2
+Please deliver this letter to {02}{02}9.
+@6881.3
+Yes. Will you deliver this letter to {02}{02}9?
+@6882
+{02}{02}N... that is Lord {02}{02}n's home castle. Understood. I shall set out at once.
+@6882.1
+{02}{02}9... that is Lord {02}{02}n's home castle. Understood. I shall set out at once.
+@6883
+The next day, {02}{02}n read the letter from {02}{01}n.
+@6884
+Hm, they wish to marry Princess {02}{02}4 to me...
+@6884.1
+What, they wish to marry Princess {02}{02}4 to {02}{03}4...
+@6884.2
+Hm, they wish to marry Princess {02}{02}4 to {02}{03}4...
+@6885
+It seems {02}{02}n wants closer ties with our clan. Not a bad idea...
+@6885.1
+It seems {02}{02}n wants closer ties with our clan. Not a bad idea...
+@6886
+Princess {02}{02}4 is said to be a beauty. I must take a wife sooner or later. This may be a good chance.
+@6886.1
+Princess {02}{02}4 is said to be a beauty. She would suit {02}{03}4.
+@6886.2
+Princess {02}{02}4 is said to be a beauty. She would suit {02}{03}4.
+@6887
+I shall accept this offer.
+@6887.1
+I shall accept this offer.
+@6888
+Arrangements for the marriage of Princess {02}{02}4 of the {02}{01}v went smoothly, and the day came.
+@6888.1
+Arrangements for the marriage of Princess {02}{02}4 of the {02}{01}2 clan went smoothly, and the day came.
+@6889
+Princess {02}{02}4... I have been waiting for you.
+@6890
+Lord {02}{02}4, I am an unworthy bride, but I ask your kind favour.
+@6891
+And so Princess {02}{01}4 was married, and a marriage alliance joined the two clans. What effect this marriage would later have, no one yet knew...
+@6892
+In the Warring States era, powerful clans swallowed up weaker ones. And now that time was coming for the {02}{01}v...
+@6892.1
+In the Warring States era, powerful clans swallowed up weaker ones. And now that time was coming for the {02}{01}2 clan...
+@6893
+Lord {02}{02}4, what is the matter?
+@6894
+Look at this...
+@6894.1
+Look at this...
+@6895
+With that, {02}{01}n tossed the vassal a letter sent by the {02}{02}v.
+@6895.1
+With that, {02}{01}n tossed the vassal a letter sent by the {02}{02}2 clan.
+@6896
+Wh-why, this is a threat! Become vassals of the {02}{02}v or be destroyed, it says... H-how insolent!!
+@6896.1
+Wh-why, this is a threat! Become vassals of the {02}{02}2 clan or be destroyed, it says... H-how insolent!!
+@6897
+I understand how you feel. I feel the same.
+@6897.1
+Yes, I understand how you feel. I feel the same.
+@6898
+Oh, then you will break free of the {02}{02}v!
+@6898.1
+Oh, then you will break free of the {02}{02}2 clan!
+@6899
+I would like nothing better... But if we break free, {02}{02}n will seize the chance and attack us.
+@6899.1
+I would like nothing better... But if we break free, {02}{02}n will seize the chance and attack us.
+@6900
+Hmm, {02}{03}n is a skilled general... Our clan would probably...
+@6900.1
+Hmm, {02}{03}n is a master of schemes... Our clan would probably...
+@6900.2
+Hmm, with our present strength... our clan would probably...
+@6901
+Yes, be destroyed... I cannot let the {02}{01}v perish in my time... I shall bear the name of coward...
+@6901.1
+Yes, be destroyed... I cannot let the {02}{01}v perish in my time... I shall bear the name of coward...
+@6901.2
+Yes, be destroyed... I cannot let the {02}{01}2 clan perish in my time... I shall bear the name of coward...
+@6901.3
+Yes, be destroyed... I cannot let the {02}{01}2 clan perish in my time... I shall bear the name of coward...
+@6902
+Lord {02}{02}4... I understand how you feel...
+@6902.1
+Lord {02}{02}4... I understand how you feel...
+@6903
+And so {02}{01}n chose to become a vassal of the {02}{02}v. The {02}{02}v grew ever mightier...
+@6903.1
+And so {02}{01}n chose to become a vassal of the {02}{02}2 clan. The {02}{02}2 clan grew ever mightier...
+@6904
+In the Warring States era, weak clans survived by relying on powerful ones. And now a turning point was coming for the {02}{01}v...
+@6904.1
+In the Warring States era, weak clans survived by relying on powerful ones. And now a turning point was coming for the {02}{01}2 clan...
+@6908
+Wh-why, this is a threat! Side with the {02}{02}v or be destroyed, it says... H-how insolent!!
+@6908.1
+Wh-why, this is a threat! Side with the {02}{02}2 clan or be destroyed, it says... H-how insolent!!
+@6910
+Then let us ask our overlord for reinforcements!
+@6910.1
+Oh, then let us ask our overlord for reinforcements!
+@6911
+Now, what to do... Even our overlord can hardly stand against {02}{02}4 now that the tide is with them. Then whom should we side with...
+@6911.1
+Now, what to do... Even our overlord can hardly stand against {02}{02}4 now that the tide is with them. Then whom should we side with...
+@6912
+Indeed, {02}{03}n is a skilled general... They would surely protect our clan.
+@6912.1
+Indeed, {02}{03}n is a master of schemes... Our clan would surely be safe.
+@6912.2
+Indeed, {02}{03}n has momentum... They would surely protect our clan.
+@6913
+Then it is decided... I am sorry for our overlord, but such is the way of the times...
+@6913.1
+Yes, it is decided... I am sorry for our overlord, but such is the way of the times...
+@6914
+Lord {02}{02}4... Then I shall go as a secret envoy...
+@6914.1
+Lord {02}{02}4... Then I shall go as a secret envoy...
+@6915
+And so {02}{01}n switched to the {02}{02}v. Whether this choice would bring fortune or ruin, no one could know...
+@6915.1
+And so {02}{01}n switched to the {02}{02}2 clan. Whether this choice would bring fortune or ruin, no one could know...
+@6916
+In the Warring States era, powerful clans made weaker ones their vassals. And now that time was coming for the {02}{01}v...
+@6916.1
+In the Warring States era, powerful clans made weaker ones their vassals. And now that time was coming for the {02}{01}2 clan...
+@6920
+Wh-why, this is a threat! Submit to the {02}{02}v or be destroyed, it says... H-how insolent!!
+@6920.1
+Wh-why, this is a threat! Submit to the {02}{02}2 clan or be destroyed, it says... H-how insolent!!
+@6922
+Then you will face the {02}{02}v in a decisive battle!
+@6922.1
+Oh, then you will face the {02}{02}v in a decisive battle!
+@6922.2
+Then you will face the {02}{02}2 clan in a decisive battle!
+@6922.3
+Oh, then you will face the {02}{02}2 clan in a decisive battle!
+@6923
+I would like nothing better... But could we win?
+@6923.1
+I would like nothing better... But could we win?
+@6924
+{02}{03}n is a skilled general... Victory would be hard...
+@6924.1
+{02}{03}n is a master of schemes... Victory would be hard...
+@6924.2
+With our present strength, victory would be hard...
+@6925
+You think so too... I cannot let the {02}{01}v perish in my time... We must endure...
+@6925.1
+You think so too... I cannot let the {02}{01}v perish in my time... We must endure...
+@6925.2
+You think so too... I cannot let the {02}{01}2 clan perish in my time... We must endure...
+@6925.3
+You think so too... I cannot let the {02}{01}2 clan perish in my time... We must endure...
+@6927
+And so the {02}{01}v became a vassal of the {02}{02}v. What effect would this have on the course of the realm...?
+@6927.1
+And so the {02}{01}2 clan became a vassal of the {02}{02}2 clan. What effect would this have on the course of the realm...?
+@6928
+In the Warring States era, weak clans survived by relying on powerful ones. And now a turning point was coming for the {02}{01}v...
+@6928.1
+In the Warring States era, weak clans survived by relying on powerful ones. And now a turning point was coming for the {02}{01}2 clan...
+@6929
+You called for me, Lord {02}{02}4?
+@6930
+Yes, I want your opinion. What do you think of our clan as it is now? Tell me honestly.
+@6930.1
+Yes, I want your opinion... What do you think of our clan as it is now? Speak honestly.
+@6931
+Th-that is a hard question. I hardly know how to answer...
+@6932
+Then I shall answer... Sadly, our clan can no longer be called a daimyo clan... You think so too.
+@6932.1
+I see. Then I shall answer... Sadly, our clan can no longer be called a daimyo clan... You think so too.
+@6933
+Wh... n-no, not at all...
+@6934
+No need to hide it. I think so myself. So I am considering simply becoming Lord {02}{02}4's vassal.
+@6934.1
+No need to hide it. I think so myself. So I am considering simply becoming Lord {02}{02}4's vassal.
+@6935
+{02}{01}4's vassal could not hide his astonishment. True, the {02}{01}v was little more than one of the {02}{02}v's vassal houses, but it was still a daimyo clan.
+@6935.1
+{02}{01}4's vassal could not hide his astonishment. True, the {02}{01}2 clan was little more than one of the {02}{02}2 clan's vassal houses, but it was still a daimyo clan.
+@6936
+For their lord to throw away the rank of daimyo and sink to a mere officer was hard for the vassals to accept.
+@6937
+But then, my lord, you would...
+@6938
+Yes, I shall be an officer, just like you. Of course, Lord {02}{02}4 will not treat me badly.
+@6938.1
+Yes, I shall be an officer, just like you. Of course, Lord {02}{02}4 will not treat me badly.
+@6939
+I lack even the calibre of a daimyo, but Lord {02}{02}4 has the greatness to rule the realm. I want to stake everything on {02}{02}4.
+@6939.1
+I lack even the calibre of a daimyo, but Lord {02}{02}4 has the greatness to rule the realm. I want to stake everything on {02}{02}4.
+@6940
+You have thought it through that far... I can no longer stop you. Do as you wish, my lord.
+@6940.1
+You have thought it through that far... I can no longer stop you. Do as you wish, my lord.
+@6941
+And so {02}{01}n became a vassal of {02}{02}n. Would {02}{02}n truly win the realm...?
+@6944
+Yes, I want your opinion. What do you think of our overlord, Lord {02}{02}4? Tell me honestly.
+@6944.1
+Yes, I want your opinion... What do you think of our overlord, Lord {02}{02}4? Speak honestly.
+@6945
+Th-that is a hard question. He is our overlord, after all...
+@6946
+Then I shall answer... Lord {02}{02}4 is not worthy to be looked up to as overlord... You think so too.
+@6946.1
+I see. Then I shall answer... Lord {02}{02}4 is not worthy to be looked up to as overlord... You think so too.
+@6946.2
+Then I shall answer... I cannot accept Lord {02}{02}4's recent conduct... You think so too.
+@6946.3
+I see. Then I shall answer... I cannot accept Lord {02}{02}4's recent conduct... You think so too.
+@6947
+So you knew... All of us vassals have been whispering that Lord {02}{03}4 is not fit to be our overlord.
+@6947.1
+So you knew... It is just as you say.
+@6948
+I thought as much... That makes it simple. I intend to switch to the {02}{02}v.
+@6948.1
+Yes, I thought as much... That makes it simple. I intend to switch to the {02}{02}v.
+@6948.2
+I thought as much... That makes it simple. I intend to switch to the {02}{02}2 clan.
+@6948.3
+Yes, I thought as much... That makes it simple. I intend to switch to the {02}{02}2 clan.
+@6949
+What, do you truly mean it...?
+@6950
+Of course. If I have your support, that is...
+@6950.1
+Of course. If I have your support, that is...
+@6951
+A good idea, I think. If we keep Lord {02}{02}4 as overlord, who knows what disaster may befall our clan...
+@6952
+My mind is made up. From now on we come under Lord {02}{02}4's banner!
+@6952.1
+Good, my mind is made up. From now on we come under Lord {02}{02}4's banner!
+@6953
+And so {02}{01}n switched to the {02}{02}v. Whether this choice was right, no one could yet know...
+@6953.1
+And so {02}{01}n switched to the {02}{02}2 clan. Whether this choice was right, no one could yet know...
+@6954
+In the Warring States era, weak clans survived by relying on powerful ones. And now a turning point was coming for the {02}{01}v...
+@6954.1
+In the Warring States era, weak clans survived by relying on powerful ones. And now a turning point was coming for the {02}{01}2 clan...
+@6956
+Yes. Would you deliver this letter to Lord {02}{02}n with all speed?
+@6956.1
+Yes. Would you deliver this letter to Lord {02}{02}n?
+@6957
+Then, Lord {02}{02}4, you have made your decision...
+@6958
+Yes. This is no time to cling to reputation. The name of the {02}{01}v must be preserved at all costs.
+@6958.1
+Yes. This is no time to cling to reputation. The name of the {02}{01}v must be preserved at all costs.
+@6958.2
+Yes. This is no time to cling to reputation. The name of {02}{01}2 must be preserved at all costs.
+@6958.3
+Yes. This is no time to cling to reputation. The name of {02}{01}2 must be preserved at all costs.
+@6959
+I understand how you feel...
+@6960
+Surrounded by strong neighbours, the {02}{01}v had grown weaker. And so {02}{01}4 resolved to submit to the {02}{02}v.
+@6960.1
+Surrounded by strong neighbours, the {02}{01}2 clan had grown weaker. And so {02}{01}4 resolved to submit to the {02}{02}2 clan.
+@6961
+Some time later, {02}{01}4 was waiting in attendance at {02}{02}n's castle.
+@6962
+I, {02}{01}4, swear unchanging loyalty to Lord {02}{02}4, and beg your kind consideration for our clan...
+@6963
+Yes, Lord {02}{02}4, I have heard your wishes clearly. The {02}{02}v will not be treated badly.
+@6963.1
+Yes, Lord {02}{02}4, I have heard your wishes clearly. The {02}{02}2 clan will not be treated badly.
+@6964
+Yes, my lord! I am deeply grateful.
+@6966
+In the Warring States era, local powers rooted in the land were not to be taken lightly. And now {02}{01}n paid a secret visit to the {02}{02}v.
+@6967
+Oh, someone from the {02}{02}v? What brings you here?
+@6967.1
+Oh, someone from the {02}{02}v? What brings you here?
+@6967.3
+Oh, someone from the {02}{02}2 clan? What brings you here?
+@6968
+I have come today for one reason: please lend the strength of your {02}{02}v to our clan...
+@6968.1
+I have come today for one reason: I ask you to lend the strength of your {02}{02}v to our clan...
+@6969
+What, you ask us to betray the {02}{02}v? We cannot do that.
+@6970
+One day we will attack this land. If you are our enemies then, everyone who lives here will suffer.
+@6970.1
+One day we will attack this land. If you are our enemies then, everyone who lives here will suffer.
+@6971
+The {02}{02}v means to use you as pawns to be sacrificed... They will not protect you.
+@6971.1
+The {02}{02}v means to use you as pawns to be sacrificed... They will not protect you.
+@6972
+But there is no guarantee that {01}C{0D}{00} will protect us either.
+@6973
+No, that is not so. I give you my guarantee. Here it is, in writing.
+@6973.1
+No, that is not so. I give you my guarantee. Here it is, in writing.
+@6974
+............Very well. Trusting this pledge, we will side with {01}C{0D}{00}.
+@6975
+And so, with clever words, {02}{01}n won over the {02}{02}v. What effect this would have, no one could know...
+@6976
+In the Warring States era, local powers rooted in the land were not to be taken lightly. And now {02}{01}n came to the {02}{02}v.
+@6979
+What, you want us to become vassals of the {02}{02}v? We cannot do that.
+@6979.1
+What, you want us to become vassals of the {02}{02}2 clan? We cannot do that.
+@6980
+I am saying I wish to join forces. You will not be treated badly, I promise.
+@6980.1
+I am saying I wish to join forces. You will not be treated badly, I promise.
+@6981
+Hmm, you have a way with words. But we will not be fooled. Trying to use us is pointless.
+@6982
+If you side with me now, our ties will grow stronger and good will come of it. Please think again.
+@6982.1
+If you side with me now, our ties will grow stronger and good will come of it. Think again.
+@6983
+True, looked at one way, it may not be a bad offer... Very well. We will trust {01}C{0D}{00} and take your side.
+@6984
+And so {02}{01}n succeeded in bringing the {02}{02}v into the fold. What effect this would have, no one could know...
+@6985
+The {02}{01}v served the {02}{02}v, content to be a vassal. But {02}{01}n was watching keenly for the chance to break free.
+@6985.1
+The {02}{01}2 clan served the {02}{02}2 clan, content to be a vassal. But {02}{01}n was watching keenly for the chance to break free.
+@6986
+Lord {02}{02}4, what is your business today?
+@6987
+This is important; listen well. I have resolved to part ways with the {02}{02}v.
+@6987.1
+This is important; listen well. I have decided to part ways with the {02}{02}v.
+@6987.2
+This is important; listen well. I have resolved to part ways with the {02}{02}2 clan.
+@6987.3
+This is important; listen well. I have decided to part ways with the {02}{02}2 clan.
+@6988
+You have made up your mind at last!
+@6988.1
+Oh, you have made up your mind at last!
+@6989
+The time of lying low is over. From now on we take orders from no one and aim for the realm. Make sure everyone in the household knows it!
+@6989.1
+The time of lying low is over. From now on we take orders from no one and aim for the realm. Make sure everyone in the household knows it!
+@6990
+Yes. Understood.
+@6991
+Before long, a letter from the {02}{01}v arrived at {02}{02}N, {02}{02}n's castle. Told that relations were broken off, {02}{02}4 was furious.
+@6991.1
+Before long, a letter from the {02}{01}2 clan arrived at {02}{02}9, {02}{02}n's castle. Told that relations were broken off, {02}{02}4 was furious.
+@6992
+What! {02}{02}4, curse you! You won't get away with this!
+@6992.1
+What! {02}{02}4, curse you, have you forgotten all you owe me? You won't get away with this!
+@6993
+What fate awaited the {02}{01}v, now independent of the {02}{02}v...?
+@6993.1
+What fate awaited the {02}{01}2 clan, now independent of the {02}{02}2 clan...?
+@6994
+The {02}{01}v, long watching for the chance to break free, finally raised the banner of revolt. And the news reached the {02}{02}v.
+@6994.1
+The {02}{01}v, long watching for the chance to break free, finally raised the banner of revolt. And the news reached the {02}{02}2 clan.
+@6995
+Lord {02}{02}4, grave news! The {02}{03}v has risen against us!
+@6996
+What, the {02}{02}v! I cannot believe {02}{02}n would betray us...
+@6996.1
+What, the {02}{02}v! I cannot believe {02}{02}n would betray us...
+@6997
+Reports say they are building forts and strengthening their defences.
+@6998
+But why would {02}{02}n do something so reckless...
+@6998.1
+But why would {02}{02}n do something so reckless...
+@6999
+Perhaps someone put them up to it...

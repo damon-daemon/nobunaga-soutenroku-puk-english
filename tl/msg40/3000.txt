@@ -1,0 +1,1014 @@
+@3000
+Said to have shown his full ability in government, war and intrigue alike.
+@3000.1
+Skilled in government, and said to be first-rate at moving armies in the field as well.
+@3000.2
+Skilled in government, and a gifted schemer too, said to have struck fear into his neighbours.
+@3000.3
+Skilled in war, and a gifted schemer too, said to have struck fear into his neighbours.
+@3000.4
+A shrewd politician, said to have shown his ability chiefly in domestic affairs.
+@3000.5
+Skilled at moving armies in the field, said to have distinguished himself in battles far and wide.
+@3000.6
+A gifted schemer, said to have struck fear into his neighbours with plot after plot.
+@3000.7
+Said to have distinguished himself in battles far and wide with the men he hired in {02}{01}:.
+@3001
+First a ronin living in {02}{01}: Province, he rose amid the wars to become an officer.\n{01}C{B8}{0B}
+@3002
+Son of {02}{02}n.\n{01}C{B8}{0B}
+@3004
+2nd head of the Kakizaki. Built Tokuyama Hall. He drove off Ainu armies and won the Ando's approval as Matsumae constable, securing the Kakizaki hold on Ezo.
+@3006
+22nd Nanbu head, Nobutoki's 2nd son; succeeded his brother Nobuyoshi. The Nanbu, a Takeda branch, descend from Nanbu Mitsuyuki, given Nukanobu district for joining Yoritomo's Oshu campaign.
+@3008
+Nanbu vassal and founder of the Oura. He built Tanesato Castle as his seat to guard against the Ando. Vowing to "guard the west even in death", he was buried standing in full armour.
+@3010
+Nanbu vassal, Mitsunobu's heir. In 1502, on his father's orders, he became lord of the newly built Oura Castle. In 1528 he founded Chokatsuji below Tanesato Castle to pray for his father.
+@3012
+5th head of the Namioka Kitabatake, son of Akiyoshi, called the "Namioka Gosho". The house descends from Kitabatake Akiie, Chinjufu general and pillar of the Southern Court.
+@3014
+Head of the Oshu Shiba, said to be Osaki Norikane's son. In 1495 he entered Shiwa district and made Kosuiji Castle his seat, placing his sons Akisada at Shizukuishi and Akiyoshi at Inosari.
+@3016
+Mutsu lord, styled Governor of Yamato. The Hienuki once held Hienuki district firmly, but siding in the Waga clan's civil war in 1435 brought a Shiba attack, and they lost their power.
+@3018
+13th head of the Kasai. First regent for his nephew Hisanobu, he succeeded on Hisanobu's early death, but rumours that he had poisoned him to seize the headship tore the clan apart.
+@3020
+14th head of the Kasai, son of Masanobu, styled Governor of Mutsu and of Iki. He reunited the divided Kasai, reportedly backed by the heavy military intervention of Date Tanemune.
+@3022
+9th head of the Osaki. Shogun Ashikaga Yoshihisa granted him the character "Yoshi" and the sword Kanehira. Driven to the Date by civil war in 1488, he returned with Date Hisamune's help.
+@3024
+10th head of the Osaki. He succeeded his father Yoshikane but is said to have died of illness after only a year. The headship passed to Osaki Yoshinobu (Date Tanemune's son), his daughter Baika's husband.
+@3026
+14th head of the Rusu, 5th son of Date Mochimune. He married the daughter of the 13th head Mochiie and took the headship; Mochiie's own son Mitsuie inherited the Amarume branch.
+@3028
+Mutsu lord. The Watari descend from Takeishi Tanemori, 3rd son of Chiba Tsunetane, who served Minamoto no Yoritomo. His heir Munetaka had no son and adopted an heir from the Date.
+@3030
+13th head of the Soma; married Ashina Morikiyo's daughter. In the 12th month of 1492, just after succeeding, he beat Shineha Kiyotaka and ruled the three districts of Uda, Namekata and Shineha.
+@3032
+Shineha vassal of a branch house. Unable to bear his lord Takanari's brutality, he plotted with the Soma and killed him; he took a character from Soma Moritane's name, changing "Takanao" to Tanenao.
+@3034
+Mutsu lord whose daughters married Satake Yoshikiyo and others. He built Iinodaira Castle as his seat and beat the Satake and Shirakawa Yuki, ruling the Iwaki's widest lands. Also a fine linked-verse poet.
+@3036
+Mutsu lord, son of Tsunetaka. When Koga kubo Ashikaga Masauji fought his son Takamoto, he took Masauji's side with the Satake, fighting the Utsunomiya and Shimosa Yuki on Takamoto's.
+@3038
+Mutsu lord, son of Moriaki; married Iwaki Tsunetaka's daughter. Built Miharu Castle as his seat in 1504. The Tamura are said to begin with Kotetsu, great-great-grandson of Sakanoue no Tamuramaro.
+@3040
+Head of the Shirakawa Yuki; his son Sukenaga was adopted by Nasu Sukechika. Allied with the Ashina, he lost to the Satake; then beaten by the Komine branch, he fled to Sukenaga in Nasu.
+@3042
+Head of the Shirakawa Yuki, son of Masatomo. In 1520 he joined the Iwaki against the Nasu but lost. In 1531 he restored Chitokuin on Mt Chouun, founded by the clan's ancestor Munehiro.
+@3044
+13th head of the Ashina. Tied to the Date by marriage, he sent troops into their family feud. Later he fell out with his son Morishige, splitting the clan in two.
+@3046
+Ashina vassal, styled Mimasaka; the Tomita were one of the four Ashina elder houses. When Moritaka and his son Morishige clashed, he sided with Moritaka and fought the Matsumoto and others.
+@3048
+15th head of the Nikaido, styled Governor of Yamashiro. The house is said to begin with Kudo Yukimasa, a Kamakura shogunate official who lived at Nikaido in Kamakura and took its name.
+@3050
+16th head of the Nikaido, Yukiakira's heir, styled Governor of Totomi. In 1534 he fought the Iwaki and Shirakawa Yuki with the Ashina, and often fought neighbours such as the Tamura.
+@3052
+5th head of the Hiyama Ando, he succeeded when vassals killed his father Masasue, and built Hiyama Castle as his seat. In 1496 he killed Matsumae constable Shimokuni Tsunesue for misrule.
+@3054
+6th head of the Hiyama Ando, son of Tadasue. In 1514 he confirmed Kakizaki Mitsuhiro as Matsumae constable, and began using titles like "General of the Eastern Sea" to assert his rule of Ezo.
+@3056
+15th head of the Tozawa, styled Governor of Hida. The clan descends from Tozawa Kanemori, of the line of Taira no Sadamori, slayer of Masakado. The 11th head moved its seat to Kakunodate.
+@3058
+Onodera vassal, founder of the Inaniwa Onodera. After his brother Tanemichi's death he ran the clan for his nephew Koremichi, then serving the shogun; on Koremichi's return he retired as a monk.
+@3060
+Dewa lord, 2nd son of Atsuuji. In 1472 he became steward of Mt Haguro, holy ground of the Shugendo ascetics, and used its religious authority to spread his power over Shonai in Dewa.
+@3062
+Dewa lord, son of Masauji. He fought the Sagoshi branch again and again: beaten by them at Tozenji in 1512, he won the next year and killed Sagoshi Ujikatsu.
+@3064
+8th head of the Mogami, son of Mitsuuji, styled Captain of the Left Palace Guards. The Mogami began when Kaneyori, son of Shiba Iekane, came to Mogami in Dewa as Ushu Commissioner and took its name.
+@3066
+9th head of the Mogami, Yoshiatsu's heir. Crushed by Date Tanemune in 1514, he made peace by marrying Tanemune's sister; after this the Date often meddled in Mogami politics.
+@3068
+13th head of the Date, Narimune's heir; married Uesugi Sadazane's daughter. Around 1504 he sent his vassal Koyanagawa Morimune to bring Shogun Ashikaga Yoshizumi to his lands and protect him.
+@3070
+15th head of the Satake. Attacked by Yamairi Ujiyoshi of a Satake branch, he left his seat, Ota Castle. Later, with help from the Iwaki and Nasu, he killed Ujiyoshi and took his castle back.
+@3072
+Satake vassal, 4th son of the 14th head Yoshiharu. Living north of Ota Castle, he was called Kitadono and founded the Satake Kita house. After Yoshikiyo's death he aided their nephew Yoshiatsu.
+@3074
+Satake vassal, 5th son of the 14th head Yoshiharu. Living east of Ota Castle, he was called Higashidono and founded the Satake Higashi house. After Yoshikiyo's death he aided their nephew Yoshiatsu.
+@3076
+Hitachi lord of Mito Castle. In the Satake feud he defected from Yamairi Ujiyoshi to Yoshikiyo, and in 1510 swore with Yoshikiyo to rank "as one family", raising the Edo's standing.
+@3078
+13th head of the Oda of Hitachi, serving the Koga kubo. When his sons Harutaka and Akiie fought and both were killed, he adopted Masaharu, son of Ashikaga Masatomo (the Horigoe kubo).
+@3080
+Kamakura kubo. Spared after the Yuki War, he restored the Kamakura office; later he killed Kanto Kanrei Uesugi Noritada, starting the great Kyotoku War against the shogunate and the Uesugi.
+@3082
+Koga kubo, son of Shigeuji. He succeeded after his father made peace with the shogunate. He fought his son Takamoto and drove him to Sekiyado Castle for a time, but under pressure from all sides he retired.
+@3084
+Koga kubo. He opposed his father Masauji, an Uesugi friend, and fled to the Utsunomiya before returning. Set against him again by Hojo Soun's schemes, he drove his father out and took over.
+@3086
+23rd head of the Chiba. In 1517 Ashikaga Yoshiaki and Takeda Nobutamo took Oyumi Castle, ousting his vassal Hara Tanetaka, so he attacked Shiizu Castle in Kazusa and other bases of Yoshiaki's.
+@3088
+4th head of the Mariyatsu Takeda. The house began in 1456 when Takeda Nobunaga (son of Nobumitsu, 13th head of the Kai Takeda) entered Kazusa and built Mariyatsu and Chonan Castles.
+@3090
+3rd head of the Satomi, Shigeyoshi's eldest son. He crushed the local lords who held Awa and secured his rule. In 1508 he built Tsurugaya Hachiman, modelled on Tsurugaoka Hachiman in Kamakura.
+@3092
+4th Satomi head, Shigeyoshi's 2nd son. He led the clan for his young nephew Yoshitoyo after his brother Yoshimichi died; Yoshitoyo, fearing his popularity, attacked him and drove him to suicide.
+@3094
+Satomi vassal said to be the son of Miura Yoshiatsu or of Miura Tokitaka, his adoptive father; founder of the Masaki. When Satomi Yoshitoyo attacked his lord Sanetaka, he died beside him.
+@3096
+17th head of the Utsunomiya. In the Koga kubo feud he backed his son-in-law Takamoto and murdered his vassal Haga Takakatsu, a Masauji man. Revolt followed, but with outside help he put it down.
+@3098
+18th head of the Utsunomiya, Shigetsuna's heir. He fell out with his brother-in-law Yuki Masatomo and uncle Haga Okitsuna, who took his castle while he fought Masatomo. He died without retaking it.
+@3100
+Head of the Upper Nasu. He took Shirakawa Yuki Masatomo's son Sukenaga as son-in-law, but then his own son Sukehisa was born. Dying, he named Sukehisa heir, sowing a Nasu civil war.
+@3102
+Head of the Lower Nasu. When the Upper Nasu died out in their feud he united both houses. His tug-of-war with the Shirakawa Yuki at the Hokigawa is said to be the origin of the Onejinawa contest.
+@3104
+Nasu vassal. With Fukuhara Sukeyasu he slandered Otawara Sukekiyo to their lord Sukefusa and drove him out. Sukekiyo returned, killed his son Masutsugu, and his son Takamasu took over the Ozeki.
+@3106
+12th head of the Sano, styled Governor of Echizen. He greatly rebuilt and enlarged Karasawayama Castle. The Sano began with Ashikaga Mototsuna, of Fujiwara no Hidesato's line, who settled in Sano.
+@3108
+13th head of the Sano, Hidetsuna's heir, styled Shuri-no-suke. When his vassal Akami Iga-no-kami rebelled in 1559, he attacked Akami Castle and drove him off to Hitachi.
+@3110
+Kanto Kanrei. He brought war to the Kanto, provoking Nagao Kageharu's revolt and slandering Ota Dokan to Uesugi Sadamasa, who had Dokan murdered. Beaten by Nagao Tamekage at Nagamorihara, he was killed.
+@3112
+Kanto Kanrei, adopted by Uesugi Akisada. After Akisada died, Uesugi Akizane (Ashikaga Masauji's brother) took over, but he used the Koga kubo feud to drive Akizane out and became head.
+@3114
+Yamanouchi Uesugi vassal from the Ashikaga Nagao. When Sojya Nagao head Akikata fled with Uesugi Akizane, he became the clan's steward. A skilled painter who left a self-portrait and landscapes.
+@3116
+Iwamatsu vassal. He fought his lord Hisazumi, who was devoted to letters; with Koga kubo Ashikaga Shigeuji's backing he made him retire, set up his son Masazumi, and ran the realm as steward.
+@3118
+Iwamatsu vassal, son of Narishige; praised as "the most able of three generations". In the Koga kubo feud he sided with Takamoto and did well in many places. He fell at the battle of Suga in Musashi.
+@3120
+Lord of Kanayama Castle in Kozuke. He succeeded his grandfather Iezumi. His devotion to letters set him against his vassal Yokoze Narishige, and Koga kubo Ashikaga Shigeuji's mediation made him retire.
+@3122
+Lord of Kanayama Castle in Kozuke, son of Hisazumi. He succeeded as a child when his father retired. He clashed with his overbearing vassal Yokoze Yasushige, failed to bring him down, and was killed.
+@3124
+Yamanouchi Uesugi vassal praised as "a hero beyond others in war, wit and might". When his uncle Tadakage became steward after his father's death, he rebelled, and fought his old lords until he died.
+@3126
+Kozuke lord. In 1519 he built Makuiwa Castle as his seat, and had the Outer Shrine of Ise brought there as the Harada Shinmeigu. The Numata are said to descend from Miura Yoshizumi, Yoritomo's vassal.
+@3128
+Head of the Ogigayatsu Uesugi, adopted by his uncle Sadamasa. Allied with Hojo Soun, he fought the Yamanouchi Uesugi but lost and retired. He tried in vain to mediate in the Koga kubo feud.
+@3130
+Ogigayatsu Uesugi vassal, keeper of Kawagoe Castle. His father Hyogo, a steward of the clan, went as envoy to make peace with the Yamanouchi Uesugi, and was the man who killed Ota Dokan.
+@3132
+Ogigayatsu Uesugi vassal, nephew and adopted son of Dokan. He founded Yochikuin on the site of Dokan's camp, inviting kinsman Shukuetsu Zenyaku (Dokan's uncle or brother) as its first abbot.
+@3134
+Ogigayatsu Uesugi vassal, son of Sukeie. Siding with Hojo Ujitsuna, he killed Ota Eigon of Iwatsuki and his son Genroku and became lord of Iwatsuki, but soon returned to the Ogigayatsu Uesugi.
+@3136
+Yamanouchi Uesugi vassal based at Oshi Castle. When Akisada's adopted sons Akizane and Norifusa fought for the headship, he sided with Akizane, and his lands were seized and given to the Yokoze.
+@3138
+Ogigayatsu Uesugi vassal, son of Dokan. After his lord Sadamasa had his father murdered he joined the Yamanouchi Uesugi against them, returning when they made peace. He fell fighting Hojo Soun.
+@3140
+Ogigayatsu Uesugi vassal. In 1510 he went over to Hojo Soun and became lord of Gongenyama Castle. He fought the allied Uesugi houses with Soun, but their fierce attack beat him and took his castle.
+@3142
+Imagawa vassal. Putting down Oshika Norimitsu's revolt gave him a voice; he destroyed the Horigoe kubo and the Miura and made Izu and Sagami his own. Famed as "the great villain of the age of war".
+@3144
+Hojo vassal, son of Soun, styled Sama-no-suke; lord of Tamanawa Castle. When Satomi Sanetaka invaded Kamakura in Sagami in 1526, he marched to the Tobe river, held the line and drove the Satomi back.
+@3146
+Hojo vassal. He first served the Ashikaga shoguns, where he is said to have met Hojo Soun and followed him to Suruga. After his lord Ujitsuna took Edo Castle, he became its keeper.
+@3148
+Ogigayatsu Uesugi vassal, called Dosun. He killed his adoptive father Tokitaka for the headship. Based at Okazaki Castle he fought Hojo Soun, lost, and killed himself, leaving a death poem.
+@3150
+Ogigayatsu Uesugi vassal, son of Yoshiatsu; lord of Arai Castle, said to have the strength of 85 men. He fought Hojo Soun beside his father and fell; his severed head is said to have lived for 3 years.
+@3152
+7th head of the Imagawa. He killed his kinsman Oshika Norimitsu to become head. Guided by his uncle Hojo Soun he widened his lands, and he did much for the clan, issuing the Imagawa Kana Mokuroku code.
+@3154
+Imagawa vassal. A temple acolyte, he returned to lay life when his father Horikoshi Sadanobu died. After lord Yoshitada's death he aided his son Ujichika, and took the name Sena from the village he received.
+@3156
+Kira vassal, styled Governor of Bitchu. Based at Hikuma Castle, he was steward of Hamamatsu estate. Allied with Owari constable Shiba Yoshitatsu he fought Imagawa Ujichika's army, lost, and killed himself.
+@3158
+Imagawa vassal, son of Nagatsura, who came from Kyoto with Imagawa Yoshitada. After Okochi Sadatsuna's suicide lord Ujichika made him lord of Hikuma Castle, the Iio seat from then on.
+@3160
+Imagawa vassal, son of Katatsura, styled Governor of Buzen. Matsushita Kahei, known as Hashiba Hideyoshi's first master, is said to have been one of his men. He fell at Okehazama.
+@3162
+Imagawa vassal, styled Governor of Bitchu. Lord Yoshitada made him lord of Kakegawa Castle to guard against the Shiba; in 1512 he beat Shiba Yoshitatsu and Okochi Sadatsuna at Hikuma.
+@3164
+Imagawa vassal, lord of Takatenjin Castle, called the clan's fiercest general. He is said to have died beaten by Takeda Nobutora at Iidagawara, or killed by Nobutora fleeing after the Hanakura revolt.
+@3166
+Mikawa lord. Often attacked by Hojo Soun, aiding Imagawa Ujichika, and by the Imagawa's East Mikawa allies, he held his own lands to the end and laid the base of the Matsudaira's rise.
+@3168
+Mikawa lord, son of Nagachika. He succeeded when his father retired, but he lacked ability and his vassals left him one after another, so he passed the headship to his son Kiyoyasu, then aided him.
+@3170
+10th head of the Mikawa Kira, a great house related to the Imagawa and Ashikaga shoguns. People said: "If the shoguns fail, the Kira succeed; if the Kira fail, the Imagawa succeed."
+@3172
+11th head of the Mikawa Kira, son of Yoshimoto. He spread his power to Hamamatsu estate in Totomi and sent Okochi Sadatsuna as steward, but lost it when Sadatsuna died fighting the invading Imagawa.
+@3174
+13th Mikawa Kira head, Yoshitaka's son; succeeded on his brother Yoshisato's early death. Beaten by the Imagawa and taken to Sunpu, he dressed Matsudaira Motoyasu's hair at his coming of age.
+@3176
+Kira vassal. His father Masayasu built Muro Castle in the Eisho era (1504-1521). Matsudaira Hirotada, wandering after his father Kiyoyasu's death, stayed for a time at Muro Castle.
+@3178
+Constable of Echizen, Owari and Totomi, son of Yoshikado. Set up by the Kai, angry at Asakura Takakage's making as deputy constable of Echizen, he fought the Asakura, lost, and fled to Owari.
+@3180
+Constable of Owari and Totomi, son of Yoshisuke. Allied with Kira vassal Okochi Sadatsuna at Hikuma Castle, he fought Imagawa Ujichika's army but was captured; he gave up Totomi in exchange for his life.
+@3182
+Shiba vassal, styled Governor of Yamato. Succeeding Oda Tatsusada, who rebelled and died, he became deputy constable of southern Owari. Oda Nobuhide was one of his "Three Kiyosu Magistrates".
+@3184
+Shiba vassal, styled Danjo-no-chu. In 1482, when branch temples of Kuonji on Mt Minobu and Honkokuji in Kyoto quarrelled in Owari, a doctrinal debate was held at Kiyosu Castle, with him as its magistrate.
+@3186
+Shiba vassal, son of Yoshinobu. Under Oda Tatsukatsu he did well as one of the "Three Kiyosu Magistrates". He built Shobata Castle and controlled the port of Tsushima, laying the Oda's financial base.
+@3188
+Shiba vassal, son of Toshisada, deputy constable of southern Owari; styled Governor of Bingo, lord of Iwakura Castle. He fought the Rokkaku and served lord Yoshisuke in Kyoto.
+@3190
+Constable of Mino. He built Fukumitsu Castle as his seat. Later he tried to set aside his eldest son Masayori for his 2nd son Yorinari, but failed without deputy constable Saito Toshiyoshi's support.
+@3192
+Constable of Mino. He succeeded his father Masafusa, but was beaten by Nishimura Kankuro (Saito Dosan), who backed his brother Yorinari, and fled to Echizen. He returned to Mino but soon died.
+@3194
+Toki vassal. When his grandfather Myojun and father Toshichika fell fighting the Rokkaku, he succeeded as deputy constable of Mino. Later Saito Dosan drove him out along with his lord Masayori.
+@3196
+Toki vassal, son of Saito Myojun (Toshikuni), first named Nagai. He recommended Matsunami Shogoro (Saito Dosan) to his lord Yorinari, and on his death passed the Saito name on to Dosan.
+@3198
+Mino lord of Akechi Castle. His daughter wed Saito Dosan and bore Kicho, Oda Nobunaga's wife. The Akechi, a Toki branch, are said to descend from Yorimoto, son of Mino's first constable Toki Yorisada.
+@3200
+Mino lord of Akechi Castle, Mitsutsugu's heir. His name is uncertain: Mitsutaka or Mitsukuni. He is said to have died in 1538, or to have been killed in an attack by Saito Dosan.
+@3202
+Mino lord of Iwamura Castle. In 1508 he rebuilt the Hachiman shrine inside the castle, which is said to have been built in the Kamakura period by Kato Kagekado, father of Kagetomo, the Toyama founder.
+@3204
+Mino lord of Iwamura Castle, son of Yorikage. His eldest son Kagesaki became lord of Iwamura, his 2nd son Naokado lord of Naegi, a castle built by Toyama Kagemura, nephew of the founder Kagetomo.
+@3206
+Mino lord of Iwamura Castle, son of Kagetomo. He worked hard at ruling his lands, building a Hachiman shrine and bringing monks to his family temple Daienji, later burned by the Takeda army.
+@3208
+Ise lord of Kameyama Castle. The Seki are said to begin with Taira no Sanetada, of the line of Taira no Korehira, who was land steward of the 24 Sekiya villages for the Kamakura shogunate.
+@3210
+Ise lord of Kameyama Castle, son of Tanemori. In the age of two courts the Seki always sided with the South against the Nagano and others; they bowed to the shogunate only after reunion.
+@3212
+12th head of the Nagano Kudo. When he took Kuwana in Ise, its people fled and offerings to the Ise Shrine stopped, so he is said to have asked the Outer Shrine to call the people of Kuwana back.
+@3214
+13th head of the Nagano Kudo, Fujinao's heir, styled Owari-no-suke. The house descends from Sukenaga, 2nd son of Kudo Suketsune, the man killed in the famous revenge of the Soga brothers.
+@3216
+5th head of the Kitabatake, governors of Ise. He often fought the Nagano and Kanbe to no gain, and the clan lost its momentum. Said to be a master of bow and horse, and a fine poet.
+@3218
+6th head of the Kitabatake, governors of Ise, son of Masasato. He sent troops against the strong self-governing town of Yamada again and again. A devout man, he made pilgrimages to Kumano and Ise.
+@3220
+Constable of Kai. He killed the overbearing Atobe Suruga and kept out enemies, but his wish to leave the headship to his 2nd son Aburakawa Nobuyoshi set him against his heir Nobutsuna.
+@3222
+Constable of Kai. As his father Nobumasa favoured his brother Aburakawa Nobuyoshi as heir, he fought them both. He later made peace and succeeded, but enemies kept exploiting the clan's strife.
+@3224
+Takeda vassal; the Oi were a Takeda branch. He sided with the Imagawa against Takeda Nobutora, but surrendered when they made peace. His daughter married Nobutora and bore Harunobu (Shingen).
+@3226
+Shinano lord, also called Yorihira. In 1517 he founded Jishoin on Mt Hoju, a branch of Ryutoin. The Murakami are said to descend from Murakami Tamekuni, of Minamoto no Yorinobu's line.
+@3228
+Murakami vassal. He did much to keep his lords strong, killing rebel vassals and fighting Sanada Yukitaka. He followed lord Yoshikiyo out of Shinano and later tutored Yoshikiyo's son Kunikiyo.
+@3230
+Shinano lord based at Nakano Kodate. When Kanto Kanrei Uesugi Akisada invaded Echigo, he fought beside Echigo deputy constable Nagao Tamekage, and won the credit for killing Akisada at Nagamorihara.
+@3232
+Shinano lord at Nakano Kodate, son of Masamori. The Tenno festival he held on the anniversary of the day his father killed Kanto Kanrei Uesugi Akisada is said to be the origin of the Gion festival of Nakano.
+@3234
+Shinano lord. The Unno were an ancient clan based at Unno in Chiisagata district; the Nezu and Mochizuki are said to be their branches. His daughter married Sanada Yorimasa and bore Yukitaka.
+@3236
+Shinano lord. The Sanada are said to be an Unno branch. Their name is said to first appear in writing in the Otoh Monogatari, a record of the battle of Otoh fought in 1400.
+@3238
+Constable of Shinano. He destroyed the nearby lord Yamabe Mitsuie and built Hayashi Castle as his seat, and had his vassal Shimadachi Sadanaga build Fukashi (Matsumoto) Castle, tightening his hold.
+@3240
+Ogasawara vassal, styled Governor of Mimasaka. He served the clan well with his heir Nagakatsu, and followed lord Nagatoki when he left Shinano for the Miyoshi. He is said to have fallen at 72.
+@3242
+Shinano daimyo who died young, before his father Yorimitsu. The Suwa began when Prince Arikazu, son of Emperor Kanmu, was granted the Suwa god's divinity, became high priest and took the name Miwa.
+@3244
+Lord of the Kiso valley in Shinano, son of Ietoyo. In 1504 he fought Miki Shigeyori, who had invaded Kiso, at Otaki Castle, but lost, and died of his wounds on the way back to Fukushima Castle.
+@3246
+Governor of Hida, of the Furukawa Anegakoji; served as Consultant and Acting Middle Counsellor. A fine poet in the court's poetry office, he attended many palace verse parties and knew Sanjonishi Sanetaka.
+@3248
+Governor of Hida, of the Furukawa Anegakoji, Mototsuna's heir; made Consultant. A fine poet like his father. In 1504 he sent his vassal Miki Shigetsuna into the Kiso valley, where he killed Kiso Yoshimoto.
+@3250
+Echigo lord of the Agekita group. In 1507, opposing Echigo deputy constable Nagao Tamekage, who had killed constable Uesugi Fusayoshi, he rebelled with Irobe Masanaga and others, but lost and surrendered.
+@3252
+Echigo lord of the Agekita, son of Tokinaga, styled Governor of Yamato. He backed Nagao Tamekage in Kamijo Sadanori's revolt; later his brother Ogawa Nagasuke and Ayukawa Morinaga drove him out.
+@3254
+Echigo lord of Shibata Castle, styled Governor of Bizen. The Shibata are said to be a branch of the Kaji, descended from Sasaki Moritsuna, who served Minamoto no Yoritomo with his brother Sadatsuna.
+@3256
+Nagao vassal of the Koshi Nagao, styled Governor of Buzen. He succeeded in 1495 when his father Takakage retired. When Kanto Kanrei Uesugi Akisada invaded Echigo, he fought for his lord Tamekage.
+@3258
+Echigo Uesugi vassal, deputy constable of Echigo. He did well in many places, surveying land and leading aid to the Yamanouchi Uesugi in Musashi. He fell fighting the Ikko at Hannyano in Etchu.
+@3260
+Nagao vassal. When his lord Tamekage killed Echigo constable Uesugi Fusayoshi, he fought well for Tamekage. In 1510 he urged Echigo constable Uesugi Sadazane to reward Tsuiji Sukeshige's services.
+@3262
+Nagao vassal, son of Masanobu, styled Governor of Shimotsuke. In 1510 he is said to have given priest Zoshin of Zenshoji papers on Takemachi in Kariwa, and drawn up deeds for its fields.
+@3264
+Constable of Echigo, 3rd son of Fusasada. Relying on his brother Akisada, the Kanto Kanrei, he tried to tighten his rule, angering his vassals; when deputy constable Nagao Tamekage rebelled, he killed himself.
+@3266
+Echigo Uesugi vassal. The Sanponji were an Echigo Uesugi branch; his father Tomosada was brother to Echigo constable Uesugi Fusatomo. When Nagao Tamekage rebelled he died with his lord Fusayoshi.
+@3268
+Echigo Uesugi vassal, lord of Biwajima Castle. He held Ono Castle for lord Uesugi Sadazane against Nagao Tamekage but lost and fell back to Iwate Castle. When that too fell to Tamekage, he was killed.
+@3270
+Hatakeyama vassal, deputy constable of Etchu. In the Onin War he led the Hatakeyama army for the East. He later rescued Shogun Ashikaga Yoshitane, held by Kanrei Hosokawa Masamoto, and hid him at Hojozu.
+@3272
+Hatakeyama vassal, son of Naganobu. He failed to aid Nagao Yoshikage against the Ikko in Etchu, and Yoshikage fell. Crushed by the vengeful attack of his son Tamekage, he killed himself.
+@3274
+Hatakeyama vassal, deputy constable of Niikawa; took a character from lord Hisayoshi's name in 1498. When Nagao Tamekage invaded Etchu he fought for Jinbo Yoshimune, lost and killed himself.
+@3276
+Constable of Noto; joined the West in the Onin War. He sent gifts to the shogunate and put down the Ikko, bringing peace to his lands. A man of refined taste and careful thought, it is said.
+@3278
+Constable of Noto, Yoshimune's heir. He succeeded his father, but deputy constable Yusa Munehide, backing his brother Yoshimune, drove him to Echigo. He later made peace, came home and was restored.
+@3280
+Constable of Noto, 2nd son of Yoshimune. He became head when Yusa Munehide drove out his brother Yoshimoto, but when an Ikko uprising shook the land, he made peace and gave the headship back.
+@3282
+5th child of Rennyo, 8th head of Honganji. He preached mainly in Hokuriku and founded Shokoji and Ayutakibo in Kaga. In 1517 Emperor Go-Kashiwabara granted him the title of Shonin.
+@3284
+7th son of Rennyo, 8th head of Honganji. In 1506 he was given command of the Hokuriku Ikko and fought the lords of the region. Later he fought his brother Renjun, lost and was excommunicated.
+@3286
+Constable of Kaga; succeeded his father Yasutaka. In the Kaga revolt of 1531, born of Hosokawa Takakuni's feud with Harumoto, he sided with the great faction, lost and fled to Noto.
+@3288
+Lord of Nonoichi Castle, son of Taneyasu; he took over after his father fled to Noto. Because he sided with Oda Nobunaga's army invading Echizen, the Ikko attacked his castle, and he killed himself.
+@3290
+3rd head of the Asakura, Ujikage's heir. He won a lawsuit with the Shiba over the lordship of Echizen and became its ruler in name and fact. All his life he was plagued by Ikko raids from Kaga.
+@3292
+Asakura vassal, son of Tsunekage (brother of the 1st head Takakage). In 1506 he followed his cousin Asakura Soteki against the Kaga Ikko at the Kuzuryu river, and fought hard.
+@3294
+Asakura vassal, son of Tsuruga steward Kagefuyu (the 1st head Takakage's brother). He plotted revolt with Asakura Kagefusa and Soteki; Soteki informed, lord Sadakage attacked, and he killed himself.
+@3296
+Constable of Wakasa, son of Kuninobu. Beaten by a peasant uprising against his land levy, he cancelled it. Beaten too by the Isshiki of Tango, he let them invade in turn, and lost his power.
+@3298
+Wakasa Takeda vassal, styled Saemon-no-jo; friend of Sanjonishi Sanetaka. A senior retainer, he served as steward of Matsunaga estate in Onyu, Wakasa. He fell in his lord's invasion of Tango.
+@3300
+Constable of northern Omi, Katsuhide's eldest son by a concubine. When his brother died he lost the succession to his uncle Masatsune and wandered, but later recovered and drove Masatsune out.
+@3302
+Constable of northern Omi, Takakiyo's eldest son. When his father favoured his adopted son Takayoshi, Azai Sukemasa and others set him up and drove them out; he succeeded, but Sukemasa held power.
+@3304
+Kyogoku vassal who wielded great power as lord Takakiyo's regent. When Takakiyo lost the succession to his uncle Masatsune and fled to Echizen, he worked hard to bring him back to Omi.
+@3306
+Kyogoku vassal, son of Ienobu, who ruled the clan high-handedly. He backed Takayoshi as heir against local lords backing Takahiro; beaten in battle, he was driven from Omi with lord Takakiyo.
+@3308
+Rokkaku vassal of great weight. He beat Mino deputy constable Saito Myojun when he invaded Omi, and sheltered lord Takayori at Hino Castle during Iba Sadataka's revolt. A fine linked-verse poet, it is said.
+@3310
+Rokkaku vassal, 2nd son of Sadahide. He served the Rokkaku in place of his brother Hideyuki, who served the shogun. Later, with his lords' backing, he killed Hideyuki's son Hidenori and became Gamo head.
+@3312
+Constable of Omi. After the Onin War he seized noble estates in Omi, and twice faced punitive campaigns by the shoguns. He regained his old lands in the time of the 11th shogun Ashikaga Yoshizumi.
+@3314
+Rokkaku vassal, styled Governor of Dewa. As deputy constable and district magistrate he was very powerful. He rebelled in 1502 and drove lord Takayori to Hino Castle, but later made peace.
+@3316
+Kyogoku vassal, styled Kurodo. In 1496, when Mino deputy constable Saito Myojun asked the Kyogoku for help in the Funada War, he led troops into Mino with Mitamura and others.
+@3318
+Kyogoku vassal. In the succession fight he opposed Kosaka Nobumitsu and drove him out with Azai Sukemasa and others. But as he grew overbearing himself, Sukemasa attacked and ruined him.
+@3320
+Iga lord. He hid Hosokawa Takakuni in Iga when he fell out with Hosokawa Sumimoto and was driven from Kyoto. The Niki, an Ashikaga branch, gave Iga a constable in Niki Yoriaki, in the age of two courts.
+@3322
+10th Muromachi shogun. Driven from Kyoto by Kanrei Hosokawa Masamoto, he wandered the land. Restored with Ouchi Yoshioki's backing, he later clashed with Hosokawa Takakuni and gave up the office.
+@3324
+11th Muromachi shogun, put in office by Kanrei Hosokawa Masamoto. After Masamoto died, Ashikaga Yoshitane came to Kyoto with Ouchi Yoshioki and ousted him. He died just before Funaokayama.
+@3326
+Mandokoro Steward of the shogunate. When his father Sadachika meddled high-handedly in the Shiba succession, he is said to have protested in tears. A master of etiquette, he perfected the Ise school.
+@3328
+Mandokoro Steward of the shogunate, son of Sadamune, and constable of Yamashiro. An expert in court custom, he wrote many works on ceremony, such as rules for shogunal visits and weddings.
+@3330
+Adopted son of Hosokawa Masamoto. He ousted fellow adoptees Sumiyuki and Sumimoto and ruled as kanrei. Beaten by Miyoshi Motonaga and others backing Harumoto, he killed himself.
+@3332
+Hosokawa vassal, deputy constable of Tanba. In the clan feud he backed Hosokawa Takakuni, and was confirmed in his post for driving Hosokawa Sumimoto and Miyoshi Motonaga to Omi.
+@3334
+Hosokawa vassal, lord of Itami Castle. He backed Hosokawa Takakuni against Miyoshi Yukinaga and others. He later joined Yukinaga's grandson Motonaga, but fell to Yanagimoto Kataharu's attack.
+@3336
+Tanba lord. He fought widely for the East in the Onin War, and Hosokawa Masamoto gave him Taki district in Tanba. He later built Yakami Castle as his seat and spread his power across Tanba.
+@3338
+Hosokawa vassal, 2nd son of Hatano Hidenaga. A close aide of lord Takakuni, he was killed by him on Hosokawa Korekata's slander; the affair set off the fall of Takakuni's regime.
+@3340
+Hosokawa vassal, 3rd son of Hatano Hidenaga. He wielded power in the Kinai, driving lord Takakuni to Omi and ousting Miyoshi Motonaga. Invading Harima, he was killed by an aide in league with Takakuni.
+@3342
+Tango daimyo. He often fought Takeda Motonobu, made constable of Tango in 1501, for control of Tango. In 1507 he beat Hosokawa vassal Akazawa Tomotsune when he invaded Tango.
+@3344
+Isshiki vassal, deputy constable of Tango. He often fought the local lord Ishikawa Naotsune. Later he turned on his lords, and fought Asakura Soteki, sent by the Asakura to aid them.
+@3346
+8th head of Honganji. He preached mainly in Omi and Hokuriku; with his charisma and his common touch, sitting level with his followers, he revived the waning Honganji sect.
+@3348
+9th head of Honganji, Rennyo's 5th child. The first head to be made Hoin Gon-no-Daisozu, he set rules for the head's kin and controlled the followers, doing much for the Honganji sect.
+@3350
+2nd son of Jitsujo, 9th head of Honganji. He gathered his grandfather Rennyo's letters, choosing 80 for five volumes (the Gojo no Ofumi), but died suddenly at noon on the day he finished.
+@3352
+Kanrei. He made Ashikaga Yoshizumi shogun and held real power, but obsessed with ascetic practice, he left rule to his men and brought chaos to the Kinai. Caught in his 3 adopted sons' feud, he was murdered.
+@3354
+Adopted son of Kanrei Hosokawa Masamoto, born to former Regent Kujo Masamoto. Made head by Kozai Motonaga and the others who murdered Masamoto, he lost to fellow adoptee Sumimoto and killed himself.
+@3356
+Hosokawa vassal and steward. He fought in Omi, Kawachi and elsewhere and destroyed Hatakeyama Masanaga. When lord Masamoto neglected rule for ascetic practice, he governed in his place.
+@3358
+Hosokawa vassal, styled Governor of Bingo; deputy constable of Settsu. He kept the Settsu lords in check by force, driving several Ibaraki men to suicide and banishing Suita Tokimichi.
+@3360
+Hosokawa vassal, said to be Motonaga's son or adopted son; deputy constable of Settsu. He tried to depose lord Masamoto for his adopted son Sumimoto, but failed and was made to kill himself in Kyoto.
+@3362
+Hosokawa vassal. He helped crush his rebel brother Motokazu. With Kozai Motonaga he murdered lord Masamoto and set up his adopted son Sumiyuki, but fell when Miyoshi Yukinaga and others attacked.
+@3364
+Hosokawa vassal, styled Junior Vice-Minister of Justice; constable of half of Izumi. He turned to Hatakeyama Hisanobu, then came back to his lords, so Hisanobu attacked Kishiwada Castle and he fell.
+@3366
+Hosokawa vassal. He backed Hosokawa Sumimoto against Takakuni and lost his post as constable of half of Izumi. Serving Sumimoto's son Harumoto, he regained it when Harumoto took over.
+@3368
+Hosokawa vassal, head of the Tenkyu Hosokawa branch. His slander made lord Takakuni kill Kozai Motomori, setting off the fall of Takakuni's regime. He later fell fighting Kizawa Nagamasa.
+@3370
+Yamato lord, Junson's eldest son, who ruled under his uncle Junsei of Jojin'in. Invaded again and again by Hosokawa vassal Akazawa Tomotsune, he fled and returned many times, a life of hard struggle.
+@3372
+Tsutsui vassal, son of Jun'ei, called Jojin'in. After his brother Junson died he was guardian to his nephew Junken. In 1513 he clashed with Kofukuji's monks and shut the Kasuga shrine and Kofukuji.
+@3374
+Hosokawa vassal who fought all over the Kinai for lord Masamoto. Campaigning in Tango he heard Masamoto had been murdered, but Tango lords cut off his retreat, and trapped, he killed himself.
+@3376
+Yamato lord who crushed the Yamashiro Uprising. He served the Hosokawa and often fought other Yamato lords. Beaten by Hatakeyama Hisanobu, he killed himself. Skilled in Noh chant and shakuhachi.
+@3378
+Son of Yoshinari, who fought Masanaga for the Hatakeyama headship. Allied with Hosokawa Masamoto, he destroyed Masanaga, but fought on with his son Hisanobu, and fell at Jushichikasho.
+@3380
+Son of Yoshitoyo (Motoie). He fought hard for the Kawachi Hatakeyama headship with Hisanobu, his father's killer, and Hisanobu's son Tanenaga. Allied with Hosokawa Sumimoto, he lost to Takakuni.
+@3382
+Son of Masanaga, who fought Yoshinari for the Hatakeyama headship. He avenged his father by killing Yoshinari's son Yoshitoyo. He made peace with Yoshihide, Yoshitoyo's son, but they clashed again.
+@3384
+Kawachi Hatakeyama vassal, deputy constable of Kawachi. In 1511 he followed lord Hisanobu to the battle of Funaokayama, where he was captured and made to kill himself.
+@3386
+Constable of Tajima; succeeded his grandfather Sozen. He made peace with Hosokawa Masamoto, ending the Onin War. He worked to subdue Hoki and Inaba, while pushing into Harima to fight the Akamatsu.
+@3388
+3rd son of Masatoyo, given the headship by his brother Okitoyo. He invaded Harima in 1522, but Akamatsu Harumasa and Uragami Muramune made peace and joined forces, and he was beaten back.
+@3390
+Yamana vassal. The Kakiya, one of the Four Guardians of the Yamana, were the clan's stewards and Tajima's deputy constables, and for generations held Sasanokuma Castle in Keta, Tajima.
+@3392
+Constable of Tajima, made heir when his brother Toshitoyo was disowned. He succeeded his father Masatoyo, but when the Kakiya and Tainosho turned away, he yielded to his brother Nobutoyo.
+@3394
+Yamana vassal, son of Munetomo; 4th lord of Takeda Castle from 1521. The Otagaki, senior vassals and one of the Four Guardians of the Yamana, are said to descend from the Kusakabe, old rulers of Tajima.
+@3396
+Yamana vassal, son of Munehisa; 5th lord of Takeda Castle from 1538. The castle was built in mid-Muromachi times by Otagaki Mitsukage, whose son Kagechika did well in the Onin War.
+@3398
+Constable of Inaba, son of Katsutoyo, styled Sama-no-suke; succeeded his elder brother. In 1513 he gave part of Fuse village, Takakusa district, Inaba, to his vassal Kitagawa Yosaemon-no-jo as a fief.
+@3400
+Constable of Inaba, son of Toyoyori, styled Sama-no-suke. He sought independence with the Amago against Suketoyo of the Tajima Yamana, but fell fighting him, ending the Inaba Yamana.
+@3402
+Tsunehisa's eldest son. He died attacking Sakurai Soteki of Ayo Castle in Izumo: hearing him play the flute in camp, Soteki shot an arrow toward the sound, and it pierced his throat, it is said.
+@3404
+3rd son of Amago Tsunehisa. When Kamei Hidetsuna refused to pass his plea for more land to his father, he turned against them both. Attacked by his father, he fled to Bingo and killed himself there.
+@3406
+Amago vassal. He followed lord Tsunehisa to Funaokayama in 1511. He tried to split the Mori by winning over Aio Mototsuna, Mori Motonari's half-brother, but the plot failed.
+@3408
+Amago vassal. He opposed lord Haruhisa's (his brother Tsunehisa's grandson's) plan to invade Aki, and was mocked as a coward. The Amago were crushed; he led the rearguard, fought hard and fell.
+@3410
+Amago vassal, lord of Setoyama Castle in Izumo. He fought Ouchi Yoshitaka's invasion with his son Mitsukiyo, but yielded when Mitsukiyo fell. When the Ouchi withdrew, he won back his castle.
+@3412
+Iwami lord. His daughter married Mori Okimoto and bore Komatsumaru. After Okimoto died, he was guardian to his grandson Komatsumaru and had a strong voice among the Mori. He fell fighting the Miyoshi of Bingo.
+@3414
+Iwami lord, 2nd son of Hisamitsu; after his father died, guardian to his son Okimitsu, the new head. Later he left the Ouchi for the Amago, and fell when Mori Motonari attacked.
+@3416
+Iwami lord, son of Hiroatsu. After his uncle Motomitsu died, his grandfather Hisamitsu named him head of the Takahashi. He later defected to the Amago and fell when Mori Motonari attacked.
+@3418
+Ouchi vassal, styled Head of Housekeeping. He succeeded when his father Hirotane fell at Funaokayama, and was lord Yoshioki's magistrate. A man of letters, friend of Sanjonishi Sanetaka.
+@3420
+Iwami lord serving the Ouchi. He succeeded when his brother Nobuyori drew a sword at a banquet and was killed. He served the Ouchi with total loyalty, working to restore trust in the Yoshimi.
+@3422
+Harima lord, son of Noriharu, an Akamatsu vassal who, when lord Masanori was driven out by his men, asked former shogun Ashikaga Yoshimasa to mediate and worked for Masanori's return.
+@3424
+Constable of Harima. The Akamatsu, ruined by the Kakitsu Incident, were restored for taking the regalia back from the Southern Court. Aided by Uragami Norimune, he drove out the Yamana.
+@3426
+Constable of Harima, who succeeded as Akamatsu Masanori's son-in-law. His vassal Uragami Muramune held real power; he tried to bring him down but failed, and was locked away and murdered.
+@3428
+Akamatsu vassal, said to be Muramune's cousin. He fought the overbearing Muramune. When Muramune killed lord Yoshimura, he fled to Awaji with Yoshimura's son Harumasa.
+@3430
+Akamatsu vassal who built Gochaku Castle as his seat. When Uragami Muramune killed lord Yoshimura, he fled to Awaji with his son Harumasa and Uragami Murakuni. Said to have been killed by Muramune later.
+@3432
+Akamatsu vassal, said to be Masanori's son by a concubine. As son-in-law Yoshimura became head, he was adopted by Uno Masahide of Shioya Castle; he later became lord of Tatsuno Castle.
+@3434
+Mimasaka lord. He succeeded when his father Katsukuni fell fighting Tateishi Kageyasu of Miwayama Castle. He later took Miwayama by surprise, destroyed the Tateishi and ruled eastern Mimasaka.
+@3436
+Mimasaka lord. He joined Shogun Ashikaga Yoshihisa's campaign against the Rokkaku of Omi. In the Bunki era (1501-1504) he took Sasamuki Castle, a Yamana outpost, and garrisoned it.
+@3438
+Mimasaka lord, son of Sadatsura. The Miura descend from Sugimoto Sadamune, of the line of Sawara Yoshitsura, rewarded with Aizu for Yoritomo's Oshu campaign. Sadamune built Takada Castle.
+@3440
+Akamatsu vassal. He fought everywhere for lord Masanori and revived the clan, which had declined after the Kakitsu Incident. After Masanori's death he ran the realm for his son-in-law Yoshimura.
+@3442
+Akamatsu vassal, son of Munesuke, adopted by Norikage. His power outgrew his lords': he killed lord Yoshimura and seized Harima, but fell at the battle of Tennoji in Settsu.
+@3444
+Akamatsu vassal. He succeeded when his father Motonari fell at Fukuoka Castle, as deputy constable of half of Bizen. From Kanagawa Castle he ruled western Bizen, opposing the Uragami in the east.
+@3446
+Akamatsu vassal, son of Motokatsu; he fell at Tennoji in Settsu. The Matsuda protected the Nichiren sect, laying the base of "Bizen Hokke"; like his father, he followed the Fujufuse school, it is said.
+@3448
+Bitchu lord. He served Bitchu constable Hosokawa Katsuhisa but later fought him. When Kanrei Hosokawa Masamoto went off to Tanba, he is said to have gone with Yasutomi Motoie to bring him back.
+@3450
+Bitchu lord. In 1494 he is said to have brought a Hachiman shrine to his fief of Nariwa as its guardian deity. He later built Kakushu Castle as his seat. The Mimura are said to be an Ogasawara branch.
+@3452
+Bingo lord. In the Onin War he joined the East and drove off Kobayakawa Hirokage of Takehara (West). Serving the shogun in Kyoto, he tightened control of his lands with the Tasaka and others as magistrates.
+@3454
+Bingo lord, son of Takahira, who did well for the Hosokawa. After Kanrei Masamoto's murder, he died young, still undecided whether to join Ouchi Yoshioki's march on Kyoto with Ashikaga Yoshitane.
+@3456
+Bingo lord, son of Sukehira. When Ashikaga Yoshitane regained the shogunate, his lands were confirmed to Kobayakawa Hirohira of Takehara, who claimed nothing and acted as his guardian.
+@3458
+Kobayakawa vassal. He followed Ouchi Yoshioki to Kyoto and Funaokayama, and was then confirmed as clan head with its lands, but claimed nothing from lord Okihira and acted as his guardian.
+@3460
+Bingo lord serving the Ouchi, who did well, bringing Wachi Toyosato to the Ouchi side. Later he hid Enya Okihisa, so Okihisa's father Amago Tsunehisa attacked, beat him and forced him to retire.
+@3462
+Aki lord serving the Ouchi, who by shogunal order put down a civil war in the Aki Takeda. After former shogun Ashikaga Yoshitane went to Suo, he came under pressure from both the Ouchi and Hosokawa.
+@3464
+Aki lord, son of Hiromoto. After his father died he served the Ouchi, fighting at Funaokayama and elsewhere. Kept long in Kyoto, he made a league with the local lords to keep Aki and Bingo stable.
+@3466
+Mori vassal, son of Masaru, killed for plotting to make Aio Mototsuna head. When Ouchi Yoshitaka's Izumo campaign failed, he saved lord Motonari, leading the rearguard, and fell gloriously with his men.
+@3468
+Aki lord. He fought for the East in the Onin War and was called "Demon Kikkawa". His eldest daughter married Amago Tsunehisa, and his marriage ties with neighbouring lords kept the Kikkawa safe.
+@3470
+Aki lord, son of Tsunemoto; succeeded at 57. Serving the Ouchi, he did well at Funaokayama and Arita, but later joined the Amago. His daughter Myoku married Mori Motonari.
+@3472
+Aki lord, son of Kunitsune. He fought well beside his father at Funaokayama and Arita, and made a league with Mori Okimoto and others to keep Aki and Bingo stable.
+@3474
+Constable of Aki. At first serving the Ouchi, he broke with them and allied with the Amago. In 1517, attacking Oda Nobutada of Arita Castle, he was beaten by Mori Motonari's army and fell.
+@3476
+Aki Takeda vassal. He led the Takeda van outside Arita Castle but fell to the Mori. The Aki Kumagai descend from Naotoki, great-grandson of Kumagai Naozane, slayer of Taira no Atsumori.
+@3478
+30th head of the Ouchi, constable of 7 provinces and deputy kanrei. He fought the Shoni and Hosokawa, put down revolts, and marched on Kyoto with Ashikaga Yoshitane, spending his whole life at war.
+@3480
+Ouchi vassal, deputy constable of Chikuzen, who kept the realm stable while lord Yoshioki was in Kyoto. A noted man of letters, he knew Sogi and others, and had the Azuma Kagami collected and copied.
+@3482
+Ouchi vassal. He succeeded when his brother Hironori was killed for plotting to make Ouchi Takahiro head. Deputy constable of Nagato, he did well, fighting the Shoni and Otomo in Buzen.
+@3484
+Constable of Awa, 2nd son of Shigeyuki. In 1479 he invaded Iyo and fought the Kono but was driven back. He succeeded his brother Masayuki under his father's guardianship, but soon died young.
+@3486
+Constable of Awa. He succeeded his father Yoshiharu under his grandfather Shigeyuki's guardianship. He raised Ashikaga Yoshitsuna, son of the 11th shogun Yoshizumi, called the Hirashima kubo.
+@3488
+Adopted son of Hosokawa Masamoto. He killed Sumiyuki and Kozai Motonaga and took over, but fell out with Takakuni and fled to Awa. Briefly back in power, he fled again when Miyoshi Yukinaga died.
+@3490
+Hosokawa vassal, styled Governor of Chikuzen. In the clan feud he always backed Sumimoto, fighting for him everywhere, in and out of Kyoto again and again. Beaten by Hosokawa Takakuni, he was beheaded.
+@3492
+Hosokawa vassal who fought for Hosokawa Sumimoto with his father Yukinaga. Beaten by Takakuni and Ouchi Yoshioki, he fled to Ise, where governor Kitabatake Kichika attacked and killed him.
+@3494
+Hosokawa vassal, son of Nagahide. Backing Ashikaga Yoshitsuna and Hosokawa Harumoto, he drove out Takakuni and ruled, but fell out with Harumoto; attacked by Harumoto's Ikko allies, he killed himself.
+@3496
+Hosokawa vassal who backed Sumiyuki in the succession fight. With Yakushiji Nagatada and others he murdered lord Masamoto and set up Sumiyuki, but fell when Hosokawa Sumimoto's army beat them.
+@3498
+Hosokawa vassal. The Kozai descend from Sukemura, given Kagawa and Ano districts in Sanuki for his deeds in the Jokyu War. In 1508 he attacked Mitani Kagehisa of Mitani Castle, but was beaten.
+@3003
+Kakizaki Mitsuhiro
+@3005
+Nanbu Masayasu
+@3007
+Oura Mitsunobu
+@3009
+Oura Morinobu
+@3011
+Namioka Akitomo
+@3013
+Shiba Akitaka
+@3015
+Hienuki Taneshige
+@3017
+Kasai Masanobu
+@3019
+Kasai Harushige
+@3021
+Osaki Yoshikane
+@3023
+Osaki Takakane
+@3025
+Rusu Kunimune
+@3027
+Watari Munemoto
+@3029
+Soma Moritane
+@3031
+Izumida Tanenao
+@3033
+Iwaki Tsunetaka
+@3035
+Iwaki Yoshitaka
+@3037
+Tamura Yoshiaki
+@3039
+Shirakawa Masatomo
+@3041
+Shirakawa Akiyori
+@3043
+Ashina Moritaka
+@3045
+Tomita Morizane
+@3047
+Nikaido Yukiakira
+@3049
+Nikaido Haruyuki
+@3051
+Anto Tadasue
+@3053
+Anto Hirosue
+@3055
+Tozawa Hidemori
+@3057
+Onodera Harumichi
+@3059
+Daihoji Masauji
+@3061
+Daihoji Sumiuji
+@3063
+Mogami Yoshiatsu
+@3065
+Mogami Yoshisada
+@3067
+Date Naomune
+@3069
+Satake Yoshikiyo
+@3071
+Satake Yoshinobu
+@3073
+Satake Masayoshi
+@3075
+Edo Michimasa
+@3077
+Oda Shigeharu
+@3079
+Ashikaga Shigeuji
+@3081
+Ashikaga Masauji
+@3083
+Ashikaga Takamoto
+@3085
+Chiba Katsutane
+@3087
+Takeda Nobukatsu
+@3089
+Satomi Yoshimichi
+@3091
+Satomi Sanetaka
+@3093
+Masaki Michitsuna
+@3095
+Utsunomiya Shigetsuna
+@3097
+Utsunomiya Tadatsuna
+@3099
+Nasu Sukechika
+@3101
+Nasu Sukefusa
+@3103
+Ozeki Munemasu
+@3105
+Sano Hidetsuna
+@3107
+Sano Yasutsuna
+@3109
+Uesugi Akisada
+@3111
+Uesugi Norifusa
+@3113
+Nagao Kagenaga
+@3115
+Yokoze Narishige
+@3117
+Yokoze Kageshige
+@3119
+Iwamatsu Hisazumi
+@3121
+Iwamatsu Masazumi
+@3123
+Nagao Kageharu
+@3125
+Numata Yasuteru
+@3127
+Uesugi Tomoyoshi
+@3129
+Soga Sukeshige
+@3131
+Ota Sukeie
+@3133
+Ota Sukeyori
+@3135
+Narita Chikayasu
+@3137
+Ota Sukeyasu
+@3139
+Ueda Masamori
+@3141
+Hojo Soun
+@3143
+Hojo Ujitoki
+@3145
+Toyama Naokage
+@3147
+Miura Yoshiatsu
+@3149
+Miura Yoshioki
+@3151
+Imagawa Ujichika
+@3153
+Sena Kazuhide
+@3155
+Okochi Sadatsuna
+@3157
+Iio Katatsura
+@3159
+Iio Noritsura
+@3161
+Asahina Yasuhiro
+@3163
+Kushima Masanari
+@3165
+Matsudaira Nagachika
+@3167
+Matsudaira Nobutada
+@3169
+Kira Yoshimoto
+@3171
+Kira Yoshitaka
+@3173
+Kira Yoshiyasu
+@3175
+Tominaga Tadayasu
+@3177
+Shiba Yoshisuke
+@3179
+Shiba Yoshitatsu
+@3181
+Oda Tatsukatsu
+@3183
+Oda Yoshinobu
+@3185
+Oda Nobusada
+@3187
+Oda Toshinobu
+@3189
+Toki Masafusa
+@3191
+Toki Masayori
+@3193
+Saito Toshiyoshi
+@3195
+Saito Toshitaka
+@3197
+Akechi Mitsutsugu
+@3199
+Akechi Mitsutsuna
+@3201
+Toyama Yorikage
+@3203
+Toyama Kagetomo
+@3205
+Toyama Kagesaki
+@3207
+Seki Tanemori
+@3209
+Seki Morikatsu
+@3211
+Nagano Fujinao
+@3213
+Nagano Michifuji
+@3215
+Kitabatake Masasato
+@3217
+Kitabatake Kichika
+@3219
+Takeda Nobumasa
+@3221
+Takeda Nobutsuna
+@3223
+Oi Nobusato
+@3225
+Murakami Akikuni
+@3227
+Kiyono Kiyohide
+@3229
+Takanashi Masamori
+@3231
+Takanashi Sumiyori
+@3233
+Unno Munetsuna
+@3235
+Sanada Yorimasa
+@3237
+Ogasawara Nagatomo
+@3239
+Mizoguchi Nagatomo
+@3241
+Suwa Yoritaka
+@3243
+Kiso Yoshimoto
+@3245
+Anegakoji Mototsuna
+@3247
+Anegakoji Narutsugu
+@3249
+Honjo Tokinaga
+@3251
+Honjo Fusanaga
+@3253
+Shibata Nagatsuna
+@3255
+Nagao Fusakage
+@3257
+Nagao Yoshikage
+@3259
+Saito Masanobu
+@3261
+Saito Sadanobu
+@3263
+Uesugi Fusayoshi
+@3265
+Sanponji Sadatane
+@3267
+Usami Fusatada
+@3269
+Jinbo Naganobu
+@3271
+Jinbo Yoshimune
+@3273
+Shiina Yoshitane
+@3275
+Hatakeyama Yoshimune
+@3277
+Hatakeyama Yoshimoto
+@3279
+Hatakeyama Yoshimune
+@3281
+Shokoji Renko
+@3283
+Honsenji Rengo
+@3285
+Togashi Taneyasu
+@3287
+Togashi Harusada
+@3289
+Asakura Sadakage
+@3291
+Asakura Kagemoto
+@3293
+Asakura Kagetoyo
+@3295
+Takeda Motonobu
+@3297
+Awaya Chikahide
+@3299
+Kyogoku Takakiyo
+@3301
+Kyogoku Takahiro
+@3303
+Kosaka Ienobu
+@3305
+Kosaka Nobumitsu
+@3307
+Gamo Sadahide
+@3309
+Gamo Takasato
+@3311
+Rokkaku Takayori
+@3313
+Iba Sadataka
+@3315
+Azai Naotane
+@3317
+Asami Sadanori
+@3319
+Niki Takanaga
+@3321
+Ashikaga Yoshitane
+@3323
+Ashikaga Yoshizumi
+@3325
+Ise Sadamune
+@3327
+Ise Sadamichi
+@3329
+Hosokawa Takakuni
+@3331
+Naito Sadamasa
+@3333
+Itami Motosuke
+@3335
+Hatano Hidenaga
+@3337
+Kozai Motomori
+@3339
+Yanagimoto Kataharu
+@3341
+Isshiki Yoshiharu
+@3343
+Nobunaga Harunobu
+@3345
+Honganji Rennyo
+@3347
+Honganji Jitsujo
+@3349
+Honganji Ennyo
+@3351
+Hosokawa Masamoto
+@3353
+Hosokawa Sumiyuki
+@3355
+Yasutomi Motoie
+@3357
+Yakushiji Motonaga
+@3359
+Yakushiji Motokazu
+@3361
+Yakushiji Nagatada
+@3363
+Hosokawa Motoari
+@3365
+Hosokawa Mototsune
+@3367
+Hosokawa Korekata
+@3369
+Tsutsui Junken
+@3371
+Tsutsui Junsei
+@3373
+Akazawa Tomotsune
+@3375
+Furuichi Choin
+@3377
+Hatakeyama Yoshitoyo
+@3379
+Hatakeyama Yoshihide
+@3381
+Hatakeyama Hisanobu
+@3383
+Yusa Nobumori
+@3385
+Yamana Masatoyo
+@3387
+Yamana Nobutoyo
+@3389
+Kakiya Masatada
+@3391
+Yamana Okitoyo
+@3393
+Otagaki Munehisa
+@3395
+Otagaki Tomonobu
+@3397
+Yamana Toyoyori
+@3399
+Yamana Nobumichi
+@3401
+Amago Masahisa
+@3403
+Enya Okihisa
+@3405
+Kamei Hidetsuna
+@3407
+Amago Hisayuki
+@3409
+Akana Hisakiyo
+@3411
+Takahashi Hisamitsu
+@3413
+Takahashi Hiroatsu
+@3415
+Takahashi Okimitsu
+@3417
+Toida Okiyuki
+@3419
+Yoshimi Yorioki
+@3421
+Bessho Norisada
+@3423
+Akamatsu Masanori
+@3425
+Akamatsu Yoshimura
+@3427
+Uragami Murakuni
+@3429
+Kodera Masataka
+@3431
+Akamatsu Murahide
+@3433
+Goto Katsumasa
+@3435
+Miura Sadatsura
+@3437
+Miura Sadakuni
+@3439
+Uragami Norimune
+@3441
+Uragami Muramune
+@3443
+Matsuda Motokatsu
+@3445
+Matsuda Mototaka
+@3447
+Sho Motosuke
+@3449
+Mimura Munechika
+@3451
+Kobayakawa Takahira
+@3453
+Kobayakawa Sukehira
+@3455
+Kobayakawa Okihira
+@3457
+Kobayakawa Hirohira
+@3459
+Yamanouchi Naomichi
+@3461
+Mori Hiromoto
+@3463
+Mori Okimoto
+@3465
+Watanabe Toru
+@3467
+Kikkawa Tsunemoto
+@3469
+Kikkawa Kunitsune
+@3471
+Kikkawa Mototsune
+@3473
+Takeda Motoshige
+@3475
+Kumagai Motonao
+@3477
+Ouchi Yoshioki
+@3479
+Sue Hiroaki
+@3481
+Naito Hiroharu
+@3483
+Hosokawa Yoshiharu
+@3485
+Hosokawa Yukimochi
+@3487
+Hosokawa Sumimoto
+@3489
+Miyoshi Yukinaga
+@3491
+Miyoshi Nagahide
+@3493
+Miyoshi Motonaga
+@3495
+Kozai Motonaga
+@3497
+Kozai Motosada
+@3499
+Kagawa Mitsukage

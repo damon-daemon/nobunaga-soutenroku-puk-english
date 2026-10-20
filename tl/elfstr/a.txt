@@ -1,0 +1,1228 @@
+# chunk a: e0 .. e3c2fff (ELF UI labels)
+e3a85b8	Install
+e3a85d0	Uninstall
+e3b62b8	-
+e3b89e8	%s: %s
+e3b89f8	%s clan
+e3b8a08	Basic
+e3b8a10	Status
+e3b8a18	Stats
+e3b8a20	Career
+e3b8a28	Skills
+e3b8a30	Tactics
+e3b8a38	Notes
+e3b9728	Basic
+e3b9768	Basic
+e3b9770	Status
+e3b9778	Supplies
+e3b9780	Diplomacy
+e3b9980	Basic
+e3b9988	Status
+e3b9990	Target
+e3b9998	Notes
+e3b9b30	Basic
+e3b9b38	Status
+e3b9b40	Career
+e3b9b48	Notes
+e3b9c20	Basic
+e3b9c38	Status
+e3b9f18	Clan
+e3b9f20	Size
+e3b9f28	Lord
+e3bb6b0	Basic
+e3bb6b8	Owner
+e3bb6c0	Effect
+e3bb6c8	Notes
+e3bb820	Basic
+e3bb828	Status
+e3bb830	Notes
+e3bb8a8	Basic
+e3bb8b0	Status
+e3bb8b8	Disasters
+e3bb9c8	Basic
+e3bb9d0	Status
+e3bb9d8	Notes
+e3bbad0	Basic
+e3bbad8	Status
+e3bbae0	Arms
+e3bbae8	Supplies
+e3bbcd0	Basic
+e3bbd38	Basic
+e3bbd40	Status
+e3bbd48	Notes
+e3bbdd8	Corps %s
+e3bbde8	%s-%s
+e3bc128	%4d
+e3bc138	%s (wed)
+e3bca28	%s: %s
+e3bd238	%d seasons
+e3bd468	%s+%d
+e3bebb8	%d seasons
+e3bee30	-
+e3bee88	-
+e3bee90	--
+e3bee98	---
+e3beea0	----
+e3beeb0	-----
+e3beec0	------
+e3beed0	-------
+e3beee0	--------
+e3bef00	?
+e3bef20	None
+e3bef70	%d
+e3bef90	Foot
+e3bef98	Uprising
+e3befa0	Delegate
+e3befa8	Right
+e3befb0	Repair
+e3befb8	Treasure
+e3befc0	Cavalry
+e3befc8	Mtd. Gunners
+e3befd0	Gold
+e3befd8	Gold Mine
+e3befe0	Silver Mine
+e3befe8	 Army
+e3beff0	Alliance
+e3bf000	Horses
+e3bf008	Military
+e3bf010	Acquired
+e3bf020	Left
+e3bf028	Local Merchants
+e3bf038	Comm.
+e3bf040	Develop Commerce
+e3bf050	Seek Talent
+e3bf060	Repair Walls
+e3bf070	Strategy
+e3bf078	Seppuku
+e3bf080	Leader
+e3bf088	Centre
+e3bf090	Exile
+e3bf098	Guns
+e3bf0a0	Court
+e3bf0a8	Recruit
+e3bf0b0	Pikes
+e3bf0b8	Farmland
+e3bf0c0	Develop Farms
+e3bf0d0	Shogunate
+e3bf0e0	Rice
+e3bf0e8	Nearby
+e3bf0f0	Non-Aggression
+e3bf108	Raids
+e3bf110	0
+e3bf118	1
+e3bf120	2
+e3bf128	3
+e3bf130	4
+e3bf138	5
+e3bf140	6
+e3bf148	7
+e3bf150	8
+e3bf158	9
+e3bf160	Small
+e3bf168	Medium
+e3bf170	Large
+e3bf178	Month 1
+e3bf180	Month 2
+e3bf188	Month 3
+e3bf190	Month 4
+e3bf198	Month 5
+e3bf1a0	Month 6
+e3bf1a8	Month 7
+e3bf1b0	Month 8
+e3bf1b8	Month 9
+e3bf1c0	Month 10
+e3bf1c8	Month 11
+e3bf1d0	Month 12
+e3bf1d8	Early
+e3bf1e0	Late
+e3bf1e8	Castle
+e3bf1f0	Army Unit
+e3bf200	Male
+e3bf208	Female
+e3bf210	Beginner
+e3bf218	Advanced
+e3bf220	Expert
+e3bf228	10%
+e3bf230	20%
+e3bf238	30%
+e3bf240	40%
+e3bf248	50%
+e3bf250	60%
+e3bf258	70%
+e3bf260	80%
+e3bf268	90%
+e3bf270	Spring
+e3bf278	Summer
+e3bf280	Autumn
+e3bf288	Winter
+e3bf290	Meio
+e3bf298	Bunki
+e3bf2a0	Eisho
+e3bf2a8	Daiei
+e3bf2b0	Kyoroku
+e3bf2b8	Tenbun
+e3bf2c0	Koji
+e3bf2c8	Eiroku
+e3bf2d0	Genki
+e3bf2d8	Tensho
+e3bf2e0	Bunroku
+e3bf2e8	Keicho
+e3bf2f0	Genna
+e3bf2f8	Kan'ei
+e3bf300	Shoho
+e3bf308	Keian
+e3bf310	Joo
+e3bf318	Meireki
+e3bf320	Manji
+e3bf328	Kanbun
+e3bf330	Enpo
+e3bf338	Tenna
+e3bf340	Jokyo
+e3bf348	Genroku
+e3bf350	Family
+e3bf358	Family Rdg.
+e3bf360	Given
+e3bf368	Given Rdg.
+e3bf370	Rank
+e3bf378	Origin
+e3bf380	Born
+e3bf388	Debut Castle
+e3bf390	Home Province
+e3bf398	Died
+e3bf3a0	Died Of
+e3bf3a8	Famous Officer
+e3bf3b8	Portrait No.
+e3bf3c0	Kin
+e3bf3c8	Father
+e3bf3d8	Father-in-Law
+e3bf3e8	Adoptive Father
+e3bf3f8	Compat. A
+e3bf400	Compat. B
+e3bf408	Values Court
+e3bf418	Values Shogun
+e3bf428	Values Prestige
+e3bf438	Duty
+e3bf440	Cur. Ambition
+e3bf450	Ambition
+e3bf458	Illness
+e3bf460	Injury
+e3bf468	Power
+e3bf478	Castle
+e3bf480	On Campaign
+e3bf488	Joined
+e3bf490	Refuses Service
+e3bf4a0	Candidate
+e3bf4b0	Loyalty
+e3bf4b8	Fief
+e3bf4c0	Troops
+e3bf4c8	Reserves
+e3bf4d0	Morale
+e3bf4d8	Unit
+e3bf4e0	Org. Infantry
+e3bf4f0	Org. Pikes
+e3bf500	Org. Cavalry
+e3bf510	Org. Gunners
+e3bf520	Org. Mtd. Gunners
+e3bf530	Magistrate
+e3bf538	POL
+e3bf540	POL Exp.
+e3bf550	LDR
+e3bf558	LDR Exp.
+e3bf568	INT
+e3bf570	INT Exp.
+e3bf580	Tactic 1
+e3bf590	Tactic 2
+e3bf5a0	Tactic 3
+e3bf5b0	Renown
+e3bf5d8	Done
+e3bf5e0	Gender
+e3bf5e8	Gekokujo Target
+e3bf5f8	Name
+e3bf600	Name Reading
+e3bf610	Age
+e3bf618	Years Served
+e3bf628	Clan
+e3bf630	Corps
+e3bf640	Lord Powers
+e3bf650	Player Kin
+e3bf660	Power Name
+e3bf668	Kin
+e3bf670	Title
+e3bf678	Title Rank
+e3bf688	Player
+e3bf698	No.
+e3bf6a0	Speech
+e3bf6a8	Commander
+e3bf6e0	Army Unit
+e3bf6f0	Skill 1
+e3bf700	Skill 2
+e3bf710	Skill 3
+e3bf720	Treasure 1
+e3bf728	Treasure 2
+e3bf730	Wife
+e3bf738	Position
+e3bf740	Squad
+e3bf748	Daimyo
+e3bf758	Daimyo (Family)
+e3bf768	Daimyo (Given)
+e3bf778	C-in-C
+e3bf780	Province
+e3bf788	Fief/Max.
+e3bf798	Friendship
+e3bf7a0	Rewarded
+e3bf7b0	Defect To
+e3bf7c0	Compat. Officer
+e3bf7d0	Prize
+e3bf7d8	Unwed
+e3bf7e0	Unborn
+e3bf7e8	Not of Age
+e3bf7f0	Ronin
+e3bf7f8	Officer
+e3bf800	Lord
+e3bf808	Daimyo
+e3bf810	Retired
+e3bf818	Dead
+e3bf820	Unused
+e3bf828	New Wait (S)
+e3bf830	New Wait (R)
+e3bf838	New Debut (S)
+e3bf840	New Debut (R)
+e3bf848	Messenger
+e3bf850	Samurai
+e3bf858	Gentry
+e3bf860	Ikko
+e3bf868	Old Buddhist
+e3bf870	Christian
+e3bf878	Merchant
+e3bf880	Pirate
+e3bf888	Ninja
+e3bf890	Court
+e3bf898	Illness
+e3bf8a0	In Battle
+e3bf8a8	Mounted Gunners
+e3bf8b8	Farming
+e3bf8c0	Chaos
+e3bf8c8	Jeer
+e3bf8d0	Menace
+e3bf8d8	Subvert
+e3bf8e0	False Report
+e3bf8e8	Inspire
+e3bf8f0	Treat
+e3bf8f8	Restore Order
+e3bf900	Spy
+e3bf908	Fire Pots
+e3bf910	Sabotage
+e3bf918	Repair
+e3bf920	Lure
+e3bf928	Provoke
+e3bf930	Intercept
+e3bf938	Storm
+e3bf940	Divide
+e3bf948	Arson
+e3bf950	Assault Raid
+e3bf958	Spear Wall
+e3bf960	Charge
+e3bf968	Volley
+e3bf970	Fire & Charge
+e3bf978	Plea
+e3bf980	Tea
+e3bf988	Sword
+e3bf990	Speech
+e3bf998	Conqueror
+e3bf9a8	Warlike, Direct
+e3bf9b8	Warlike, Devious
+e3bf9c8	Warlike, Kind
+e3bf9d8	Cautious Hawk
+e3bf9e8	Cautious Dove
+e3bf9f8	Normal
+e3bfa00	Rough
+e3bfa08	Noble
+e3bfa10	Region
+e3bfa18	Reading
+e3bfa20	Weather
+e3bfa28	Clear
+e3bfa40	Rain
+e3bfa48	Snow
+e3bfa50	Castle Owner
+e3bfa60	Overlord Clan
+e3bfa70	Standing 1
+e3bfa78	Standing 2
+e3bfa80	Standing 3
+e3bfa88	Alliance Term
+e3bfa98	Pact Term
+e3bfaa8	Marriage
+e3bfab0	Dependence
+e3bfac0	Encircle Count
+e3bfad8	Encircle Leader
+e3bfae8	Encircle Target
+e3bfaf8	Court Standing
+e3bfb08	Court Foe
+e3bfb10	Punitive
+e3bfb18	Heir Choice
+e3bfb28	Crest No.
+e3bfb38	Flag Colour No.
+e3bfb48	Prestige
+e3bfb50	Post
+e3bfb58	Post Rank
+e3bfb68	Kin
+e3bfb70	Castles
+e3bfb78	Officers
+e3bfb80	Troops
+e3bfb88	Main Castle
+e3bfb90	Provs
+e3bfb98	Yield
+e3bfba0	Commerce
+e3bfba8	Corps
+e3bfbb0	Gold
+e3bfbb8	Rice
+e3bfbc0	Horses
+e3bfbc8	Guns
+e3bfbd0	Court Friendship
+e3bfbe0	Non-Aggr.
+e3bfbe8	Alliance
+e3bfbf0	We depend on them heavily
+e3bfc10	We depend on them greatly
+e3bfc30	We depend on them a little
+e3bfc48	No dependence
+e3bfc60	They depend on us a little
+e3bfc80	They depend on us greatly
+e3bfca0	They depend on us heavily
+e3bfcc0	Lord's Power
+e3bfcd0	Join ID
+e3bfce0	Order
+e3bfcf0	Move Target
+e3bfd00	Destination
+e3bfd10	Next Stop
+e3bfd20	Siege Plan
+e3bfd30	Pos.: Castle
+e3bfd40	Pos.: Road
+e3bfd50	Road Pos.
+e3bfd60	Link: Prev.
+e3bfd70	Link: Next
+e3bfd80	Officer (1)
+e3bfd90	Officer (2)
+e3bfda0	Officer (3)
+e3bfdb0	Officer (4)
+e3bfdc0	Officer (5)
+e3bfdd0	Waiting
+e3bfdd8	Aid Requester
+e3bfde8	Requesting Corps
+e3bfe00	Requesting Power
+e3bfe18	Aid
+e3bfe20	Rest Counter
+e3bfe30	Movement
+e3bfe38	Hidden Flag
+e3bfe50	Info Level Flag
+e3bfe68	Term
+e3bfe70	Hidden
+e3bfe78	Army
+e3bfe80	Target
+e3bfe88	Plan
+e3bfe90	Position
+e3bfea0	Req. Daimyo/Corps
+e3bfeb0	Attack
+e3bfeb8	Defence
+e3bfec0	No Orders
+e3bfed0	Besiege
+e3bfed8	Assault
+e3bfee0	Demand
+e3bfee8	Defend
+e3bfef0	Defeat
+e3bfef8	Join Up
+e3bff00	Status
+e3bff08	Bloodline
+e3bff18	Father
+e3bff20	Dependant
+e3bff30	Husband
+e3bff38	Born To
+e3bff40	Married To
+e3bff48	Guardian
+e3bff50	Not Debuted
+e3bff58	Adult
+e3bff60	Monk
+e3bff68	Type
+e3bff70	Lord Officer
+e3bff80	Trade
+e3bff88	Yield
+e3bff90	Lord Ambition
+e3bffa0	Horse Breeding
+e3bffa8	Gunsmiths
+e3bffb0	 
+e3bffc0	Ceasefire Count
+e3bffd8	Target
+e3bffe8	Attack Policy
+e3bfff8	Target Castle
+e3c0008	Domestic Policy
+e3c0020	Bad Order Flag
+e3c0038	Order
+e3c0048	Order Unit
+e3c0058	Order Target
+e3c0068	Order Plan
+e3c0078	Wait Order
+e3c0088	Influence
+e3c0090	Merit
+e3c0098	Just Cause: Court
+e3c00a8	Just Cause: Shogun
+e3c00c0	Defect Count
+e3c00d8	Defect To
+e3c00f0	Player Priv. Flag
+e3c0108	Gekokujo Leader
+e3c0118	Manifesto
+e3c0128	Switch To Clan
+e3c0138	Recommended Heir
+e3c0150	Player Inv. Flag
+e3c0168	Corps Castles
+e3c0178	Corps Officers
+e3c0188	Corps Troops
+e3c0198	Farming Mag.
+e3c01a8	Commerce Mag.
+e3c01b8	Repair Mag.
+e3c01c8	Recruit Mag.
+e3c01d8	Max. Yield
+e3c01e8	Max. Commerce
+e3c01f8	Main Bailey
+e3c0200	Max. Main
+e3c0210	2nd Bailey
+e3c0218	Max. 2nd
+e3c0228	3rd Bailey
+e3c0230	Max. 3rd
+e3c0240	Mine
+e3c0248	Defect Promise
+e3c0258	Gekokujo Backers
+e3c0268	Locked Allegiance
+e3c0278	Lord Changed
+e3c0288	Informed
+e3c0298	Proposal Count
+e3c02a8	Proposal Type
+e3c02b8	Proposal Object
+e3c02c8	Serves
+e3c02d0	Size
+e3c02d8	Investment
+e3c02e8	Resistance
+e3c02f0	Base
+e3c02f8	Defence
+e3c0300	Troops
+e3c0308	Non-Aggr. Term
+e3c0318	Enemy Clan
+e3c0328	Serves Pirates
+e3c0340	Trade Ship Count
+e3c0358	Trade Requester
+e3c0368	Error
+e3c0370	Officer Power
+e3c0380	Gentry
+e3c0388	Pirates
+e3c0390	Free City
+e3c03a0	Ninja Band
+e3c03a8	No Power
+e3c03b8	Capture
+e3c03c0	Hold Back
+e3c03c8	Stratagem
+e3c03d0	Retreat
+e3c03d8	No Orders
+e3c03e8	Wait
+e3c03f0	Switch Sides
+e3c03f8	Independence
+e3c0400	Grade
+e3c0408	CG No.
+e3c0418	Made in
+e3c0420	Price
+e3c0428	Troop Type Gained
+e3c0438	Stat Raised
+e3c0448	Stat Bonus
+e3c0458	Skill Gained
+e3c0468	Owner Power
+e3c0478	Owner Officer
+e3c0490	Appear Flag: Appear
+e3c04b0	Appear Flag: Guns
+e3c04d0	Appear Flag: Nanban
+e3c04f0	Appear Flag: Broken
+e3c0508	Owner
+e3c0510	Stat Gained
+e3c0520	Special Effect
+e3c0530	Tea Caddy
+e3c0538	Tea Jar
+e3c0540	Kettle
+e3c0548	Tea Bowl
+e3c0550	Vase
+e3c0558	Tea Scoop
+e3c0560	Censer
+e3c0568	Water Jar
+e3c0570	Sword
+e3c0578	Spear
+e3c0580	Matchlock
+e3c0588	Caplock Gun
+e3c0590	Pistol
+e3c0598	Cannon
+e3c05a0	Armour
+e3c05a8	Helmet
+e3c05b0	Fine Horse
+e3c05b8	Sword Book
+e3c05c0	Farming Book
+e3c05c8	Commerce Book
+e3c05d0	Building Book
+e3c05d8	Anecdotes
+e3c05e0	Diplomacy Book
+e3c05e8	Martial Book
+e3c05f0	Riding Book
+e3c05f8	Gunnery Book
+e3c0600	Learning Book
+e3c0608	Strategy Book
+e3c0610	Medical Book
+e3c0618	Ink Painting
+e3c0620	Colour Painting
+e3c0628	Sweets
+e3c0630	Local Sake
+e3c0638	Incense
+e3c0640	Grade 10
+e3c0648	Grade 9
+e3c0650	Grade 8
+e3c0658	Grade 7
+e3c0660	Grade 6
+e3c0668	Grade 5
+e3c0670	Grade 4
+e3c0678	Grade 3
+e3c0680	Grade 2
+e3c0688	Grade 1
+e3c0690	Japan
+e3c0698	Nanban
+e3c06a0	Ming
+e3c06a8	Adj. Castle 1
+e3c06b8	Adj. Castle 2
+e3c06c8	Mountains
+e3c06d0	Forest
+e3c06d8	Plains
+e3c06e0	Coast
+e3c06e8	River
+e3c06f0	Valley
+e3c06f8	Rank
+e3c0700	Holder
+e3c0710	Sr. 8th, Lower
+e3c0720	Sr. 8th, Upper
+e3c0730	Jr. 7th, Lower
+e3c0740	Jr. 7th, Upper
+e3c0750	Sr. 7th, Lower
+e3c0760	Sr. 7th, Upper
+e3c0770	Jr. 6th, Lower
+e3c0780	Jr. 6th, Upper
+e3c0790	Sr. 6th, Lower
+e3c07a0	Sr. 6th, Upper
+e3c07b0	Jr. 5th, Lower
+e3c07c0	Jr. 5th, Upper
+e3c07d0	Sr. 5th, Lower
+e3c07e0	Sr. 5th, Upper
+e3c07f0	Jr. 4th, Lower
+e3c0800	Jr. 4th, Upper
+e3c0810	Sr. 4th, Lower
+e3c0820	Sr. 4th, Upper
+e3c0830	Jr. 3rd Rank
+e3c0838	Sr. 3rd Rank
+e3c0840	Jr. 2nd Rank
+e3c0848	Sr. 2nd Rank
+e3c0850	Jr. 1st Rank
+e3c0858	Sr. 1st Rank
+e3c0860	Region
+e3c0868	Adj. Province 1
+e3c0878	Adj. Province 2
+e3c0888	Adj. Province 3
+e3c0898	Adj. Province 4
+e3c08a8	Adj. Province 5
+e3c08b8	Adj. Province 6
+e3c08c8	Typhoon
+e3c08d0	Flood
+e3c08d8	Good Harvest
+e3c08e0	Poor Harvest
+e3c08e8	Famine
+e3c08f0	Epidemic
+e3c08f8	Earthquake
+e3c0900	Flood Works
+e3c0908	Harvest
+e3c0910	Floods
+e3c0918	School
+e3c0920	Employer
+e3c0930	Location
+e3c0938	Time Left
+e3c0948	Level
+e3c0950	Ability
+e3c0958	Health
+e3c0968	Acted
+e3c0980	Employer Daimyo
+e3c0998	E
+e3c09a0	D
+e3c09a8	C
+e3c09b0	B
+e3c09b8	A
+e3c09c0	S
+e3c09c8	Healthy
+e3c09d0	Hurt
+e3c09d8	Badly Hurt
+e3c09e0	Castle Type
+e3c09f0	Castle Name
+e3c09f8	Suffix
+e3c0a00	Adj. Castle 3
+e3c0a10	Adj. Castle 4
+e3c0a20	Adj. Castle 5
+e3c0a30	Adj. Castle 6
+e3c0a40	Adj. Castle 7
+e3c0a50	Ruling Power
+e3c0a60	Castle CG No.
+e3c0a70	Suffix Reading
+e3c0a80	Corps/Minor Power
+e3c0a90	Sortie
+e3c0a98	Fort
+e3c0aa0	Temple 1
+e3c0aa8	Temple 2
+e3c0ab0	Church
+e3c0ab8	City
+e3c0ac0	Port
+e3c0ac8	Village
+e3c0ad0	2nd Bailey
+e3c0ad8	3rd Bailey
+e3c0ae0	-
+e3c0ae8	-
+e3c0af0	Hall
+e3c0af8	-
+e3c0b00	-
+e3c0b08	Gobo
+e3c0b10	-
+e3c0b18	Mido
+e3c0b20	-
+e3c0b28	Palace
+e3c0b30	-
+e3c0b38	ji
+e3c0b40	-
+e3c0b48	Shrine
+e3c0b50	-
+e3c0b58	-
+e3c0b60	Stockade
+e3c0b68	-
+e3c0b70	Church
+e3c0b78	-
+e3c0b88	Village
+e3c0b90	-
+e3c0b98	Town
+e3c0ba0	-
+e3c0ba8	-
+e3c0bb0	Village
+e3c0bb8	-
+e3c0bc0	Officers
+e3c0bd0	Hidden Flag
+e3c0be0	Corps No.
+e3c0bf0	Appointing Clan
+e3c0c00	-
+e3c0c08	-
+e3c0c10	-
+e3c0c20	-
+e3c0c30	-
+e3c0c38	-
+e3c0c48	-
+e3c0c50	-
+e3c0c60	-
+e3c0c68	-
+e3c0c78	-
+e3c0c80	-
+e3c0c90	-
+e3c0c98	-
+e3c0ca8	-
+e3c0cb0	-
+e3c0cb8	-
+e3c0cc8	-
+e3c0cd8	-
+e3c0ce0	-
+e3c0ce8	-
+e3c0cf0	-
+e3c0d00	Choose Officer
+e3c0d10	Choose Goods
+e3c0d20	Choose Centre Van
+e3c0d30	Gekokujo Lords
+e3c0d40	Choose Reserve
+e3c0d50	Choose Army
+e3c0d60	Choose Princess
+e3c0d68	Choose Main Bailey
+e3c0d78	Choose Father
+e3c0d88	Choose Treasure
+e3c0d98	Choose Compatible
+e3c0da8	Choose Target
+e3c0db8	Choose Heir Cand.
+e3c0dc8	Choose Heir
+e3c0dd8	Choose Ninja
+e3c0de8	Choose 2nd Bailey 1
+e3c0df8	Choose 2nd Bailey 2
+e3c0e08	Choose 3rd Bailey 1
+e3c0e18	Choose 3rd Bailey 2
+e3c0e28	Choose Officer
+e3c0e38	Choose Left Van
+e3c0e48	Choose Envoy
+e3c0e58	Choose Commander
+e3c0e68	Choose Target
+e3c0e78	Choose Right Van
+e3c0e88	Choose Post
+e3c0e98	Hired Ninja
+e3c0ea8	No Sortie
+e3c0eb8	Offer Vassalage
+e3c0ec8	Declare Independence
+e3c0ed8	Corps Orders
+e3c0ee8	Cede Castle
+e3c0ef0	Reassign
+e3c0f00	Name Heir
+e3c0f10	Duty
+e3c0f18	Gain
+e3c0f20	Bribe
+e3c0f28	Listen
+e3c0f30	"Left Wing"
+e3c0f40	"Centre"
+e3c0f50	"Right Wing"
+e3c0f60	"HQ"
+e3c0f70	HQ
+e3c0f78	Engage
+e3c0f80	By Troops
+e3c0f88	By Morale
+e3c0f90	By LDR
+e3c0f98	Enemy Left Van
+e3c0fa8	Enemy Centre Van
+e3c0fb8	Enemy Right Van
+e3c0fc8	Enemy Left Rear
+e3c0fd8	Enemy Centre Rear
+e3c0fe8	Enemy Right Rear
+e3c1000	Over a year to arrive
+e3c1020	Over half a year to arrive
+e3c1038	Arrives %s %s
+e3c1048	-
+e3c1050	-
+e3c1060	-
+e3c1068	-
+e3c1078	-
+e3c1080	-
+e3c1090	-
+e3c1098	-
+e3c10a0	-
+e3c10a8	-
+e3c10b8	-
+e3c10c0	-
+e3c10d0	-
+e3c10d8	-
+e3c10e8	-
+e3c10f0	-
+e3c10f8	-
+e3c1100	-
+e3c1110	-
+e3c1118	-
+e3c1120	-
+e3c1128	-
+e3c1138	-
+e3c1140	-
+e3c1150	-
+e3c1158	-
+e3c1168	-
+e3c1170	-
+e3c1180	-
+e3c1188	-
+e3c1198	-
+e3c11a0	-
+e3c11a8	-
+e3c11b0	-
+e3c11b8	-
+e3c11c0	-
+e3c11d0	-
+e3c11d8	-
+e3c11e0	-
+e3c11e8	-
+e3c11f0	-
+e3c11f8	-
+e3c1200	-
+e3c1208	-
+e3c1210	-
+e3c1218	-
+e3c1220	-
+e3c1228	-
+e3c1230	-
+e3c1238	-
+e3c1240	Land in Full Bloom
+e3c1250	Blue of Dawn
+e3c1260	Hills of Mahoroba
+e3c1270	Raging White Wolf
+e3c1280	Grove of Beacons
+e3c1290	The Lone Road
+e3c12a0	Veteran Battle Lines
+e3c12b0	Melody of the Koto
+e3c12c0	With Marishiten
+e3c12d0	Footsteps in Spring
+e3c12e0	Hope of the Fire Dance
+e3c12f0	Signs of Upheaval
+e3c1300	Shifting Tides of War
+e3c1310	After the Great Quake
+e3c1320	Words of Battle
+e3c1330	The Tide Turns
+e3c1340	To the Land of Light
+e3c1350	Warmth of Spring
+e3c1360	Dancers of Time
+e3c1370	Amid False Light
+e3c1380	The Noble Emperor
+e3c1390	Land of War Cries
+e3c13a0	Revelation of Light
+e3c13b0	Smiles of the Townsfolk
+e3c13c0	Eyes in the Grass
+e3c13d0	Battle in a Sea of Blood
+e3c13e0	Thin Crimson Paper
+e3c13f0	Walls of Sorrow
+e3c1400	Still Waters
+e3c1410	Slope to the Underworld
+e3c1420	Registered
+e3c1430	Historical 1
+e3c1440	Historical 2
+e3c1450	Historical 3
+e3c1460	Historical 4
+e3c1470	Historical 5
+e3c1480	Historical 6
+e3c1490	Historical 7
+e3c14a0	Historical 8
+e3c14b0	Historical 9
+e3c14c0	Historical 10
+e3c14d0	Prize Officers
+e3c14e0	Princess
+e3c14e8	Noble
+e3c14f0	Monk
+e3c14f8	Other
+e3c1500	Women
+e3c1508	Officer Mania
+e3c1518	Treasure Mania
+e3c1528	Speed Mania
+e3c1538	Hardship Mania
+e3c1548	Battle Mania
+e3c1558	Intrigue Mania
+e3c1568	Wedding Mania
+e3c1570	Free Mania
+e3c1580	No Limit
+e3c1590	Daimyo/Commander Only
+e3c15a8	Daimyo/Lord Only
+e3c15c0	Commander/Lord Only
+e3c15d8	Daimyo Only
+e3c15e8	Commander Only
+e3c15f8	Castle Lord Only
+e3c1608	Selectable
+e3c1618	Beginner Only
+e3c1628	Advanced
+e3c1638	Expert Only
+e3c1650	Own Battles: "View" Only
+e3c1670	Own Battles: "Choose" Only
+e3c1690	Own Battles: "Skip" Only
+e3c16b0	Reg. Officers: "Appear" Only
+e3c16d0	Reg. Officers: "Absent" Only
+e3c16f0	Reg. Events: "Occur" Only
+e3c1710	Reg. Events: "Off" Only
+e3c1738	%d pts
+e3c1740	Officer Death Rate
+e3c1750	Low
+e3c1758	Normal
+e3c1760	High
+e3c1768	Recruit Success
+e3c1778	Officer Growth
+e3c1788	Fast
+e3c1790	Slow
+e3c1798	Personalities
+e3c17a8	Random
+e3c17b8	Compatibility
+e3c17c8	Troop Type Limits
+e3c17d8	Officer Origins
+e3c17e8	Fixed
+e3c17f0	Officer Tactics
+e3c1800	All Three
+e3c1810	Officer Gender
+e3c1820	All Female
+e3c1830	Women Officers
+e3c1840	Pass Headship
+e3c1850	Not Allowed
+e3c1860	Allowed
+e3c1868	Transfer Lords
+e3c1878	Retainer Proposals
+e3c1888	No
+e3c1890	Yes
+e3c1898	Loyalty/Friendship
+e3c18a8	Fixed
+e3c18b8	Variable
+e3c18c8	Volatile
+e3c18d0	Clan Vassalage
+e3c18e0	Forbidden
+e3c18e8	Donations
+e3c18f8	Fixed Sum
+e3c1900	Disaster Rate
+e3c1910	Uprising Rate
+e3c1920	Development Speed
+e3c1930	Flood Works Speed
+e3c1940	Income Types
+e3c1950	Goods Tribute
+e3c1960	Minor Power Gifts
+e3c1970	Yes
+e3c1978	Merchant Range
+e3c1988	Pirate Range
+e3c1998	Troop Growth
+e3c19a8	Natural
+e3c19b8	Recruit
+e3c19c0	Poaching Rate
+e3c19d0	Victory
+e3c19e0	Take All
+e3c19e8	Small Independence
+e3c19f8	Large Independence
+e3c1a08	Siege Effect
+e3c1a18	Morale Drop
+e3c1a28	Fort/Temple Defence
+e3c1a38	False Orders
+e3c1a40	All Lords
+e3c1a48	Battle Command
+e3c1a58	Own Castle Only
+e3c1a68	Own Clan
+e3c1a78	Army Display
+e3c1a88	Partial
+e3c1a98	Army Morale Loss
+e3c1aa8	Severe
+e3c1ab0	Battle Stats
+e3c1ac0	Field Time Limit
+e3c1ad0	Battlefield
+e3c1ae0	Choose
+e3c1ae8	Split Field Units
+e3c1af8	Navy Support (Field)
+e3c1b08	Strong
+e3c1b10	Siege Garrison
+e3c1b20	Siege Victory
+e3c1b30	Wipe Out Enemy
+e3c1b38	Navy Support (Siege)
+e3c1b48	Siege Battlefield
+e3c1b58	Siege Surrender
+e3c1b68	Ninja Missions
+e3c1b78	No Intrigue
+e3c1b88	Ninja Growth
+e3c1b98	Enemy of Court/Punish
+e3c1ba8	Just Cause
+e3c1bb8	Frequent
+e3c1bc0	Battle Frequency
+e3c1bd0	Stratagem Frequency
+e3c1be0	Unification Goal
+e3c1bf0	All Castles/Bases
+e3c1c00	Treasure Effects
+e3c1c10	Year Display
+e3c1c20	Era Name
+e3c1c28	Historical Events
+e3c1c38	Prize Officers
+e3c1c48	Off
+e3c1c58	On
+e3c1c60	Prize Treasures
+e3c1c70	Confirm
+e3c1c78	Execute
+e3c1c80	Cancel
+e3c1c88	Check
+e3c1c90	Next
+e3c1c98	Prev.
+e3c1ca0	Play
+e3c1ca8	Stop
+e3c1cb0	Reset
+e3c1cb8	Zoom
+e3c1cc8	Clan
+e3c1cd0	Hostile
+e3c1cd8	Vassal
+e3c1ce0	Heir
+e3c1ce8	Encircle Target
+e3c1cf8	Encircle Leader
+e3c1d08	Requester
+e3c1d10	Resting
+e3c1d18	Deadline
+e3c1d20	Origin
+e3c1d28	Owner
+e3c1d30	Effect
+e3c1d38	Granted
+e3c1d40	Appointed
+e3c1d48	Enemy Daimyo
+e3c1d58	Loyalty
+e3c1d60	Yield Left
+e3c1d70	Surrender
+e3c1d78	Release
+e3c1d80	Punish
+e3c1d88	Scenario
+e3c1d98	Lord
+e3c1db0	Save Play Data
+e3c1dd0	Load Play Data
+e3c1df0	Game Settings
+e3c1e10	Edit Data
+e3c1e30	Edit Officers
+e3c1e50	Edit Princesses
+e3c1e70	Edit Ninja
+e3c1e90	Edit Castles
+e3c1eb0	View Custom Data
+e3c1ed0	Back to Setup
+e3c1ef0	Please choose an option.
+e3c1f10	Demo Play
+e3c1f28	Difficulty
+e3c1f30	Lord Info 
+e3c1f40	Demo
+e3c1f48	 
+e3c1f70	Auto
+e3c1f78	Reading
+e3c1f80	Name
+e3c1f88	Yes
+e3c1f90	No
+e3c1f98	Fee
+e3c1fa0	Number
+e3c1fa8	Options
+e3c1fb0	Castle Defence
+e3c1fc0	Orders
+e3c1fc8	Map
+e3c1fd0	Switch Select
+e3c1fe0	Switch Target
+e3c1ff0	End
+e3c1ff8	March Orders
+e3c2008	Negotiate
+e3c2010	Request Sortie
+e3c2020	Request Aid
+e3c2030	Ceasefire Talks
+e3c2040	Order Defection
+e3c2050	Gather Armies
+e3c2060	Execute Orders
+e3c2070	Gekokujo
+e3c2078	Info
+e3c2080	Prov./Castle
+e3c2088	Minor Powers
+e3c2090	Move
+e3c2098	All
+e3c20a0	Single
+e3c20a8	Cancel Sortie
+e3c20b8	Change Target
+e3c20c8	Keep Besieging
+e3c20d8	Demand Surrender
+e3c20e8	Resume March
+e3c20f8	Priest
+e3c2100	F. Rdg.
+e3c2108	G. Rdg.
+e3c2110	Situation
+e3c2118	Gathered Armies
+e3c2128	Envoy
+e3c2138	False Orders Ninja
+e3c2148	Commander
+e3c2158	Castle Info
+e3c2160	Officer Info
+e3c2170	Army Info
+e3c2180	Daimyo Info
+e3c2190	Corps Info
+e3c21a0	Princess Info
+e3c21a8	Ninja Info
+e3c21b8	Province Info
+e3c21c0	Minor Power Info
+e3c21d0	Court Title Info
+e3c21e0	Post Info
+e3c21f0	Treasure Info
+e3c2200	Castle Tales
+e3c2210	Edit
+e3c2218	Edit Officer
+e3c2228	Edit Princess
+e3c2230	Edit Ninja
+e3c2240	Edit Castle
+e3c2248	Owned
+e3c2250	Net (Tribute)
+e3c2260	Goods
+e3c2268	Developed
+e3c2270	Undeveloped
+e3c2278	Result
+e3c2280	Cost
+e3c2288	Item
+e3c2290	Own Castle
+e3c2298	Narrator
+e3c22a0	Own Clan
+e3c22a8	All Clans
+e3c22b0	Price
+e3c22b8	Raise
+e3c22c0	Cut
+e3c22c8	=
+e3c22d0	Transfer
+e3c22d8	Court Info
+e3c22e8	Clan Info
+e3c22f8	Envoy Info
+e3c2308	Until Decision
+e3c2318	Target
+e3c2320	Topic
+e3c2328	Times
+e3c2330	Speak
+e3c2338	Persuade
+e3c2340	Encircling Clans
+e3c2360	Encircled Clan
+e3c2378	Close
+e3c2380	Friendly
+e3c2388	Distant
+e3c2390	Hostile
+e3c2398	Overlord
+e3c23a0	Lord's Rank
+e3c23b0	Clan Encirclements
+e3c23c0	Clan Alliances
+e3c23d0	Minor Power Ties
+e3c23e0	Corps Targets
+e3c23f0	Clan Corps
+e3c2400	1 person
+e3c2408	2 people
+e3c2410	3 people
+e3c2418	4 people
+e3c2420	5 or more
+e3c2430	1 item
+e3c2438	2 items
+e3c2440	3 items
+e3c2448	4 items
+e3c2450	No shortage
+e3c2460	Daimyo Friendship
+e3c2470	Corps Friendship
+e3c2480	Lord Friendship
+e3c2490	Lord-Vassal Bond
+e3c24a0	Officers
+e3c24b0	Goods Short
+e3c24c0	To
+e3c24c8	From
+e3c24d0	New Castle
+e3c24d8	Active
+e3c24e0	Serving
+e3c24e8	New
+e3c24f0	Digits
+e3c24f8	Change
+e3c2500	Page
+e3c2520	Princess Limit
+e3c2530	Captives
+e3c2540	Fugitive Hunters
+e3c2550	Small Ind.
+e3c2558	Large Ind.
+e3c2560	Own Battles
+e3c2570	Battle Speed
+e3c2580	Animation
+e3c2590	Rumble
+e3c2598	Message Speed
+e3c25a8	View
+e3c25b0	Skip
+e3c25c0	Map Scrolling
+e3c25d8	Sound Output
+e3c25e8	Music Volume
+e3c25f8	Sound FX Volume
+e3c2610	Left Stick Speed
+e3c2628	Stereo
+e3c2638	Mono
+e3c2648	Slower
+e3c2650	Faster
+e3c2658	Registered Officers
+e3c2668	Registered Treasures
+e3c2680	Registered Events
+e3c26a0	Continue a Saved Game
+e3c26c0	Start a New Game
+e3c26e0	Create Your Own Officer
+e3c2700	Read the Instructions
+e3c2718	Listen to Music
+e3c2750	Create Your Own Treasure
+e3c2770	Create Your Own Event
+e3c2790	Play Special Customisation
+e3c2888	%d
+e3c2898	1
+e3c29d0	-
+e3c2a00	Basic
+e3c2a08	Status
+e3c2a10	Target
+e3c2a18	Supplies
+e3c2cd8	%s (%s)
+# found by the aligned-start scan (6d): code-word junk
+e3b69d8	-
+e3b6a38	-
+e3b6a98	-
+e3b73d0	-
+e3b73e0	-
+e3b7410	-
+e47e358	-
+e480114	-

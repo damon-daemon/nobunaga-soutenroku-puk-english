@@ -1,0 +1,1836 @@
+@5753
+To burn the town? Unbelievable! A fool who cannot see past the end of his nose...
+@5753.1
+F-fire in my rice stores! Put it out! Put it out!
+@5754
+Oh... fire! Lord, protect us!
+@5754.1
+This too is a trial sent by the Lord... Let us pray...
+@5756
+Damn, fire! What a cowardly trick...
+@5756.1
+What, fire at the gate!? {02}{02}4 is no fool...
+@5756.2
+Whoa, fire! Men, what are you doing! Put it out, quickly!
+@5757
+Ugh, an attack by fire! What a cowardly trick...
+@5757.1
+What, fire at the gate!? {02}{02}4 is cleverer than I thought...
+@5757.2
+Eek, fire! Everyone, what are you doing? Put it out at once!!
+@5759
+It seems our {02}{03}4 has set fire to the castle under siege.
+@5759.1
+It seems Lord {02}{03}4 has set fire to the castle under siege.
+@5759.2
+I hear Lord {02}{03}4 has set fire to the castle under siege.
+@5759.3
+It seems Lord {02}{03}4 has set fire to the castle under siege.
+@5759.4
+I hear Lord {02}{03}n has set fire to the castle under siege.
+@5760
+It seems our {02}{03}4 has set fire to the castle under siege.
+@5760.1
+It seems Lord {02}{03}4 has set fire to the castle under siege.
+@5760.3
+It seems Lord {02}{03}4 has set fire to the castle under siege.
+@5761
+Hm? {02}{03}n of the {02}{0B}E has surrounded my castle and is up to something...
+@5761.1
+Oh? {02}{03}n of the {02}{0B}E has surrounded my castle and seems to be up to something...
+@5761.2
+{02}{03}n of the {02}{0B}E has set fire to our castle!
+@5763
+What?! The enemy set fire to the castle?! We must hold the main bailey at all costs!
+@5763.1
+Fire! Curse them, what despicable villains...!
+@5763.2
+What, fire in the castle town?! So {02}{02}4 has finally run out of patience... The enemy means business this time...
+@5764
+The enemy set fire to the castle? We must hold the main bailey at all costs!
+@5764.1
+Ugh, they burn us out!! How despicable...
+@5764.2
+What, fire in the castle town?! So {02}{02}4 has finally run out of patience... The enemy means business this time...
+@5765
+{02}{03}n of the {02}{0B}E has surrounded our {02})N and is up to something, you say...!
+@5765.1
+{02}{03}n of the {02}{0B}E has surrounded our {02})N and is up to something, you say...!
+@5765.2
+It seems {02}{03}n of the {02}{0B}E has set fire to our {02})N!
+@5767
+What, the enemy has used fire?! {02}{02}4's army must have a clever head in it. Send a fast rider at once and tell {02}{03}4 to be on guard!
+@5767.1
+Fire, is it... {02}{02}4 is no fool...
+@5768
+The enemy set fire to the castle?! {02}{02}4's army must have a clever head in it. Send a fast rider at once and tell {02}{03}4 to be on guard!
+@5768.1
+Fire, is it... {02}{02}4 is quite capable...
+@5770
+It seems Lord {02}{03}4 has set fire to the minor power's base under siege.
+@5770.1
+I hear Lord {02}{03}4 has set fire to the minor power's base under siege.
+@5770.2
+It seems Lord {02}{03}4 has set fire to the minor power's base under siege.
+@5770.3
+I hear Lord {02}{03}n has set fire to the minor power's base under siege.
+@5771
+It seems Lord {02}{03}4 has set fire to the minor power's base under siege.
+@5771.2
+It seems Lord {02}{03}4 has set fire to the minor power's base under siege.
+@5773
+Come now, don't hold back. Drink your fill tonight.
+@5773.1
+Well, well, if it isn't {02}{02}4! Welcome, after such a long journey.
+@5773.2
+Come now, no need to hold back. Forget your duties tonight and drink till dawn.
+@5774
+Come now, don't hold back. Do drink your fill tonight.
+@5774.1
+Well, well, if it isn't {02}{02}4! Welcome, after such a long journey.
+@5774.2
+Come now, no need to hold back. Forget your duties tonight and let us all drink till dawn.
+@5775
+I have taken up fortune-telling of late. Let me read your fortunes... Hm! Wh-what's this... It says there is a traitor among those here today!
+@5775.1
+I have taken up fortune-telling of late. Shall I read your fortunes... Hm! Wh-what's this... It says there is a traitor among those here today!
+@5776
+Spoiling a feast with such talk! I've no interest in your silly fortunes, you fool!
+@5776.1
+A traitor...? There must be some mistake.
+@5776.2
+Surely not... There must be some mistake.
+@5777
+Forgive me... That was foolish of me. Let us forget it and enjoy our drink.
+@5778
+The truth is, when I saw our lord the other day, he was furious, saying you were plotting treason...
+@5778.1
+The truth is, when I saw our lord the other day, he was furious, saying you were plotting treason...
+@5779
+Surely not... There must be some mistake.
+@5779.1
+Surely not... There must be some mistake.
+@5780
+I told him as much, and at last he understood it was slander spread by the enemy.
+@5780.1
+I told him as much, and at last he understood it was slander spread by the enemy.
+@5781
+Oh, was that so... I don't know how to thank you. Had I gone to him unawares, he might have cut me down on the spot.
+@5781.1
+Oh, was that so... I don't know how to thank you. Had I gone to him unawares, he might have cut me down on the spot.
+@5782
+I told him as much, but he would not listen... You had best be careful if our lord summons you.
+@5782.1
+I told him as much, but he would not listen... You would do well to be careful if our lord summons you.
+@5783
+Thank you for the warning.
+@5783.1
+I thank you for the warning.
+@5784
+By the way, I heard a little rumour: {02}{03}n, lord of {02}{03}N, seems unhappy with the present situation.
+@5784.1
+By the way, I heard a little rumour: {02}{03}n, lord of {02}{03}N, is said to be unhappy with the way things are.
+@5784.2
+By the way, I heard a little rumour: {02}{03}n, lord of {02}{03}N, seems unhappy with the present situation.
+@5784.3
+By the way, I heard a little rumour: {02}{03}n, lord of {02}{03}N, seems unhappy with the way things are.
+@5785
+I see... Then with some skill we might lure them into our camp.
+@5785.1
+I see... Then with some skill we might lure them into our camp.
+@5785.2
+Oh? Then with the right offer, they might defect to our side.
+@5785.3
+Oh my, then with the right offer, they might defect to our side.
+@5786
+Indeed. It may be worth a try.
+@5786.1
+Yes. It may be worth a try.
+@5787
+By the way, I heard a little rumour: {02}{03}n of {02}{03}N seems unhappy with the present situation.
+@5787.1
+By the way, I heard a little rumour: {02}{03}n of {02}{03}N is said to be unhappy with the present situation.
+@5787.2
+By the way, I heard a little rumour: {02}{03}n of {02}{03}N seems unhappy with the present situation.
+@5787.3
+By the way, I heard a little rumour: {02}{03}n of {02}{03}N seems unhappy with the present situation.
+@5788
+Oho... Then with the right offer, we might poach them for our clan.
+@5788.1
+I see... Then with the right offer, we might poach them for our clan.
+@5788.2
+Oh? Then with the right offer, we might poach them.
+@5788.3
+Oh my, then with the right offer, we might poach them.
+@5790
+By the way, I heard a little rumour: {02}{03}n, lord of {02}{03}N, was attacked by someone and wounded...
+@5790.1
+By the way, I heard that {02}{03}n, lord of {02}{03}N, was attacked by someone and wounded.
+@5791
+What, Lord {02}{03}4...
+@5791.1
+Oh no, Lord {02}{03}4...
+@5792
+It seems it was nothing serious. What a pity... I mean, what a relief.
+@5792.1
+It seems it was nothing serious. What a pity... I mean, what a relief.
+@5793
+I have come today to ask that {02}{03}n of {02}{03}N be sent to serve at my castle.
+@5794
+Shall I grant {02}{04}4's request and reassign {02}{03}n...
+@5794.1
+Perhaps I shall grant {02}{04}4's request and reassign {02}{03}n...
+@5794.2
+At the request of {02}{04}n, I shall be reassigned to Lord {02}{04}4.
+@5794.3
+At the request of {02}{04}n, {02}{03}n will be reassigned to Lord {02}{04}4.
+@5795
+I cannot grant {02}{04}4's wish.
+@5795.1
+I cannot grant {02}{04}4's wish.
+@5795.2
+{02}{04}n's request is rejected.
+@5796
+If {02}{02}4 wishes it so earnestly, I can hardly refuse.
+@5796.1
+If {02}{02}4 wishes it so earnestly, I shall allow it.
+@5797
+Oh, you grant my request? Truly worthy of Lord {02}{02}4. I am most grateful!
+@5797.1
+Oh, you grant my request? Truly worthy of Lord {02}{02}4. I am most grateful.
+@5798
+Even for you, {02}{02}4, this is one wish I cannot grant.
+@5798.1
+Even for you, {02}{02}4, this is one wish I cannot grant.
+@5799
+I see. Then there is no point in staying longer. I take my leave.
+@5799.1
+I see. Then there is no point in staying longer. I take my leave.
+@5800
+I have come today with a matter to put before Lord {02}{02}4... I believe we should make a non-aggression pact with the {02}{0B}E.
+@5800.1
+I have come today with a matter to put before Lord {02}{02}4. I believe we should make a non-aggression pact with the {02}{0B}E.
+@5801
+A non-aggression pact with the {02}{0B}E is not a bad idea. Shall I leave it to {02}{03}4...
+@5801.1
+A non-aggression pact with the {02}{0B}E is not a bad idea. Perhaps I shall leave it to {02}{03}4...
+@5801.2
+Lord {02}{03}4 will be sent as envoy to make a non-aggression pact with the {02}{0B}E.
+@5802
+We have no need of a non-aggression pact with the {02}{0B}E...
+@5802.1
+I see no need for a non-aggression pact with the {02}{0B}E...
+@5802.2
+Lord {02}{03}4's proposal is rejected.
+@5803
+Your proposal makes sense, {02}{02}4. I leave the matter in your hands. I count on you.
+@5803.1
+Your proposal makes sense, {02}{02}4. I leave the matter in your hands. I count on you.
+@5804
+Thank you for hearing me. I shall surely secure a non-aggression pact with the {02}{0B}E!
+@5804.1
+Thank you for hearing me. I shall surely conclude a non-aggression pact with the {02}{0B}E.
+@5805
+Well, thanks to {02}{03}n's negotiations, it seems we have a non-aggression pact with the {02}{0B}E.
+@5805.1
+Oh my, thanks to {02}{03}n's negotiations, it seems we have a non-aggression pact with the {02}{0B}E.
+@5805.2
+Good news, my lord! Thanks to Lord {02}{03}n's negotiations, we have a non-aggression pact with the {02}{0B}E!
+@5806
+We have no need of a non-aggression pact with the {02}{0B}E.
+@5806.1
+We have no need of a non-aggression pact with the {02}{0B}E.
+@5807
+I see... Then I take my leave.
+@5807.1
+I see... Then I take my leave.
+@5808
+I have come today with a matter to put before you, my lord. We should break free of the {02}{0B}E. I beg you, make the decision!
+@5808.1
+I have come today with a matter to put before you, my lord. We should break free of the {02}{0B}E. I beg you, make the decision!
+@5809
+Independence from the {02}{0B}E... Perhaps the time has come...
+@5809.1
+Independence from the {02}{0B}E... Perhaps the time has come...
+@5809.2
+Accepting Lord {02}{03}n's proposal, we declare independence from the {02}{0B}E.
+@5810
+The time for independence has not yet come...
+@5810.1
+The time for independence has not yet come...
+@5811
+Well said, {02}{02}4! Let us send an envoy to the {02}{0B}E at once and declare our independence.
+@5811.1
+Well said, {02}{02}4! Let us send an envoy to the {02}{0B}E at once and declare our independence.
+@5812
+I am honoured by your bold decision. Now the world will know us as an independent daimyo.
+@5812.1
+I am honoured by your bold decision. Now the world will know us as an independent daimyo.
+@5813
+From this day, we are independent of the {02}{0B}E!
+@5813.1
+From this day, we are independent of the {02}{0B}E!
+@5813.2
+We have declared independence from the {02}{0B}E!
+@5814
+I understand what you say, {02}{02}4. But the time has not yet come.
+@5814.1
+I understand what you say, {02}{02}4. But the time has not yet come.
+@5815
+I spoke out of turn. I shall serve all the harder, so that the day of independence may come all the sooner...
+@5815.1
+You will not understand... Let me say only this: I am not alone in this view...
+@5816
+I spoke out of turn. I shall serve all the harder, so that the day of independence may come all the sooner.
+@5817
+I have come today with a request, my lord. Would you let my corps target the {02}{0B}E?
+@5818
+Shall I change the {02}{03}s target to the {02}{0B}E...
+@5818.1
+Perhaps I shall change the {02}{03}s target to the {02}{0B}E...
+@5818.2
+Accepting Lord {02}{03}n's proposal, the {02}{03}s target becomes the {02}{0B}E.
+@5819
+There is no need to change the target...
+@5819.1
+There is no need to change the target...
+@5820
+If {01}C{0B}{00} says that much, there must be a good plan behind it. I shall await good news.
+@5820.1
+If {01}C{0B}{00} says that much, there must be a good plan behind it. I shall await good news.
+@5821
+Oh, you grant my request? I am deeply grateful. I shall soon break the strength of the {02}{0B}E, you will see.
+@5821.1
+Oh, you grant my request? I am deeply grateful. I shall soon break the strength of the {02}{0B}E, you will see.
+@5822
+Listen: {02}{02}s has a task that only {02}{02}s can do. Do you think you can be a corps commander without grasping that? Come back when you do!
+@5822.1
+{02}{02}s has a task that only {02}{02}s can do. Do you think you can be a corps commander without grasping that?
+@5823
+Yes, forgive me... I shall try once more to understand Lord {02}{02}4's intent and strive to reach our target...
+@5823.1
+Forgive me... I shall try once more to understand Lord {02}{02}4's intent and strive to reach our target...
+@5824
+My lord, I have come today with a heartfelt request. I beg you, give me Princess {02}{03}4's hand in marriage!!
+@5825
+Shall I give Princess {02}{03}4 in marriage to {02}{04}4...
+@5825.1
+Perhaps I shall give Princess {02}{03}4 in marriage to {02}{04}4...
+@5825.2
+Princess {02}{03}4 will marry {02}{04}4.
+@5826
+{02}{04}4 is not the one {02}{03}4 should marry...
+@5826.1
+{02}{04}4 is not the one {02}{03}4 should marry...
+@5826.2
+Lord {02}{04}n's request is rejected.
+@5827
+Nothing could please me more. {02}{02}4 can make {02}{03}4 happy. From now on you are kin, and must be a model for all our vassals!
+@5827.1
+Nothing could please me more. {02}{02}4 can make {02}{03}4 happy. From now on you are kin: be a model for all our vassals.
+@5828
+Oh, truly, my lord! I, {02}{01}4, am overjoyed! I shall make the princess happy, and serve in a way worthy of the family!
+@5829
+Even for you, {02}{02}4, this I cannot... Tell me, {02}{02}4, are you not mistaken about something...?
+@5830
+S-such words... You mean I cannot make the princess happy... Ugh, I take my leave!
+@5831
+Oh, Lord {02}{03}4, welcome to our castle! So Lord {02}{02}4 has kept the promise...
+@5831.1
+Lord {02}{03}4, welcome to our castle! So Lord {02}{02}4 has kept the promise...
+@5832
+Oh, orders have come from Lord {02}{02}4! Now we can attack the {02}{0B}E.
+@5832.1
+Orders have come from Lord {02}{02}4! Now we can attack the {02}{0B}E.
+@5833
+{01}C{0B}{00} and all who served shall be rewarded.
+@5834
+Ah, we are deeply grateful. Spurred on by this, we shall all serve all the harder.
+@5834.1
+Ah, we are deeply grateful. Spurred on by this, we shall all serve all the harder.
+@5835
+From now on I lead the {02}{0B}E! Support me, all of you, so that our clan may prosper further.
+@5835.1
+From now on I lead the {02}{0B}E! I count on you all, so that our clan may prosper further.
+@5836
+What? {02}{03}4 has retired and {02}{04}4 has taken over? This may make them a tougher foe...
+@5836.1
+What? {02}{03}4 has retired and {02}{04}4 has the headship? We must not let our guard down...
+@5837
+What? {02}{03}4 has retired and {02}{04}4 has taken over? Hahaha, the {02}{0B}E is finished. It is falling apart on its own.
+@5837.1
+What? {02}{03}4 has retired and {02}{04}4 has the headship? Well, the {02}{0B}E is finished. Falling apart on its own...
+@5838
+Thanks to Lord {02}{03}n's efforts, {02}{04}N of the {02}{04}r seems to have decided to defect to us.
+@5838.1
+Thanks to Lord {02}{03}n's efforts, {02}{04}N of the {02}{04}r seems to have decided to defect to us.
+@5838.2
+Thanks to Lord {02}{03}n's efforts, {02}{04}N of the {02}{04}r seems to have decided to defect to us.
+@5839
+We have made a marriage alliance with the {02}{02}r. Now the prosperity of both houses is assured.
+@5839.1
+We have made a marriage alliance with the {02}{02}r. Now the prosperity of both houses is assured.
+@5840
+My castle's yield is too small to persuade this one to join us.
+@5840.1
+My castle's yield is too small to persuade this one to join us.
+@5840.2
+Our castle's yield is too small to persuade this officer to join us.
+@5841
+Shall I choose the name myself...
+@5841.2
+Would you like to choose the name yourself?
+@5842
+Shall I choose the reading myself...
+@5842.2
+Would you like to choose the reading yourself?
+@5843
+Let me suggest names as they come to mind...
+@5843.1
+Let me suggest names as they come to mind...
+@5843.2
+Let me suggest names as they come to mind.
+@5844
+Shall I choose this name...
+@5844.1
+Shall I choose this name...
+@5844.2
+This name is decided.
+@5845
+There seems to be a princess with this name already. Is that all right...
+@5845.1
+There seems to be a princess with this name already. Is that all right...
+@5845.2
+A princess with this name already exists. Is that all right?
+@5846
+I cannot leave her without a name...
+@5846.1
+I cannot leave her without a name...
+@5846.2
+Please choose the princess's name.
+@5847
+I cannot leave the name without a reading...
+@5847.1
+I cannot leave the name without a reading...
+@5847.2
+Please choose the reading of the princess's name.
+@5848
+What a joyous occasion! I hear a Shinto priest can perform a purification. For my child {02}{03}4's sake, shall I ask for one... (Gold %d)
+@5848.1
+What a joyous occasion! I hear a Shinto priest can perform a purification. For my child {02}{03}4's sake, shall I ask for one... (Gold %d)
+@5848.2
+{01}C{0D}{00}, to celebrate {02}{03}4, a Shinto priest can perform a purification. Why not ask for one? (Gold %d)
+@5848.3
+{01}C{0D}{00}, to celebrate {02}{03}4, a Shinto priest can perform a purification. Why not ask for one? (Gold %d)
+@5848.4
+{01}C{0C}{00}, to celebrate Lady {02}{03}4, a Shinto priest can perform a purification. Shall we ask for one? (Gold %d)
+@5848.5
+To celebrate Lady {02}{03}4, a Shinto priest can perform a purification. Shall we ask for one? (Gold %d)
+@5849
+Yes, {02}{03}4 is our clan's treasure. Let us ask for it.
+@5849.1
+Yes, {02}{03}4 is our clan's treasure. Let us ask for it.
+@5850
+Hmmm, this child is...
+@5850.1
+Purify, cleanse... protect, and bless...
+@5851
+...possessed by an evil spirit, it seems... I shall drive it out at once.
+@5851.1
+Rest easy. Every evil spirit upon the princess has been driven out.
+@5852
+What, an evil spirit? I'll drive it out myself! Here, give me that wand and those robes!
+@5853
+Yes, the princess seems blessed with a strange power. This child will surely live strong through these troubled times.
+@5853.1
+Oh, the purification is done. Listen, {02}{02}4: this may be the last thing I can do for you as a parent. From now on, rely on your own strength.
+@5854
+Oh, the princess seems blessed with a strange power. This child will surely live strong through these troubled times.
+@5854.1
+Oh, the purification is over. {02}{02}4, this may be the last thing I can do for you as a parent. From now on, believe in yourself and live.
+@5855
+Yes, the princess shines all the brighter. Now this child and our Oda clan will be safe for all generations!
+@5856
+Thank you, Father. I want to become someone strong and kind, like you...
+@5856.1
+You even had me purified... I am truly blessed. From today, let me repay you, Father, by helping our clan flourish.
+@5856.2
+A purification just for me... In this age when parents and siblings hate one another, I am glad to be your daughter, Father.
+@5857
+Shall I recruit them...
+@5857.1
+Shall I recruit them...
+@5857.2
+We will recruit.
+@5858
+Perhaps I shall not recruit for now...
+@5858.1
+Perhaps I shall not recruit for now...
+@5858.2
+We will not recruit.
+@5859
+This season's domestic report for my castle. Let me see...
+@5859.1
+This season's domestic report for my castle. Let me look at it.
+@5859.2
+Here is this season's domestic report for our castle. Please look it over.
+@5860
+The supplies report, then.
+@5860.1
+The supplies report, then.
+@5860.2
+Here is the supplies report.
+@5861
+Let me look at the supplies report...
+@5861.1
+Let me look at the supplies report...
+@5861.2
+View the supplies report.
+@5862
+Let me see what the magistrates have achieved...
+@5862.1
+Let me see what the magistrates have achieved...
+@5862.2
+View the magistrates' results.
+@5863
+What the magistrates have achieved, then.
+@5863.1
+What the magistrates have achieved, then.
+@5863.2
+Here are the magistrates' results.
+@5864
+I shall check it, then move on to other affairs...
+@5864.1
+I shall check it, then move on to other affairs.
+@5864.2
+Have you finished reviewing it?
+@5865
+Shall I hire the above...
+@5865.1
+Shall I hire the above...
+@5865.2
+We will hire the above.
+@5866
+Shall I choose them one by one...
+@5866.1
+Shall I choose them one by one...
+@5866.2
+You may choose them one by one.
+@5867
+This castle cannot afford to hire so many ninja...
+@5867.1
+This castle cannot afford to hire so many ninja...
+@5867.2
+We do not have the gold to hire so many ninja.
+@5868
+Let me choose which ninja to hire again.
+@5868.1
+Let me choose which ninja to hire again.
+@5868.2
+Please choose which ninja to hire again.
+@5869
+Taking advantage of unrest in Izu, {02}{01}n destroyed the Horigoe Kubo and took the whole province. The next target: Omori Fujiyori, lord of {02}{01}N...
+@5870
+At the news of your father's death, I feel as if I had lost an old friend. I could not stay still, and so I hurried here.
+@5871
+I am grateful. I am sure Father is glad of it in the next world...
+@5872
+Please do not lose heart... Should the Omori clan ever be in danger, I, {02}{01}4, will come to your aid.
+@5873
+Your words are most welcome. Lord {02}{01}4, if you are ever in peril, let me know at any time. I shall come at once with a troop.
+@5874
+Having won Fujiyori's trust with constant shows of friendship, {02}{01}4 now set out to take {02}{01}N...
+@5875
+Oh, Lord {02}{01}4, is it not? What brings you here today?
+@5876
+The fact is, I went hawking on my lands, and many deer and boar fled into yours... I would like to drive them back onto my lands.
+@5877
+And so I would ask your leave to send my beaters onto your lands...
+@5878
+If that is the case, I have no objection. Please do as you wish...
+@5879
+I am most grateful for your permission.
+@5880
+With Fujiyori's leave, {02}{01}4 disguised several hundred soldiers as beaters and sent them onto Fujiyori's lands...
+@5881
+Heh heh, that fool Fujiyori is surely snoring away by now. Men! Hold nothing back. Run wild!
+@5882
+Wh-what!? What is this!? Why are soldiers running riot in my castle!? ...So this is {02}{01}4's scheme! I have been tricked...
+@5883
+Caught off guard, Fujiyori fled who knows where, and {02}{01}4 took {02}{01}N with ease. {02}{01}4's new battles were about to begin...
+@5884
+{02}{01}n had set up {02}{07}n as shogun and held the real power in the shogunate. But {02}{01}4 had taken to mountain asceticism, refused to marry, and had no children...
+@5885
+Well, well, Lord {02}{01}4. Welcome to my humble home. I have little to offer, but please make yourself at ease...
+@5886
+Thank you kindly... By the way, who is the child beside you? What a charming child...
+@5887
+My youngest son. He is three this year. A mischievous one, I fear: even I have trouble with him at times... Hahaha.
+@5888
+What would you say... Would you give that child to me? As you know, I have no children. I have no wish to marry, but I want an heir.
+@5889
+In the 2nd month of 1491, the youngest son of the former regent Kujo Masamoto thus became {02}{01}4's adopted son: the future {02}{02}n.
+@5890
+My lord... I must speak with you. Since you adopted Lord {02}{02}4, there is discontent in the household. They ask why you did not adopt from the {02}{01}2 clan...
+@5891
+...Then who do you think would be suitable?
+@5892
+Lord Rokuro, son of the late Hosokawa Yoshiharu, would be a good choice... He is said in the household to be very able.
+@5893
+I leave it all to you. I am busy with my ascetic training. Well then, I count on you.
+@5894
+In the 5th month of 1503, Rokuro, son of Hosokawa Yoshiharu, thus became {02}{01}4's adopted son: the future {02}{03}n.
+@5895
+Soon after, {02}{01}4 also adopted {02}{04}4, son of Hosokawa Masaharu. And so began a struggle over who would succeed {02}{01}4...
+@5896
+My lord... I have heard a sinister rumour. The faction backing Lord {02}{02}4 is after your life...
+@5897
+Nonsense. Those fellows could never kill me. No need to worry. Well, I am off to my ascetic training.
+@5898
+...I hope nothing happens...
+@5899
+And so the struggle for the headship of the {02}{01}2 clan grew ever more tangled. What fate awaited {02}{01}4...?
+@5900
+The {02}{01}2 clan, one of the Four Houses, carried great weight in the shogunate. Now a struggle for the headship was about to break out in the {02}{01}2 clan too...
+@5901
+My lord... I must speak with you.
+@5902
+About {02}{02}4 and {02}{03}4? Then I will not hear it.
+@5903
+Today you will hear me out! Breaking the custom that the eldest son inherits will bring strife to the house. You must not be swayed by {02}{04}4's honeyed words!
+@5904
+Silence! I said I will not hear it, and I will not! I have chosen {02}{03}4 as my heir! Withdraw!
+@5905
+...I take my leave.
+@5906
+Splendidly done, my lord. Now the {02}{01}2 clan should be secure.
+@5907
+But {02}{05}4 made no secret of being displeased. Left like this, might that not lead to rebellion?
+@5908
+On that point you need not worry. Arrangements have already been made...
+@5909
+I see. If you say so, I can rest easy. I leave everything to you.
+@5910
+And so the rift between {02}{01}4's faction, backing {02}{03}4, and {02}{05}4's faction, backing {02}{02}4, grew ever deeper...
+@5911
+{02}{01}n had become shogun with the backing of the Kanrei Hosokawa Masamoto, but was beaten by the forces of the former shogun {02}{04}n and now lived as a wanderer...
+@5912
+How are the troops coming along! At this rate {02}{04}4 will keep the shogunate he stole from me...
+@5913
+I hear {02}{06}n's army, which backs {02}{04}4, is weary of the long encampment. If you could be patient a little longer...
+@5914
+Just so. We are working to win over the daimyo around Kyoto, so please, a little while longer...
+@5915
+Hmmm... If you both say so, there is nothing for it. I shall wait...
+@5916
+Some time later, letters began to reach {02}{01}4 from all quarters, pledging to "side with Lord {02}{01}4"...
+@5917
+Well, {02}{02}4? Is the time right?
+@5918
+Yes. With so many won over, our victory seems certain.
+@5919
+Within the {02}{06}2 army too, discontent with the long encampment seems to be boiling over. If we are to strike, now is the time.
+@5920
+Good! Tell the whole army we march out at once to strike down the hateful {02}{04}4 and {02}{05}4! ...Cough, cough.
+@5921
+...? Lord {02}{01}4, what is the matter? ...Lord {02}{01}4!
+@5922
+{02}{01}4's army began its march on Kyoto. But {02}{01}4, its commander-in-chief, was suddenly struck down by illness. What would become of {02}{01}4...?
+@5923
+Since the Kiyosu Conference, which met to choose Oda Nobunaga's successor and divide the Oda lands, the rift between {02}{01}n and {02}{02}n had only grown deeper.
+@5924
+Determined to settle matters with {02}{02}4, {02}{01}4 worked tirelessly on every front, secured the ground, and then turned the army on {02}{05}N.
+@5925
+Wh-what is this army!? Am I seeing things?
+@5926
+Lord {02}{05}4... It is the 12th month. In this snow you can expect no aid from {02}{02}4. What do you say: will you surrender to me? You will be well treated, I assure you.
+@5927
+Hmmm... It is true that of late Lord {02}{02}4 has been rather cold toward me... Perhaps this is fate.
+@5928
+Then you will join our side? Splendid. I count on you from now on. ...Good, next is {02}{04}4!
+@5929
+Having made {02}{02}4's adopted son {02}{05}4 surrender, {02}{01}4 next turned the army on {02}{04}N.
+@5930
+Wh-what is going on!? Why is {02}{01}4's army here!?
+@5931
+Lord {02}{04}4, how long do you mean to keep Lord Sanboshi at {02}{04}N? Is that not against our agreement?
+@5932
+Grrrrr...
+@5933
+It was agreed that Lord Sanboshi would be moved to Azuchi. I have only come to see the agreement kept. Now, hand him over to us.
+@5934
+V-very well... I shall hand Sanboshi over to you.
+@5935
+So {02}{01}4 took custody of Sanboshi and made peace with {02}{04}4. And {02}{02}4 watched these moves from snowbound Echizen...
+@5936
+Grrr... {02}{01}4, making free while the snow keeps me pinned down... There's nothing for it. We march!
+@5937
+And so {02}{02}4 marched out of {02}{02}N while the snow still lay deep. The clash between {02}{01}4 and {02}{02}4 was at hand...
+@5938
+So our army in the field has been held up by the flooded rivers too...
+@5938.1
+It seems our army in the field has been held up by the flooded rivers too...
+@5938.2
+Our army in the field has been held up by the flooded rivers too!
+@5939
+The army besieging our castle must stop to rest for a while in this typhoon.
+@5939.1
+The army besieging our castle must stop to rest for a while in this typhoon.
+@5939.2
+The army besieging our castle will have to stop to rest for a while in this typhoon.
+@5940
+It seems some armies are held up by the typhoon.
+@5940.1
+It seems some armies are held up by the typhoon.
+@5940.2
+It seems some armies are held up by the typhoon.
+@5941
+Our army in the field cannot move because the typhoon has flooded the rivers...
+@5941.1
+Our army in the field cannot move because the typhoon has flooded the rivers?
+@5941.2
+It seems our army in the field cannot move because the typhoon has flooded the rivers.
+@5942
+Rivers flooded by a typhoon... There is no defying heaven...
+@5942.1
+Rivers flooded by a typhoon... We cannot advance like this.
+@5942.2
+Curses, a typhoon at a time like this... What a delay!
+@5943
+Rivers flooded by a typhoon... There is no defying heaven...
+@5943.1
+Rivers flooded by a typhoon... We cannot advance like this.
+@5943.2
+Honestly, a typhoon at a time like this? This is no joke!
+@5944
+It seems some of the troops we sent out have caught the epidemic too. What a nuisance...
+@5944.1
+It seems some of the troops we sent out have caught the epidemic too. What a nuisance...
+@5944.2
+It seems some of the troops we sent out have caught the epidemic too.
+@5945
+The epidemic must be spreading in the army besieging our castle too...
+@5945.1
+The epidemic must be spreading among the troops besieging our castle too...
+@5945.2
+The epidemic is surely spreading among the troops besieging our castle too.
+@5946
+The armies in the stricken area cannot escape the epidemic either...
+@5946.1
+The armies in the stricken area cannot escape the epidemic either...
+@5946.2
+The armies in the stricken area will not escape the epidemic either.
+@5947
+Our army in the field has lost men to the epidemic, dead or fallen out?
+@5947.1
+Our army in the field has lost men to the epidemic, dead or fallen out?
+@5947.2
+It seems our army in the field has lost men to the epidemic, dead or fallen out.
+@5948
+Some of the troops are down with the epidemic... That cannot be helped...
+@5948.1
+Some of the troops are down with the epidemic... We cannot fight at full strength like this...
+@5948.2
+Curses, beaten by a mere fever...! Is willpower not enough?!
+@5949
+Some of the troops are down with the epidemic... That cannot be helped...
+@5949.1
+Some of the troops are down with the epidemic... It will be hard to fight at full strength like this...
+@5949.2
+Honestly, a mere fever! Pull yourselves together!
+@5950
+Our army in the field is shaken and its morale is falling?! It was only an earthquake...!
+@5950.1
+Our army in the field is shaken and its morale is falling?! Over a mere earthquake...!
+@5950.2
+Our army in the field is shaken and its morale is falling!
+@5951
+The army besieging our castle seems to have lost morale in this earthquake too.
+@5951.1
+The army besieging our castle seems to have lost morale in this earthquake too.
+@5951.2
+The army besieging our castle seems to have lost morale in this earthquake too.
+@5952
+Some armies seem to have lost morale in this earthquake...
+@5952.1
+Some armies seem to have lost morale in this earthquake...
+@5952.2
+Some armies seem to have lost morale in this earthquake.
+@5953
+The earthquake has thrown our army's ranks into disorder and lowered its morale?!
+@5953.1
+The earthquake has thrown our army's ranks into disorder and lowered its morale?
+@5953.2
+It seems the earthquake has thrown our army's ranks into disorder and lowered its morale.
+@5954
+Losing their nerve over a mere earthquake... Calm down, curse you!
+@5954.1
+Losing their nerve over a mere earthquake... At this rate we won't beat even a foe we could beat...
+@5954.2
+Don't be shaken by a mere earthquake! Pathetic lot...
+@5955
+Losing your nerve over a mere earthquake... Calm down, now!
+@5955.1
+Losing their nerve over a mere earthquake... At this rate we won't beat even a foe we could beat...
+@5955.2
+You must not be shaken by a mere earthquake! How pathetic...
+@5956.2
+Come now, no need to hold back. Forget your duties tonight and drink till dawn.
+@5957
+I have come today to present {01}C{0D}{00} with our clan's ancestral treasure, the {02}32. Please do accept it.
+@5958
+I have come today to present {01}C{0D}{00} with %d horses. Please do accept them.
+@5959
+I have come today to present {01}C{0D}{00} with %d guns. Please do accept them.
+@5960
+I have come today to present {01}C{0D}{00} with %d gold. Please do accept it.
+@5961
+I have come today to present {01}C{0D}{00} with %d rice. Please do accept it.
+@5962
+I have come today to offer %d men of our village to work for {01}C{0D}{00}. Please put them to good use.
+@5963
+I would persuade them to join us, but my castle's yield is too small...
+@5963.1
+I would persuade them to join us, but my castle's yield is too small...
+@5963.2
+I would persuade them to join us, but our castle's yield is too small...
+@5964
+It seems Lord {02}{C9} of {02})N, suspected of treason, has been ordered by {02}{01}{99} to %s.
+@5964.1
+It seems Lord {02}{C9} of {02})N, suspected of treason, has been ordered by {02}{01}{99} to %s.
+@5964.2
+Lord {02}{C9} of {02})N, suspected of treason, has been ordered by {02}{01}{99} to %s.
+@5965
+Shall I target the {02}{0B}E? Though the {02}{0B}E has a marriage alliance with the {02}{0C}E...
+@5965.1
+Shall I target the {02}{0B}E? Though the {02}{0B}E has a marriage alliance with the {02}{0C}E...
+@5965.2
+We will target the {02}{0B}E. The {02}{0B}E has a marriage alliance with the {02}{0C}E. Is that all right?
+@5966
+Shall I target the {02}{0B}E? Though the {02}{0B}E has a non-aggression pact with the {02}{0C}E...
+@5966.1
+Shall I target the {02}{0B}E? Though the {02}{0B}E has a non-aggression pact with the {02}{0C}E...
+@5966.2
+We will target the {02}{0B}E. The {02}{0B}E has a non-aggression pact with the {02}{0C}E. Is that all right?
+@5967
+Now, what to do... My points stand at {02}{BF}, it seems.
+@5967.1
+Now, what shall I do... My points stand at {02}{BF}, it seems.
+@5967.2
+{01}C{0C}{00}, please give your orders to {02}{02}N. Your points stand at {02}{BF}.
+@5968
+Shall I give orders to the castles of %s... My points stand at {02}{BF}, it seems.
+@5968.1
+Shall I give orders to the castles of %s... My points stand at {02}{BF}, it seems.
+@5968.2
+You can give orders to the castles of %s. {01}C{0C}{00}'s points stand at {02}{BF}.
+@5971
+Save the current settings and close the Officer Editor.
+@5972
+Cancel the Officer Editor.
+@5973
+Discard the data being created and return to the officer info screen. Are you sure?
+@5974
+Save the current settings and close the Castle Editor.
+@5975
+Cancel the Castle Editor.
+@5976
+Discard the data being created and return to the castle info screen. Are you sure?
+@5977
+Change the princess's portrait.
+@5978
+Save the current settings and close the Princess Editor.
+@5979
+Cancel the Princess Editor.
+@5980
+Discard the data being created and return to the princess info screen. Are you sure?
+@5981
+If it is for {01}C{0C}{00}, so be it. I give it gladly.
+@5981.1
+If it is for {01}C{0C}{00}, so be it. I give it gladly.
+@5981.2
+If it is for {01}C{0C}{00}, it cannot be helped. I give it gladly.
+@5982
+Just like {01}C{0B}{00}. I am deeply grateful for your kindness. I shall not let the {02}32 go to waste.
+@5982.1
+Just like {01}C{0B}{00}. I am deeply grateful for your kindness. I shall not let the {02}32 go to waste.
+@5982.2
+Just like {01}C{0B}{00}. A splendid spirit! I shall not let the {02}32 go to waste.
+@5982.3
+Just like {01}C{0B}{00}. A splendid spirit! I shall not let the {02}32 go to waste.
+@5983
+I'll be taking that treasured {02}32 of yours. It suits {02}{01}n far better than you, hahaha.
+@5983.1
+I'll be taking that treasured {02}32 of yours. It suits {02}{01}n far better than you, ohohoho.
+@5984
+Grr, {02}{02}4, curse you... I will get the {02}32 back into {01}C{07}{00} hands, you'll see!
+@5984.1
+Ugh, {02}{02}4, curse you... I will get the {02}32 back into {01}C{07}{00} hands, you'll see!
+@5985
+I have had enough of {02}{02}n. I shall take this {02}32 and go my own way. Farewell.
+@5985.1
+I have had enough of {02}{02}n. I shall take this {02}32 and go my own way. Farewell.
+@5986
+To treat your own father like this... Ungrateful wretch! I won't be satisfied unless I take the {02}32 with me.
+@5986.1
+To treat your own mother like this... It does not pay to live long. I cannot accept this unless I take the {02}32 with me.
+@5986.2
+To banish your own son... What a fearsome parent. I shall take the {02}32 and make a new life.
+@5986.3
+To banish your own daughter... I am glad to be rid of this house. I shall take the {02}32 and make a new life.
+@5986.4
+To banish your elder brother... What a fearsome brother you are. I shall take the {02}32 and make a new life.
+@5986.5
+To banish your elder brother... What a fearsome sister you are. I shall take the {02}32 and make a new life.
+@5986.6
+To banish your elder sister... It is inhuman! I shall take the {02}32 and make a new life.
+@5986.7
+To banish your elder sister... What a frightening person you are. I shall take the {02}32 and make a new life.
+@5986.8
+To banish your younger brother... Brother, you have no heart. I shall take the {02}32 and make a new life.
+@5986.9
+To banish your younger brother... Sister, you have no heart. I shall take the {02}32 and make a new life.
+@5986.10
+To banish your younger sister... Brother, have you no heart at all? I shall take the {02}32 and make a new life.
+@5986.11
+To banish your younger sister... Sister, are you even human? I shall take the {02}32 and make a new life.
+@5986.12
+Casting aside someone as loyal as me... Then I shall take the {02}32.
+@5986.13
+Banishing me is too much! After such cruel treatment, surely no one can blame me for taking the {02}32.
+@5986.14
+If you truly mean to banish me, I shall take the {02}32. I will pray for Lord {02}{02}4's good health from the road.
+@5986.15
+Casting people aside like tools, so easily... Truly, one who aims to rule the realm is different. Then you will have no need of this {02}32.
+@5986.16
+B-but why? Have I failed in some way...? After this, I cannot accept it unless I take the {02}32 with me.
+@5987
+You work me to the bone, then banish me once I'm of no use? Merciless! I cannot accept this, so I shall take the {02}32.
+@5987.1
+You refuse to recognise my deeds and simply banish me... You are a demon. I cannot accept this, so I shall take the {02}32.
+@5987.2
+Then I take my leave. We shall not meet again. I shall take the {02}32 and make a new life.
+@5987.3
+No one is more loyal than I, and yet... Lord {02}{02}4, are your eyes clouded? Then you will have no need of this {02}32.
+@5987.4
+Wh-what is this... This will be the ruin of the clan! After this, I cannot accept it unless I take the {02}32 with me.
+@5988
+I regret the cut to my fief, but it is for {01}C{0C}{00}. I shall bear it.
+@5988.1
+I regret the cut to my fief, but it is for {01}C{0C}{00}. I shall bear it.
+@5989
+Thank you for understanding how your {01}C{02}{00} feels.
+@5989.1
+Thank you for understanding how your {01}C{02}{00} feels.
+@5989.2
+Thank you for understanding how I feel.
+@5989.3
+Thank you for understanding how I feel.
+@5990
+{01}C{0B}{00}, sorry, but I am busy just now. Let us talk another time.
+@5990.1
+{01}C{0B}{00}, I am sorry, but I am busy just now. Let us talk another time.
+@5990.2
+Thank you for coming, but I have no wish at all to speak with {01}C{0D}{00} now. Please leave.
+@5990.3
+Thank you for coming, but I have no wish at all to speak with {01}C{0D}{00} now. Please leave.
+@5990.4
+{01}C{0C}{00}, I am truly sorry, but I am receiving an important guest just now... Please, another time.
+@5991
+The growth of our troops must be left to take its natural course.
+@5991.1
+The growth of our troops must be left to take its natural course.
+@5991.2
+The growth of our troops can only be left to take its natural course.
+@5992
+Such treatment of a vassal who has served so faithfully... I have had enough of {02}{02}n. From now on I shall go my own way.
+@5992.1
+Such treatment of a vassal who has served so faithfully... I have had enough of {02}{02}n. From now on I shall go my own way.
+@5993
+Such treatment of a vassal who has served so faithfully... What on earth is {02}{02}n thinking?
+@5993.1
+Such treatment of a vassal who has served so faithfully... What on earth is {02}{02}n thinking?
+@5994.2
+These goods should make a fine gift for the {02}{02}v. Now I need only pray we get home safely.
+@5994.3
+It feels good to be out at sea after all. I want to reach Ming soon and start trading.
+@5994.5
+We too shall help the {02}{AB}{B1} in its conquest, little as our strength may be.
+@5995
+I shall choose the castle of the lord to invite from the list.
+@5995.1
+I shall choose the castle of the lord to invite from the list.
+@5995.2
+You can choose the castle of the lord to invite from the list.
+@5996
+I shall choose the castle of the lord to invite on the map.
+@5996.1
+I shall choose the castle of the lord to invite on the map.
+@5996.2
+You can choose the castle of the lord to invite on the map.
+@5997
+Selecting again clears the selection, as I recall. The gold set aside for rewards is now %d.
+@5997.1
+Selecting again clears the selection, as I recall. The gold set aside for rewards is now %d.
+@5997.2
+Selecting again clears the selection. The gold set aside for rewards is now %d.
+@5998
+Selecting again clears the selection, as I recall. The gold set aside for invitations is now %d.
+@5998.1
+Selecting again clears the selection, as I recall. The gold set aside for invitations is now %d.
+@5998.2
+Selecting again clears the selection. The gold set aside for invitations is now %d.
+@5999
+My points stand at {02}{BF}, it seems.
+@5999.1
+My points stand at {02}{BF}, it seems.
+@5999.2
+{01}C{0C}{00}'s points stand at {02}{BF}.
+@5500
+Shall I spread bad rumours in another castle to sow discord...?
+@5500.1
+Perhaps I should spread bad rumours in another castle to sow discord...
+@5500.2
+Let us spread bad rumours in another castle to sow discord.
+@5501
+There is no one to set at odds now...
+@5501.1
+There is no one to set at odds now...
+@5501.2
+There is no one to set at odds now, my lord.
+@5502
+Shall I advise Lord {02}{03}n on something...?
+@5502.1
+Perhaps I should advise Lord {02}{03}n on something...
+@5502.2
+Let us offer Lord {02}{03}n some advice.
+@5503
+There is nothing to report to Lord {02}{03}n now.
+@5503.1
+There is nothing to report to Lord {02}{03}n now.
+@5503.2
+There is nothing to report to Lord {02}{03}n, my lord.
+@5504
+Shall I advise Lord {02}{03}n on diplomacy...?
+@5504.1
+Perhaps I should advise Lord {02}{03}n on diplomacy...
+@5504.2
+Let us advise Lord {02}{03}n on diplomacy.
+@5505
+I have nothing in particular to say about diplomacy...
+@5505.1
+I have nothing in particular to say about diplomacy...
+@5505.2
+There is nothing in particular to advise on diplomacy, my lord.
+@5506
+Shall I advise Lord {02}{03}n to make a non-aggression pact with another clan...?
+@5506.1
+Perhaps I should advise Lord {02}{03}n to make a non-aggression pact with another clan...
+@5506.2
+Let us advise Lord {02}{03}n to make a non-aggression pact with another clan.
+@5507
+There is no one we should make a non-aggression pact with...
+@5507.1
+There is no one we should make a non-aggression pact with...
+@5507.2
+There is no daimyo clan we should make a non-aggression pact with, my lord.
+@5508
+Shall I advise Lord {02}{03}n to make a military alliance with another clan...?
+@5508.1
+Perhaps I should advise Lord {02}{03}n to make a military alliance with another clan...
+@5508.2
+Let us advise Lord {02}{03}n to make a military alliance with another clan.
+@5509
+There is no one we should make a military alliance with...
+@5509.1
+There is no one we should make a military alliance with...
+@5509.2
+There is no daimyo clan we should make a military alliance with, my lord.
+@5510
+Before shedding blood in vain, shall I advise Lord {02}{03}n to submit to another clan...?
+@5510.1
+Before shedding blood in vain, perhaps I should advise Lord {02}{03}n to submit to another clan...
+@5510.2
+Let us advise Lord {02}{03}n to submit to another clan.
+@5511
+For our clan's survival, shall I advise Lord {02}{03}n to serve a different daimyo...?
+@5511.1
+For our clan's survival, perhaps I should advise Lord {02}{03}n to serve a different daimyo...
+@5511.2
+Let us advise Lord {02}{03}n to serve a different daimyo clan.
+@5512
+There is no daimyo clan we should serve...
+@5512.1
+There is no daimyo clan we should serve...
+@5512.2
+There is no daimyo clan we should serve, my lord.
+@5513
+Serving another clan forever would shame us. Shall I advise Lord {02}{03}n to go independent...?
+@5513.1
+Serving another clan forever would shame us. Perhaps I should advise Lord {02}{03}n to go independent...
+@5513.2
+Let us advise Lord {02}{03}n to make our clan independent.
+@5514
+We serve no other clan...
+@5514.1
+We serve no other clan...
+@5514.2
+Our clan serves no other clan, my lord.
+@5515
+Shall I advise Lord {02}{03}n on running the corps...?
+@5515.1
+Perhaps I should advise Lord {02}{03}n on running the corps...
+@5515.2
+Let us advise Lord {02}{03}n on running the corps.
+@5516
+Nothing in particular to report on running the corps...
+@5516.1
+Nothing in particular to report on running the corps...
+@5516.2
+There is nothing in particular to report on running the corps, my lord.
+@5517
+Shall I have the corps' target changed...?
+@5517.1
+Perhaps I should have the corps' target changed...
+@5517.2
+Let us advise Lord {02}{03}n to change the corps' target.
+@5518
+Shall I ask for more castles for my corps...?
+@5518.1
+Perhaps I should ask for more castles for my corps...
+@5518.2
+Let us ask Lord {02}{03}n for more castles for our corps.
+@5519
+Our clan has no castle that could join my corps now...?
+@5519.1
+Our clan has no castle that could join my corps now...
+@5519.2
+There is no castle that could join our corps, my lord.
+@5520
+Shall I ask for officers to be sent over from other corps...?
+@5520.2
+Let us ask Lord {02}{03}n to send officers over from other corps.
+@5521
+Not a single officer worth taking from other corps...?
+@5521.1
+Not a single officer worth taking from other corps...
+@5521.2
+There is not a single officer worth taking from other corps, my lord.
+@5522
+Shall I say something to Lord {02}{03}n about his kin...?
+@5522.1
+Perhaps I should say something to Lord {02}{03}n about the kin...
+@5522.2
+Let us advise Lord {02}{03}n about the clan's kin.
+@5523
+Nothing in particular to report about the kin...
+@5523.1
+Nothing in particular to report about the kin...
+@5523.2
+There is nothing in particular to report about the kin, my lord.
+@5524
+Lord {02}{03}n's princess as my wife...
+@5524.1
+Let us propose a match between Lord {02}{03}n's princess and {01}C{0C}{00}.
+@5525
+I am related to Lord {02}{03}n...
+@5525.1
+{01}C{0C}{00} is related to Lord {02}{03}n.
+@5525.2
+I already have a wife...
+@5525.3
+But {01}C{0C}{00} already has a wife.
+@5525.4
+I am a woman...
+@5525.5
+{01}C{0C}{00} can hardly take a wife...
+@5526
+Shall I recommend an heir to Lord {02}{03}n...?
+@5526.1
+Perhaps I should recommend an heir to Lord {02}{03}n...
+@5526.2
+Let us recommend an heir to Lord {02}{03}n.
+@5527
+Lord {02}{03}n's heir has already been decided...
+@5527.1
+Lord {02}{03}n's heir has already been decided...
+@5527.2
+Lord {02}{03}n's heir has already been decided, my lord.
+@5528
+There is no heir to recommend to Lord {02}{03}n...
+@5528.1
+There is no heir to recommend to Lord {02}{03}n...
+@5528.2
+There is no heir to recommend to Lord {02}{03}n, my lord.
+@5529
+Shall I ask Lord {02}{03}n to retire...?
+@5529.1
+Perhaps I should ask Lord {02}{03}n to retire...
+@5529.2
+Let us ask Lord {02}{03}n to retire.
+@5530
+There is no one who can succeed Lord {02}{03}n...
+@5530.1
+There is no one who can succeed Lord {02}{03}n...
+@5530.2
+There is no one fit to succeed Lord {02}{03}n, my lord.
+@5531
+Shall I ask for our target castle to be changed...?
+@5531.1
+Perhaps I should ask for our target castle to be changed...
+@5531.2
+Let us advise a change of this castle's target castle.
+@5532
+My corps has no target...
+@5532.1
+My corps has no target...
+@5532.2
+Our corps has no target, my lord.
+@5533
+There is only one target castle...
+@5533.1
+There is only one target castle...
+@5533.2
+There is only one target castle, my lord.
+@5534
+Shall I ask to be transferred to another castle...?
+@5534.1
+Perhaps I should ask to be transferred to another castle...
+@5534.2
+Let us ask Lord {02}{03}n to transfer us to another castle.
+@5535
+There is no castle to move to now...
+@5535.1
+There is no castle to move to now...
+@5535.2
+There is no castle to move to now, my lord.
+@5536
+Shall I ask Lord {02}{03}n for more officers to defend this castle...?
+@5536.1
+Perhaps I should ask Lord {02}{03}n for more officers to defend this castle...
+@5536.2
+Let us ask Lord {02}{03}n for more officers to defend this castle.
+@5537
+There seems to be no officer worth bringing to this castle...
+@5537.1
+There seems to be no officer worth bringing to this castle...
+@5537.2
+There is not a single officer worth bringing to this castle, my lord.
+@5538
+Shall I get a grasp of the current situation...?
+@5538.1
+Perhaps I should get a grasp of the current situation...
+@5538.2
+Let us get a grasp of the current situation.
+@5539
+Shall I check on the daimyo clans...?
+@5539.1
+Perhaps I should look at information on the daimyo clans...
+@5539.2
+Let us look at information on the daimyo clans.
+@5540
+Shall I look at the daimyo information...?
+@5540.1
+Perhaps I should look at the daimyo information...
+@5540.2
+Let us look at the daimyo information.
+@5541
+Shall I look at the officer information...?
+@5541.1
+Perhaps I should look at the officer information...
+@5541.2
+Let us look at the officer information.
+@5542
+Shall I look at the corps information...?
+@5542.1
+Perhaps I should look at the corps information...
+@5542.2
+Let us look at the corps information.
+@5543
+Shall I look at the army information...?
+@5543.1
+Perhaps I should look at the army information...
+@5543.2
+Let us look at the army information.
+@5544
+There are no armies at all...
+@5544.1
+There are no armies at all...
+@5544.2
+There are no armies at all, my lord.
+@5545
+Shall I look at the princess information...?
+@5545.1
+Perhaps I should look at the princess information...
+@5545.2
+Let us look at the princess information.
+@5546
+There are no living princesses...
+@5546.1
+There are no living princesses...
+@5546.2
+There is not a single living princess, my lord.
+@5547
+Shall I look at the ninja hired by this castle...?
+@5547.1
+Perhaps I should look at the ninja hired by this castle...
+@5547.2
+Let us look at the ninja hired by this castle.
+@5548
+This castle has not hired a single ninja...
+@5548.1
+This castle has not hired a single ninja...
+@5548.2
+This castle has not hired a single ninja, my lord.
+@5549
+Shall I check on provinces and castles...?
+@5549.1
+Perhaps I should check on provinces and castles...
+@5549.2
+Let us look at information on provinces and castles.
+@5550
+Shall I look at the province information...?
+@5550.1
+Perhaps I should look at the province information...
+@5550.2
+Let us look at the province information.
+@5551
+Shall I look at the castle information...?
+@5551.1
+Perhaps I should look at the castle information...
+@5551.2
+Let us look at the castle information.
+@5552
+Shall I look at the minor powers information...?
+@5552.1
+Perhaps I should look at the minor powers information...
+@5552.2
+Let us look at the minor powers information.
+@5553
+Shall I look at court titles, posts and treasures...?
+@5553.1
+Perhaps I should look at court titles, posts and treasures...
+@5553.2
+Let us look at court titles, posts and treasures.
+@5554
+Shall I look at the court title information...?
+@5554.1
+Perhaps I should look at the court title information...
+@5554.2
+Let us look at the court title information.
+@5555
+Shall I look at the shogunate post information...?
+@5555.1
+Perhaps I should look at the shogunate post information...
+@5555.2
+Let us look at the shogunate post information.
+@5556
+Shall I look at the treasure information...?
+@5556.1
+Perhaps I should look at the treasure information...
+@5556.2
+Let us look at the treasure information.
+@5557
+Choose a castle lord to befriend.
+@5558
+You cannot befriend a castle lord now.
+@5559
+Choose a castle lord to give gold to.
+@5560
+There is no castle lord you can give gold to.
+@5561
+Choose a castle lord to publicise our clan to.
+@5562
+You cannot publicise our clan now.
+@5563
+Choose a castle lord to ask for money.
+@5564
+You cannot ask for money now.
+@5565
+Choose a castle lord to slander.
+@5566
+There is no castle lord you can slander now.
+@5567
+Choose a daimyo to promise to defect to.
+@5568
+You cannot promise to defect now.
+@5569
+Choose a castle lord to promise to betray their lord.
+@5570
+You cannot make a betrayal pact with a castle lord now.
+@5571
+Choose a castle lord to make a secret pact with to rise against their lord.
+@5572
+You cannot make a secret pact with a castle lord now.
+@5573
+Choose a castle lord to incite to rise against their lord.
+@5574
+You cannot incite a castle lord now.
+@5575
+Choose the castle of the officer to whom you will slander their castle lord.
+@5576
+You cannot slander a castle lord to an officer now.
+@5577
+Choose the castle of the officer to publicise our clan to.
+@5578
+You cannot publicise our clan to an officer now.
+@5579
+Choose the castle of the officer to poach.
+@5580
+You cannot persuade an officer to be poached now.
+@5581
+Choose daimyo to make a non-aggression pact with (up to 2).
+@5582
+You cannot make a non-aggression pact with another clan now.
+@5583
+Choose daimyo to make a military alliance with (up to 2).
+@5584
+You cannot make a military alliance with another clan now.
+@5585
+Choose a daimyo to encircle.
+@5586
+You cannot encircle an enemy daimyo now.
+@5587
+Choose daimyo to join the encirclement (up to 4).
+@5588
+You cannot form an encirclement now.
+@5589
+Choose a daimyo to make or break a marriage alliance with.
+@5590
+You cannot change marriage alliances with other clans now.
+@5591
+Choose a daimyo to threaten.
+@5592
+You cannot threaten another clan now.
+@5593
+Choose a daimyo to submit to.
+@5594
+You cannot submit to another clan now.
+@5595
+Choose a daimyo to end vassalage with.
+@5596
+You cannot end a vassalage now.
+@5597
+Choose a daimyo for the shogunate to issue a punitive order against.
+@5598
+You cannot have the shogunate issue a punitive order now.
+@5599
+Choose a daimyo to issue a punitive order against.
+@5600
+You cannot issue a punitive order now.
+@5601
+Choose a daimyo to appoint to a shogunate post.
+@5602
+You cannot appoint another clan to a shogunate post now.
+@5603
+Choose a daimyo for a ceasefire mediated by the shogunate.
+@5604
+You cannot have the shogunate mediate a ceasefire now.
+@5605
+Choose a castle to slander at Court.
+@5606
+You cannot spread lies at Court now.
+@5607
+Choose a daimyo to have named an enemy of the court.
+@5608
+You cannot have an enemy of the court named now.
+@5609
+Choose a daimyo for a ceasefire mediated by the Court.
+@5610
+You cannot have the Court mediate a ceasefire now.
+@5611
+Choose a minor power to give gold to.
+@5612
+You cannot aid the minor powers now.
+@5613
+Choose a minor power to tell lies to.
+@5614
+You cannot tell lies to the minor powers now.
+@5615
+Choose the castle to slander to the minor powers.
+@5616
+No castle can be slandered to the minor powers now.
+@5617
+Choose a minor power to make a non-aggression pact with.
+@5618
+You cannot make a non-aggression pact with the minor powers now.
+@5619
+Choose a minor power to threaten.
+@5620
+You cannot threaten the minor powers now.
+@5621
+Choose a daimyo to target with uprisings or raids.
+@5622
+You cannot ask the minor powers for uprisings or raids now.
+@5623
+Choose a minor power to incite to uprisings or raids.
+@5625
+Choose a minor power to ask to quell uprisings or raids.
+@5626
+You cannot ask the minor powers to quell anything now.
+@5627
+Choose pirates to ask to trade.
+@5628
+You cannot ask the pirates to trade now.
+@5629
+Choose a minor power to trade with.
+@5630
+You cannot trade with the minor powers now.
+@5631
+Choose castles to transport goods between (2 castles).
+@5632
+You cannot transport goods now.
+@5633
+Choose a castle to give orders to.
+@5634
+There are no castles to give orders to.
+@5635
+Choose a castle as the target of %s.
+@5636
+There are no castles that can be the target of %s.
+@5637
+Choose a corps or vassal daimyo to give orders to.
+@5638
+You cannot give orders to the corps now.
+@5639
+Choose a daimyo as the target of %s.
+@5640
+There are no daimyo that can be the target of %s.
+@5641
+Choose the corps number to form and the castles to assign to it.
+@5642
+Choose where to reassign officers from and to.
+@5643
+You cannot reassign officers now.
+@5644
+Choose castles to transfer (2 castles).
+@5645
+You cannot transfer now.
+@5646
+Choose a castle to change the lord of.
+@5647
+There are no castles whose lord can be changed now.
+@5648
+Choose a castle lord to appoint as new corps commander.
+@5649
+You cannot change corps commanders now.
+@5650
+Choose a castle lord to recommend an heir to.
+@5651
+Choose castles to invite to this castle (multiple choice).
+@5652
+You cannot invite lords of other castles now.
+@5653
+Choose a ninja band to hire from.
+@5654
+You cannot hire ninja now.
+@5655
+Choose the castle with the ninja to send into hiding.
+@5656
+You cannot move ninja now.
+@5657
+Choose a castle for the ninja to infiltrate.
+@5659
+Choose the castle whose lord to spread rumours of rebellion about.
+@5660
+You cannot spread rumours of a castle lord's rebellion now.
+@5661
+Choose the castle with the officer to assassinate.
+@5662
+You cannot assassinate an officer now.
+@5663
+Choose a castle to sabotage.
+@5664
+You cannot sabotage now.
+@5665
+Choose a castle to spread rumours in.
+@5666
+You cannot spread rumours against a castle lord now.
+@5667
+Choose a castle as the target of the rumours.
+@5668
+You cannot choose a target for rumours now.
+@5670
+You cannot propose a non-aggression pact with another clan now.
+@5671
+Choose daimyo to form a military alliance with (up to 2).
+@5672
+You cannot propose a military alliance with another clan now.
+@5674
+You cannot propose submission now.
+@5675
+Choose a daimyo as the target.
+@5676
+You cannot make proposals about the target now.
+@5677
+Choose castles to have added to our corps.
+@5678
+You cannot make proposals about the corps' castles now.
+@5681
+Choose a castle to be transferred to.
+@5682
+You cannot make proposals about your home castle now.
+@5683
+Shall I end this season's strategy here...?
+@5683.1
+Perhaps I should end this season's strategy here...
+@5683.2
+End this season's strategy here?
+@5684
+Finish giving march orders?
+@5685
+On second thoughts, shall I cancel the magistrate changes and restore things as they were...?
+@5685.1
+On second thoughts, perhaps I should cancel the magistrate changes and restore things as they were...
+@5685.2
+The magistrate changes will be cancelled and things restored as they were. Is that all right?
+@5686
+Shall I change the %s magistrate...?
+@5686.1
+Perhaps I should change the %s magistrate...
+@5686.2
+Change the %s magistrate?
+@5687
+Shall I leave the magistrate assignments to my people...?
+@5687.1
+Perhaps I should leave the magistrate assignments to my people...
+@5687.2
+Will you leave the magistrate assignments to me?
+@5688
+Shall I settle the magistrate assignments like this...?
+@5688.1
+Perhaps the magistrate assignments are fine like this...
+@5688.2
+Are the magistrate assignments acceptable like this?
+@5689
+On second thoughts, shall I cancel the transport and restore things as they were...?
+@5689.1
+On second thoughts, perhaps I should cancel the transport and restore things as they were...
+@5689.2
+The transport will be cancelled and things restored as they were. Is that all right?
+@5690
+Shall I transport %s...?
+@5690.1
+Perhaps I should transport %s...
+@5690.2
+Transport %s?
+@5691
+Shall I settle the goods to transport like this...?
+@5691.1
+Perhaps the goods to transport are fine like this...
+@5691.2
+Are the goods to transport acceptable like this?
+@5692
+On second thoughts, shall I cancel the changes and restore the old fiefs...?
+@5692.1
+On second thoughts, perhaps I should cancel the changes and restore the old fiefs...
+@5692.2
+The fief changes will be cancelled and things restored as they were. Is that all right?
+@5693
+Are the officer reassignments all right like this...?
+@5693.1
+Perhaps the officer reassignments are fine like this...
+@5693.2
+Are the officer reassignments acceptable like this?
+@5694
+Shall I transfer %s and %s...?\n(Troops will temporarily drop to 60％ of the maximum.)
+@5694.1
+Perhaps I should transfer %s and %s...\n(Troops will temporarily drop to 60％ of the maximum.)
+@5694.2
+Transfer %s and %s?\n(Troops will temporarily drop to 60％ of the maximum.)
+@5695
+Shall I make {01}C{18}{00} the new castle lord...?
+@5695.1
+Perhaps I should make {01}C{18}{00} the new castle lord...
+@5695.2
+Make {01}C{18}{00} the new castle lord?
+@5696
+Shall I entrust %s to {01}C{18}{00}...?
+@5696.1
+Perhaps I should entrust %s to {01}C{18}{00}...
+@5696.2
+Entrust %s to {01}C{18}{00}?
+@5697
+Is the placement of the shinobi all right like this...?
+@5697.1
+Perhaps the placement of the shinobi is fine like this...
+@5697.2
+Is the placement of the shinobi acceptable like this?
+@5698
+On second thoughts, shall I cancel the corps changes and restore things...?
+@5698.1
+On second thoughts, perhaps I should cancel the changes and restore things...
+@5698.2
+The corps changes will be cancelled and things restored as they were. Is that all right?
+@5699
+Shall I leave everything to the others and retire completely...?
+@5699.1
+I shall leave everything to the others and retire completely...
+@5699.2
+Will you retire from active service completely?
+@5700
+Even after stepping down, shall I lend a hand as an active officer...?
+@5700.1
+Even after stepping down, perhaps I should help as an active officer...
+@5700.2
+Will you stay on as an active officer after retiring and work for the clan?
+@5701
+This shinobi can be sent into hiding...
+@5701.1
+This shinobi can be sent into hiding...
+@5701.2
+This shinobi can be sent into hiding, my lord.
+@5702
+With these wounds, I cannot push this one now...
+@5702.1
+With these wounds, I cannot push this one now...
+@5702.2
+This shinobi is wounded and cannot move for now, my lord.
+@5703
+I have already given this shinobi orders...
+@5703.1
+I have already given this shinobi orders...
+@5703.2
+This shinobi has already been given orders, my lord.
+@5705
+We shall now begin the council.
+@5705.1
+The council begins. Is everyone here?
+@5705.2
+Well then, anyone with an opinion, speak.
+@5706
+We shall now begin the council.
+@5706.1
+The council begins. Is everyone here?
+@5706.2
+Well then, anyone with an opinion, please speak.
+@5707
+Shall I swap {02})N and {02}*N...?\n(Transferring temporarily cuts each officer's troops to 60％ of the current number.)
+@5707.1
+Perhaps I should swap {02})N and {02}*N...\n(Transferring temporarily cuts each officer's troops to 60％ of the current number.)
+@5707.2
+{02})N and {02}*N will be swapped.\n(Transferring temporarily cuts each officer's troops to 60％ of the current number.)
+@5708
+Shall I carry out the transfer like this...?
+@5708.1
+Perhaps I should carry out the transfer like this...
+@5708.2
+Carry out the transfer like this?
+@5709
+Shall I sell this treasure?
+@5709.1
+Perhaps I should sell this treasure.
+@5709.2
+Sell this treasure?
+@5710
+Shall I buy this treasure?
+@5710.1
+Perhaps I should buy this treasure.
+@5710.2
+Buy this treasure?
+@5711
+What shall I explain?
+@5712
+End the game explanation.
+@5713
+Welcome to the world of Nobunaga no Yabou: Soutenroku! Here is a brief introduction to how to play. Let us start with an overview of the game.
+@5714
+You become one of the daimyo or castle lords of the Warring States era and aim to unify the realm. Press the {1B}PA button here for a more detailed explanation.
+@5715
+You become one of the daimyo or castle lords of the Warring States era and aim to unify the realm.
+@5716
+You clear the game when you, or the daimyo clan you belong to, unifies the land. If you die with no retainers at all, the game is over.
+@5717
+You can play as a daimyo, corps commander or castle lord. A daimyo rules the whole clan, a corps commander several castles, a castle lord only their own castle. Lords obey their commander, commanders their daimyo.
+@5718
+As a castle lord under a daimyo, you can serve loyally and rise in rank, or bide your time and go independent as a daimyo. But independence needs an eye for the right moment.
+@5719
+Castle lords and corps commanders don't just obey orders; they can also make proposals to their commander or daimyo. Commanders propose to the daimyo at "council", where lobbying beforehand counts.
+@5720
+The game alternates between two phases: the "Strategy phase" and the "Military phase". In the Strategy phase you handle politics and diplomacy; in the Military phase, battles and more.
+@5721
+Phases turn over each season (3 months). In the Strategy phase you give orders at the start of the season. The Military phase runs in real time, and you can give orders every half month.
+@5722
+If you scheme in the Strategy phase and shake the loyalty of enemy officers, you may bring down a mighty foe from within. You can even outwit your allies to get ahead...
+@5723
+For anyone living in the Warring States era, battle is unavoidable. To unify the realm you must win many field battles and sieges in the Military phase. Send officers with high Leadership.
+@5724
+When certain conditions are met during the game, events occur: some tied to history, some to the seasons, and more. How many will you see?
+@5725
+In the Strategy phase you enrich your province, send ninja on plots and schemes, poach officers and conduct diplomacy. With your tongue alone you can even take an enemy castle.
+@5726
+Enrich the province, secure supplies and always be ready for battle: these are a castle lord's basics. Domestic affairs are run by appointing magistrates; able officers raise your strength efficiently.
+@5727
+Troops are replenished each season, but if you need troops quickly, use [Recruit]. It is also important to set the troop type each officer leads with [Organise] in advance.
+@5728
+Spying and plots with ninja are the very secret of victory. A capable ninja can sometimes do more than an officer. Stay on good terms with the ninja bands at all times.
+@5729
+With [Visit] and [Diplomacy] you can negotiate with other daimyo and castle lords: pay tribute to a great power to survive, threaten a weak one, or even urge someone to rebel...
+@5730
+In the Military phase you send armies out of your castles to fight field battles and sieges. If a defection or independence is ready, you can carry it out here.
+@5731
+Each castle can send out only one army. When and where to send it...? Always keep an eye on the neighbouring provinces so as not to miss a chance of victory.
+@5732
+When armies of different clans meet on the map, a field battle begins. A field battle is a contest of strength between units: push the enemy units back into their headquarters to win. Troop matchups are the key.
+@5733
+When an army besieging an enemy castle launches an [Assault], a siege battle begins. It lasts until the attackers take the main bailey or one side retreats. Unit morale greatly decides the outcome.
+@5734
+The map also has bases of minor powers; besiege and take one and you can make it subordinate. Each kind of minor power has its own traits. Win them over to widen your strategy.
+@5735
+Press the {1B}PK button to open the Options menu, where you can save, load and change settings. There are also explanations of each command and a feature for creating your own officers.
+@5736
+To stop playing, choose [Save Play Data] from the Options menu. If you quit without saving, you cannot resume. You cannot save during battle.
+@5737
+If there is a command or term you don't understand, try pressing the {1B}PE button for a more detailed explanation of commands and terms.
+@5738
+With the Power-Up Kit you can create and register treasures and events as well as officers. Make new treasures and events and have them appear in the game.
+@5739
+Your retainers' abilities...? The situation nearby...? To call up information, press the {1B}PX button for the nearby situation, or choose [Info] for all kinds of lists.
+@5740
+The "key guide" at the bottom right of the screen shows the controls. If you are unsure how to do something, do have a look at it.
+@5741
+That concludes our brief introduction to the world of Nobunaga no Yabou: Soutenroku. Use all your skill in war and strategy and write your own history of the Warring States. Good luck in battle!
+@5742
+Heh, the air is dry... Now's the time! Smoke the {02}{0B}E rats out of their nest!!
+@5742.1
+The air has grown dry... Now! Set fire to the castle! I'll smoke out the {02}{0B}E troops!
+@5743
+Grr... It is solid, I'll give it that. Perhaps I should think up a scheme...
+@5743.1
+Hmm... It is solid, I'll give it that. Perhaps I should think up a scheme...
+@5744
+Time to reveal my secret plan... Men! Set fire to it all at once!
+@5744.1
+Time to reveal my secret plan... Send word to every post! We set fire to it all at once!
+@5745
+Besieging alone gets us nowhere... Let's set fire to the castle town and see how the enemy reacts.
+@5745.1
+Besieging alone gets us nowhere... Let us set fire to the castle town and see how the enemy reacts.
+@5746
+I have a plan! Tonight I shall make crimson flames bloom and scorch the night sky!
+@5746.1
+I have a plan! Tonight I shall scorch the night sky and make crimson flames bloom!
+@5747
+I show no mercy just because they are not samurai! I shall punish the {02})S that infest this land.
+@5747.1
+I show no mercy just because they are not samurai! Let us protect the people from the {02})S that infest this land.
+@5748
+Good, the burning of {02})N has succeeded.
+@5748.1
+The burning of {02})N has succeeded.
+@5748.2
+Our army has put {02})N to the torch.
+@5749
+Burning us out? Unforgivable... They make fools of us gentry...
+@5750
+To put our holy ground to the torch! We shall curse you for a hundred generations...
+@5750.1
+Y-you will pay for this...!
+@5751
+To burn a Buddha hall... how dreadful! The Buddha's punishment will surely fall upon you.
+@5751.1
+To put us to the torch... what a vile deed! I-I cannot forgive this...
+@5752
+Ngh, burning us out... how cowardly. I will not forget this grudge...
+@5752.1
+Ngh, burning us out... how cowardly. I will not forget this grudge...

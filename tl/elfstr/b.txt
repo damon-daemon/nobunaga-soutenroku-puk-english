@@ -1,0 +1,699 @@
+# chunk b: e3c3000..e3f5fff (save/load logs, help/reference menus, command lists, PUK modes, debug)
+e3ea210	-
+e3ea240	-
+e3ea260	-
+e3ea290	-
+e3ea298	-
+e3ea2b0	-
+e3ea2b8	-
+e3ea2d0	-
+e3ea350	-
+e3ea380	-
+e3ea3d0	-
+e3ea420	-
+e3ea470	-
+e3ea4b0	-
+e3ea4e0	-
+e3ea510	-
+e3ea580	-
+e3ea5d0	-
+e3ea5f0	-
+e3ea620	-
+e3ea680	-
+e3ea6e0	-
+e3ea740	-
+e3ea7a0	-
+e3ea800	-
+e3ea860	-
+e3ea8c0	-
+e3ea920	-
+e3ea980	-
+e3ea9e0	-
+e3eaa40	-
+e3eaaa0	-
+e3eab00	-
+e3eab60	-
+e3eabc0	-
+e3eac20	-
+e3eacb0	-
+e3eace0	-
+e3ead20	-
+e3ead50	-
+e3ead80	-
+e3eadb0	-
+e3eade0	-
+e3eae10	-
+e3eae40	-
+e3eae70	-
+e3eaea0	-
+e3eaed0	-
+e3eaf00	-
+e3eaf30	-
+e3eaf60	-
+e3eaf90	-
+e3eafc0	-
+e3eaff0	-
+e3eb020	-
+e3eb050	-
+e3eb080	-
+e3eb0b0	-
+e3eb0e0	-
+e3eb110	-
+e3eb140	-
+e3eb170	-
+e3eb1a0	-
+e3eb1d0	-
+e3eb200	-
+e3eb230	-
+e3eb260	-
+e3eb290	-
+e3eb2c0	-
+e3eb2f0	-
+e3eb320	-
+e3eb350	-
+e3eb380	-
+e3eb3e0	-
+e3eb400	-
+e3eb420	-
+e3eb440	-
+e3eb460	-
+e3eb480	-
+e3eb4a0	-
+e3eb4c0	-
+e3eb4e0	-
+e3eb500	-
+e3eb520	-
+e3eb540	-
+e3eb560	-
+e3eb590	-
+e3eb5c0	-
+e3eb5e0	-
+e3eb600	-
+e3eb620	-
+e3eb640	-
+e3eb660	-
+e3eb680	-
+e3eb6a0	-
+e3eb6c0	-
+e3eb6e0	-
+e3eb700	-
+e3eb730	-
+e3eb760	-
+e3eb780	Local
+e3eb788	Merchant
+e3eb790	-
+e3eb7a0	-
+e3eb7b0	-
+e3eb7d0	-
+e3eb7f0	-
+e3eb820	-
+e3eb850	-
+e3eba20	%2d-%2d
+e3eba40	Narrator
+e3ebb50	-
+e3ebb70	-
+e3ebb88	Narrator
+e3ebb98	Daimyo
+e3ebba0	Aide
+e3ebba8	Castle Lord
+e3ebbb0	-
+e3ebbd0	Narrator
+e3ebd20	1. Overview
+e3ebd30	2. Game Flow
+e3ebd40	3. Strategy Phase
+e3ebd50	4. Military Phase
+e3ebd60	5. Options
+e3ebd70	Quit
+e3ebd78	Page
+e3ebd80	Samurai Maiden
+e3ebe48	Rules
+e3ebe50	Roles
+e3ebe58	Gekokujo
+e3ebe60	Proposals
+e3ebe68	Phases
+e3ebe78	Intrigue
+e3ebe80	Battles
+e3ebe88	Events
+e3ebe98	Domestic
+e3ebea0	Armament
+e3ebea8	Ninja
+e3ebeb0	Talks
+e3ebeb8	Sortie
+e3ebec0	Field Battle
+e3ebec8	Sieges
+e3ebed0	Minor Powers
+e3ebed8	Save
+e3ebee0	Help
+e3ebee8	Editors
+e3ebef8	Info
+e3ebf80	What shall I explain?
+e3ebfa0	Please choose a topic.
+e3ebfc0	Reference
+e3ebfd0	Strategy Phase
+e3ebff0	What to Do
+e3ec008	Visit
+e3ec020	Socialise
+e3ec048	Befriend
+e3ec070	Gift Gold
+e3ec0a0	Publicise
+e3ec0d0	Beg Gold
+e3ec0d8	Plots
+e3ec100	Slander
+e3ec130	Defect
+e3ec160	Incite
+e3ec190	Secret Pact
+e3ec1c0	Agitate
+e3ec1c8	Poach
+e3ec230	Persuade
+e3ec238	Diplomacy
+e3ec250	Clans
+e3ec280	Non-Aggression
+e3ec2b0	Alliance
+e3ec2d8	Encircle
+e3ec2f8	Marriage
+e3ec328	Threaten
+e3ec358	Submit
+e3ec380	Demand
+e3ec388	Shogunate
+e3ec3a8	Donate
+e3ec3d0	Post
+e3ec400	Appoint
+e3ec430	Request Punishment
+e3ec460	Request Pardon
+e3ec490	Punitive Order
+e3ec4c0	Ceasefire
+e3ec4f0	Just Cause
+e3ec4f8	Court
+e3ec538	Court Title
+e3ec558	Deceive
+e3ec580	Enemy of Court
+e3ec5f0	Minor Powers
+e3ec6d0	Quell
+e3ec700	Trade
+e3ec708	Domestic
+e3ec738	Magistrates
+e3ec758	Power Trade
+e3ec788	Local Trade
+e3ec7c0	Transport
+e3ec800	Change Troops
+e3ec828	Recruit
+e3ec848	Castle Orders
+e3ec868	Corps Orders
+e3ec898	Organise
+e3ec8a0	Personnel
+e3ec8c0	Reward
+e3ec8e8	Fief
+e3ec908	Gift
+e3ec928	Treasure
+e3ec948	Punish
+e3ec950	Reassign
+e3ec978	Officer
+e3ec998	Transfer
+e3ec9c0	Castle Lord
+e3ec9f0	Commander
+e3ec9f8	Heir
+e3eca18	Adopt
+e3eca38	Name Heir
+e3eca50	Retire
+e3eca78	Adoptee
+e3eca98	Invite
+e3ecaa0	Ninja
+e3ecad8	Hire
+e3ecaf8	Infiltrate
+e3ecb18	Sow Doubt
+e3ecb38	Assassinate
+e3ecb50	Sabotage
+e3ecb78	Rumours
+e3ecb80	Propose (Commander)
+e3ecc40	Independence
+e3ecc48	Corps
+e3ecc70	Corps Orders
+e3ecca0	Cede Castle
+e3ecd28	Propose (Lord)
+e3ecdb8	Reassign
+e3ecdc8	Military Phase
+e3ecde8	Castle Orders
+e3ece18	Sortie
+e3ece40	Cancel Sortie
+e3ece68	Army
+e3ece70	Army Orders
+e3ecea0	Change Target
+e3ecec8	Retreat
+e3ecef0	Keep Besieging
+e3ecf20	Assault
+e3ecf50	Demand Surrender
+e3ecf78	Wait
+e3ecfa0	Resume March
+e3ecfb0	Negotiate
+e3ecfe0	Request Sortie
+e3ed010	Request Aid
+e3ed040	Ceasefire Talks
+e3ed050	Stratagem
+e3ed078	False Orders
+e3ed098	Order Defection
+e3ed0d0	Gather Armies
+e3ed0f8	Carry Out Orders
+e3ed108	Gekokujo
+e3ed148	Switch Sides
+e3ed160	Banner Colours
+e3ed170	Field Council
+e3ed1a0	Deploying Units
+e3ed1d0	Terrain and Luring
+e3ed1e0	Field Battle
+e3ed200	Basic Controls
+e3ed210	Basic Rules
+e3ed240	Victory Conditions
+e3ed270	Push
+e3ed298	Morale
+e3ed2b8	Fighting Spirit
+e3ed2c0	Unit Status
+e3ed2e8	Wavering
+e3ed308	Boosted
+e3ed328	Confusion
+e3ed348	Troop Matchups
+e3ed378	Weather Effects
+e3ed3a8	Moving the HQ
+e3ed3b8	Basic Commands
+e3ed3e8	Swap
+e3ed408	Rally
+e3ed428	Take Cover
+e3ed430	Troop Commands
+e3ed460	About Troop Commands
+e3ed498	Assault Raid
+e3ed4b8	Spear Wall
+e3ed4d8	Charge
+e3ed4f8	Volley
+e3ed518	Fire & Charge
+e3ed520	Tactics
+e3ed550	About Tactics
+e3ed5a8	Jeer
+e3ed5c8	Intimidation
+e3ed5e8	Subvert
+e3ed608	False Report
+e3ed628	Inspire
+e3ed648	Treat
+e3ed668	Restore Order
+e3ed670	Siege Council
+e3ed6a0	Attacker Deployment
+e3ed6e0	Defender Deployment
+e3ed720	Setting Traps
+e3ed730	Siege Battle
+e3ed760	Attacker Victory
+e3ed7a0	Defender Victory
+e3ed7d8	Gates and Baileys
+e3ed890	Chaos
+e3ed8c0	Provoke
+e3ed908	Bombard
+e3ed928	Attacking Units
+e3ed958	Move
+e3ed980	Ram
+e3ed9a8	Shoot
+e3ed9c8	Leave
+e3ed9d0	Defending Units
+e3eda18	Defend
+e3eda80	Trap
+e3edaa8	Yield
+e3edac8	Back
+e3edae8	Tactics on Enemies
+e3edbb8	Fire Pots
+e3edbd8	Lure
+e3edc00	Other Tactics
+e3edc88	Spy
+e3edcc8	Repair
+e3edce8	Intercept
+e3edd10	Storm
+e3edd38	Divide
+e3edd58	Arson
+e3edd60	Special Customisation
+e3edda0	Officer Mania
+e3eddd0	Treasure Mania
+e3ede00	Speed Mania
+e3ede30	Hardship Mania
+e3ede60	Battle Mania
+e3ede90	Intrigue Mania
+e3edec0	Wedding Mania
+e3edef0	Free Mania
+e3edf00	Glossary
+e3edf10	A
+e3edf28	Plea (Skill)
+e3edf48	Compatibility
+e3edf60	Infantry (Troops)
+e3edf80	Intimidate (Tactic)
+e3edfa0	Intimidation (Skill)
+e3edfc0	Kin
+e3edfe0	Ikko Sect
+e3edff8	Horse Breeding
+e3ee010	Epidemic
+e3ee028	Reinforcements
+e3ee040	Cannon
+e3ee048	Ka
+e3ee060	Repair
+e3ee078	Roads
+e3ee090	Gunsmiths
+e3ee0b8	Famine
+e3ee0d0	Cavalry
+e3ee0e8	Mounted Gunners
+e3ee100	Size (Minor Powers)
+e3ee128	Father-in-Law
+e3ee158	Old Buddhist Sects
+e3ee170	Poor Harvest
+e3ee188	False Report (Tactic)
+e3ee1a8	Sense of Duty
+e3ee1c8	Christians
+e3ee1e0	Gold Mine
+e3ee1f8	Silver Mine
+e3ee210	Gold
+e3ee228	Merit
+e3ee248	Military Alliance
+e3ee288	Horses
+e3ee2a0	Intercept (Tactic)
+e3ee2c0	Injury
+e3ee2d8	Swordsman (Skill)
+e3ee310	Flood
+e3ee328	Heavy Snow
+e3ee348	Target
+e3ee380	Target Castle
+e3ee3a8	Gentry
+e3ee3c0	Yield
+e3ee3d8	Inspire (Tactic)
+e3ee408	Marriage Alliance
+e3ee428	Confuse (Tactic)
+e3ee438	Sa
+e3ee450	Tactics
+e3ee478	Earthquake
+e3ee498	Free City
+e3ee4c8	Birth Father
+e3ee508	Restore Order (Tactic)
+e3ee538	Vassalage
+e3ee558	Repair (Tactic)
+e3ee578	Origin
+e3ee590	Commerce
+e3ee5b8	Commerce (Skill)
+e3ee5d8	Squad
+e3ee618	Pirates
+e3ee630	Politics
+e3ee648	Ta
+e3ee668	Just Cause
+e3ee688	Typhoon
+e3ee6b0	Flood Works
+e3ee6c8	Tea Ceremony (Skill)
+e3ee6f0	Loyalty
+e3ee718	Court Standing
+e3ee748	Court Friendship
+e3ee770	Provoke (Tactic)
+e3ee790	Intellect
+e3ee7a8	Treat (Tactic)
+e3ee7c8	Wife
+e3ee7e0	Hostility
+e3ee7f8	Guns
+e3ee818	Gunners (Troops)
+e3ee838	Leadership
+e3ee850	Recruitment (Skill)
+e3ee870	Skills
+e3ee890	Storm (Tactic)
+e3ee8a0	Na
+e3ee8b8	Pikes (Troops)
+e3ee8f0	Ninja Bands
+e3ee918	Promise to Defect
+e3ee938	Farming (Skill)
+e3ee958	Abilities (Ninja)
+e3ee968	Ha
+e3ee980	Destroy (Tactic)
+e3ee9a8	Dispatch Period
+e3ee9c8	Jeer (Tactic)
+e3ee9f8	Influence
+e3eea10	Princess
+e3eea28	Illness
+e3eea40	Council
+e3eea58	Rice
+e3eea88	Non-Aggression Pact
+e3eeaa8	Renown
+e3eeac0	Divide (Tactic)
+e3eeae0	Troops
+e3eeaf8	Troop Type
+e3eeb10	Eloquence (Skill)
+e3eeb38	Under Siege
+e3eeb78	Defensive Power
+e3eeba0	Arson (Tactic)
+e3eebc0	Defence
+e3eebd8	Good Harvest
+e3eebf0	Fire Pots (Tactic)
+e3eec18	Supply Line
+e3eec20	Ma
+e3eec38	Allies
+e3eec50	Spy (Tactic)
+e3eec70	Prestige
+e3eec88	Pact
+e3eec90	Ya
+e3eeca8	Ambition
+e3eecd0	Friendship
+e3eece8	Lure (Tactic)
+e3eed18	Adoptive Father
+e3eed50	Recommended Heir
+e3eed80	First in Line
+e3eeda0	Reserve Troops
+e3eeda8	Ra
+e3eedc0	Subvert (Tactic)
+e3eefa8	Infinite loop
+e3eefe0	-
+e3ef2c8	(%s)
+e3ef910	-
+e3ef970	-
+e3ef9c0	-
+e3efa20	-
+e3efea0	Confirm
+e3efea8	Back
+e3efeb0	Cancel
+e3efeb8	Quit
+e3efec0	Redo
+e3efed0	Check
+e3f0030	Soutenroku with Power-Up Kit Play Data
+e3f04e8	?
+e3f0b20	-
+e3f1180	Select Scenario
+e3f11d8	Clan Friendship
+e3f12b8	POL
+e3f12c0	LDR
+e3f12c8	INT
+e3f12d0	Age
+e3f12d8	Origin
+e3f1328	Recruiter
+e3f1330	Yield Left
+e3f1340	Fief
+e3f1348	After
+e3f1350	-
+e3f1358	-
+e3f1368	Yield
+e3f1370	Comm.
+e3f1378	Officers
+e3f1380	Troops
+e3f13a8	Castle
+e3f13c8	Serves
+e3f13f0	Bio
+e3f13f8	Abilities
+e3f1420	-
+e3f1440	-
+e3f1490	-
+e3f14b0	-
+e3f14f0	-
+e3f1500	-
+e3f1510	-
+e3f1530	-
+e3f1540	-
+e3f1560	-
+e3f15c0	-
+e3f15e0	-
+e3f1628	-
+e3f1630	-
+e3f1640	-
+e3f1670	-
+e3f16d0	-
+e3f1720	-
+e3f1740	-
+e3f1790	-
+e3f17e8	-
+e3f1800	-
+e3f1850	-
+e3f18b0	-
+e3f18c0	-
+e3f1920	-
+e3f1980	-
+e3f1a10	Load Data
+e3f1a20	Save Data
+e3f1a30	Save Registered Officers
+e3f1a50	Load Registered Officers
+e3f1a70	Save Registered Events
+e3f1a90	Load Registered Events
+e3f1ab0	Save Registered Treasures
+e3f1ad0	Load Registered Treasures
+e3f1af0	Save Customisation Data
+e3f1b10	Load Customisation Data
+e3f1b48	1
+e3f1b58	%s %s %s
+e3f1e10	-
+e3f31f0	-
+e3f3250	-
+e3f3290	-
+e3f3310	-
+e3f3330	-
+e3f3360	-
+e3f3370	-
+e3f3380	-
+e3f3390	-
+e3f33a0	-
+e3f3410	-
+e3f3430	-
+e3f3450	-
+e3f3490	-
+e3f34b0	-
+e3f34c0	-
+e3f34d0	-
+e3f34e0	-
+e3f34f0	-
+e3f3510	-
+e3f3520	-
+e3f3540	-
+e3f3560	-
+e3f3570	-
+e3f3580	-
+e3f35a0	-
+e3f35d0	-
+e3f35f0	-
+e3f3610	-
+e3f3708	-
+e3f3718	-
+e3f3730	-
+e3f3748	-
+e3f3758	Narrator
+e3f3770	-
+e3f3790	-
+e3f37b0	-
+e3f37d0	-
+e3f37f0	-
+e3f3810	-
+e3f3840	-
+e3f3860	-
+e3f3880	-
+e3f3890	-
+e3f38a0	-
+e3f38b0	-
+e3f38c0	-
+e3f38d0	-
+e3f3930	-
+e3f3950	-
+e3f3970	-
+e3f3990	-
+e3f39b0	-
+e3f39d0	-
+e3f39f0	-
+e3f3a10	-
+e3f3a30	-
+e3f3a50	-
+e3f3a70	-
+e3f3a88	-
+e3f3aa0	-
+e3f3ab8	-
+e3f3af0	-
+e3f3b10	-
+e3f3b48	-
+e3f3b60	-
+e3f3ba0	-
+e3f3c60	-
+e3f3c80	-
+e3f3ca0	-
+e3f3cc0	-
+e3f3ce0	-
+e3f3d00	-
+e3f3d20	-
+e3f3d40	-
+e3f3d60	-
+e3f3d80	-
+e3f3da0	-
+e3f3dc0	-
+e3f3de0	-
+e3f3e20	-
+e3f3e50	-
+e3f3e80	-
+e3f3eb0	-
+e3f3ee0	-
+e3f3f10	-
+e3f3f40	-
+e3f3f70	-
+e3f3fa0	-
+e3f3fc0	-
+e3f3fe0	-
+e3f4010	-
+e3f4040	-
+e3f4060	-
+e3f4080	-
+e3f40a0	-
+e3f40c0	-
+e3f40e0	-
+e3f4100	-
+e3f4120	-
+e3f4160	Selected
+e3f4ad8	ABC
+e3f4ae0	abc
+e3f4ae8	123
+e3f4af0	Mix
+e3f4af8	#!?
+e3f4b00	Delete
+e3f4c40	-
+e3f4cc0	-
+e3f4d00	-
+e3f4d30	-
+e3f4d60	-
+e3f4da0	-
+e3f4e10	-
+e3f4e80	-
+e3f4ed8	Reserves %4d
+e3f5190	Propose
+e3f51c8	Info
+e3f51d0	Daimyo
+e3f51d8	Armies
+e3f51e0	Princess
+e3f51e8	Places
+e3f51f0	Prov.
+e3f51f8	Castle
+e3f5200	Other
+e3f5208	Map
+e3f5610	-
+e3f59d0	Clear
+e3f59d8	Cloudy
+e3f59e0	Rain
+e3f59e8	Snow
+e3f5af0	Select Attacker
+e3f5b10	Select Defender
+e3f5b30	Select Player Side
+e3f5b70	Troops
+e3f5b88	No Cannon
+e3f5b98	Defence
+e3f5ba8	Few
+e3f5bb0	Normal
+e3f5bb8	Many
+e3f5bc8	Give Cannon
+e3f5c08	3rd Bailey
+e3f5c10	2nd Bailey
+e3f5c18	Main Bailey
+e3f5f38	Gate
+e3f5f40	Switch Enemy
+e3f5f50	Speed
+e3f5f58	Zoom
+e3f5f68	Enemy Info
+e3f5f78	3rd Bailey
+e3f5f80	2nd Bailey
+e3f5f88	Main Bailey
+e3f5f90	-
+e3f5fc0	-
+e3f5ff0	-
+# command buttons (74 px button, ~64 px frame): short forms; the help text names them the same way
+e3f4f70	Pact
+e3f4ff8	Denounce
+e3f5000	Pardon
+e3f5008	Punitive
+e3f5018	Cause
+e3f5040	Minors
+e3f5098	Unit Type
+e3f5178	Murder
+e3f5198	Secede
+e3f51b0	Cede

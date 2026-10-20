@@ -1,0 +1,3432 @@
+@1091
+Got away, did he... Well, no matter. Lucky fellow.
+@1091.1
+Got away... Well, never mind.
+@1092
+No other ninja seem to be on watch... I'll carry on with the mission.
+@1092.1
+No other ninja seem to be on watch... I'll carry on with the mission.
+@1093
+The ninja {02}[@ was attacked by someone and wounded, it seems.
+@1093.1
+The ninja {02}[@ was attacked by someone and wounded, it seems.
+@1093.2
+The ninja {02}[@ was attacked by someone and wounded!
+@1094
+Such a keen blade... I see you are highly skilled.
+@1094.1
+To evade my secret arts... I shall call that well done, for a start.
+@1094.2
+To hold your own against me... Not bad at all.
+@1094.3
+To fight me as an equal... You are quite skilled, I see.
+@1094.4
+Hmph... Not bad. That makes you worth the killing.
+@1094.5
+...Not bad at all. I look forward to our next meeting.
+@1094.6
+What swordsmanship... No help for it. I shall let you off for today.
+@1094.7
+Splendid blade-work, for an enemy... I'll call it a draw this time.
+@1094.8
+Hmph... Not bad.
+@1094.9
+...Not bad at all.
+@1095
+You too... You are quite the expert.
+@1095.1
+Ugh, failing to finish the job... How careless.
+@1095.2
+If I cannot even beat one ninja, I still have far to go.
+@1095.3
+Phew, that was close... Walking alone at night is dangerous.
+@1095.4
+I seem to have survived. Luck was with me today.
+@1096
+A fine retreat. A tough one, that.
+@1096.1
+Ugh, to fail to finish him off... What a blunder.
+@1096.2
+Unable to beat a single ninja... Have I lost my edge?
+@1096.3
+Phew, that was close. Walking alone at night is never safe.
+@1096.4
+...Somehow I drove him off. That had me in a cold sweat.
+@1097
+Hmm... This is getting nowhere. My mission is not done, but I shall pull back for now...
+@1097.1
+Ugh... This is getting nowhere. My mission is not done, but I'll pull back for now...
+@1098
+The ninja {02}[@ has stopped an intruder before they could slip into our castle.
+@1098.1
+The ninja {02}[@ has stopped an intruder before they could slip into our castle, it seems.
+@1098.2
+The ninja {02}[@ has stopped an intruder before they could slip into our castle.
+@1099
+Ugh, he got me... I must withdraw.
+@1099.1
+Ah! He got me... I have no choice but to withdraw.
+@1100
+To survive my finishing blow... A capable foe. I look forward to our next meeting.
+@1100.1
+To survive my finishing blow... Stubborn, aren't you. Next time I shall send you to your grave.
+@1100.2
+Hahaha... I'm not bad myself. That gives me a little confidence.
+@1100.3
+Phew... I got through today somehow. Thank goodness...
+@1100.4
+Phew... Even my skill was enough. The fruit of my training.
+@1100.5
+Whew... I thought I was still green, but I'm better than I knew.
+@1100.6
+Failed to finish him... No matter. Next time we meet will be his last.
+@1100.7
+To fail to finish them off... I am still careless at the end.
+@1100.8
+Missed the kill... Lucky fellow.
+@1100.9
+Missed the kill... Take good care of the life you've been spared.
+@1101
+Their defences are strong. I will avenge today's shame!
+@1101.1
+I will repay these wounds in full. Remember that!
+@1102
+The ninja {02}[@ has wounded {02}{03}n of the {02}{03}v and driven them off, it seems.
+@1102.1
+The ninja {02}[@ has wounded {02}{03}n of the {02}{03}v and driven them off, it seems.
+@1102.2
+The ninja {02}[@ has wounded {02}{03}n of the {02}{03}v and driven them off.
+@1103
+N-no, it can't be... Aaah...
+@1103.1
+How could this... My life had only just begun...
+@1103.2
+Why... Why must I die in a place like this... Ugh!
+@1103.3
+Slain by a nobody... I must have lost my touch. Gah!
+@1103.4
+Ugh, it hurts... Is this what it is to die...
+@1104
+Im-impossible... Not here, of all places... Gah!
+@1104.1
+If I die, the {02}{01}v is finished... Gah!
+@1104.2
+I was to make my name ring across the realm... Why here? It is unjust! ...Gah!
+@1104.3
+Felled by a mere ninja... The whole realm will laugh... Ugh!
+@1104.4
+If I die here, history will change greatly... Gah!
+@1105
+No... If I die here, what will become of the {02}{01}v...
+@1105.1
+To think I would be struck down in a place like this...
+@1105.2
+My dreams... My ambitions... How... bitter...
+@1105.3
+I won't die here, quietly, with no one ever knowing! Ugh!
+@1105.4
+Ugh... At least... tell me... your name...
+@1106
+Ugh, he got me... Such a pity...
+@1106.2
+Im-impossible... I still have so much to do... Gah!
+@1106.3
+Gah... Has Heaven forsaken me...
+@1106.4
+To end like this, my ambitions still unfulfilled... Ugh!
+@1107
+I have killed again... These bloodstained hands will never be clean...
+@1107.1
+The weak are cut down. That is the law of the ninja. If you must hate, hate your own lack of skill.
+@1107.2
+Hmph, weak... You underestimated me.
+@1107.3
+My name is {02}[@. Take it with you to the next world.
+@1107.4
+A ninja without strength is not allowed to see the dawn.
+@1108
+I bear you no grudge, but take this as fate and rest in peace.
+@1108.1
+Pathetic. Curse your own lack of skill in the next world.
+@1108.2
+Hmph, fool... Coming here with skill like that, you deserved to be cut down.
+@1108.3
+I'll tell you as a parting gift: I am {02}[@. If you bear a grudge, wait for me in hell.
+@1108.4
+Live in darkness, return to darkness. That is the fate of all who are born...
+@1109
+We have lost contact with {01}C{17}{00}. It seems an enemy ninja cut them down.
+@1109.1
+We have lost contact with {01}C{17}{00}. It seems an enemy ninja cut them down.
+@1109.2
+We have lost contact with {01}C{17}{00}. It seems an enemy ninja cut them down.
+@1110
+The ninja {02}[@ has killed {02}{03}n of the {02}{03}v, it seems.
+@1110.1
+The ninja {02}[@ has killed {02}{03}n of the {02}{03}v, it seems.
+@1110.2
+The ninja {02}[@ has slain {02}{03}n of the {02}{03}v.
+@1111
+No other ninja on watch... I'll carry on with the mission.
+@1112
+The enemy ninja got away, wounded as he was... Quite the fellow.
+@1112.1
+The enemy ninja got away, wounded as they were...
+@1113
+A tough foe, but on my name, I will finish them next time.
+@1113.1
+A tough opponent, but I too am known in this world. I cannot leave it at this.
+@1113.2
+Evenly matched... Then we will settle it when next we meet.
+@1113.3
+No decision, it seems. But next time we meet will be your last.
+@1113.4
+I was spared today, but I must hone my skills, or next time it may cost my life.
+@1113.5
+I managed a draw, but at this rate I'll be killed sooner or later. I must train harder.
+@1113.6
+Phew... That was close. I nearly lost my life.
+@1113.7
+I got through somehow. Phew... I thought I was going to die.
+@1113.8
+You too, I see, are highly skilled.
+@1113.9
+You too, I see, are highly skilled.
+@1115
+I cannot complete my mission in this state. I shall hide until my wounds heal.
+@1115.1
+I cannot complete my mission in this state. I'll hide until my wounds heal.
+@1116
+We have lost contact with the ninja {02}[@. It seems an enemy ninja cut them down.
+@1116.1
+We have lost contact with the ninja {02}[@. It seems an enemy ninja cut them down.
+@1116.2
+We have lost contact with the ninja {02}[@. It seems an enemy ninja cut them down.
+@1117
+Shall I refuse the {02}{03}v's offer?
+@1117.1
+I shall refuse the {02}{03}v's offer.
+@1117.2
+I shall refuse the {02}{03}v's offer.
+@1118
+Which goods shall I demand...
+@1118.1
+Which goods should I demand, I wonder...
+@1118.2
+Which goods will you demand?
+@1119
+Then how about %s %d?
+@1119.1
+Then how about %s %d?
+@1119.2
+Then how would %s %d suit you?
+@1120
+Then how about we hand over all the %s we have?\n(Offer  %s: %d)
+@1120.1
+Then how about we hand over all the %s we have?\n(Offer  %s: %d)
+@1120.2
+Then how would it suit you if we handed over all the %s we have?\n(Offer  %s: %d)
+@1121
+Our castle has no %s in store at all, so we beg you to excuse us.
+@1121.1
+My castle has no %s in store at all, so I must ask you to excuse me.
+@1121.2
+My castle has no %s in store at all, so I must ask you to excuse me.
+@1121.4
+Our castle has no %s in store at all, so we beg you to excuse us.
+@1122
+They offer %s %d. Shall I accept on these terms...
+@1122.1
+They offer %s %d. Should I accept on these terms, I wonder...
+@1122.2
+They offer %s %d. Will you accept on these terms?
+@1123
+Shall I demand other goods?
+@1123.1
+I shall demand other goods.
+@1123.2
+I shall demand other goods.
+@1124
+First, show me your good faith. If you can spare some %s, I might consider it...
+@1124.1
+First, I would ask you to show your good faith. If you can spare some %s, I might consider it...
+@1125
+Shall I accept the {02}{03}v's offer and agree a six-month non-aggression pact?
+@1125.1
+I shall accept the {02}{03}v's offer and agree a six-month non-aggression pact.
+@1125.2
+I shall accept the {02}{03}v's offer and agree a six-month non-aggression pact.
+@1126
+Shall I agree a non-aggression pact on the {02}{03}v's terms?
+@1126.1
+I shall agree a non-aggression pact on the {02}{03}v's terms.
+@1126.2
+I shall agree a non-aggression pact on the {02}{03}v's terms.
+@1127
+In that case, I will agree a non-aggression pact with the {02}{03}v.
+@1127.1
+In that case, I shall agree a non-aggression pact with the {02}{03}v.
+@1128
+Then I cannot agree to a non-aggression pact.
+@1128.1
+Then I fear I cannot agree to a non-aggression pact.
+@1129
+Shall I form a military alliance on the {02}{03}v's terms?
+@1129.1
+I shall form a military alliance on the {02}{03}v's terms.
+@1129.2
+I shall form a military alliance on the {02}{03}v's terms.
+@1130
+Shall I join the encirclement of the {02}{0B}E on the {02}{03}v's terms?
+@1130.1
+I shall join the encirclement of the {02}{0B}E on the {02}{03}v's terms.
+@1130.2
+I shall join the encirclement of the {02}{0B}E on the {02}{03}v's terms.
+@1131
+We proposed a marriage to the {02}{04}v, and happily it has been agreed!
+@1131.1
+We proposed a marriage to the {02}{04}v, and happily it has been agreed.
+@1131.2
+We proposed a marriage to the {02}{04}v, and happily it has been agreed.
+@1131.3
+We have formed a marriage alliance with the {02}{03}v!
+@1131.4
+We have formed a marriage alliance with the {02}{03}v.
+@1131.5
+A marriage alliance has been formed between the {02}{03}v and our clan.
+@1131.6
+At the {02}{03}v's request, a marriage alliance has been formed between them and us.
+@1131.7
+At the {02}{03}v's request, a marriage alliance has been formed between them and us.
+@1131.8
+At the {02}{03}v's request, a marriage alliance has been formed between them and our clan.
+@1131.9
+The {02}{03}v of {02}{03}N has formed a marriage alliance with the {02}{04}v of {02}{04}N, it seems.
+@1131.10
+The {02}{03}v of {02}{03}N has formed a marriage alliance with the {02}{04}v of {02}{04}N, it seems.
+@1131.11
+The {02}{03}v of {02}{03}N seems to have formed a marriage alliance with the {02}{04}v of {02}{04}N.
+@1132
+A marriage alliance with the {02}{03}v... With it, we could pass through each other's castles.
+@1132.1
+Shall I form a marriage alliance with the {02}{03}v? With it, we could pass through each other's castles.
+@1132.2
+Will you form a marriage alliance with the {02}{03}v? With it, we could pass through each other's castles.
+@1133
+At the {02}{03}v's request, I shall take {02}{04}4 as my bride!
+@1133.1
+I accept the {02}{03}v's proposal and shall take Lady {02}{04}4 as my wife.
+@1133.2
+At the {02}{03}v's request, Princess {02}{04}4 shall marry {02}{05}4, sealing a marriage alliance!
+@1133.3
+At the {02}{03}v's request, Princess {02}{04}4 shall marry {02}{05}4, sealing a marriage alliance.
+@1133.4
+I accept the {02}{03}v's proposal: Lady {02}{04}4 shall marry Lord {02}{05}4, sealing a marriage alliance.
+@1133.5
+At the {02}{03}v's request, {02}{04}4 shall marry {02}{05}n, sealing a marriage alliance!
+@1133.6
+At the {02}{03}v's request, {02}{04}4 shall marry {02}{05}n, sealing a marriage alliance.
+@1133.7
+I accept the {02}{03}v's proposal: Lady {02}{04}4 shall marry {02}{05}n, sealing a marriage alliance.
+@1134
+I have come to dissolve the marriage between the {02}{03}v and your house. Such is the way of a warring age; I ask your understanding.
+@1134.1
+I have come to dissolve the marriage between the {02}{03}v and your house. Such is the way of a warring age; I ask your understanding.
+@1134.2
+This is very hard to say, but I have come to annul the marriage alliance between the {02}{03}v and your house.
+@1135
+I have sent Princess {02}{04}4 back and broken the marriage with the {02}{03}v.
+@1135.1
+I have sent Princess {02}{04}4 back and broken the marriage with the {02}{03}v.
+@1135.2
+We have sent Princess {02}{04}4 back and broken the marriage with the {02}{03}v.
+@1136
+I have put Princess {02}{04}4 to death and broken the marriage with the {02}{03}v.
+@1136.1
+I have put Princess {02}{04}4 to death and broken the marriage with the {02}{03}v.
+@1136.2
+We have put Princess {02}{04}4 to death and broken the marriage with the {02}{03}v.
+@1137
+Princess {02}{04}4 has been put to death... The marriage alliance between the {02}{03}v and us is over!
+@1137.1
+Princess {02}{04}4 has been put to death... The marriage alliance between the {02}{03}v and us is over!
+@1137.2
+Princess {02}{04}4 has been put to death. The marriage alliance between the {02}{03}v and our clan is over!
+@1138
+Princess {02}{04}4 has been sent back. The marriage alliance between the {02}{03}v and us is over.
+@1138.1
+Princess {02}{04}4 has been sent back. The marriage alliance between the {02}{03}v and us is over.
+@1138.2
+Princess {02}{04}4 has been sent back. The marriage alliance between the {02}{03}v and our clan is over.
+@1139
+We have made the {02}{04}v our vassal!
+@1139.1
+We have made the {02}{04}v our vassal.
+@1139.2
+We have made the {02}{04}v our vassal.
+@1139.3
+The {02}{03}v has made us its vassal!
+@1139.4
+The {02}{03}v has made us its vassal.
+@1139.5
+The {02}{03}v has made our clan its vassal.
+@1139.6
+The {02}{03}v of {02}{03}N has made the {02}{04}v of {02}{04}N its vassal, it seems.
+@1139.7
+The {02}{03}v of {02}{03}N has made the {02}{04}v of {02}{04}N its vassal, it seems.
+@1139.8
+The {02}{03}v of {02}{03}N seems to have made the {02}{04}v of {02}{04}N its vassal.
+@1140
+The {02}{04}v has bowed to us completely.
+@1140.1
+The {02}{04}v has bowed to us completely.
+@1140.2
+The {02}{04}v has bowed to us completely.
+@1140.3
+We have bowed completely to the {02}{03}v... Bitter beyond words!
+@1140.4
+We have bowed completely to the {02}{03}v... How bitter.
+@1140.5
+We have bowed completely to the {02}{03}v. It is bitter beyond words...
+@1140.6
+The {02}{04}v has bowed completely to the {02}{03}v, it seems.
+@1140.7
+The {02}{04}v has bowed completely to the {02}{03}v, it seems.
+@1140.8
+The {02}{04}v seems to have bowed completely to the {02}{03}v.
+@1141
+We have bowed completely to the {02}{03}v. From now on we are part of the {02}{03}v.
+@1141.1
+We have bowed completely to the {02}{03}v. From now on we are part of the {02}{03}v.
+@1141.2
+We have bowed completely to the {02}{03}v. From now on we shall be part of the {02}{03}v.
+@1142
+Shall I become a vassal of the {02}{03}v...
+@1142.1
+Should I become a vassal of the {02}{03}v, I wonder...
+@1142.2
+Will you become a vassal of the {02}{03}v?
+@1143
+Shall I become a vassal of the {02}{03}v?
+@1143.1
+I shall become a vassal of the {02}{03}v.
+@1143.2
+I shall become a vassal of the {02}{03}v.
+@1144
+Shall I hand over a fifth of the castle's goods to be let off this time?
+@1144.1
+Shall I hand over a fifth of the castle's goods to be spared this time?
+@1144.2
+I shall hand over a fifth of the castle's goods to be let off this time.
+@1145
+I will not yield to the {02}{03}v's threats. I will defend our independence!
+@1145.1
+I shall not yield to the {02}{03}v's threats. I shall defend our independence.
+@1145.2
+I shall not yield to the {02}{03}v's threats, and will firmly defend our independence.
+@1146
+We have become a vassal of the {02}{03}v.
+@1146.1
+We have become a vassal of the {02}{03}v.
+@1146.2
+We have become a vassal of the {02}{03}v.
+@1147
+By handing over goods, we have somehow kept our independence.
+@1147.1
+By handing over goods, we have somehow kept our independence.
+@1147.2
+By handing over goods, we have somehow kept our independence.
+@1148
+I have refused to become a vassal of the {02}{03}v. Let them come! I will crush them!
+@1148.1
+I have refused to become a vassal of the {02}{03}v. Let them come! I shall crush them!
+@1148.2
+Our lord has refused to become a vassal of the {02}{03}v, it seems.
+@1148.3
+Our lord has refused to become a vassal of the {02}{03}v, it seems.
+@1148.4
+So you refuse vassalage. Then let us steel ourselves and uphold our honour as warriors.
+@1148.5
+{02}{01}{99} has refused to become a vassal of the {02}{03}v. Then let us uphold our honour as warriors.
+@1149
+We have switched our allegiance from the {02}{05}v of {02}{05}N to the {02}{04}v of {02}{04}N.
+@1149.1
+We have switched our allegiance from the {02}{05}v of {02}{05}N to the {02}{04}v of {02}{04}N.
+@1149.2
+We have switched our allegiance from the {02}{05}v of {02}{05}N to the {02}{04}v of {02}{04}N.
+@1149.3
+The {02}{03}v of {02}{03}N has switched its allegiance from the {02}{05}v of {02}{05}N to us!
+@1149.4
+The {02}{03}v of {02}{03}N has switched its allegiance from the {02}{05}v of {02}{05}N to us.
+@1149.5
+The {02}{03}v of {02}{03}N has switched its allegiance from the {02}{05}v of {02}{05}N to our clan.
+@1149.6
+The {02}{03}v of {02}{03}N has switched its allegiance from us to the {02}{04}v of {02}{04}N!
+@1149.7
+The {02}{03}v of {02}{03}N has switched its allegiance from us to the {02}{04}v of {02}{04}N.
+@1149.8
+The {02}{03}v of {02}{03}N has switched its allegiance from our clan to the {02}{04}v of {02}{04}N.
+@1149.9
+The {02}{03}v of {02}{03}N has switched its allegiance from the {02}{05}v of {02}{05}N to the {02}{04}v of {02}{04}N, it seems.
+@1149.10
+The {02}{03}v of {02}{03}N has switched its allegiance from the {02}{05}v of {02}{05}N to the {02}{04}v of {02}{04}N, it seems.
+@1149.11
+The {02}{03}v of {02}{03}N seems to have switched its allegiance from the {02}{05}v of {02}{05}N to the {02}{04}v of {02}{04}N.
+@1150
+The {02}{03}v has become our vassal!
+@1150.1
+The {02}{03}v has become our vassal.
+@1150.2
+The {02}{03}v has become our vassal.
+@1151
+Rather than the unreliable {02}{04}v, I wish to come under your house's protection. I beg you to accept.
+@1151.1
+Rather than the unreliable {02}{04}v, I wish to come under your house's protection. I beg you to accept.
+@1151.2
+Rather than the unreliable {02}{04}v, my lord wishes to come under your house's protection. Would you accept?
+@1151.3
+Rather than the unreliable {02}{04}v, my lord wishes to come under your house's protection. Would you accept?
+@1152
+We have broken free of the {02}{04}v!
+@1152.1
+We have broken free of the {02}{04}v.
+@1152.2
+We have broken free of the {02}{04}v.
+@1152.3
+The {02}{03}v has broken free of us!
+@1152.4
+The {02}{03}v has broken free of us.
+@1152.5
+The {02}{03}v has broken free of our clan.
+@1152.6
+The {02}{03}v of {02}{03}N has broken free of the {02}{04}v of {02}{04}N, it seems.
+@1152.7
+The {02}{03}v of {02}{03}N has broken free of the {02}{04}v of {02}{04}N, it seems.
+@1152.8
+The {02}{03}v of {02}{03}N seems to have broken free of the {02}{04}v of {02}{04}N.
+@1153
+The {02}{03}v has broken free of us!
+@1153.1
+The {02}{03}v has broken free of us!
+@1153.2
+The {02}{03}v has broken free of our clan!
+@1154
+The {02})S of {02}{1F}2 has risen in %s against us! My castle seems to be a target too...
+@1154.1
+The {02})S of {02}{1F}2 has risen in %s against us! My castle seems to be a target too...
+@1154.2
+In {02}{1F}2, the {02})S has risen in %s against us! Our castle is a target too!
+@1154.3
+In {02}{1F}2, the {02})S has risen in %s against us! Our castle is a target too.
+@1155
+The {02})S has risen in %s against us! Insolent dogs...
+@1155.1
+The {02})S has risen in %s against us! How impudent...
+@1155.2
+The {02})S has risen in %s against us!
+@1156
+The {02})S has risen in %s against the {02}{04}v, it seems.
+@1156.1
+The {02})S has risen in %s against the {02}{04}v, it seems.
+@1156.2
+The {02})S has risen in %s against the {02}{04}v.
+@1157
+The {02})S of {02}{1F}2 has turned its %s from us to the {02}{04}v. My castle has escaped danger for now...
+@1157.1
+The {02})S has turned its %s from us to the {02}{04}v. My castle has escaped danger for now...
+@1157.2
+The {02})S has turned its %s from us to the {02}{04}v. Our castle has escaped danger for now.
+@1158
+So the {02})S of {02}{1F}2 has turned its %s from us to the {02}{04}v.
+@1158.1
+The {02})S has turned its %s from us to the {02}{04}v.
+@1158.2
+The {02})S has turned its %s from us to the {02}{04}v.
+@1159
+The {02})S of {02}{1F}2 has turned its %s from the {02}{04}v to us! My castle seems to be a target too...
+@1159.1
+The {02})S of {02}{1F}2 has turned its %s from the {02}{04}v to us! My castle seems to be a target too...
+@1159.2
+The {02})S of {02}{1F}2 has turned its %s from the {02}{04}v to us! Our castle is a target too!
+@1159.3
+The {02})S of {02}{1F}2 has turned its %s from the {02}{04}v to us! Our castle is a target too.
+@1160
+The {02})S of {02}{1F}2 has turned its %s from the {02}{04}v to us, it seems.
+@1160.1
+The {02})S of {02}{1F}2 has turned its %s from the {02}{04}v to us, it seems.
+@1160.2
+The {02})S of {02}{1F}2 has turned its %s from the {02}{04}v to us.
+@1161
+So {01}C{17}{00} has been appointed {02}=2.
+@1161.1
+{01}C{17}{00} has been appointed {02}=2.
+@1161.2
+{01}C{17}{00} has been appointed {02}=2.
+@1161.3
+{02}{03}n has been appointed {02}=2, it seems.
+@1161.4
+{02}{03}n has been appointed {02}=2, it seems.
+@1161.5
+{02}{03}n has been appointed {02}=2, it seems.
+@1161.6
+{02}{03}n has been appointed {02}=2, it seems.
+@1161.7
+{02}{03}n seems to have been appointed {02}=2.
+@1162
+So the Imperial Court has granted our request and named the {02}{04}v an enemy of the court.
+@1162.1
+The Imperial Court has granted our request and named the {02}{04}v an enemy of the court.
+@1162.2
+The Imperial Court has granted our request and named the {02}{04}v an enemy of the court.
+@1162.3
+Oh... So the Imperial Court has granted the {02}{03}v's request and named the {02}{04}v an enemy of the court.
+@1162.4
+My... The Imperial Court has granted the {02}{03}v's request and named the {02}{04}v an enemy of the court.
+@1162.5
+At the {02}{03}v's request, the Imperial Court has named the {02}{04}v an enemy of the court.
+@1163
+At the {02}{03}v's request, the Imperial Court has named us an enemy of the court! What a disaster...
+@1163.1
+At the {02}{03}v's request, the Imperial Court has named us an enemy of the court! Something must be done...
+@1163.2
+At the {02}{03}v's request, the Imperial Court has named us an enemy of the court!
+@1163.3
+The Imperial Court has named us an enemy of the court at the {02}{03}v's request? What will become of the {02}{04}v...
+@1163.4
+The Imperial Court has named us an enemy of the court at the {02}{03}v's request? What will become of the {02}{04}v...
+@1163.5
+At the {02}{03}v's request, the Imperial Court has named us an enemy of the court!
+@1164
+We have prevailed upon the Imperial Court to lift our status as enemy of the court.
+@1164.1
+We have prevailed upon the Imperial Court to lift our status as enemy of the court.
+@1164.2
+We have prevailed upon the Imperial Court to lift our status as enemy of the court.
+@1164.3
+The {02}{03}v has prevailed upon the Imperial Court to lift its status as enemy of the court, it seems.
+@1164.4
+The {02}{03}v has prevailed upon the Imperial Court to lift its status as enemy of the court, it seems.
+@1164.5
+The {02}{03}v seems to have prevailed upon the Imperial Court to lift its status as enemy of the court.
+@1165
+The {02}{04}v has accepted the Imperial Court's ceasefire order and made a non-aggression pact with us.
+@1165.1
+The {02}{04}v has accepted the Imperial Court's ceasefire order and made a non-aggression pact with us.
+@1165.2
+The {02}{04}v has accepted the Imperial Court's ceasefire order and made a non-aggression pact with us.
+@1165.3
+We have accepted the Imperial Court's ceasefire order and made a non-aggression pact with the {02}{03}v.
+@1165.4
+We have accepted the Imperial Court's ceasefire order and made a non-aggression pact with the {02}{03}v.
+@1165.5
+We have accepted the Imperial Court's ceasefire order and made a non-aggression pact with the {02}{03}v.
+@1165.6
+The {02}{04}v has accepted the Imperial Court's ceasefire order and made a non-aggression pact with the {02}{03}v, it seems.
+@1165.7
+The {02}{04}v has accepted the Imperial Court's ceasefire order and made a non-aggression pact with the {02}{03}v, it seems.
+@1165.8
+The {02}{04}v seems to have accepted the Imperial Court's ceasefire order and made a non-aggression pact with the {02}{03}v.
+@1166
+Heeding the Imperial Court, I have made a non-aggression pact with the {02}{03}v.
+@1166.1
+Heeding the Imperial Court, I have made a non-aggression pact with the {02}{03}v.
+@1166.2
+Heeding the Imperial Court, we have made a non-aggression pact with the {02}{03}v.
+@1167
+Ignoring the Imperial Court, I have refused a non-aggression pact with the {02}{03}v.
+@1167.1
+Ignoring the Imperial Court, I have refused a non-aggression pact with the {02}{03}v.
+@1167.2
+Ignoring the Imperial Court, we have refused a non-aggression pact with the {02}{03}v.
+@1168
+I have issued an order to all provinces to punish the {02}{04}v.
+@1168.1
+I have issued an order to all provinces to punish the {02}{04}v.
+@1168.2
+We have issued an order to all provinces to punish the {02}{04}v.
+@1168.3
+Our shogunate has issued an order to all provinces to punish the {02}{04}v.
+@1168.4
+Our shogunate has issued an order to all provinces to punish the {02}{04}v.
+@1168.5
+Our shogunate has issued an order to all provinces to punish the {02}{04}v.
+@1168.6
+Oh... The {02}{03}2 shogunate has issued an order of punishment against the {02}{04}v, it seems.
+@1168.7
+My... The {02}{03}2 shogunate has issued an order of punishment against the {02}{04}v, it seems.
+@1168.8
+The {02}{03}2 shogunate seems to have issued an order of punishment against the {02}{04}v.
+@1169
+At the {02}{03}v's request, the shogunate has issued an order to punish us! Curse them...
+@1169.1
+At the {02}{03}v's request, the shogunate has issued an order to punish us! What shall I do...
+@1169.2
+At the {02}{03}v's request, the shogunate has issued an order to punish us!
+@1169.3
+The shogunate has ordered our punishment at the {02}{03}v's request? What will become of the {02}{04}v...
+@1169.4
+The shogunate has ordered our punishment at the {02}{03}v's request? What will become of the {02}{04}v...
+@1169.5
+At the {02}{03}v's request, the shogunate has issued an order to punish us!
+@1170
+The {02}{03}2 shogunate has issued an order to punish the {02}{04}v, it seems.
+@1170.1
+The {02}{03}2 shogunate has issued an order to punish the {02}{04}v, it seems.
+@1170.2
+The {02}{03}2 shogunate has issued an order to punish the {02}{04}v.
+@1171
+The {02}{03}2 shogunate has ordered our punishment! At this rate we will be isolated. Was I too careless with the shogunate...
+@1171.1
+The {02}{03}2 shogunate has ordered our punishment! At this rate we will be isolated. I was too careless with the shogunate...
+@1171.2
+The {02}{03}2 shogunate has ordered our punishment! The other daimyo now treat us as an enemy.
+@1171.3
+The {02}{03}2 shogunate has ordered our punishment! The other daimyo now treat us as an enemy.
+@1171.4
+The {02}{03}2 shogunate has ordered our punishment!? What will become of the {02}{01}v...
+@1171.5
+The {02}{03}2 shogunate has ordered our punishment? What will become of the {02}{01}v...
+@1171.6
+The {02}{03}2 shogunate has ordered our punishment! The other daimyo now treat us as an enemy.
+@1171.7
+The {02}{03}2 shogunate has ordered our punishment! The other daimyo now treat us as an enemy.
+@1172
+Shall I grant the {02}{03}v's request and lift the order of punishment...
+@1172.1
+Should I grant the {02}{03}v's request and lift the order of punishment, I wonder...
+@1172.2
+Will you grant the {02}{03}v's request and lift the order of punishment?
+@1173
+Shall I lift the order of punishment against the {02}{03}v?
+@1173.1
+I shall lift the order of punishment against the {02}{03}v.
+@1173.2
+I shall lift the order of punishment against the {02}{03}v.
+@1174
+Shall I reject the {02}{03}v's request and keep the order of punishment?
+@1174.1
+I shall reject the {02}{03}v's request and keep the order of punishment.
+@1174.2
+I shall reject the {02}{03}v's request and keep the order of punishment.
+@1175
+I have lifted the order of punishment against the {02}{03}v.
+@1175.1
+I have lifted the order of punishment against the {02}{03}v.
+@1175.2
+We have lifted the order of punishment against the {02}{03}v.
+@1176
+I have rejected the {02}{03}v's request and kept the order of punishment.
+@1176.1
+I have rejected the {02}{03}v's request and kept the order of punishment.
+@1176.2
+We have rejected the {02}{03}v's request and kept the order of punishment.
+@1177
+Then how about %d gold?
+@1178
+So we have accepted the shogunate's ceasefire order and made a non-aggression pact with the {02}{03}v.
+@1178.1
+We have accepted the shogunate's ceasefire order and made a non-aggression pact with the {02}{03}v.
+@1178.2
+We have accepted the shogunate's ceasefire order and made a non-aggression pact with the {02}{03}v.
+@1178.3
+The {02}{04}v has accepted the shogunate's ceasefire order and made a non-aggression pact with the {02}{03}v, it seems.
+@1178.4
+The {02}{04}v has accepted the shogunate's ceasefire order and made a non-aggression pact with the {02}{03}v, it seems.
+@1178.5
+The {02}{04}v seems to have accepted the shogunate's ceasefire order and made a non-aggression pact with the {02}{03}v.
+@1179
+Heeding the shogunate, I have made a non-aggression pact with the {02}{03}v.
+@1179.1
+Heeding the shogunate, I have made a non-aggression pact with the {02}{03}v.
+@1179.2
+Heeding the shogunate, we have made a non-aggression pact with the {02}{03}v.
+@1180
+Ignoring the shogunate's ceasefire order, I have refused a non-aggression pact with the {02}{03}v.
+@1180.1
+Ignoring the shogunate's ceasefire order, I have refused a non-aggression pact with the {02}{03}v.
+@1180.2
+Ignoring the shogunate's ceasefire order, we have refused a non-aggression pact with the {02}{03}v.
+@1181
+Shall I grant the {02}{03}v's request and order the {02}{04}v to cease fighting...
+@1181.1
+Should I grant the {02}{03}v's request and order the {02}{04}v to cease fighting, I wonder...
+@1181.2
+Will you grant the {02}{03}v's request and order the {02}{04}v to cease fighting?
+@1182
+I will grant the {02}{03}v's request and order the {02}{04}v to cease fighting.
+@1182.1
+I shall grant the {02}{03}v's request and order the {02}{04}v to cease fighting.
+@1182.2
+We shall grant the {02}{03}v's request and order the {02}{04}v to cease fighting.
+@1183
+I will reject the {02}{03}v's request for a ceasefire order.
+@1183.1
+I shall reject the {02}{03}v's request for a ceasefire order.
+@1183.2
+We shall reject the {02}{03}v's request for a ceasefire order.
+@1184
+I will set out my terms for issuing a ceasefire order.
+@1184.1
+I shall set out my terms for issuing a ceasefire order.
+@1184.2
+We shall set out our terms for issuing a ceasefire order.
+@1185
+Heeding my ceasefire order, the {02}{04}v has made a non-aggression pact with the {02}{03}v. Such is the power of my authority.
+@1185.1
+Heeding my ceasefire order, the {02}{04}v has made a non-aggression pact with the {02}{03}v. Such is the power of my authority.
+@1185.2
+Heeding our shogunate's ceasefire order, the {02}{04}v has made a non-aggression pact with the {02}{03}v, thanks to the authority of {01}C{0C}{00}.
+@1186
+Despite my ceasefire order, the {02}{04}v has refused a non-aggression pact with the {02}{03}v. Insolent wretches! I won't stand for it!
+@1186.1
+Despite my ceasefire order, the {02}{04}v has refused a non-aggression pact with the {02}{03}v. How very insolent!
+@1186.2
+Despite {01}C{0C}{00}'s ceasefire order, the {02}{04}v has refused a non-aggression pact with the {02}{03}v. Such insolence!
+@1187
+I will demand {02}{C9}. My castle has no {02}{C9}.
+@1187.1
+I shall demand {02}{C9}. My castle has no {02}{C9}.
+@1187.2
+We shall demand {02}{C9}. Our castle has no {02}{C9}.
+@1187.3
+I will demand {02}{C9}. My castle has {02}{BF} {02}{C9}.
+@1187.4
+I shall demand {02}{C9}. My castle has {02}{BF} {02}{C9}.
+@1187.5
+We shall demand {02}{C9}. Our castle has {02}{BF} {02}{C9}.
+@1188
+Shall I write a letter ordering a ceasefire on the {02}{03}v's terms?
+@1188.1
+I shall write a letter ordering a ceasefire on the {02}{03}v's terms.
+@1188.2
+We shall write a letter ordering a ceasefire on the {02}{03}v's terms.
+@1189
+{01}C{17}{00} has sent for me, it seems. Now, what shall I do...
+@1189.1
+{01}C{17}{00} has sent for me, it seems. Now, what shall I do...
+@1189.2
+{01}C{17}{00} has sent for you. Will you go?
+@1190
+I appoint {01}C{0B}{00} head of %s. Be my right hand.
+@1190.1
+I appoint {01}C{0B}{00} head of %s. Please be my right hand.
+@1191
+Yes, my lord! I shall strive all the harder to meet your expectations.
+@1191.1
+I shall strive all the harder to meet your expectations.
+@1192
+Good. I expect much of you.
+@1192.1
+Heh. I expect much of you.
+@1193
+The commander of %s has changed from {02}{04}n to {02}{03}n.
+@1193.1
+The commander of %s has changed from {02}{04}n to {02}{03}n.
+@1193.2
+The commander of %s has changed from {02}{04}n to {02}{03}n.
+@1194
+There is no need to meet them.
+@1194.1
+There is no need to meet them.
+@1194.2
+Kind of them, but I am busy. Let it be another time.
+@1194.3
+Kind of them, but I am busy. Let it be another time.
+@1194.4
+I have sent them away.
+@1194.5
+There is no need to meet them. Send them away.
+@1194.6
+There is no need to meet them. Send them away.
+@1194.8
+They left, shoulders slumped in disappointment.
+@1194.9
+I sent them away, but was that really for the best?
+@1194.10
+If {01}C{0C}{00} says so, I shall ask them to leave.
+@1195
+If {01}C{17}{00} invites me, I must go at once.
+@1195.1
+If {01}C{17}{00} invites me, I must go at once.
+@1195.2
+An invitation from {01}C{17}{00}... I can hardly refuse.
+@1195.3
+An invitation from {01}C{17}{00}... I can hardly refuse.
+@1195.4
+They were kind enough to invite me. I can hardly refuse.
+@1195.5
+They were kind enough to invite me. Refusing would cause offence.
+@1195.6
+A kind invitation. I can hardly refuse.
+@1195.7
+A kind invitation. Refusing would cause offence.
+@1196
+I don't feel inclined... I shall claim to be ill in bed.
+@1196.1
+I don't feel inclined... I'll say I'm too ill to travel.
+@1196.4
+I don't feel inclined... I shall decline.
+@1196.5
+I don't feel inclined... I shall beg to be excused.
+@1196.6
+I don't feel inclined... I shall decline.
+@1197
+Shall I accept {01}C{18}{00}'s offer and defect to the {02}{03}v... Instructions will come in the Military phase.
+@1197.1
+Should I accept {01}C{18}{00}'s offer and defect to the {02}{03}v... Instructions will come in the Military phase.
+@1197.2
+Will you accept {01}C{18}{00}'s offer and defect to the {02}{03}v? Instructions will come in the Military phase.
+@1198
+...Agreed. I am not a man to end like this. I will defect to the {02}{03}v.
+@1198.1
+...Agreed. I shall defect to the {02}{03}v.
+@1199
+I have promised to defect to the {02}{03}v. Now to wait for the signal.
+@1199.1
+I have promised to defect to the {02}{03}v. Now to wait for the signal.
+@1200
+I refused to defect to the {02}{03}v and sent the envoy packing.
+@1200.1
+I refused to defect to the {02}{03}v and sent the envoy away.
+@1201
+{02}{04}n of {02}*N has deserted and gone to serve the {02}{03}v at {02})N!? Abandoning us... The traitor!
+@1201.1
+{02}{04}n of {02}*N has deserted and gone to serve the {02}{03}v at {02})N!? How foolish, to abandon us...
+@1201.2
+{02}{04}n of {02}*N has deserted and gone to serve the {02}{03}v at {02})N.
+@1201.3
+{02}{04}n, who deserted {02}*N of the {02}{04}v, has been taken on by the {02}{03}v at {02})N, it seems.
+@1201.5
+{02}{04}n, who deserted {02}*N of the {02}{04}v, seems to have been taken on by the {02}{03}v at {02})N.
+@1202
+Our {02}{04}n has deserted and gone to serve the {02}{03}v at {02})N!
+@1202.1
+Our {02}{04}n has deserted and gone to serve the {02}{03}v at {02})N!
+@1202.2
+Our {02}{04}n has deserted and gone to serve the {02}{03}v at {02})N!
+@1203
+Curse you, {02}{04}4... Repaying kindness with treachery! Unforgivable!
+@1203.1
+{02}{04}4 betrayed me... Next time we meet, there will be a reckoning.
+@1204
+.........\n{02}{03}n of {02})N is plotting rebellion, you say?
+@1204.1
+.........\n{02}{03}n of {02})N is plotting rebellion, you say?
+@1204.2
+Word has come that {02}{03}n of {02})N\n
+@1204.3
+is plotting rebellion, my lord.
+@1204.4
+is plotting rebellion, my lord.
+@1205
+That cannot be ignored. Summon {01}C{16}{00} at once!
+@1205.1
+I must learn the truth of it. Summon {01}C{16}{00} at once!
+@1206
+You sent for me?
+@1207
+There is a rumour that you are plotting rebellion. Is it true or not? Answer plainly.
+@1207.1
+Word has reached me that {01}C{0B}{00} is plotting rebellion. What have you to say?
+@1207.2
+I hear that you are plotting rebellion. Is it true or not? Answer plainly.
+@1207.3
+There seems to be a rumour that you are plotting rebellion. Is it true or not? Answer plainly.
+@1207.4
+Word has reached me that {01}C{0B}{00} is plotting rebellion. Do you know anything of it?
+@1207.5
+I have heard that you are plotting rebellion. Is it true or not? Answer me plainly.
+@1208
+On what grounds? Talk of rebellion is a baseless rumour. Please believe me!
+@1208.1
+Who spreads such lies!? I swear on my life, I am plotting no rebellion!!
+@1208.2
+What!? I have never even thought of rebellion.
+@1208.3
+On what grounds? Talk of rebellion is a baseless rumour. Please believe me!
+@1208.4
+Who spreads such lies!? I swear on my life, I am plotting no rebellion!!
+@1208.5
+What!? I have never even thought of rebellion!
+@1209
+...Hmm. What to do...
+@1209.1
+Well now, what to do...
+@1210
+Shall I order them to take their own life and replace the castle lord?
+@1210.1
+I shall order them to take their own life and replace the castle lord.
+@1211
+Shall I banish them and replace the castle lord?
+@1211.1
+I shall banish them and replace the castle lord.
+@1212
+Shall I wait and see for a while?
+@1212.1
+I shall wait and see for a while.
+@1213
+I want no excuses. Your guilt is plain. I order you to take your own life.
+@1213.1
+Silence! Your guilt is plain. Take your own life!
+@1213.2
+I care not for excuses. Your guilt is plain. Commit seppuku like a man.
+@1213.3
+I want no excuses. Your guilt is plain. I therefore order you to take your own life.
+@1213.4
+Silence! {02}{02}4's guilt is plain. Take your own life!
+@1213.5
+I care not for excuses. Your guilt is plain. Commit seppuku with dignity.
+@1214
+If you will not believe me, so be it. I shall prove my innocence with my death...
+@1214.1
+.........\nIf you will not believe me, so be it. My death will prove my innocence.
+@1214.2
+No... If you will not believe me, so be it. Let my death be proof of my innocence.
+@1214.3
+If you will not believe me, so be it. Let my death be proof of my innocence.
+@1214.4
+.........\nIf you will not believe me, so be it. My death will prove my innocence.
+@1214.5
+No... If you will not believe me, so be it. I shall await you in the next world...
+@1215
+Words come cheap. Go wherever you please, before I have your head.
+@1215.1
+Silence! I'll spare your life, so go wherever you please.
+@1215.2
+I can no longer trust you, nor bear to see your face. Go wherever you please.
+@1215.3
+Words come cheap. Go wherever you please, before I have your head.
+@1215.4
+Silence! I shall spare your life, so go wherever you please.
+@1215.5
+Words come cheap. I cannot bear to see your face. Go wherever you please.
+@1216
+If you will not believe me, so be it... To think I would leave the castle like this...
+@1216.1
+.........\nIf you won't believe me, so be it. We'll meet on the battlefield one day.
+@1216.2
+No... If you will not believe me, so be it. Thank you for all you have done for me.
+@1216.3
+If you will not believe me, so be it... To think I would leave the castle like this...
+@1216.4
+.........\nIf you won't believe me, so be it. We shall meet on the battlefield one day.
+@1216.5
+No... If you will not believe me, so be it. Thank you for all you have done for me.
+@1217
+Good, I thought as much. I never doubted {01}C{0B}{00}'s innocence.
+@1217.1
+Hmm... I'll trust {02}{02}4 this time.
+@1217.2
+Good, I understand. I always believed you were innocent.
+@1217.3
+Of course. I never doubted {01}C{0B}{00} for a moment.
+@1217.4
+...Very well. I'll trust {02}{02}4 this time.
+@1217.5
+I understand. I always believed you were innocent.
+@1218
+You see my loyalty, then!
+@1218.1
+You see my loyalty, then!
+@1218.5
+You see my loyalty, then!
+@1219
+Of course. Keep working hard for me.
+@1219.1
+Of course. In future, behave so that no such rumours arise.
+@1219.2
+Of course. See that you never betray my trust.
+@1219.3
+Of course. Keep working hard for me.
+@1219.4
+Of course. In future, behave so that no such rumours arise.
+@1219.5
+Of course. Please keep lending me your strength.
+@1220
+Yes, my lord! Understood.
+@1220.1
+Yes, my lord! As you will.
+@1220.2
+Yes, my lord! Certainly.
+@1220.3
+Yes, my lord! Understood.
+@1220.4
+Yes, my lord! As you will.
+@1221
+I drove off the intruder somehow, but I was wounded...
+@1221.1
+I drove off the intruder somehow, but I was wounded...
+@1222
+I drove off the intruder. Who could have sent them...?
+@1222.1
+I drove off the intruder. Who could have sent them...?
+@1223
+%s assassinated in my castle!? What a disaster!
+@1223.1
+%s assassinated in my castle!? How terrible!
+@1223.2
+G-grave news! %s has been assassinated in our castle!
+@1224
+How careless of me to be wounded...
+@1224.1
+To think that I would be wounded...
+@1224.2
+{02}{03}n attacked and wounded in my castle!?
+@1224.3
+{02}{03}n attacked and wounded in my castle!?
+@1224.4
+I was attacked by someone! I drove them off, but carelessly let myself be wounded.
+@1224.5
+Someone tried to take {02}{03}n's life and wounded our lord! Unforgivable!
+@1224.6
+T-terrible news! {02}{03}n was attacked in our castle and wounded!
+@1225
+How careless of me to be attacked... I must stay on my guard...
+@1225.1
+To think that I would be attacked... I must stay on my guard...
+@1225.2
+{02}{03}n attacked in my castle!? But the attacker was driven off... A blessing in disguise...
+@1225.3
+{02}{03}n attacked in my castle!? But you drove them off? Thank goodness...
+@1225.4
+I was attacked by someone! I drove them off, but my word, that was close...
+@1225.5
+An intruder slipped into the castle to take {02}{03}n's life! To target our lord... Unforgivable!
+@1225.6
+{02}{03}n was attacked in our castle, but drove off the attacker, it seems.
+@1226
+{01}C{17}{00} assassinated!?
+@1226.1
+{02}{03}n assassinated at our {02})N!?
+@1226.2
+{01}C{17}{00} assassinated!?
+@1226.3
+{02}{03}n assassinated at our {02})N!?
+@1226.4
+{01}C{17}{00} has been assassinated!
+@1226.5
+{02}{03}n has been assassinated at our {02})N!
+@1226.6
+{02}{03}n, head of the {02}{03}v, has been assassinated at {02})N, it seems.
+@1226.7
+{02}{03}n, head of the {02}{03}v, has been assassinated at {02})N, it seems.
+@1226.8
+{02}{03}n, head of the {02}{03}v, seems to have been assassinated at {02})N.
+@1226.9
+{02}{03}n of the {02}{03}v has been assassinated at {02})N, it seems.
+@1226.10
+{02}{03}n of the {02}{03}v has been assassinated at {02})N, it seems.
+@1226.11
+{02}{03}n of the {02}{03}v seems to have been assassinated at {02})N.
+@1227
+Saboteurs have breached my castle walls!? Who could have sent them!?
+@1227.1
+Saboteurs have breached my castle walls!? Who could have sent them!?
+@1227.2
+Saboteurs have breached our castle walls! Who could have sent them!?
+@1227.3
+Saboteurs have breached my castle walls!? How am I to report this to {01}C{17}{00}!
+@1227.4
+Saboteurs have breached my castle walls!? How am I to report this to {01}C{17}{00}!
+@1227.5
+Saboteurs have breached our castle walls! How are we to report this to {01}C{17}{00}!
+@1228
+I accept {01}C{18}{00}'s offer and promise to switch sides to the {02}{04}v.
+@1228.1
+I accept {01}C{18}{00}'s offer and promise to switch sides to the {02}{04}v.
+@1228.2
+I accept {01}C{18}{00}'s offer and promise to switch sides to the {02}{04}v.
+@1229
+Shall I refuse the offer?
+@1229.1
+I shall refuse the offer.
+@1229.2
+I shall refuse the offer.
+@1230
+I will refuse and inform {01}C{1F}{00} of this plot.
+@1230.1
+I shall refuse and inform {01}C{1F}{00} of this plot.
+@1230.2
+I shall refuse and inform {01}C{1F}{00} of this plot.
+@1230.3
+I will refuse and inform {01}C {00} of this plot.
+@1230.4
+I shall refuse and inform {01}C {00} of this plot.
+@1230.5
+I shall refuse and inform {01}C {00} of this plot.
+@1231
+I have accepted {01}C{18}{00}'s offer. Word on when to act will follow.
+@1231.1
+I have accepted {01}C{18}{00}'s offer. Word on when to act will follow.
+@1232
+I have refused {01}C{18}{00}'s offer.
+@1232.1
+I have refused {01}C{18}{00}'s offer.
+@1233
+Did {02}{03}4 really think I would join such a foolish scheme? I must tell {01}C{1F}{00} at once.
+@1233.1
+Did they really think I would join such wickedness? I must tell {01}C{1F}{00} at once.
+@1233.2
+Did {02}{03}4 really think I would join such a foolish scheme? I'll tell {01}C {00} and earn some gratitude...
+@1233.3
+Did they really think I would join such wickedness? I'll tell {01}C {00} and earn some gratitude...
+@1234
+Our {02}{03}n has taken their own life, charged with treason!? What on earth happened...
+@1234.1
+Our {02}{03}n has taken their own life, charged with treason!? What on earth happened...
+@1234.2
+Our {02}{03}n has taken their own life, charged with treason! What can have happened?
+@1234.3
+{02}{03}n of the {02}{03}v has taken their own life, charged with treason, it seems.
+@1234.4
+{02}{03}n of the {02}{03}v has taken their own life, charged with treason, it seems.
+@1234.5
+{02}{03}n of the {02}{03}v seems to have taken their own life, charged with treason.
+@1235
+Shall I accept {01}C{18}{00}'s offer and join in raising a new clan...
+@1235.1
+Should I accept {01}C{18}{00}'s offer and join in raising a new clan...
+@1235.2
+Will you accept {01}C{18}{00}'s offer and join in raising a new clan?
+@1236
+Shall I accept {01}C{18}{00}'s offer and promise to break free of the {02}{04}v?
+@1236.1
+Should I accept {01}C{18}{00}'s offer and promise to break free of the {02}{04}v?
+@1236.2
+I accept {01}C{18}{00}'s offer and promise to break free of the {02}{04}v.
+@1237
+Shall I answer {02}{03}n's request and write a letter giving them a just cause...
+@1237.1
+Should I answer {02}{03}n's request and write a letter giving them a just cause...
+@1237.2
+Will you answer {02}{03}n's request and write a letter giving them a just cause?
+@1238
+Shall I give them a just cause?
+@1238.1
+I shall give them a just cause.
+@1238.2
+I shall give them a just cause.
+@1239
+I cannot give them a just cause.
+@1239.1
+I cannot give them a just cause.
+@1239.2
+I shall not give them a just cause.
+@1239.3
+I shall not give them a just cause.
+@1240
+I have given {02}{03}n a just cause.
+@1240.1
+I have given {02}{03}n a just cause.
+@1240.2
+I have given {02}{03}n a just cause.
+@1241
+I did not give {02}{03}n a just cause.
+@1241.1
+I did not give {02}{03}n a just cause.
+@1241.2
+I did not give {02}{03}n a just cause.
+@1242
+We have also made a non-aggression pact with the {02}{AB}{AF}, vassal of the {02}{03}v.
+@1242.1
+We have also made a non-aggression pact with the {02}{AB}{AF}, vassal of the {02}{03}v.
+@1242.2
+We have also made a non-aggression pact with the {02}{AB}{AF}, vassal of the {02}{03}v!
+@1242.3
+We have also made a non-aggression pact with the {02}{AB}{AF}, vassal of the {02}{03}v.
+@1243
+The castle has none of the goods demanded, so I cannot lower the price.
+@1243.1
+The castle has none of the goods demanded, so I cannot lower the price.
+@1243.2
+The castle has none of the goods demanded, so we cannot lower the price.
+@1243.3
+The castle has none of the goods demanded, so we cannot lower the price.
+@1244
+The {02}{03}v of {02}{03}N seems to have given orders to its vassal, the {02}{AB}{AF}, as well.
+@1244.1
+The {02}{03}v of {02}{03}N seems to have given orders to its vassal, the {02}{AB}{AF}, as well.
+@1244.2
+The {02}{03}v of {02}{03}N seems to have given orders to its vassal, the {02}{AB}{AF}, as well.
+@1245
+Then, regrettably, let us forget this proposal.
+@1245.1
+Then, regrettably, let us forget this proposal.
+@1246
+I am in charge of {02}{C9}.
+@1246.1
+Currently in charge of {02}{C9}.
+@1246.2
+I am in charge of {02}{C9}.
+@1246.3
+Currently in charge of {02}{C9}.
+@1246.4
+{01}C{17}{00} is in charge of {02}{C9}.
+@1246.5
+I am in charge of {02}{C9}.
+@1246.6
+Currently in charge of {02}{C9}.
+@1246.7
+Currently in charge of {02}{C9}.
+@1247
+So I could not deepen our friendship.
+@1247.1
+I could not deepen our friendship.
+@1247.2
+We could not deepen our friendship.
+@1248
+Our guests seem to have enjoyed themselves.
+@1248.1
+Our guests seem to have enjoyed themselves.
+@1248.2
+Our guests seem to have enjoyed themselves.
+@1249
+Oh, how kind! I shall make preparations at once.
+@1249.1
+Thank you! I shall make preparations at once.
+@1250
+Wh-what do you intend!? Please reconsider!
+@1250.1
+Wh-what do you intend? Please reconsider.
+@1250.2
+Wh-what do you mean to do!? Surely you don't intend to do that to me!
+@1250.3
+Wh-what do you mean to do!? Surely you don't intend to do that to me!
+@1250.4
+What do you intend, my lord!? Please, think again!
+@1250.6
+I will banish this officer.
+@1250.7
+Shall I banish this officer?
+@1250.8
+I shall banish this officer.
+@1251
+Shall I stop punishing the officer...
+@1251.1
+Should I stop punishing the officer...
+@1251.2
+I shall stop punishing the officer.
+@1252
+The castle lord has already been changed.
+@1252.1
+The castle lord has already been changed.
+@1252.2
+The castle lord has already been changed.
+@1253
+The castle lord is away on campaign; I cannot change them.
+@1253.1
+The castle lord is away on campaign; I cannot change them.
+@1253.2
+The castle lord is away on campaign; we cannot change them.
+@1253.3
+The castle lord is away on campaign; we cannot change them.
+@1254
+I have changed every castle that could be changed.
+@1254.1
+I have changed every castle that could be changed.
+@1254.2
+We have changed every castle that could be changed.
+@1255
+Times have changed... I shall take holy orders and spend my remaining years in peace...
+@1257
+Let us forget the past. I would like to make a non-aggression pact. What say you?
+@1257.1
+Let us forget the past. I would like to make a non-aggression pact. What do you say?
+@1257.2
+Let us put our unhappy past behind us. We wish to make a non-aggression pact.
+@1259
+How dare you say such a thing to my face! I can't bear the sight of you. Get out!
+@1259.1
+How dare you say such a thing so coolly! I can't bear the sight of you. Please leave!
+@1260
+The {02}{0D}E and our clan have a bitter history... I cannot make a pact with such a house.
+@1260.1
+The {02}{0D}E and our clan have a bitter history... I cannot make a pact with such a house.
+@1261
+We are part of the encirclement of the {02}{04}v, so I cannot agree to this alliance.
+@1261.1
+We are part of the encirclement of the {02}{04}v, so I cannot agree to this alliance.
+@1262
+I cannot join an alliance with the {02}{04}v, who is part of the encirclement against us.
+@1262.1
+I cannot join an alliance with the {02}{04}v, who is part of the encirclement against us.
+@1263
+I cannot join an alliance with the {02}{04}v, who issued an order to punish us.
+@1263.1
+I cannot join an alliance with the {02}{04}v, who issued an order to punish us.
+@1264
+We have issued an order to punish the {02}{04}v, so I cannot join an alliance with them.
+@1264.1
+We have issued an order to punish the {02}{04}v, so I cannot join an alliance with them.
+@1265
+We are hostile to the {02}{04}v, so I cannot join an alliance with them.
+@1265.1
+We are hostile to the {02}{04}v, so I cannot join an alliance with them.
+@1266
+The {02}{02}v cannot be trusted. A military alliance? Don't make me laugh.
+@1266.1
+The {02}{02}v cannot be trusted. A military alliance? How transparent.
+@1268
+Let us forget the past. I would like to form a military alliance. What say you?
+@1268.1
+Let us forget the past. I would like to form a military alliance. What do you say?
+@1268.2
+Let us put our unhappy past behind us. We wish to form a military alliance.
+@1269
+Very well. I will cooperate.
+@1269.1
+Very well. I shall cooperate.
+@1271
+Let us forget the past. I would like you to join the encirclement of the {02}{03}v. What say you?
+@1271.1
+Let us forget the past. I would like you to join the encirclement of the {02}{03}v. What do you say?
+@1271.2
+Let us put our unhappy past behind us. We ask you to join the encirclement of the {02}{03}v.
+@1272
+A vassal clan cannot be the target of an encirclement.
+@1272.1
+A vassal clan cannot be the target of an encirclement.
+@1272.2
+A vassal clan cannot be the target of an encirclement.
+@1272.3
+A vassal clan cannot be the target of an encirclement.
+@1273
+At {02})N, {02}{04}n has replaced {02}{C9} as castle lord, it seems.
+@1273.1
+At {02})N, {02}{04}n has replaced {02}{C9} as castle lord, it seems.
+@1273.2
+At {02})N, {02}{04}n has replaced {02}{C9} as castle lord, it seems.
+@1273.3
+At {02})N, {02}{04}n seems to have replaced {02}{C9} as castle lord.
+@1274
+I have taken over {02})N from {02}{C9}.
+@1274.1
+I shall take over {02})N from {02}{C9}.
+@1274.2
+{01}C{0C}{00}, please succeed {02}{C9} as lord of {02})N.
+@1274.3
+{01}C{0C}{00}, please succeed {02}{C9} as lord of {02})N.
+@1275
+At {02})N, {02}{04}n has replaced {02}{C9} as castle lord and taken command of %s, it seems.
+@1275.1
+At {02})N, {02}{04}n has replaced {02}{C9} as castle lord and taken command of %s, it seems.
+@1275.2
+At {02})N, {02}{04}n has replaced {02}{C9} as castle lord and taken command of %s, it seems.
+@1275.3
+At {02})N, {02}{04}n seems to have replaced {02}{C9} as castle lord and taken command of %s.
+@1276
+I have taken over {02})N and %s from {02}{C9}.
+@1276.1
+I have taken over {02})N and %s from {02}{C9}.
+@1276.2
+{01}C{0C}{00}, please succeed {02}{C9} and lead {02})N and %s.
+@1276.3
+{01}C{0C}{00}, please succeed {02}{C9} and lead {02})N and %s.
+@1277.2
+At {02})N, {02}{04}n has replaced {02}{C9} as castle lord.
+@1277.3
+At {02})N, {02}{04}n has replaced {02}{C9} as castle lord.
+@1278.3
+At {02})N, {02}{04}n has replaced {02}{C9} as castle lord and taken command of %s.
+@1279
+From now on, I shall be head of this clan.
+@1279.1
+From now on, I shall be head of this clan.
+@1279.2
+So {02}{04}n is to succeed as head of our clan.
+@1279.3
+So {02}{04}n is to succeed as head of our clan.
+@1279.4
+I shall succeed as head of our clan!
+@1279.5
+{02}{04}n is to succeed as head of our clan.
+@1279.6
+{02}{04}n has succeeded as head of the {02}{C9}, it seems.
+@1279.7
+{02}{04}n has succeeded as head of the {02}{C9}, it seems.
+@1279.8
+{02}{04}n seems to have succeeded as head of the {02}{C9}.
+@1280
+Shall I call off the attack on the officer and go back to choosing a ninja task?
+@1280.1
+I shall call off the attack on the officer and go back to choosing a ninja task.
+@1280.2
+I shall call off the attack on the officer and go back to choosing a ninja task.
+@1281
+The target, {02}{03}n, is nowhere in the castle town. I'll withdraw this time.
+@1281.1
+The target, {02}{03}n, is nowhere to be found. No help for it; I'll try again later.
+@1282
+With the treasure gone, my troop type is now "Infantry".
+@1282.1
+{02}{03}n has lost the treasure's effect; their troop type is now "Infantry".
+@1282.2
+With the treasure gone, my troop type is now "Infantry".
+@1282.3
+{02}{03}n has lost the treasure's effect; their troop type is now "Infantry".
+@1282.4
+{02}{03}n has lost the treasure's effect; the troop type is now "Infantry".
+@1282.5
+I have lost the treasure's effect; my troop type is now "Infantry".
+@1282.6
+{02}{03}n has lost the treasure's effect; their troop type is now "Infantry".
+@1283
+The shogunate and its allies cannot be chosen.
+@1283.1
+The shogunate and its allies cannot be chosen.
+@1283.2
+The shogunate and its allies cannot be chosen.
+@1284
+I'll end this season's orders and await instructions from {01}C{17}{00}.
+@1284.1
+I shall end this season's orders and await instructions from {01}C{17}{00}.
+@1284.2
+Let us end this season's strategy and await instructions from {01}C{17}{00}.
+@1285
+I'll go back to choosing the husband.
+@1285.1
+I shall go back to choosing the husband.
+@1285.2
+Returning to the choice of husband.
+@1286
+I must choose a castle other than my own...
+@1286.1
+I must choose a castle other than my own...
+@1286.2
+Please choose a castle other than your own.
+@1287
+???\nThey suddenly got up and left. What on earth happened?
+@1287.1
+???\nThey suddenly got up and left. What on earth happened?
+@1287.2
+???\nThey suddenly got up and left. What on earth happened?
+@1288
+I look forward to the moment {01}C{18}{00} defects.
+@1288.1
+I look forward to the moment {01}C{18}{00} defects.
+@1288.2
+Let us look forward to the moment {01}C{18}{00} defects.
+@1288.3
+The poaching failed, but {02}{03}n's loyalty to {02}{04}n has fallen, it seems.
+@1288.4
+The poaching failed, but {02}{03}n's loyalty to {02}{04}n has fallen, it seems.
+@1288.5
+The poaching failed, but {02}{03}n's loyalty to {02}{04}n has fallen.
+@1289
+Shall I stop hiring ninja...
+@1289.1
+Should I stop hiring ninja...
+@1289.2
+I shall stop hiring ninja.
+@1290
+Here is the list of hired ninja.
+@1290.1
+Here is the list of hired ninja.
+@1290.2
+Here is the list of hired ninja.
+@1291
+I have hired some dependable people. I'll put them to good use.
+@1291.1
+I have hired some dependable people. I'll put them to good use.
+@1291.2
+We have hired some dependable people. Let us put them to good use for our clan.
+@1292
+Then I ask for this, please.
+@1292.1
+Then I ask for this, please.
+@1293
+They ask %s %d. Now, what to do...
+@1293.1
+They ask %s %d. Now, what should I do...
+@1293.2
+They ask %s %d. What will you do?
+@1294
+Shall I call off the ninja's infiltration...
+@1294.1
+Should I call off the ninja's infiltration...
+@1294.2
+I shall call off the ninja's infiltration.
+@1295
+All the ninja have acted or are wounded; I can reassign no more.
+@1295.1
+All the ninja have acted or are wounded; I can reassign no more.
+@1295.2
+All the ninja have acted or are wounded; we can reassign no more.
+@1295.3
+All the ninja have acted or are wounded; we can reassign no more.
+@1296
+Two castles have already been chosen.
+@1296.1
+Two castles have already been chosen.
+@1296.2
+Two castles have already been chosen.
+@1297
+I humbly beg permission for a marriage with the {02}{03}v.
+@1297.1
+I humbly beg permission for a marriage with the {02}{03}v.
+@1297.2
+I humbly beg permission for a marriage with the {02}{03}v.
+@1298
+To put our two houses' unhappy past behind us, I would like {02}{03}n to marry {02}{04}n. What say you?
+@1298.1
+To put our two houses' unhappy past behind us, I would like {02}{03}n to marry {02}{04}n. What do you say?
+@1298.2
+To put our two houses' unhappy past behind us, I have come to arrange a marriage between {02}{03}n and {02}{04}n.
+@1299
+The {02}{02}v and our clan have a bitter history. How dare you ask such a thing! I will never grant the {02}{02}v anything!
+@1299.1
+The {02}{02}v and our clan have a bitter history. What shamelessness! I will never grant the {02}{02}v anything!
+@1300
+It seems your anger will not be soothed. Then I shall take my leave.
+@1300.1
+It seems your anger will not be soothed. Then I shall take my leave.
+@1300.2
+It seems your anger will not be soothed. I shall give up on this proposal.
+@1300.3
+It seems your anger will not be soothed. I shall give up on this proposal.
+@1301
+My castle is in dire need of goods... Let us forget the past. I would ask you to spare us some.
+@1301.1
+My castle is in dire need of goods... Could we forget the past, and could you spare us some?
+@1301.2
+We are short of goods. We beg you to forget the past and help us.
+@1302
+Who do you think I am!? Even if it destroys me, I will never surrender to the {02}{02}v!
+@1302.1
+I have my pride! Even if it destroys me, I will not surrender to the {02}{02}v!
+@1303
+The fief has not changed.
+@1303.1
+The fief has not changed.
+@1303.2
+The fief has not changed.
+@1303.3
+The fief has not changed.
+@1304
+I must choose an officer to banish...
+@1304.1
+I must choose an officer to banish...
+@1304.2
+Please choose an officer to banish.
+@1305
+To treat your own father like this... Ungrateful child!
+@1305.1
+To treat your own mother like this... I have lived too long.
+@1305.2
+To banish your own son... What a fearsome parent you are...
+@1305.3
+To banish your own daughter... I'll be glad to be free of this house.
+@1305.4
+To banish your elder brother... What a fearsome brother you are...
+@1305.5
+To banish your elder brother... What a fearsome sister you are...
+@1305.6
+To banish your elder sister... That is against all decency!
+@1305.7
+To banish your elder sister... What a terrible thing to do.
+@1305.8
+To banish your younger brother... You have no heart, Brother.
+@1305.9
+To banish your younger brother... You have no heart, Sister.
+@1305.10
+To banish your younger sister... Have you no heart, Brother!?
+@1305.11
+To banish your younger sister... Are you even human, Sister!?
+@1305.12
+To abandon someone as faithful as me... How cruel!
+@1305.13
+After all I have done for you, to be banished... It is too much. I shall resent you for this.
+@1305.14
+...Then I take my leave. I shall pray for {02}{02}4's health from the road.
+@1305.15
+To cast people aside like tools... How fitting for one who seeks the realm.
+@1305.16
+Wh-why, my lord!? Have I failed you somehow...
+@1306
+You worked me hard, and now I'm useless you banish me? This is heartless!
+@1306.1
+Ignoring my deeds and banishing me so easily... You are a demon.
+@1306.2
+Then I take my leave. We shall not meet again.
+@1306.3
+No one is more loyal than I... Are {02}{02}4's eyes clouded?
+@1306.4
+Wh-what is this... This will be the end of our clan!
+@1307
+This treasure costs {02}{C0} gold. The castle has {02}{BF} gold. Shall I buy it...
+@1307.1
+This treasure costs {02}{C0} gold. The castle has {02}{BF} gold. Should I buy it...
+@1307.2
+This treasure costs {02}{C0} gold. The castle has {02}{BF} gold. Will you buy it?
+@1308
+Shall I sell this treasure...
+@1308.1
+Should I sell this treasure...
+@1308.2
+I shall sell this treasure.
+@1309
+Shall I finish trading and return?
+@1309.1
+I shall finish trading and return.
+@1309.2
+I shall finish trading and return.
+@1311
+Let us forget the past. I would like us to be friends again. What say you?
+@1311.1
+Let us forget the past. I would like us to be friends again. What do you say?
+@1311.2
+Let us put our unhappy past behind us. We wish to renew our friendship.
+@1312
+I have come today to build better relations between our clan and the {02}{02}v.
+@1312.1
+I have come today to build better relations between our clan and the {02}{02}v.
+@1314
+{01}C{17}{00} is a truly wise ruler. Could we not forget the past and be friends with our clan?
+@1314.1
+{02}{01}{97} is a truly wise ruler. Won't you forget the past and be friends with our clan?
+@1315
+{01}C{17}{00} is a truly wise ruler. Friendship with our clan would surely serve {01}C{0D}{00} well.
+@1315.1
+{02}{01}{97} is a truly wise ruler. Friendship with our clan would serve {01}C{0D}{00} well too.
+@1320
+You join the encirclement against us, then dare say this to my face? Leave while your head is still on.
+@1320.1
+You join the encirclement against us, then dare say this to my face? Leave while you still live.
+@1321
+We are part of the encirclement of the {02}{03}v, so I cannot agree to this non-aggression pact.
+@1321.1
+We are part of the encirclement of the {02}{03}v, so I cannot agree to this non-aggression pact.
+@1322
+You issued an order to punish us, and now you say this? Enough of your forked tongue!
+@1322.1
+You issued an order to punish us, and now you say this? Enough of your forked tongue!
+@1323
+Having ordered the punishment of the {02}{02}v, I have no wish for peace now. Go home and prepare for war.
+@1323.1
+Having ordered the punishment of the {02}{02}v, I have no wish for peace now. Go home and prepare for war.
+@1325
+We are part of the encirclement of the {02}{04}v, so I cannot agree to this non-aggression pact.
+@1325.1
+We are part of the encirclement of the {02}{04}v, so I cannot agree to this non-aggression pact.
+@1326
+I cannot join a non-aggression pact with the {02}{04}v, who is part of the encirclement against us.
+@1326.1
+I cannot join a non-aggression pact with the {02}{04}v, who is part of the encirclement against us.
+@1327
+I cannot join a non-aggression pact with the {02}{04}v, who issued an order to punish us.
+@1327.1
+I cannot join a non-aggression pact with the {02}{04}v, who issued an order to punish us.
+@1328
+We have issued an order to punish the {02}{04}v, so I cannot join a non-aggression pact with them.
+@1328.1
+We have issued an order to punish the {02}{04}v, so I cannot join a non-aggression pact with them.
+@1329
+We have no intention of befriending the {02}{02}v. Kindly leave.
+@1329.1
+We have no intention of befriending the {02}{02}v. Please leave.
+@1330
+Our two houses are enemies. Leave while your head is still on.
+@1330.1
+Our two houses are enemies. Leave while your head is still on.
+@1331
+Silence! I am in a foul mood. Save that talk for another time.
+@1331.1
+I am in a bad mood just now. Save that talk for another time.
+@1332
+We have no intention of befriending a house that is an enemy of the court. Kindly leave.
+@1332.1
+We have no intention of befriending a house that is an enemy of the court. Please leave.
+@1333
+We have no intention of befriending a house under an order of punishment. Kindly leave.
+@1333.1
+We have no intention of befriending a house under an order of punishment. Please leave.
+@1337
+So fixed on trifles you cannot see the larger picture... Talking is useless, it seems. I take my leave.
+@1337.1
+So fixed on trifles you cannot see the larger picture... You will not listen, so I take my leave.
+@1337.2
+Since your anger will not be soothed, I shall take my leave.
+@1338
+I see. You have no wish to negotiate. Then farewell.
+@1338.1
+I see. You have no wish to negotiate. Then I take my leave.
+@1338.2
+Is that so? You have no wish to negotiate. Then I shall take my leave.
+@1338.3
+Is that so? You have no wish to negotiate. Then I shall take my leave.
+@1339
+So I was sent away.
+@1339.1
+I was sent away.
+@1339.2
+I was sent away.
+@1339.3
+The envoy was sent away, it seems.
+@1339.4
+The envoy was sent away, it seems.
+@1339.5
+The envoy was sent away.
+@1339.6
+The {02}{03}v seems to have no intention of friendly relations with us.
+@1339.7
+The {02}{03}v seems to have no intention of friendly relations with us.
+@1339.8
+The {02}{03}v seems to have no intention of friendly relations with us.
+@1340
+I swallow my pride and ask you: please forget the past and take us under your protection.
+@1340.1
+I swallow my pride and ask you: please forget the past and take us under your protection.
+@1340.2
+Forgive me for asking, but please forget the past and take us under your protection.
+@1341
+What's more, I have been stripped of my court title, {02}=2.
+@1341.1
+What's more, I have been stripped of my court title, {02}=2.
+@1341.2
+What's more, we have been stripped of the court title {02}=2.
+@1341.3
+What's more, {01}C{17}{00} has been stripped of the court title {02}=2.
+@1341.4
+What's more, {01}C{17}{00} has been stripped of the court title {02}=2.
+@1341.5
+What's more, {01}C{17}{00} has been stripped of the court title {02}=2.
+@1341.6
+{02}{03}n, now an enemy of the court, has been stripped of the title {02}=2, it seems.
+@1341.7
+{02}{03}n, now an enemy of the court, has been stripped of the title {02}=2, it seems.
+@1341.8
+{02}{03}n, now an enemy of the court, seems to have been stripped of the title {02}=2.
+@1342
+Fool! You come here knowing nothing? {02}{02}4, did you think I didn't know of your scheme!?
+@1342.1
+Fool! You come here knowing nothing? {02}{02}4, I saw through your scheme long ago!
+@1344
+I see... Next time, bring a gift.
+@1344.1
+I see... Next time, please don't forget anything.
+@1345
+Understood. I shall come back another day.
+@1345.1
+Understood. I shall come back another day.
+@1346
+Our relations with the {02}{03}2 shogunate have improved.\n(Friendship {02}{DE}{02}{02}{02}{03})
+@1346.1
+Our relations with the {02}{03}2 shogunate have improved.\n(Friendship {02}{DE}{02}{02}{02}{03})
+@1346.2
+Our relations with the {02}{03}2 shogunate seem to have improved.\n(Friendship {02}{DE}{02}{02}{02}{03})
+@1347
+Dismissing them from the post of {02}G2 has lowered the {02}{03}v's prestige.
+@1347.1
+Dismissing them from the post of {02}G2 has lowered the {02}{03}v's prestige.
+@1347.2
+Dismissing them from the post of {02}G2 has lowered the {02}{03}v's prestige.
+@1348
+What's more, I have been dismissed as {02}G2, and our prestige has fallen!
+@1348.1
+What's more, I have been dismissed as {02}G2, and our prestige has fallen!
+@1348.2
+What's more, {01}C{0C}{00} has been dismissed as {02}G2. Our prestige has fallen!
+@1348.3
+What's more, {01}C{0C}{00} has been dismissed as {02}G2. Our prestige has fallen!
+@1348.4
+What's more, {01}C{17}{00} has been dismissed as {02}G2, and our prestige has fallen!
+@1348.5
+What's more, {01}C{17}{00} has been dismissed as {02}G2, and our prestige has fallen!
+@1348.6
+What's more, {01}C{17}{00} has been dismissed as {02}G2, and our prestige has fallen!
+@1348.7
+{02}{03}n has been dismissed from the post of {02}G2, it seems.
+@1348.8
+{02}{03}n has been dismissed from the post of {02}G2, it seems.
+@1348.9
+{02}{03}n has been dismissed from the post of {02}G2.
+@1349
+So the shogunate ends with me... I shall return all shogunate posts to the Imperial Court.
+@1349.1
+So the shogunate ends with me... I shall return all shogunate posts to the Imperial Court.
+@1349.2
+Sadly, the shogunate can no longer stand. All shogunate posts have been returned to the Imperial Court.
+@1349.3
+Sadly, the shogunate can no longer stand. All shogunate posts have been returned to the Imperial Court.
+@1349.4
+The {02}{03}2 shogunate has fallen, so all shogunate posts are void.
+@1349.5
+The {02}{03}2 shogunate has fallen, so all shogunate posts are void.
+@1349.6
+The {02}{03}2 shogunate has fallen, so all shogunate posts are void.
+@1350
+A marriage with our overlord's clan cannot be broken.
+@1350.1
+A marriage with our overlord's clan cannot be broken.
+@1350.2
+A marriage with our overlord's clan cannot be broken.
+@1351
+We have left the encirclement of the {02}{04}v.
+@1351.1
+We have left the encirclement of the {02}{04}v.
+@1351.2
+We have left the encirclement of the {02}{04}v.
+@1351.3
+The {02}{03}v of {02}{03}N has left the encirclement of the {02}{04}v.
+@1351.4
+The {02}{03}v of {02}{03}N has left the encirclement of the {02}{04}v.
+@1351.5
+The {02}{03}v of {02}{03}N has left the encirclement of the {02}{04}v.
+@1351.6
+The {02}{03}v has left our encirclement of the {02}{04}v!
+@1351.7
+The {02}{03}v has left our encirclement of the {02}{04}v!
+@1351.8
+The {02}{03}v has left the encirclement of the {02}{04}v that we lead.
+@1351.9
+We have left the {02}{03}v's encirclement of the {02}{04}v.
+@1351.10
+We have left the {02}{03}v's encirclement of the {02}{04}v.
+@1351.11
+We have left the encirclement of the {02}{04}v led by the {02}{03}v.
+@1351.12
+Both houses have left the encirclement of the {02}{04}v!
+@1351.13
+Both houses have left the encirclement of the {02}{04}v!
+@1351.14
+Both houses have left the encirclement of the {02}{04}v.
+@1352
+As a result, the encirclement of the {02}{04}v has collapsed.
+@1352.1
+As a result, the encirclement of the {02}{04}v has collapsed.
+@1352.2
+As a result, the encirclement of the {02}{04}v has collapsed.
+@1353
+With the marriage broken, the military alliance is broken too.
+@1353.1
+With the marriage broken, the military alliance is broken too.
+@1353.2
+With the marriage broken, the military alliance is broken too.
+@1354
+This is the current target.
+@1354.1
+This is the current target.
+@1354.2
+This is the current target.
+@1355
+A clan under an order of punishment cannot be given a post.
+@1355.1
+A clan under an order of punishment cannot be given a post.
+@1355.2
+A clan under an order of punishment cannot be given a post.
+@1356
+We have a non-aggression pact with the minor power we would ask.
+@1356.1
+We have a non-aggression pact with the minor power we would ask.
+@1356.2
+We have a non-aggression pact with the minor power you would ask.
+@1357
+I've grown close to {01}C{0B}{00}, who invited me, and to the other guests.
+@1357.1
+I've grown close to {01}C{0B}{00}, who invited me, and to the other guests.
+@1357.2
+I've grown close to {01}C{0C}{00}, who invited me, and to the other guests.
+@1357.3
+I've grown close to {01}C{0C}{00}, who invited me, and to the other guests.
+@1357.4
+I've grown close to {01}C{0D}{00}, who invited me, and to the other guests.
+@1357.5
+I've grown close to {01}C{0D}{00}, who invited me, and to the other guests.
+@1357.6
+I've grown close to {02}{02}n, who invited me, and to the other guests.
+@1357.7
+I've grown close to {02}{02}n, who invited me, and to the other guests.
+@1357.12
+I've grown close to {01}C{0D}{00}, who invited me, and to the other guests.
+@1357.13
+I've grown close to {01}C{0D}{00}, who invited me, and to the other guests.
+@1358
+{01}C{17}{00} seems to suspect me. Who could have slandered me so...
+@1358.1
+{01}C{17}{00} seems to suspect me. Who could have slandered me so...
+@1358.2
+Someone has slandered you, and {01}C{17}{00} seems to suspect {01}C{0C}{00}.
+@1359
+{01}C{0B}{00}'s recent wilfulness has upset the harmony of our house. To settle this quietly, I ask you to provide %d gold.
+@1359.1
+{01}C{0B}{00}'s recent wilfulness has upset the harmony of our house. To settle this quietly, please provide %d gold.
+@1359.2
+{01}C{0B}{00}'s recent wilfulness is beyond bearing. I will overlook it this once, so provide %d gold at once.
+@1359.3
+{01}C{0B}{00}'s recent wilfulness is beyond bearing. I will overlook it this once, so provide %d gold at once.
+@1360
+What is this... Defying orders must have earned their displeasure...
+@1360.1
+Oh dear... Defying orders must have earned their displeasure...
+@1361
+Through the ninja I sent, we have assassinated {02}{03}n of {02}{03}N.
+@1361.1
+Through the ninja I sent, we have assassinated {02}{03}n of {02}{03}N.
+@1362
+Well done. That will sap the {02}{03}v's strength.
+@1362.1
+Well done. That will sap the {02}{03}v's strength.
+@1363
+Through the ninja I sent, we have destroyed the walls of {02}{03}N.
+@1363.1
+Through the ninja I sent, we have destroyed the walls of {02}{03}N.
+@1364
+Well done. {02}{03}N must have suffered serious damage.
+@1364.1
+Well done. {02}{03}N must have suffered serious damage.
+@1365
+Shall I refuse the offer?
+@1365.1
+I shall refuse the offer.
+@1365.2
+I shall refuse the offer.
+@1366
+They are already named an enemy of the court.
+@1366.1
+They are already named an enemy of the court.
+@1366.2
+They are already named an enemy of the court.
+@1367
+As we are named an enemy of the court, the court will not mediate.
+@1367.1
+As we are named an enemy of the court, the court will not mediate.
+@1367.2
+As we are named an enemy of the court, the court will not mediate.
+@1368
+Even at {02}{02}{98}'s request, I cannot defy {02}{03}{98}. Forgive me.
+@1368.1
+Even at {02}{02}{98}'s request, I cannot defy {02}{03}{98}. Forgive me.
+@1369
+I see. Then it cannot be helped. I take my leave.
+@1369.1
+I see. Then it can't be helped. I take my leave.
+@1369.2
+I see. Then it cannot be helped. I take my leave.
+@1370
+Why should we stand against {02}{03}{98}? Don't be absurd.
+@1370.1
+Why should we stand against {02}{03}{98}? Please don't be absurd.
+@1371
+It seems I asked the wrong party. I take my leave.
+@1371.1
+It seems I asked the wrong party. I take my leave.
+@1371.2
+It seems we asked the wrong party.
+@1372
+These pirates have a non-aggression pact with the neighbouring clan, so I cannot ask them to raid it.
+@1372.1
+These pirates have a non-aggression pact with the neighbouring clan, so I cannot ask them to raid it.
+@1372.2
+These pirates have a non-aggression pact with the neighbouring clan, so we cannot ask them to raid it.
+@1372.3
+These pirates have a non-aggression pact with the neighbouring clan, so we cannot ask them to raid it.
+@1373
+They are wounded and cannot move.
+@1373.1
+They are wounded and cannot move.
+@1373.2
+They are wounded and cannot move.
+@1374
+We did not obtain a just cause. Moving the shogunate is no easy matter...
+@1374.1
+We did not obtain a just cause. Moving the shogunate is no easy matter...
+@1374.2
+We did not obtain a just cause. Moving the shogunate is no easy matter, it seems.
+@1375
+{01}C{16}{00} slights the shogunate, oppresses the people and disturbs the peace. I bring %d gold; I beg your leave to punish them.
+@1375.1
+{01}C{16}{00} slights the shogunate, oppresses the people and disturbs the peace. I bring %d gold; I beg your leave to punish them.
+@1376
+We already have a just cause from the Imperial Court.
+@1376.1
+We already have a just cause from the Imperial Court.
+@1376.2
+We have already received a just cause from the Imperial Court.
+@1377
+We already have a just cause from the shogunate.
+@1377.1
+We already have a just cause from the shogunate.
+@1377.2
+We have already received a just cause from the shogunate.
+@1378
+Ninja cannot be traded with.
+@1378.1
+Ninja cannot be traded with.
+@1378.2
+Ninja cannot be traded with.
+@1379
+No officers are left who can act, so no more trading.
+@1379.1
+No officers are left who can act, so no more trading.
+@1379.2
+No officers are left who can act, so we can trade no more.
+@1380
+We have dealt with every minor power we can, so no more trading.
+@1380.1
+We have dealt with every minor power we can, so no more trading.
+@1380.2
+We have dealt with every minor power we can, so we can trade no more.
+@1381
+We are besieged, so no one can be reassigned.
+@1381.1
+We are besieged, so no one can be reassigned.
+@1381.2
+We are besieged, so no one can be reassigned.
+@1382
+We are besieged, so nothing can be transported.
+@1382.1
+We are besieged, so nothing can be transported.
+@1382.2
+We are besieged, so nothing can be transported.
+@1383
+A besieged castle cannot be transferred.
+@1383.1
+A besieged castle cannot be transferred.
+@1383.2
+A besieged castle cannot be transferred.
+@1384
+Officers are away on campaign, so no transfer is possible.
+@1384.1
+Officers are away on campaign, so no transfer is possible.
+@1384.2
+Officers are away on campaign, so no transfer is possible.
+@1385
+Shall I restore the goods to how they were?
+@1385.1
+I shall restore the goods to how they were.
+@1385.2
+I shall restore the goods to how they were.
+@1386
+Guns? I know nothing of such things...
+@1386.1
+Guns? I know nothing of such things.
+@1386.2
+Hmm, what might a gun be?
+@1387
+I doubt I'd get along with {01}C{18}{00}. I have no wish to serve the {02}{03}v under a lord I dislike.
+@1387.1
+I don't get along with {01}C{18}{00}. I have no wish to serve the {02}{03}v under a lord I dislike.
+@1388
+Then it cannot be helped. I shall give up.
+@1388.1
+Then it can't be helped. I shall give up.
+@1389
+I need no urging from {01}C{0D}{00}. My mind is already made up. Be patient and wait.
+@1389.1
+I need no urging from {01}C{0D}{00}. My mind is already made up. Be patient and wait.
+@1390
+As expected of {01}C{0D}{00}; you need no advice from me. Splendid resolve!
+@1390.1
+As expected of {01}C{0D}{00}; you need no advice from me. Splendid resolve!
+@1390.2
+Oh, is that so? Then I shall take my leave.
+@1391
+{01}C{18}{00}'s mind seems already made up. Now to wait for the time to ripen.
+@1391.1
+{01}C{18}{00}'s mind seems already made up. Now to wait for the time to ripen.
+@1391.2
+{01}C{18}{00}'s mind seems already made up. Let us wait for the time to ripen.
+@1392
+There is not enough gold to invite anyone else.
+@1392.1
+There is not enough gold to invite anyone else.
+@1392.2
+There is not enough gold to invite anyone else.
+@1393
+No officers are left who can act, so no more visits to ninja villages to hire.
+@1393.1
+No officers are left who can act, so no more visits to ninja villages to hire.
+@1393.2
+No officers are left who can act, so we can visit no more ninja villages to hire.
+@1394
+We have dealt with every ninja village we can, so no more hiring.
+@1394.1
+We have dealt with every ninja village we can, so no more hiring.
+@1394.2
+We have dealt with every ninja village we can, so we can hire no more.
+@1395
+We have already dealt with this ninja village.
+@1395.1
+We have already dealt with this ninja village.
+@1395.2
+We have already dealt with this ninja village.
+@1396
+I'd rather not have my throat cut in my sleep.
+@1396.1
+I'd rather not have my throat cut in my sleep.
+@1397
+What, you take that attitude? Then don't blame me for what happens. Farewell.
+@1397.1
+What, you take that attitude? Then don't blame me for what happens. I take my leave.
+@1397.2
+After all the courtesy we showed you... I shall be sure to report this to my lord. I take my leave.
+@1398
+Hmm... It seems our proposal asked too much. Farewell.
+@1398.1
+It seems our proposal asked too much. I take my leave.
+@1398.2
+It seems our proposal asked too much. I take my leave.
+@1399
+They won't lower the price, it seems. I must accept or give up.
+@1399.1
+They won't lower the price, it seems. I must accept or give up.
+@1399.2
+They won't lower the price, it seems. I must decide: accept or give up.
+@1399.3
+They won't lower the price, it seems. I must decide: accept or give up.
+@1400
+Shall I put the officers back as they were...
+@1400.1
+Should I put the officers back as they were...
+@1400.2
+I shall put the officers back as they were.
+@1401
+What, {02}{C9} relieved as castle lord... It could be me tomorrow.
+@1401.1
+Even someone like {02}{C9} relieved as castle lord... What is {01}C{0C}{00} thinking?
+@1402
+{02}{C9} relieved as castle lord!? Acting on their own... What are they thinking!
+@1402.1
+{02}{C9} relieved as castle lord!? Such high-handedness is unforgivable!
+@1402.2
+{02}{C9} relieved as castle lord!? What is {01}C{0D}{00} thinking?
+@1402.3
+{02}{C9} relieved as castle lord!? What is {01}C{0D}{00} thinking?
+@1402.4
+{02}{C9} relieved as castle lord!? I can't fathom {01}C{0D}{00}, but I'm glad I'm in a different corps.
+@1402.5
+{02}{C9} relieved as castle lord!? I can't fathom {01}C{0D}{00}, but I'm glad I'm in a different corps.
+@1403
+A castle with only its lord in it: no punishment possible.
+@1403.1
+A castle with only its lord in it: no punishment possible.
+@1403.2
+A castle with only its lord in it: no punishment possible.
+@1404
+At {02}{04}N, {02}{04}n has replaced {02}{C9} as castle lord and taken command of %s.
+@1404.1
+At {02}{04}N, {02}{04}n has replaced {02}{C9} as castle lord and taken command of %s.
+@1404.2
+At {02}{04}N, {02}{04}n has replaced {02}{C9} as castle lord and taken command of %s, it seems.
+@1404.3
+At {02}{04}N, {02}{04}n has replaced {02}{C9} as castle lord.
+@1404.4
+At {02}{04}N, {02}{04}n has replaced {02}{C9} as castle lord.
+@1404.5
+At {02}{04}N, {02}{04}n has replaced {02}{C9} as castle lord, it seems.
+@1405
+What, {02}{C9} banished... It could be me tomorrow.
+@1405.1
+Even someone like {02}{C9} banished... What is {01}C{0C}{00} thinking?
+@1406
+{02}{C9} banished!? Acting on their own... What are they thinking!
+@1406.1
+{02}{C9} banished!? Such high-handedness is unforgivable!
+@1406.2
+{02}{C9} banished!? What is {01}C{0D}{00} thinking?
+@1406.3
+{02}{C9} banished!? What is {01}C{0D}{00} thinking?
+@1406.4
+{02}{C9} banished... I can't fathom {01}C{0D}{00}.
+@1406.5
+{02}{C9} banished... I can't fathom {01}C{0D}{00}.
+@1407
+When I rise up, I would ask for your strength. I have the Imperial Court's blessing too.
+@1407.1
+When I rise up, please lend me your strength. I have the Imperial Court's blessing too.
+@1407.2
+When {01}C{15}{00} rises up, please lend your strength. We have the Imperial Court's blessing too.
+@1407.3
+When {02}{03}n rises up, please lend your strength. We have the Imperial Court's blessing too.
+@1407.4
+When {02}{03}n rises up, please lend your strength. We have the Imperial Court's blessing too.
+@1407.5
+When I rise up, I would ask for your strength. I have the shogunate's blessing too.
+@1407.6
+When I rise up, please lend me your strength. I have the shogunate's blessing too.
+@1407.7
+When {01}C{15}{00} rises up, please lend your strength. We have the shogunate's blessing too.
+@1407.8
+When {02}{03}n rises up, please lend your strength. We have the shogunate's blessing too.
+@1407.9
+When {02}{03}n rises up, please lend your strength. We have the shogunate's blessing too.
+@1407.10
+When I rise up, I would ask for your strength.
+@1407.11
+When I rise up, please lend me your strength.
+@1407.12
+When {01}C{15}{00} rises up, please lend your strength.
+@1407.13
+When {02}{03}n rises up, please lend your strength.
+@1407.14
+When {02}{03}n rises up, please lend your strength.
+@1408
+Blind to the tide of the times... I asked the wrong person, it seems.
+@1408.1
+Blind to the tide of the times... I asked the wrong person, it seems.
+@1408.2
+Blind to the tide of the times... We asked the wrong person, it seems.
+@1409
+I'm not close to {01}C {00}, but anything to get away from {01}C{17}{00}. I accept.
+@1409.1
+I'm not close to {01}C {00}, but anything to get away from {01}C{17}{00}. I accept.
+@1409.2
+I don't trust {01}C {00}, but {01}C{17}{00}'s conduct is more than I can stomach. I accept.
+@1409.3
+I don't trust {01}C {00}, but I cannot accept {01}C{17}{00}'s conduct. I accept.
+@1409.4
+I'm not that close to {01}C {00}, but I was indeed unhappy with {01}C{17}{00}'s conduct. I accept.
+@1409.5
+I'm not close to {01}C {00}, but I was indeed unhappy with {01}C{17}{00}'s conduct. I accept.
+@1409.6
+Indeed, I've long felt I can't go along with {01}C{17}{00}'s ways. Serving {01}C {00} would not be bad.
+@1409.7
+Indeed, I've long felt I can't go along with {01}C{17}{00}'s ways. Serving {01}C {00} would not be bad.
+@1409.8
+I was indeed unhappy with {01}C{17}{00}'s conduct, and an offer from {01}C {00} I cannot refuse.
+@1409.9
+I was indeed unhappy with {01}C{17}{00}'s conduct, and an offer from {01}C {00} I cannot refuse.
+@1410
+I'm grateful. Let us join forces.
+@1410.1
+Kind words. Let us join forces.
+@1410.2
+I thank you for your kind words. Let us join forces.
+@1411
+What are you saying? How could I trust the word of someone I hardly know?
+@1411.1
+What are you saying? How could I trust the word of someone I hardly know?
+@1411.2
+I don't know {01}C {00} well yet. I need a little more time before I trust them.
+@1411.3
+I don't know {01}C {00} well yet. I need a little more time before I trust them.
+@1411.4
+Hmm... Even if the offer is from {01}C {00}, how far can I trust it...
+@1411.5
+Hmm... Even if the offer is from {01}C {00}, how far can I trust it...
+@1411.6
+I am unhappy with {01}C{17}{00}'s conduct, it's true, but this is a hard choice. What to do...
+@1411.7
+I am unhappy with {01}C{17}{00}'s conduct, it's true, but this is a hard choice. What to do...
+@1411.8
+I don't mean to refuse {01}C {00}, but I must keep faith as a warrior. A painful choice...
+@1411.9
+I don't mean to refuse {01}C {00}, but I too have my duty as a warrior. Which should I choose...
+@1412
+No favourable answer, it seems. Then farewell.
+@1412.1
+No favourable answer, it seems. Then I take my leave.
+@1412.2
+No favourable answer, it seems. Then I take my leave.
+@1412.3
+No favourable answer, it seems. Then I take my leave.
+@1413
+To think I would join such a scheme... You underestimate me.
+@1413.1
+Ridiculous. Do you really think I would join such a scheme?
+@1414
+I'll buy treasures. I wonder if there are any bargains.
+@1414.1
+I shall buy treasures. I wonder if there are any bargains.
+@1414.2
+I shall buy treasures. Are there any bargains, I wonder?
+@1414.3
+I shall buy treasures. I wonder if there are any bargains.
+@1415
+The Imperial Court asks %d gold. Shall I pay it and obtain a just cause...
+@1415.1
+The Imperial Court asks %d gold. Should I pay it and obtain a just cause...
+@1415.2
+The Imperial Court asks %d gold. Will you pay it and obtain a just cause?
+@1416
+A troop type effective against Pikes.
+@1416.1
+A troop type effective against Pikes.
+@1416.2
+A troop type effective against Pikes.
+@1417
+A troop type effective against Cavalry and Mounted Gunners.
+@1417.1
+A troop type effective against Cavalry and Mounted Gunners.
+@1417.2
+A troop type effective against Cavalry and Mounted Gunners.
+@1418
+Effective against Infantry and Gunners. Needs as many horses as troops.
+@1418.1
+Effective against Infantry and Gunners. Needs as many horses as troops.
+@1418.2
+Effective against Infantry and Gunners. Needs as many horses as troops.
+@1419
+Effective against Pikes. Needs as many guns as troops.
+@1419.1
+Effective against Pikes. Needs as many guns as troops.
+@1419.2
+Effective against Pikes. Needs as many guns as troops.
+@1420
+Effective against Infantry and Gunners. Needs as many horses and guns as troops.
+@1420.1
+Effective against Infantry and Gunners. Needs as many horses and guns as troops.
+@1420.2
+Effective against Infantry and Gunners. Needs as many horses and guns as troops.
+@1421
+Now, what should I do?
+@1421.1
+Now, what shall I do?
+@1421.2
+{01}C{0C}{00}, your orders for {02}{02}N, please.
+@1422
+Is there no one who can do it?
+@1422.1
+There is no one who can do it, it seems.
+@1422.2
+There is no one who can do it.
+@1422.3
+There is no one who can do it.
+@1423
+Is there no one to negotiate with?
+@1423.1
+There is no one to negotiate with, it seems.
+@1423.2
+There is no one to negotiate with.
+@1423.3
+There is no one to negotiate with.
+@1424
+Shall I negotiate with other powers?
+@1424.1
+Shall I negotiate with other powers?
+@1424.2
+Will you negotiate with other powers?
+@1425
+There is no corps I can organise or give orders to.
+@1425.1
+There is no corps I can organise or give orders to.
+@1425.2
+There is no corps you can organise or give orders to.
+@1425.3
+There is no corps you can organise or give orders to.
+@1426
+Shall I give orders to the corps or organise them?
+@1426.1
+Shall I give orders to the corps or organise them?
+@1426.2
+Will you give orders to the corps or organise them?
+@1427
+There is nothing to be done in domestic affairs.
+@1427.1
+There is nothing to be done in domestic affairs.
+@1427.2
+There is nothing to be done in domestic affairs.
+@1427.3
+There is nothing to be done in domestic affairs.
+@1428
+Shall I give orders to the castle?
+@1428.1
+Shall I give orders to the castle?
+@1428.2
+Will you give orders to the castle?
+@1428.3
+Shall I give orders to each castle?
+@1428.4
+Shall I give orders to each castle?
+@1428.5
+Will you give orders to each castle?
+@1429
+There is not a single castle to use a stratagem on.
+@1429.1
+There is not a single castle to use a stratagem on.
+@1429.2
+There is not a single castle to use a stratagem on.
+@1429.3
+There is not a single castle to use a stratagem on.
+@1430
+There is not a single village where ninja can be hired.
+@1430.1
+There is not a single village where ninja can be hired.
+@1430.2
+There is not a single village where ninja can be hired.
+@1430.3
+There is not a single village where ninja can be hired.
+@1431
+Shall I arrange ninja or stratagems?
+@1431.1
+Shall I arrange ninja or stratagems?
+@1431.2
+Will you arrange ninja or stratagems?
+@1432
+There is nothing to be done in personnel.
+@1432.1
+There is nothing to be done in personnel.
+@1432.2
+There is nothing to be done in personnel.
+@1432.3
+There is nothing to be done in personnel.
+@1433
+Shall I see to personnel, such as rewards?
+@1433.1
+Shall I see to personnel, such as rewards?
+@1433.2
+Will you see to personnel, such as rewards?
+@1434
+Shall I end the strategy?
+@1434.1
+I shall end the strategy.
+@1434.2
+I shall end the strategy.
+@1435
+End now?
+@1435.1
+End now?
+@1435.2
+Will you end now?
+@1436
+Nothing to propose?
+@1436.1
+There is nothing to propose.
+@1436.2
+There is nothing to propose.
+@1436.3
+There is nothing to propose.
+@1437
+Shall I give {01}C{17}{00} my opinion?
+@1437.1
+Shall I give {01}C{17}{00} my opinion?
+@1437.2
+Will you offer {01}C{17}{00} your opinion?
+@1438.2
+Will you end now?
+@1439
+Shall I make a proposal to {01}C{17}{00}?
+@1439.1
+Shall I make a proposal to {01}C{17}{00}?
+@1439.2
+Will you make a proposal to {01}C{17}{00}?
+@1440
+Shall I give my opinion to {01}C{17}{00}, the corps commander?
+@1440.1
+Shall I give my opinion to {01}C{17}{00}, the corps commander?
+@1440.2
+Will you offer your opinion to {01}C{17}{00}, the corps commander?
+@1441
+Which power shall I negotiate with?
+@1441.1
+Which power shall I negotiate with?
+@1441.2
+Which power will you negotiate with?
+@1442
+Shall I negotiate with daimyo or castle lords?
+@1442.1
+Shall I negotiate with daimyo or castle lords?
+@1442.2
+Will you negotiate with daimyo or castle lords?
+@1443
+Shall I negotiate with minor powers?
+@1443.1
+Shall I negotiate with minor powers?
+@1443.2
+Will you negotiate with minor powers?
+@1444
+Shall I negotiate with officers of other castles?
+@1444.1
+Shall I negotiate with officers of other castles?
+@1444.2
+Will you negotiate with officers of other castles?
+@1445
+There is nothing to negotiate.
+@1445.1
+There is nothing to negotiate.
+@1445.2
+There is nothing to negotiate.
+@1445.3
+There is nothing to negotiate.
+@1446
+Shall I negotiate with the Imperial Court?
+@1446.1
+Shall I negotiate with the Imperial Court?
+@1446.2
+Will you negotiate with the Imperial Court?
+@1447
+There is nothing for the shogunate to do.
+@1447.1
+There is nothing for the shogunate to do.
+@1447.2
+There is nothing the shogunate can do.
+@1447.3
+There is nothing the shogunate can do.
+@1448
+The shogunate has fallen.
+@1448.1
+The shogunate has fallen.
+@1448.2
+The shogunate has fallen.
+@1448.3
+The shogunate has fallen.
+@1449
+We serve the shogunate, so this cannot be done.
+@1449.1
+We serve the shogunate, so this cannot be done.
+@1449.2
+We serve the shogunate, so this cannot be done.
+@1449.3
+We serve the shogunate, so this cannot be done.
+@1450
+We are hostile to the shogunate, so we cannot ask it.
+@1450.1
+We are hostile to the shogunate, so we cannot ask it.
+@1450.2
+We are hostile to the shogunate, so we cannot ask it.
+@1450.3
+We are hostile to the shogunate, so we cannot ask it.
+@1451
+Shall I exercise the shogunate's authority?
+@1451.1
+Shall I exercise the shogunate's authority?
+@1451.2
+Will you exercise the shogunate's authority?
+@1452
+Shall I negotiate with the shogunate?
+@1452.1
+Shall I negotiate with the shogunate?
+@1452.2
+Will you negotiate with the shogunate?
+@1453
+I can negotiate for a just cause to overthrow my lord.
+@1453.1
+I can negotiate for a just cause to overthrow my lord.
+@1453.2
+You can negotiate for a just cause to overthrow your lord.
+@1454
+Shall I make a donation and negotiate for a just cause?
+@1454.1
+Shall I make a donation and negotiate for a just cause?
+@1454.2
+Will you make a donation and negotiate for a just cause?
+@1455
+Shall I negotiate with the shogunate?
+@1455.1
+Shall I negotiate with the shogunate?
+@1455.2
+Will you negotiate with the shogunate?
+@1456
+Let me decide what to negotiate.
+@1456.1
+Let me decide what to negotiate.
+@1456.2
+Please decide what to negotiate.
+@1457
+Shall I send envoys to daimyo and castle lords and talk things over?
+@1457.1
+Shall I send envoys to daimyo and castle lords and talk things over?
+@1457.2
+Will you send envoys to daimyo and castle lords to discuss matters?
+@1458
+Shall I make a non-aggression pact with another clan?
+@1458.1
+Shall I make a non-aggression pact with another clan?
+@1458.2
+Will you make a non-aggression pact with another clan?
+@1459
+We are a vassal of another clan, so we cannot form a military alliance.
+@1459.1
+We are a vassal of another clan, so we cannot form a military alliance.
+@1459.2
+We are a vassal of another clan, so we cannot form a military alliance.
+@1459.3
+We are a vassal of another clan, so we cannot form a military alliance.
+@1460
+Shall I form a military alliance with another clan?
+@1460.1
+Shall I form a military alliance with another clan?
+@1460.2
+Will you form a military alliance with another clan?
+@1461
+We are already part of the encirclement of the {02}{0B}E.
+@1461.1
+We are already part of the encirclement of the {02}{0B}E.
+@1461.2
+We are already part of the encirclement of the {02}{0B}E.
+@1461.3
+We are already part of the encirclement of the {02}{0B}E.
+@1462
+There is no clan to encircle.
+@1462.1
+There is no clan to encircle.
+@1462.2
+There is no clan to encircle.
+@1462.3
+There is no clan to encircle.
+@1463
+There is no clan that can join an encirclement.
+@1463.1
+There is no clan that can join an encirclement.
+@1463.2
+There is no clan that can join an encirclement.
+@1463.3
+There is no clan that can join an encirclement.
+@1464
+We are a vassal of another clan, so we cannot call for an encirclement.
+@1464.1
+We are a vassal of another clan, so we cannot call for an encirclement.
+@1464.2
+We are a vassal of another clan, so we cannot call for an encirclement.
+@1464.3
+We are a vassal of another clan, so we cannot call for an encirclement.
+@1465
+Shall I form an encirclement against a particular clan?
+@1465.1
+Shall I form an encirclement against a particular clan?
+@1465.2
+Will you form an encirclement against a particular clan?
+@1466
+Back to choosing a diplomatic partner.
+@1466.1
+Back to choosing a diplomatic partner.
+@1466.2
+Back to choosing a diplomatic partner.
+@1467
+Shall I send envoys to minor powers and talk things over?
+@1467.1
+Shall I send envoys to minor powers and talk things over?
+@1467.2
+Will you send envoys to minor powers to discuss matters?
+@1468
+There is no one we can urge to rise in revolt.
+@1468.1
+There is no one we can urge to rise in revolt.
+@1468.2
+There is no one we can urge to rise in revolt.
+@1468.3
+There is no one we can urge to rise in revolt.
+@1469
+Shall I try urging them to rise in revolt?
+@1469.1
+Shall I try urging them to rise in revolt?
+@1469.2
+Will you urge them to rise in revolt?
+@1470
+Shall I slander other castle lords to the minor powers and turn them apart?
+@1470.1
+Shall I slander other castle lords to the minor powers and turn them apart?
+@1470.2
+Will you slander other castle lords to the minor powers and turn them apart?
+@1471
+Our relations with the Imperial Court are excellent. No need to donate more.
+@1471.1
+Our relations with the Imperial Court are excellent. No need to donate more.
+@1471.2
+Our relations with the Imperial Court are excellent. There is no need to donate more.
+@1471.3
+Our relations with the Imperial Court are excellent. There is no need to donate more.
+@1472
+I must donate more before I can hope for a new court title.
+@1472.1
+I must donate more before I can hope for a new court title.
+@1472.2
+I fear we have not yet donated enough for a new court title...
+@1472.3
+I fear we have not yet donated enough for a new court title...
+@1473
+Shall I try negotiating for a just cause to overthrow my lord?
+@1473.1
+Shall I try negotiating for a just cause to overthrow my lord?
+@1473.2
+Will you negotiate for a just cause to overthrow your lord?
+@1475
+We can negotiate to be pardoned as enemy of the court.
+@1475.1
+We can negotiate to be pardoned as enemy of the court.
+@1475.2
+We can negotiate to be pardoned as enemy of the court.
+@1476
+We can donate to the Imperial Court.
+@1476.1
+We can donate to the Imperial Court.
+@1476.2
+We can donate to the Imperial Court.
+@1477
+We can ask the Imperial Court for a new court title.
+@1477.1
+We can ask the Imperial Court for a new court title.
+@1477.2
+We can ask the Imperial Court for a new court title.
+@1478
+We can donate and ask for a court title.
+@1478.1
+We can donate and ask for a court title.
+@1478.2
+We can donate and ask for a court title.
+@1480
+We can donate and negotiate for a just cause.
+@1480.1
+We can donate and negotiate for a just cause.
+@1480.2
+We can donate and negotiate for a just cause.
+@1481
+First we must have our status as enemy of the court lifted...
+@1481.1
+First we must have our status as enemy of the court lifted...
+@1481.2
+First we must have our status as enemy of the court lifted...
+@1481.3
+First we must have our status as enemy of the court lifted...
+@1482
+Not enough gold for a gift...\n(Gold needed: 500)
+@1482.1
+Not enough gold for a gift...\n(Gold needed: 500)
+@1482.2
+There is not enough gold for a gift.\n(Gold needed: 500)
+@1483
+We are not in favour at court. First we must donate to show good faith...\n(Court standing needed: 30, now %d)
+@1483.1
+We are not in favour at court. First we must donate to show good faith...\n(Court standing needed: 30, now %d)
+@1483.2
+We are not in favour at court. Let us first donate to show good faith.\n(Court standing needed: 30, now %d)
+@1484
+There is no clan that can be named an enemy of the court.
+@1484.1
+There is no clan that can be named an enemy of the court.
+@1484.2
+There is no clan that can be named an enemy of the court.
+@1484.3
+There is no clan that can be named an enemy of the court.
+@1485
+Shall I have a particular clan named an enemy of the court?
+@1485.1
+Shall I have a particular clan named an enemy of the court?
+@1485.2
+Let us have a particular clan named an enemy of the court.
+@1486
+None of our castles is besieged by another clan's army.
+@1486.1
+None of our castles is besieged by another clan's army.
+@1486.2
+None of our castles is besieged by another clan's army.
+@1486.3
+None of our castles is besieged by another clan's army.
+@1487
+There is no clan on which a court ceasefire order would work.
+@1487.1
+There is no clan on which a court ceasefire order would work.
+@1487.2
+There is no clan on which a court ceasefire order would work.
+@1487.3
+There is no clan on which a court ceasefire order would work.
+@1488
+Shall I have a ceasefire order sent to the clan besieging our castle?
+@1488.1
+Shall I have a ceasefire order sent to the clan besieging our castle?
+@1488.2
+Let us have a ceasefire order sent to the clan besieging our castle.
+@1489
+Every other castle is already on the worst terms with the court. No need for rumours.
+@1489.1
+Every other castle is already on the worst terms with the court. No need for rumours.
+@1489.2
+Every other castle is already on the worst terms with the court. There is no need for rumours.
+@1489.3
+Every other castle is already on the worst terms with the court. There is no need for rumours.
+@1490
+Shall I slander other castle lords to the Imperial Court and turn it against them?
+@1490.1
+Shall I slander other castle lords to the Imperial Court and turn it against them?
+@1490.2
+Let us slander other castle lords to the Imperial Court and turn it against them.
+@1491
+What shall I do as the shogunate?
+@1491.1
+What shall I do as the shogunate?
+@1491.2
+What will you do as the shogunate?
+@1492
+We have already issued an order to punish the {02}{0B}E.
+@1492.1
+We have already issued an order to punish the {02}{0B}E.
+@1492.2
+We have already issued an order to punish the {02}{0B}E.
+@1492.3
+We have already issued an order to punish the {02}{0B}E.
+@1493
+There is no clan to punish.
+@1493.1
+There is no clan to punish.
+@1493.2
+There is no clan to punish.
+@1493.3
+There is no clan to punish.
+@1494.2
+{01}C{0C}{00}, please rest.
+@1495
+I am on campaign.
+@1495.1
+I am on campaign.
+@1495.2
+{01}C{0C}{00} is on campaign.
+@1495.3
+{01}C{0C}{00} is on campaign.
+@1496
+Shall I proclaim an order to punish a particular clan across the land?
+@1496.1
+Shall I proclaim an order to punish a particular clan across the land?
+@1496.2
+Let us proclaim an order to punish a particular clan across the land.
+@1497
+There is no clan that can be given a post.
+@1497.1
+There is no clan that can be given a post.
+@1497.2
+There is no clan that can be given a post.
+@1497.3
+There is no clan that can be given a post.
+@1498
+Shall I give another clan a shogunate post?
+@1498.1
+Shall I give another clan a shogunate post?
+@1498.2
+Let us give another clan a shogunate post.
+@1499
+We can lift an order of punishment.
+@1499.1
+We can lift an order of punishment.
+@1499.2
+We can lift an order of punishment.
+@1000
+Shall I attack an officer in this castle...?
+@1000.1
+Shall I attack an officer in this castle, I wonder...
+@1000.2
+Officers in this castle can be attacked, my lord.
+@1000.3
+Officers in this castle can be attacked.
+@1001
+Let me choose the officer to attack.
+@1001.1
+Let me choose the officer to attack.
+@1001.2
+Please choose the officer to attack.
+@1002
+Shall I attack this officer...?
+@1002.1
+Shall I attack this officer, I wonder...
+@1002.2
+This officer can be attacked, my lord.
+@1002.3
+This officer can be attacked.
+@1003
+This target will do. Now let me choose the ninja to send.
+@1003.1
+This target will do. Now let me choose the ninja to send.
+@1003.2
+The target is chosen. On to choosing the ninja to send.
+@1004
+Let me choose the ninja to send.
+@1004.1
+Let me choose the ninja to send.
+@1004.2
+Please choose the ninja to send.
+@1005
+Shall I send this ninja...?
+@1005.1
+Shall I send this ninja, I wonder...
+@1005.2
+This ninja can be chosen, my lord.
+@1005.3
+This ninja can be chosen.
+@1006
+Let's launch the attack.
+@1006.1
+Let us launch the attack.
+@1006.2
+Launching the attack.
+@1007
+Hm, an intruder!
+@1007.1
+Ah... an intruder!
+@1008
+{02}{02}n, your life is mine.
+@1008.1
+{02}{02}n, your life is mine.
+@1009
+Wh-why would I die in a place like this...
+@1009.1
+Aah! N-no...
+@1009.2
+It can't be... Who sent you... Guh!
+@1010
+Ugh... Guh! The bitterness...
+@1010.1
+Why me... Who sent you... Guh!
+@1010.2
+Th-this is absurd... If I die, what will become of our clan... Guh!
+@1011
+The attack succeeded. {02}{C9} seems to be dead.
+@1011.1
+The attack succeeded. {02}{C9} seems to be dead.
+@1011.2
+The attack succeeded. {02}{C9} appears to be dead.
+@1012
+Ugh... But I, {02}{01}4, cannot die in a place like this.
+@1012.1
+Aah! S-someone! An intruder! Guards, guards!
+@1012.2
+Ugh... I've been wounded. Running is the best of the thirty-six stratagems.
+@1013
+Ugh... Guh! I must escape at all costs...
+@1013.1
+Tch... careless to be wounded. But I, {02}{01}4, am not ready to die yet!
+@1013.2
+Ugh, a cowardly ambush... No shame in fleeing from that.
+@1014
+We didn't finish them off, but {02}{03}n seems to be wounded.
+@1014.1
+We didn't finish them off, but {02}{03}n seems to be wounded.
+@1014.2
+We could not finish them off, but {02}{03}n appears to be wounded.
+@1015
+Whoever you are, you're a hundred years too early to beat me.
+@1015.1
+Fool... I, {02}{01}4, will not die in a place like this.
+@1015.2
+A true samurai never lets his guard down. Go wash your neck and try again.
+@1016
+Idiot! I, {02}{01}4, am not ready to die in a place like this!
+@1016.1
+Fool! Whoever you are, did you think skill like that could kill me?
+@1016.2
+Too slow! Did you think a mere ninja could kill me?
+@1017
+Our attack on {02}{03}n seems to have failed.
+@1017.1
+Our attack on {02}{03}n seems to have failed.
+@1017.2
+Our attack on {02}{03}n has failed.
+@1018
+Let me choose the castle to sabotage.
+@1018.1
+Let me choose the castle to sabotage.
+@1018.2
+Please choose the castle to sabotage.
+@1018.3
+Let me choose the castle to sabotage. Our target castle is {02}yY.
+@1018.4
+Let me choose the castle to sabotage. Our target castle is {02}yY.
+@1018.5
+Please choose the castle to sabotage. Our target castle is {02}yY.
+@1019
+Sabotage can't damage the walls any further.
+@1019.1
+Sabotage can't damage the walls any further.
+@1019.2
+Sabotage cannot damage the walls any further.
+@1019.3
+Sabotage cannot damage the walls any further.
+@1020
+We can damage the walls.
+@1020.1
+We can damage the walls.
+@1020.2
+We can damage the walls, my lord.
+@1020.3
+We can damage the walls.
+@1021
+Let me choose the ninja for the sabotage.
+@1021.1
+Let me choose the ninja for the sabotage.
+@1021.2
+Please choose the ninja for the sabotage.
+@1022
+Shall I have this ninja do the sabotage...?
+@1022.1
+Shall I have this ninja do the sabotage, I wonder...
+@1022.2
+This ninja can be chosen for the sabotage, my lord.
+@1022.3
+This ninja can be chosen for the sabotage.
+@1023
+Let's carry out the sabotage.
+@1023.1
+Let us carry out the sabotage.
+@1023.2
+Carrying out the sabotage.
+@1024
+Heh... In my hands, castle walls are flimsy things...
+@1024.1
+Hehe... In my hands, castle walls are flimsy things...
+@1025
+The sabotage succeeded. {02})N's defence seems to have dropped.
+@1025.1
+The sabotage succeeded. {02})N's defence seems to have dropped.
+@1025.2
+The sabotage succeeded. {02})N's defence appears to have dropped.
+@1025.3
+The sabotage succeeded. {02})N's defence dropped, and {02}{04}n seems to think less of {02}{03}n.
+@1025.4
+The sabotage succeeded. {02})N's defence dropped, and {02}{04}n seems to think less of {02}{03}n.
+@1025.5
+The sabotage succeeded. {02})N's defence dropped, and {02}{04}n appears to think less of {02}{03}n.
+@1026
+The guard was too tight; the sabotage of {02})N seems to have failed.
+@1026.1
+The guard was too tight; the sabotage of {02})N seems to have failed.
+@1026.2
+The guard was too tight; the sabotage of {02})N has failed.
+@1027
+Let me choose a ninja village.
+@1027.1
+Let me choose a ninja village.
+@1027.2
+Please choose a ninja village.
+@1028
+This ninja village seems to have been drawn in by another clan.
+@1028.1
+This ninja village seems to have been drawn in by another clan.
+@1028.2
+This ninja village has been drawn in by another clan.
+@1029
+Shall I hire ninja from this village...?
+@1029.1
+Shall I hire ninja from this village, I wonder...
+@1029.2
+Will you hire ninja from this village?
+@1030.2
+Please choose the officer who will hire the ninja.
+@1031
+Shall I hire ninja?
+@1031.1
+Let us hire ninja.
+@1031.2
+Hiring ninja.
+@1032
+Why, {01}C{0D}{00}. What brings you to a place like this?
+@1032.1
+Why, {01}C{0D}{00}. What brings you to a place like this?
+@1033
+In truth, I need shinobi. No one is more trustworthy than your people. Will you lend me your strength?
+@1033.1
+I have come to hire shinobi today. Gather a few good ones for me. I'll pay handsomely.
+@1033.2
+In truth, I need the skills of shinobi. Your people must be skilled. I am counting on you.
+@1033.3
+In truth, I need the skills of shinobi. I'd like you to lend me a hand.
+@1033.4
+In truth, I need the skills of shinobi. Will you lend me a hand?
+@1033.5
+In truth, we need shinobi. {01}C{0D}{00}'s people can be trusted. Please, lend us your strength.
+@1033.6
+I have come to hire shinobi today. Gather a few good ones for us. We'll pay handsomely.
+@1033.7
+In truth, we need the skills of shinobi. I hear {01}C{0D}{00}'s people are skilled. Will you lend us your strength?
+@1033.8
+In truth, we need the skills of shinobi... Will you lend us a hand?
+@1034
+Unfortunately, all the village's people are out.
+@1035
+I see... Then it can't be helped. A pity, but I'll withdraw.
+@1035.1
+I see... Then it can't be helped. A pity, but I shall withdraw.
+@1035.2
+I see... It cannot be helped. A pity, but I shall withdraw.
+@1036
+Everyone in this village is an expert, so they don't come cheap. Our price: %s %d.
+@1036.1
+Everyone in this village is an expert, so they don't come cheap. Our price: %s %d.
+@1038
+You take us too lightly. That is out of the question. Please leave.
+@1038.1
+You take us too lightly. That is out of the question. Please leave.
+@1039
+You seem to underestimate us. That is hardly enough...
+@1039.1
+You seem to underestimate us. That is hardly enough...
+@1040
+Shinobi work puts lives at stake. Without a fitting reward...
+@1040.1
+Shinobi work puts lives at stake. Without a fitting reward...
+@1041
+Hmm... I can't entrust my people's lives to you for that. Won't you reconsider?
+@1041.1
+...That is a problem. I cannot entrust my people's lives for that. Please reconsider.
+@1042
+Very well. Then I will lend you the following.
+@1042.1
+Very well. Then I will lend you the following.
+@1043
+Even we cannot supply that many goods.
+@1043.1
+Even we cannot supply that many goods...
+@1044
+Then I cannot lend you my people.
+@1044.1
+Then I cannot lend you my people.
+@1045
+Let me choose the castle with the ninja and the castle to infiltrate.
+@1045.1
+Let me choose the castle with the ninja and the castle to infiltrate.
+@1045.2
+Please choose the castle with the ninja and the castle to infiltrate.
+@1045.3
+Let me choose the castle with the ninja and the castle to infiltrate. Our target is {02}yY of the {02})S.
+@1045.4
+Let me choose the castle with the ninja and the castle to infiltrate. Our target is {02}yY of the {02})S.
+@1045.5
+Please choose the castle with the ninja and the castle to infiltrate. Our target is {02}yY of the {02})S.
+@1046
+Our own {02})N. There are %d ninja here now.
+@1046.1
+Our own {02})N. There are %d ninja here now.
+@1046.2
+Our own {02})N? There are %d ninja here now.
+@1046.3
+The {02})S's {02})N. There are %d ninja hidden here now.
+@1046.4
+The {02})S's {02})N. There are %d ninja hidden here now.
+@1046.5
+The {02})S's {02})N? There are %d ninja hidden here now.
+@1047
+This castle has %d ninja, but all have finished their missions. I must choose a castle with ninja yet to act...
+@1047.1
+This castle has %d ninja, but all have finished their missions. I must choose a castle with ninja yet to act...
+@1047.2
+This castle has %d ninja, but all have finished their missions. Please choose a castle with ninja yet to act.
+@1048
+This castle has %d ninja, but I have already chosen two castles.
+@1048.1
+This castle has %d ninja, but I have already chosen two castles.
+@1048.2
+This castle has %d ninja, but two castles are already chosen.
+@1049
+These castles will do. Now let me choose the ninja to send.
+@1049.1
+These castles will do. Now let me choose the ninja to send.
+@1049.2
+The castles are set. On to choosing the ninja to send.
+@1050
+Let me choose the ninja to infiltrate.
+@1050.1
+Let me choose the ninja to infiltrate.
+@1050.2
+Please choose the ninja to infiltrate.
+@1051
+Shall I send this ninja...?
+@1051.1
+Shall I send this ninja, I wonder...
+@1052
+I must choose the ninja to infiltrate...
+@1052.1
+I must choose the ninja to infiltrate...
+@1053
+Let them infiltrate.
+@1053.1
+Let us have them infiltrate.
+@1053.2
+Sending them to infiltrate.
+@1054
+Shall I have them infiltrate?
+@1055
+The ninja are in place.
+@1055.1
+The ninja are in place.
+@1055.2
+The ninja are in place.
+@1056
+There is no one but {01}C{0D}{00} we can look up to as our lord. Please let us join the {02}{02}v, even in the lowest seat.
+@1056.1
+How about it, {01}C{0D}{00}? Will you take us into the {02}{02}v? Refuse, and you'll regret it all your life.
+@1056.2
+{01}C{0D}{00} is worthy to be our lord. We all swear to stand by the {02}{02}v. Please accept our change of sides.
+@1056.3
+Looking at the state of the realm, there is no one to rely on but {01}C{0D}{00}. Please let us join the {02}{02}v.
+@1056.4
+Looking at the state of the realm, there is no one to rely on but {01}C{0D}{00}. Please let us join the {02}{02}v.
+@1057
+Well, well, {02}{02}4. Coming so suddenly, is it some urgent business?
+@1058
+{02}{03}n defies His Majesty's will and does as they please. Grant us leave to punish them for the Court's sake.
+@1058.1
+{02}{03}n defies His Majesty's will and does as they please. Please grant us leave to punish them for the Court's sake.
+@1059
+Shall I meet the demand and have the Court sanction our gekokujo? (Demand: %s %d)
+@1059.1
+I'll meet the demand and have the Court sanction our gekokujo. (Demand: %s %d)
+@1059.2
+We meet the demand and have the Court sanction our gekokujo. (Demand: %s %d)
+@1060
+Your claim is accepted. {02}{03}4 is not fit to be a daimyo. Strike them down for the Court's sake.
+@1061
+Yes, sir! I am most grateful. Leave the rest to me.
+@1061.1
+I am most grateful. Leave the rest to me.
+@1061.2
+I am most grateful. Please leave the rest to me.
+@1062
+We have a just cause for overthrowing {02}{04}n.
+@1062.1
+We have a just cause for overthrowing {02}{04}n.
+@1062.2
+We have a just cause for overthrowing {02}{04}n.
+@1063
+...We consulted the others, but it is a difficult matter and We cannot decide. Forgive Us, but come again another day.
+@1064
+I am indebted for your trouble. I shall call at the palace again, so please keep us in mind...
+@1064.1
+Thank you for your trouble. I shall call at the palace again, so please keep us in mind...
+@1065
+We didn't gain a just cause, but the Court now suspects {02}{04}n and trusts this castle.
+@1065.1
+We didn't gain a just cause, but the Court now suspects {02}{04}n and trusts this castle.
+@1065.2
+We did not gain a just cause, but the Court now looks on {02}{04}n with suspicion and seems to trust this castle.
+@1066
+Hohoho, you've come all this way; let's not talk of such stiff matters. Come, relax and take your ease.
+@1067
+Er, well... Then I shall take my leave for today.
+@1067.1
+I see... Then I shall take my leave for today.
+@1068
+So we didn't gain a just cause. Moving the Court is no easy thing...
+@1068.1
+We didn't gain a just cause. Moving the Court is no easy thing...
+@1068.2
+We did not gain a just cause. Moving the Court seems no easy thing.
+@1069
+Oh, {01}C{0D}{00}. What is it, so formal?
+@1069.1
+Oh, if it isn't {01}C{0D}{00}. What is it, so formal?
+@1070
+{01}C{16}{00} slights the shogunate, torments the people and upsets the order. I beg leave to punish them.
+@1070.1
+{01}C{16}{00} slights the shogunate, torments the people and upsets the order. I beg leave to punish them.
+@1071
+{01}C{18}{00} is a loyal servant of the shogunate. Is it not you who plots to upset the order of the world?
+@1071.1
+{01}C{18}{00} is a loyal servant of the shogunate. Is it not you who plots to upset the order of the world?
+@1072
+Mind your tongue. Who knows where {02}{03}4's agents may be?
+@1072.1
+Mind your tongue. Who knows where {02}{03}4's agents may be?
+@1073
+How timid... At this rate the shogunate's authority will suffer.
+@1073.1
+How timid... At this rate the shogunate's authority will suffer.
+@1073.2
+How unjust... If you will not understand, it cannot be helped. I take my leave for today.
+@1073.3
+How unjust... If you will not understand, it cannot be helped. I take my leave for today.
+@1074
+True, leaving this alone would hurt the shogunate's dignity. Could you obtain %s %d for us?
+@1074.1
+True, leaving this alone would hurt the shogunate's dignity. Could you obtain %s %d for us?
+@1075
+For the shogunate's sake, gladly.
+@1076
+It seems it is {01}C{0D}{00} who slights the shogunate. This displeases me. Withdraw.
+@1076.1
+It seems it is {01}C{0D}{00} who slights the shogunate. This displeases me. Withdraw.
+@1077
+That is out of the question. Withdraw.
+@1077.1
+That is out of the question. Withdraw.
+@1078
+Hmm. We cannot seem to agree. Come again another day.
+@1078.1
+We cannot seem to agree. Come again another day.
+@1079
+I'm sorry, but then I cannot lend you my help. Come again another day.
+@1079.1
+I'm sorry, but then I cannot lend you my help. Come again another day.
+@1080
+Very well. I sanction the punishment of {02}{03}4. Work hard for the shogunate.
+@1080.1
+Very well. I sanction the punishment of {02}{03}4. Work hard for the shogunate.
+@1081
+Yes, sir! I will show you who the shogunate's true loyal servant is.
+@1081.1
+Yes! I will show you who the shogunate's true loyal servant is.
+@1081.2
+Thank you. Then I will begin preparing the punitive campaign at once.
+@1082
+I understand your point, but is it not too early? Haste makes waste.
+@1082.1
+I understand your point, but I think it is still too early. Haste makes waste.
+@1083
+As you say... Then I will watch a while longer and wait for the right moment.
+@1083.1
+Quite right... Then I will watch a while longer and wait for the time to ripen.
+@1084
+We didn't gain a just cause, but the shogunate now distrusts {02}{04}n and seems to trust this castle.
+@1084.1
+We didn't gain a just cause, but the shogunate now distrusts {02}{04}n and seems to trust this castle.
+@1084.2
+We did not gain a just cause, but the shogunate now distrusts {02}{04}n and seems to trust this castle.
+@1085
+Ugh... Someone who could beat me... But your turn will come too...
+@1085.1
+Guh... Me, beaten... I must be losing my touch...
+@1085.2
+Guh... Death is all that remains for one who fails. I am content...
+@1085.3
+Ugh... The end comes for everyone... Today just happened to be mine...
+@1085.4
+Ugh... All that training, and still there are those I cannot beat...
+@1085.5
+Guh... Why me... after all that training...
+@1085.6
+No one escapes death. You will end up like this too... Guh.
+@1085.7
+I always knew this day would come, but today of all days... Guh.
+@1085.8
+Guh... The weak are struck down... Such is the law of this world...
+@1085.9
+Ugh... It seems a beginner's mistake can only be paid for with death...
+@1085.10
+Ugh... Th-the bitterness...
+@1085.11
+Guh... To end in a place like this...
+@1086
+Vanishing unseen in the darkness... That is the shinobi's code, then...
+@1086.1
+Crushing their own face before dying... A shinobi's lot is a sad one...
+@1086.2
+Phew... I beat them somehow. That was close.
+@1086.3
+Blowing themselves up... The shinobi's code is harsh.
+@1086.4
+Did you think skill like that could beat me?
+@1087
+A shinobi's lot is a sad one. Just a tool to be thrown away.
+@1087.1
+...Fell without even giving a name. Live in darkness, die in darkness... That is the shinobi's code.
+@1087.2
+Blowing themselves up... A worthy foe, I'll grant.
+@1087.3
+Coming after my life with skill like that? I've been taken very lightly.
+@1087.4
+Kill or be killed: that is the law of this warring age. Bear me no grudge.
+@1089
+It seems our hired ninja, {02}[@, has been cut down by someone...
+@1089.1
+It seems our hired ninja, {02}[@, has been cut down by someone...
+@1089.2
+Our hired ninja, {02}[@, has been cut down by someone!
+@1090
+Oho, you managed to wound me... I look forward to meeting again.
+@1090.1
+To think you could wound me... We'll settle this next time.
+@1090.2
+To wound me, you're no ordinary foe. I'll fall back for now.
+@1090.3
+To wound me, you must be quite an expert. I'll fall back for now.
+@1090.4
+Wounded... There are still masters out there, it seems.
+@1090.5
+Me, wounded... The world is wider than I thought.
+@1090.6
+Wounded... I'm still green, after all... I'll count myself lucky to be alive.
+@1090.7
+Wounded... I still need more training. I'll fall back for now.
+@1090.8
+Argh, I'm hit! H-help me!
+@1090.9
+Eek, I'm hit! I-I must run...
+@1090.10
+Tch, they got me... I'll pull back for now.
+@1090.11
+Tch, they got me... I'll pull back for now.

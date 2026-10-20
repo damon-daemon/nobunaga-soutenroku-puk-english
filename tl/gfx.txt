@@ -1,0 +1,343 @@
+# Texture English: entry.object<TAB>text ('|' line break, ';' separates the spots of a multi-box item)
+# 33: battle result banners
+33.26	Defeat
+33.27	Draw
+33.28	Victory
+33.29	Retreat
+# 34: status tags (list markers), tactic plates, skills, troop types, relations
+34.0	Daimyo
+34.1	Cmdr.
+34.2	Lord
+34.3	Kin
+34.4	Kin
+34.5	Neutral
+34.6	Ally
+34.7	Military
+34.8	Own
+34.9	Diplo-|macy
+34.10	Vassal
+34.11	Married
+34.12	Hostile
+34.13	Target
+34.14	Overlord
+34.15	Sick
+34.16	Sick
+34.17	Injured
+34.18	Injured
+34.30	Jeer
+34.31	Treat
+34.32	Awe
+34.33	Inspire
+34.34	Confuse
+34.35	False|Report
+34.36	Subvert
+34.37	Restore|Order
+34.38	Divide
+34.39	Provoke
+34.40	Inter-|cept
+34.41	Destroy
+34.42	Arson
+34.43	Fire|Pots
+34.44	Spy
+34.45	Repair
+34.46	Storm
+34.47	Lure
+34.48	Tactic
+34.50	Defect
+34.51	Defect
+34.52	Sortie
+34.53	Sortie
+34.54	Coup
+34.55	Coup
+34.56	Cause
+34.57	Cause
+34.58	Cause: Shogunate
+34.59	Cause: Shogunate
+34.60	Cause: Court
+34.61	Cause: Court
+34.62	Rebel
+34.63	Rebel
+34.64	Punish
+34.65	Punish
+34.66	Farming
+34.67	Farming
+34.68	Trade
+34.69	Trade
+34.70	Repair
+34.71	Repair
+34.72	Recruit
+34.73	Recruit
+34.74	Plea
+34.75	Elo-|quence
+34.76	Tea
+34.77	Awe
+34.78	Repair
+34.79	Sword
+34.80	Farm-|ing
+34.81	Com-|merce
+34.82	Re-|cruit
+34.83	Skill
+34.91	Inf.
+34.92	Inf.
+34.93	Pikes
+34.94	Pikes
+34.95	Cav.
+34.96	Cav.
+34.97	Guns
+34.98	Guns
+34.99	M.Guns
+34.100	M.Guns
+34.101	Encir-|cled
+34.102	Encir-|cled
+34.103	Hostile
+34.104	Distant
+34.105	Normal
+34.106	Friendly
+34.107	Close
+34.108	Friendly
+34.110	Fort
+34.111	Town
+34.112	Monks
+34.113	Chris-|tian
+34.114	Trade
+34.115	Pirate
+34.116	Ninja
+34.117	Court
+34.163	System 1
+34.164	System 2
+34.165	Setup 1
+34.166	Setup 2
+34.248	Officer
+34.249	Treasure
+34.250	Speed
+34.251	Hardship
+34.252	Battle
+34.253	Intrigue
+34.254	Wedding
+34.255	Free
+34.256	Basic
+34.257	Officers
+34.258	Military
+34.259	Battle
+34.260	Strategy
+34.261	Powers
+34.262	Lords
+34.263	Settings
+# 43/51: title and setup menus (backgrounds with baked prompts)
+51.0	Power-Up Kit
+43.0	Select a menu
+51.7	Choose a Special Customisation
+51.8	Select a menu
+51.76	Select a scenario to play
+51.77	
+51.96	Choose the officer you will play
+51.97	Daimyo;Commander;Lord
+# 46: help menu panels (heading; 4 buttons)
+46.4	1. Overview;Rules;Roles;Gekokujo;Proposals
+46.5	2. Game Flow;Phases;Intrigue;Battles;Events
+46.6	3. Strategy Phase;Domestic;Armament;Ninja;Talks
+46.7	4. Military Phase;Sortie;Field Battle;Sieges;Minor Powers
+46.8	5. Options;Save;Help;Editors;Info
+# 50: goal banners
+50.9	Prize Won!
+50.10	Prize Lost!
+50.11	Japan Unified!
+50.12	Goal Achieved!
+# 52/57/58: battle labels (tactics, troops, wings, baileys)
+52.14	Jeer
+52.15	Divide
+52.16	Treat
+52.17	Provoke
+52.18	Intercept
+52.19	Destroy
+52.20	Arson
+52.21	Fire Pots
+52.22	Awe
+52.23	Inspire
+52.24	Confuse
+52.25	False Rpt
+52.26	Spy
+52.27	Subvert
+52.28	Repair
+52.29	Restore
+52.30	Storm
+52.31	Lure
+53.1	Ours
+53.2	Enemy
+53.11	Speed
+54.0	vs;Left
+54.25	Inf
+54.26	Inf
+54.27	Inf
+54.28	Pik
+54.29	Pik
+54.30	Pik
+54.31	Gun
+54.32	Gun
+54.33	Gun
+54.34	Cav
+54.35	Cav
+54.36	Cav
+54.37	MG
+54.38	MG
+54.39	MG
+54.50	HQ Info
+54.51	Commit Left
+54.52	Commit Centre
+54.53	Commit Right
+55.16	Def
+55.18	Int
+55.20	Brk
+55.22	Mov
+55.24	Cnf
+55.26	Sup
+55.28	Stm
+55.30	Sht
+55.32	Swp
+55.34	Wdr
+55.36	Chg
+55.38	Pur
+55.40	Lur
+55.42	Stay
+55.66	vs
+55.68	Main
+55.69	2nd
+55.70	3rd
+55.79	Atk
+55.80	Def
+57.10	Inf.
+57.11	Cav.
+57.12	M.Guns
+57.13	Pikes
+57.14	Guns
+57.15	Centre
+57.16	HQ
+57.17	Left
+57.18	Right
+58.14	vs
+58.16	Main
+58.17	2nd L
+58.18	2nd R
+58.19	3rd L
+58.20	3rd R
+# 60/61: strategy phase (season banners, command banners, target-select headers)
+60.0	Spring
+60.1	Summer
+60.2	Autumn
+60.3	Winter
+60.12	Spring
+60.13	Summer
+60.14	Autumn
+60.15	Winter
+60.16	Recruit Officers
+60.17	Name Princess
+60.18	Purify
+60.19	Domestic Report
+60.20	Rehire Ninja
+61.22	Enemy of the Court
+61.23	Encircled Daimyo
+61.24	From Castle
+61.25	To Castle
+61.26	Target Daimyo
+61.27	Target Castle
+61.28	Ninja Target
+61.29	Daimyo to Appoint
+61.30	Rumour Target
+61.31	Target Daimyo
+61.32	Target Corps
+61.33	Target Castle
+61.34	Target Power
+61.35	Ceasefire With
+61.36	Daimyo to Punish
+61.37	Repair
+61.38	Farming
+61.39	Commerce
+61.40	Recruit
+61.41	Magistrates
+61.42	Reassign
+61.43	Transport
+61.44	Change Fief
+61.45	Name Commander
+61.46	Change Troops
+61.47	Change Lord
+61.48	Change Treasure
+61.49	Hire Ninja
+61.50	Infiltrate
+61.51	Punish
+61.52	Transfer
+61.58	Agree
+61.73	Rivals' Turn;Rivals' Turn;Rivals' Turn
+# 81/82/84: strategy map (corps numbers, charts, dates, phase banners, map tags, target selection)
+81.34	1
+81.35	2
+81.36	3
+81.37	4
+81.38	5
+81.39	6
+81.40	7
+81.41	8
+81.69	Daimyo Diplomacy Chart
+81.70	Lord Friendship Chart
+81.72	Late
+81.73	Early
+81.74	Month 1
+81.75	Month 2
+81.76	Month 3
+81.77	Month 4
+81.78	Month 5
+81.79	Month 6
+81.80	Month 7
+81.81	Month 8
+81.82	Month 9
+81.83	Month 10
+81.84	Month 11
+81.85	Month 12
+81.86	Military
+81.87	Strategy
+81.89	Military Phase
+81.91	Strategy Phase
+82.52	Goal
+82.54	Snow
+82.68	Supporters
+82.70	Rendezvous
+82.72	Instigator
+82.74	Sortie From
+82.76	Sortie To
+82.78	Withdraw Req.
+84.0	Choose Who to Ask for Aid
+84.1	Choose Target
+84.2	Choose Who to Turn
+84.3	Choose False Orders Target
+84.4	Choose Unit
+84.5	Choose Destination
+84.6	Choose Rally Point
+84.7	Choose Who to Ask to March
+84.8	Choose Ceasefire Partner
+84.9	Confirm
+84.16	Acting
+84.17	Awaiting Orders
+84.18	Awaiting Orders
+84.29	Atk!
+84.31	Prisoners
+84.34	Castles
+84.35	Armies
+84.38	Home Castle
+84.39	On Campaign
+# 51: main-menu illustrations (animation frames; empty = kanji erased)
+51.22	
+51.23	
+51.24	
+51.25	
+51.26	
+51.27	
+51.65	
+51.66	Special
+51.67	Special
+51.68	Special
+51.69	
+51.46	INSTALL
+51.47	INSTALL
+51.48	INSTALL
+51.49	INSTALL
+51.50	INSTALL
+51.51	INSTALL

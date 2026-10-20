@@ -1,0 +1,3072 @@
+@1500
+We can ask for a shogunate post.
+@1500.1
+We can ask for a shogunate post.
+@1500.2
+We can ask for a shogunate post.
+@1501
+We can donate and ask for a post.
+@1501.1
+We can donate and ask for a post.
+@1501.2
+We can donate and ask for a post.
+@1502
+First we must have the order to punish us lifted...
+@1502.1
+First we must have the order to punish us lifted...
+@1502.2
+First we must have the order to punish us lifted...
+@1502.3
+First we must have the order to punish us lifted...
+@1503
+An order to punish the {02}{0B}E has already been issued.
+@1503.1
+An order to punish the {02}{0B}E has already been issued.
+@1503.2
+An order to punish the {02}{0B}E has already been issued.
+@1503.3
+An order to punish the {02}{0B}E has already been issued.
+@1504
+We are hostile to the shogunate, so we cannot ask it.
+@1504.1
+We are hostile to the shogunate, so we cannot ask it.
+@1504.2
+We are hostile to the shogunate, so we cannot ask it.
+@1504.3
+We are hostile to the shogunate, so we cannot ask it.
+@1505
+Shall I have an order of punishment issued against a particular clan?
+@1505.1
+Shall I have an order of punishment issued against a particular clan?
+@1505.2
+Let us have an order of punishment issued against a particular clan.
+@1506
+There is no clan on which a shogunate ceasefire order would work.
+@1506.1
+There is no clan on which a shogunate ceasefire order would work.
+@1506.2
+There is no clan on which a shogunate ceasefire order would work.
+@1506.3
+There is no clan on which a shogunate ceasefire order would work.
+@1507
+Shall I negotiate to have the order to punish us lifted?
+@1507.1
+Shall I negotiate to have the order to punish us lifted?
+@1507.2
+Let us negotiate to have the order to punish us lifted.
+@1508
+Our relations with the shogunate are excellent. No need to donate more.
+@1508.1
+Our relations with the shogunate are excellent. No need to donate more.
+@1508.2
+Our relations with the shogunate are excellent. There is no need to donate more.
+@1508.3
+Our relations with the shogunate are excellent. There is no need to donate more.
+@1509
+Shall I present gold to win the shogunate's favour?\n(Gold needed: %d)
+@1509.1
+Shall I present gold to win the shogunate's favour?\n(Gold needed: %d)
+@1509.2
+Let us present gold to win the shogunate's favour.\n(Gold needed: %d)
+@1510
+No post fitting our prestige seems to be vacant.
+@1510.1
+No post fitting our prestige seems to be vacant.
+@1510.2
+No post fitting our prestige is vacant.
+@1510.3
+No post fitting our prestige is vacant.
+@1511
+Shall I ask for a shogunate post?
+@1511.1
+Shall I ask for a shogunate post?
+@1511.2
+Let us ask for a shogunate post.
+@1512
+I give {01}C{0B}{00} a reward.
+@1512.1
+I give {01}C{0B}{00} a reward.
+@1513
+Oh, thank you. I'll gladly accept it.
+@1513.1
+My, how thoughtful. I'll gladly accept it.
+@1513.2
+Most kind. My thanks.
+@1513.3
+Oh, how lovely. Thank you.
+@1513.4
+It is only natural that I receive a fief.
+@1513.5
+It is only natural that I receive a fief.
+@1514.1
+I shall stay loyal to {01}C{0C}{00} always!
+@1514.2
+Expect great things of me from now on!
+@1515.1
+I shall always serve {01}C{0C}{00} faithfully.
+@1515.2
+Expect great things of me from now on.
+@1516
+I am most grateful.
+@1516.1
+I shall never forget this kindness.
+@1516.2
+Yes, my lord! Most grateful.
+@1517
+I'm counting on you from now on.
+@1517.1
+Please work hard for me.
+@1518
+I'm counting on you from now on.
+@1518.1
+Work hard for me.
+@1519
+Let me choose whom to reward. {01}C{07}{00} castle now has {02})X gold.
+@1519.1
+Let me choose whom to reward. {01}C{07}{00} castle now has {02})X gold.
+@1519.2
+Please choose an officer to reward. {01}C{07}{00} castle now has {02})X gold.
+@1520
+I shall reward my retainers. The rewards will total %d gold.\n(Gold needed: 200 each)
+@1520.1
+I shall reward my retainers. The rewards will total %d gold.\n(Gold needed: 200 each)
+@1520.2
+Will you reward your retainers? The rewards will total %d gold.\n(Gold needed: 200 each)
+@1521
+I'll cancel the reward and go back to choosing rewards and punishments.
+@1521.1
+I shall cancel the reward and go back to choosing rewards and punishments.
+@1521.2
+Cancelling the reward. Back to rewards and punishments.
+@1522
+This officer has already been rewarded.
+@1522.1
+This officer has already been rewarded.
+@1522.2
+I've already been rewarded. No need to fuss so.
+@1522.3
+I've already been rewarded. You needn't fuss so.
+@1522.4
+I've already had my reward. Why not give it to someone else?
+@1522.5
+I've already had my reward. Why not give it to someone else?
+@1522.6
+I have already received my reward, my lord.
+@1522.7
+I have already received my reward, my lord.
+@1522.8
+This person has already been rewarded.
+@1523
+Shall I reward this officer...
+@1523.1
+Should I reward this officer...
+@1523.2
+Oh, you have something for me?
+@1523.3
+Oh, you have something for me?
+@1523.4
+Oh, do I get a reward too?
+@1523.5
+Oh, something for me too?
+@1523.6
+You would give me a reward?
+@1523.7
+This officer can be rewarded, my lord.
+@1523.8
+This officer can be rewarded.
+@1524
+The treasures have not been changed.
+@1524.1
+The treasures have not been changed.
+@1524.2
+The treasures have not been changed.
+@1524.3
+The treasures have not been changed.
+@1525
+Shall I check the effect of the chosen treasure?
+@1525.1
+I shall check the effect of the chosen treasure.
+@1525.2
+Checking the effect of the chosen treasure.
+@1526
+Shall I deepen our friendship?
+@1526.1
+Shall I deepen our friendship?
+@1526.2
+Let us deepen our friendship.
+@1527
+Not enough for a gift to deepen our friendship.\n(Gold needed: 500)
+@1527.1
+Not enough for a gift to deepen our friendship.\n(Gold needed: 500)
+@1527.2
+There is not enough for a gift to deepen our friendship.\n(Gold needed: 500)
+@1528
+There is no castle we can send gold to.
+@1528.1
+There is no castle we can send gold to.
+@1528.2
+There is no castle we can send gold to.
+@1528.3
+There is no castle we can send gold to.
+@1529
+Shall I send gold and deepen our friendship?\n(Gold needed: %d)
+@1529.1
+Shall I send gold and deepen our friendship?\n(Gold needed: %d)
+@1529.2
+Let us send gold and deepen our friendship.\n(Gold needed: %d)
+@1530
+This castle cannot store any more gold.
+@1530.1
+This castle cannot store any more gold.
+@1530.2
+This castle cannot store any more gold.
+@1530.3
+This castle cannot store any more gold.
+@1531
+There is no castle we can ask for gold.
+@1531.1
+There is no castle we can ask for gold.
+@1531.2
+There is no castle we can ask for gold.
+@1531.3
+There is no castle we can ask for gold.
+@1532
+Shall I ask for gold?
+@1532.1
+Shall I ask for gold?
+@1532.2
+I shall ask for gold.
+@1533
+No clan is our vassal.
+@1533.1
+No clan is our vassal.
+@1533.2
+No clan is our vassal.
+@1533.3
+No clan is our vassal.
+@1534
+Shall I tell a vassal clan that our overlordship is ended?
+@1534.1
+Shall I tell a vassal clan that our overlordship is ended?
+@1534.2
+Will you tell a vassal clan that our overlordship is ended?
+@1535
+We must become independent before we can make other clans our vassals.
+@1535.1
+We must become independent before we can make other clans our vassals.
+@1535.2
+We must become independent before we can make other clans our vassals.
+@1535.3
+We must become independent before we can make other clans our vassals.
+@1536
+There is no clan we could make our vassal.
+@1536.1
+There is no clan we could make our vassal.
+@1536.2
+There is no clan we could make our vassal.
+@1536.3
+There is no clan we could make our vassal.
+@1537
+Shall I threaten another clan into becoming our vassal?
+@1537.1
+Shall I threaten another clan into becoming our vassal?
+@1537.2
+Will you threaten another clan into becoming our vassal?
+@1538
+Shall I threaten a vassal clan and absorb it into ours completely?
+@1538.1
+Shall I threaten a vassal clan and absorb it into ours completely?
+@1538.2
+Will you threaten a vassal clan and absorb it into ours completely?
+@1539
+There is no clan we should offer to serve.
+@1539.1
+There is no clan we should offer to serve.
+@1539.2
+There is no clan we should offer to serve.
+@1539.3
+There is no clan we should offer to serve.
+@1540
+Shall I offer to become another clan's vassal?
+@1540.1
+Shall I offer to become another clan's vassal?
+@1540.2
+Will you offer to become another clan's vassal?
+@1540.3
+Shall I abandon our current overlord and offer to serve another clan?
+@1540.4
+Shall I abandon our current overlord and offer to serve another clan?
+@1540.5
+Will you abandon our current overlord and offer to serve another clan?
+@1541
+We cannot become another clan's retainers at once. First we must offer vassalage.
+@1541.1
+We cannot become another clan's retainers at once. First we must offer vassalage.
+@1541.2
+We cannot become another clan's retainers at once. Why not first offer vassalage?
+@1541.3
+We cannot become another clan's retainers at once. Why not first offer vassalage?
+@1542
+Shall I ask our overlord, the {02}{0B}4, to take us in as retainers?
+@1542.1
+Shall I ask our overlord, the {02}{0B}4, to take us in as retainers?
+@1542.2
+Will you ask our overlord, the {02}{0B}4, to take us in as retainers?
+@1543
+We are already independent.
+@1543.1
+We are already independent.
+@1543.2
+We are already independent.
+@1543.3
+We are already independent.
+@1544
+Shall I declare our independence to our overlord?
+@1544.1
+Shall I declare our independence to our overlord?
+@1544.2
+Will you declare our independence to our overlord?
+@1545
+There is no clan to spread slander about.
+@1545.1
+There is no clan to spread slander about.
+@1545.2
+There is no clan to spread slander about.
+@1545.3
+There is no clan to spread slander about.
+@1546
+Shall I slander a vassal clan's overlord to it and drive them apart?
+@1546.1
+Shall I slander a vassal clan's overlord to it and drive them apart?
+@1546.2
+Let us slander a vassal clan's overlord to it and drive them apart.
+@1547
+There is no castle to spread slander at.
+@1547.1
+There is no castle to spread slander at.
+@1547.2
+There is no castle to spread slander at.
+@1548
+Shall I slander a daimyo to a castle lord serving them and drive them apart?
+@1548.1
+Shall I slander a daimyo to a castle lord serving them and drive them apart?
+@1548.2
+Let us slander a daimyo to a castle lord serving them and drive them apart.
+@1549
+I doubt anyone would defect to a vassal clan like ours.
+@1549.1
+I doubt anyone would defect to a vassal clan like ours.
+@1549.2
+As a vassal clan, I doubt anyone would defect to us.
+@1549.3
+As a vassal clan, I doubt anyone would defect to us.
+@1550
+There is no castle we can incite to betrayal in the Military phase.
+@1550.1
+There is no castle we can incite to betrayal in the Military phase.
+@1550.2
+There is no castle we can incite to betrayal in the Military phase.
+@1550.3
+There is no castle we can incite to betrayal in the Military phase.
+@1551
+Shall I invite a castle lord to defect in the Military phase?
+@1551.1
+Shall I invite a castle lord to defect in the Military phase?
+@1551.2
+Let us invite a castle lord to defect in the Military phase.
+@1552
+There is no subordinate castle whose support for the heir we need.
+@1552.1
+There is no subordinate castle whose support for the heir we need.
+@1552.2
+There is no subordinate castle whose support for the heir we need.
+@1552.3
+There is no subordinate castle whose support for the heir we need.
+@1553
+Shall I win our castle lords' approval for my choice of heir?
+@1553.1
+Shall I win our castle lords' approval for my choice of heir?
+@1553.2
+Let us win our castle lords' approval for the choice of heir.
+@1554
+Back to choosing what to negotiate with clans?
+@1554.1
+Back to choosing what to negotiate with clans.
+@1554.2
+Back to choosing what to negotiate with clans.
+@1554.3
+Back to choosing a diplomatic action.
+@1554.4
+Back to choosing a diplomatic action.
+@1554.5
+Back to choosing a diplomatic action.
+@1555
+Let me choose the target of [{02}{C9}]. For other talks, I must change the action.
+@1555.1
+Let me choose the target of [{02}{C9}]. For other talks, I must change the action.
+@1555.2
+Please choose the target of [{02}{C9}]. For other talks, please change the action.
+@1556
+There is no clan to defect to.
+@1556.1
+There is no clan to defect to.
+@1556.2
+There is no clan to defect to.
+@1556.3
+There is no clan to defect to.
+@1557
+Shall I promise another clan to defect in the Military phase? The castle lords I've urged to rise will defect with me.
+@1557.1
+Shall I promise another clan to defect in the Military phase? The castle lords I've urged to rise will defect with me.
+@1557.2
+Will you promise another clan to defect in the Military phase? The castle lords you've urged to rise will defect too.
+@1558
+There is no castle we could urge to overthrow its lord.
+@1558.1
+There is no castle we could urge to overthrow its lord.
+@1558.2
+There is no castle we could urge to overthrow its lord.
+@1558.3
+There is no castle we could urge to overthrow its lord.
+@1559
+Shall I invite them to defect with us when this castle rises against its lord?
+@1559.1
+Shall I invite them to defect with us when this castle rises against its lord?
+@1559.2
+Will you invite them to defect with us when this castle rises against its lord?
+@1560
+There is no castle we can urge to overthrow its lord.
+@1560.1
+There is no castle we can urge to overthrow its lord.
+@1560.2
+There is no castle we can urge to overthrow its lord.
+@1560.3
+There is no castle we can urge to overthrow its lord.
+@1561
+Shall I urge them to overthrow their lord? If they rise, this castle will follow them.
+@1561.1
+Shall I urge them to overthrow their lord? If they rise, this castle will follow them.
+@1561.2
+Will you urge them to overthrow their lord? If they rise, this castle will follow them.
+@1562
+Shall I publicise the virtues of our clan?
+@1562.1
+Shall I publicise the virtues of our clan?
+@1562.2
+Will you publicise the virtues of our clan?
+@1563
+I'll spread rumours to fill a castle lord with suspicion. Which castle's lord shall I target...
+@1563.1
+I shall spread rumours to fill a castle lord with suspicion. Which castle's lord shall I target...
+@1563.2
+Let us spread rumours to fill a castle lord with suspicion. Which castle's lord will you target?
+@1563.3
+I'll spread rumours to fill a castle lord with suspicion. Which castle's lord shall I target... Our target castle is {02}yY.
+@1563.4
+I shall spread rumours to fill a castle lord with suspicion. Which castle's lord shall I target... Our target castle is {02}yY.
+@1563.5
+Let us spread rumours to fill a castle lord with suspicion. Which castle's lord will you target? Our target castle is {02}yY.
+@1564
+Back to choosing a ninja task.
+@1564.1
+Back to choosing a ninja task.
+@1564.2
+Back to choosing a ninja task.
+@1565
+This castle is already on bad terms with all the others. No need for rumours.
+@1565.1
+This castle is already on bad terms with all the others. No need for rumours, it seems.
+@1565.2
+This castle is already on bad terms with all the others. There is no need for rumours.
+@1565.3
+This castle is already on bad terms with all the others. There is no need for rumours.
+@1566
+Shall I fill this castle's lord with suspicion?
+@1566.1
+Shall I fill this castle's lord with suspicion?
+@1566.2
+Will you fill this castle's lord with suspicion?
+@1567
+Shall I turn this castle's lord against them?
+@1567.1
+Shall I turn this castle's lord against them?
+@1567.2
+Will you turn this castle's lord against them?
+@1568
+Let me choose a castle to visit.
+@1568.1
+Let me choose a castle to visit.
+@1568.2
+Please choose a castle to visit.
+@1570
+This castle has only its lord.
+@1570.1
+This castle has only its lord.
+@1570.2
+This castle has only its lord.
+@1570.3
+This castle has only its lord.
+@1571
+Shall I visit an officer at this castle?
+@1571.1
+Shall I visit an officer at this castle?
+@1571.2
+This castle can be visited.
+@1572
+Let me choose which castle to slander to the Imperial Court.
+@1572.1
+Let me choose which castle to slander to the Imperial Court.
+@1572.2
+Please choose which castle to slander to the Imperial Court.
+@1573
+This castle is already on the worst terms with the court. No need for slander.
+@1573.1
+This castle is already on the worst terms with the court. No need for slander, it seems.
+@1573.2
+This castle is already on the worst terms with the court. There is no need for slander.
+@1573.3
+This castle is already on the worst terms with the court. There is no need for slander.
+@1574
+Let me choose a castle to persuade.
+@1574.1
+Let me choose a castle to persuade.
+@1574.2
+Please choose a castle to persuade.
+@1575
+I cannot choose another clan's castle.
+@1575.1
+I cannot choose another clan's castle.
+@1575.2
+You cannot choose another clan's castle.
+@1575.3
+You cannot choose another clan's castle.
+@1576
+To persuade the daimyo in person, I must use [Propose]...
+@1576.1
+To persuade the daimyo in person, I must use [Propose]...
+@1576.2
+To persuade the daimyo in person, please use [Propose].
+@1577
+This castle's lord already recommends me as heir.
+@1577.1
+This castle's lord already recommends me as heir.
+@1577.2
+This castle's lord already recommends me as heir.
+@1577.3
+This castle's lord already recommends me as heir.
+@1577.4
+This castle's lord already recommends {02}{03}n as heir.
+@1577.5
+This castle's lord already recommends {02}{03}n as heir.
+@1577.6
+This castle's lord already recommends {02}{03}n as heir.
+@1577.7
+This castle's lord already recommends {02}{03}n as heir.
+@1578
+Shall I persuade this castle's lord to recommend me as heir?
+@1578.1
+Shall I persuade this castle's lord to recommend me as heir?
+@1578.2
+Shall I persuade this castle's lord to recommend me as heir?
+@1578.4
+Shall I persuade this castle's lord to recommend {02}{03}n as heir?
+@1578.5
+Shall I persuade this castle's lord to recommend {02}{03}n as heir?
+@1578.6
+Shall I persuade this castle's lord to recommend {02}{03}n as heir?
+@1578.7
+Shall I persuade this castle's lord to recommend {02}{03}n as heir?
+@1578.8
+Will you persuade this castle's lord to recommend {02}{03}n as heir?
+@1578.9
+Will you persuade this castle's lord to recommend {02}{03}n as heir?
+@1579
+{01}C {00} seems to favour {02}{05}n as heir. Shall I persuade them to recommend me?
+@1579.1
+{01}C {00} seems to favour {02}{05}n as heir. Should I persuade them to recommend me?
+@1579.2
+{01}C {00} seems to favour {02}{05}n as heir. Will you persuade them to recommend you?
+@1579.3
+{01}C {00} seems to favour {02}{05}n as heir. Shall I persuade them to recommend {02}{03}n?
+@1579.4
+{01}C {00} seems to favour {02}{05}n as heir. Should I persuade them to recommend {02}{03}n?
+@1579.5
+{01}C {00} seems to favour {02}{05}n as heir. Will you persuade them to recommend {02}{03}n?
+@1580
+Now to choose whom to turn against the lord of {02})N... Which castle's lord shall it be?
+@1580.1
+Now to choose whom to turn against the lord of {02})N... Which castle's lord shall it be?
+@1580.2
+Please choose whom to turn against the lord of {02})N. Which castle's lord will it be?
+@1581
+Back to choosing a castle for the rumours.
+@1581.1
+Back to choosing a castle for the rumours.
+@1581.2
+Back to choosing a castle for the rumours.
+@1582
+That is the castle spreading the rumours. I must choose whose castle the rumours are about.
+@1582.1
+That is the castle spreading the rumours. I must choose whose castle the rumours are about.
+@1582.2
+That is the castle spreading the rumours. Please choose whose castle the rumours are about.
+@1583
+We are already on bad terms with this castle's lord. No need for rumours.
+@1583.1
+We are already on bad terms with this castle's lord. No need for rumours, it seems.
+@1583.2
+We are already on bad terms with this castle's lord. There is no need for rumours.
+@1583.3
+We are already on bad terms with this castle's lord. There is no need for rumours.
+@1584
+Let me choose a ninja to spread the rumours.
+@1584.1
+Let me choose a ninja to spread the rumours.
+@1584.2
+Please choose a ninja to spread the rumours.
+@1585
+I'll spread the rumours.
+@1585.1
+I shall spread the rumours.
+@1585.2
+Will you spread the rumours?
+@1586
+Back to choosing whose castle the rumours are about.
+@1586.1
+Back to choosing whose castle the rumours are about.
+@1586.2
+Back to choosing whose castle the rumours are about.
+@1587
+Shall I leave it to this ninja...
+@1587.1
+Should I leave it to this ninja...
+@1587.2
+This ninja can be chosen, my lord.
+@1587.3
+This ninja can be chosen.
+@1588
+I'll send an envoy.
+@1588.1
+I shall send an envoy.
+@1588.2
+Will you send an envoy?
+@1589
+Back to choosing where to visit.
+@1589.1
+Back to choosing where to visit.
+@1589.2
+Back to choosing where to visit.
+@1590
+Back to choosing shogunate negotiations.
+@1590.1
+Back to choosing shogunate negotiations.
+@1590.2
+Back to choosing shogunate negotiations.
+@1591
+Back to choosing Imperial Court negotiations.
+@1591.1
+Back to choosing Imperial Court negotiations.
+@1591.2
+Back to choosing Imperial Court negotiations.
+@1593
+Now, what shall we talk about...
+@1593.1
+Now, what shall we talk about...
+@1593.2
+What will you talk about?
+@1594
+Shall I pay my respects and deepen our friendship?
+@1594.1
+Shall I pay my respects and deepen our friendship?
+@1594.2
+Will you pay your respects and deepen your friendship?
+@1595
+Not enough gold.
+@1595.1
+Not enough gold.
+@1595.3
+There is not enough gold.
+@1596
+Shall I send gold and deepen our friendship?
+@1596.1
+I shall send gold and deepen our friendship.
+@1596.2
+Will you send gold and deepen your friendship?
+@1597
+My castle's storehouse is overflowing with gold. No need to ask for help.
+@1597.1
+My castle's storehouse is overflowing with gold. No need to ask for help, it seems.
+@1597.2
+Our castle's storehouse is overflowing with gold. There is no need to ask for help.
+@1597.3
+Our castle's storehouse is overflowing with gold. There is no need to ask for help.
+@1598.2
+Will you ask for gold?
+@1599
+We are a vassal clan, so we cannot threaten anyone.
+@1599.1
+We are a vassal clan, so we cannot threaten anyone.
+@1599.2
+We are a vassal clan, so we cannot threaten anyone.
+@1599.3
+We are a vassal clan, so we cannot threaten anyone.
+@1600
+Shall I threaten them into becoming our vassal?
+@1600.1
+Shall I threaten them into becoming our vassal?
+@1600.2
+Will you threaten them into becoming our vassal?
+@1601
+Shall I offer to become their vassal?
+@1601.1
+Shall I offer to become their vassal?
+@1601.2
+Will you offer to become their vassal?
+@1602
+Shall I tell them we are ending our vassalage and becoming independent?
+@1602.1
+Shall I tell them we are ending our vassalage and becoming independent?
+@1602.2
+Will you tell them we are ending our vassalage and becoming independent?
+@1603
+Shall I slander their overlord to them and drive them apart?
+@1603.1
+Shall I slander their overlord to them and drive them apart?
+@1603.2
+Will you slander their overlord to them and drive them apart?
+@1604
+Shall I urge them to end their vassalage and become independent?
+@1604.1
+Shall I urge them to end their vassalage and become independent?
+@1604.2
+Will you urge them to end their vassalage and become independent?
+@1605
+Shall I threaten them into joining us as retainers?
+@1605.1
+Shall I threaten them into joining us as retainers?
+@1605.2
+Will you threaten them into joining us as retainers?
+@1606
+Shall I slander the daimyo they serve and drive them apart?
+@1606.1
+Shall I slander the daimyo they serve and drive them apart?
+@1606.2
+Will you slander the daimyo they serve and drive them apart?
+@1607
+They have already promised to defect to us.
+@1607.1
+They have already promised to defect to us.
+@1607.2
+They have already promised to defect to us, my lord.
+@1607.3
+They have already promised to defect to us.
+@1608
+I doubt they would betray their side for a vassal clan like ours.
+@1608.1
+I doubt they would betray their side for a vassal clan like ours.
+@1608.2
+I doubt they would betray their side for a vassal clan like ours.
+@1608.3
+I doubt they would betray their side for a vassal clan like ours.
+@1609
+Shall I invite them to defect to us in the Military phase?
+@1609.1
+Shall I invite them to defect to us in the Military phase?
+@1609.2
+Will you invite them to defect to us in the Military phase?
+@1610
+This is the clan we have promised to defect to.
+@1610.1
+This is the clan we have promised to defect to.
+@1610.2
+This is the clan we have promised to defect to, my lord.
+@1610.3
+This is the clan we have promised to defect to.
+@1611
+Shall I promise to defect in the Military phase? The castle lords I've urged to rise will defect with me.
+@1611.1
+Shall I promise to defect in the Military phase? The castle lords I've urged to rise will defect with me.
+@1611.2
+Will you promise to defect in the Military phase? The castle lords you've urged to rise will defect too.
+@1613
+They have already promised to defect with us when we rise against our lord.
+@1613.1
+They have already promised to defect with us when we rise against our lord.
+@1613.2
+They have already promised to defect with us when we rise against our lord.
+@1613.3
+They have already promised to defect with us when we rise against our lord.
+@1614
+Shall I invite them to defect with us when we rise against our lord?
+@1614.1
+Shall I invite them to defect with us when we rise against our lord?
+@1614.2
+Will you invite them to defect with us when we rise against our lord?
+@1615
+We are already preparing to rise against our lord, so this cannot be done.
+@1615.1
+We are already preparing to rise against our lord, so this cannot be done.
+@1615.2
+We are already preparing to rise against our lord, so this cannot be done.
+@1615.3
+We are already preparing to rise against our lord, so this cannot be done.
+@1617
+The ninja placement has not changed.
+@1617.1
+The ninja placement has not changed.
+@1617.2
+The ninja placement has not changed.
+@1617.3
+The ninja placement has not changed.
+@1618
+Shall I undo the changes?
+@1618.1
+I shall undo the changes.
+@1618.2
+Undoing the changes.
+@1619
+Shall I slander their castle lord to lower their loyalty?
+@1619.1
+Shall I slander their castle lord to lower their loyalty?
+@1619.2
+Will you slander their castle lord to lower their loyalty?
+@1620
+Shall I speak of our clan's merits to lower their loyalty to their castle lord?
+@1620.1
+Shall I speak of our clan's merits to lower their loyalty to their castle lord?
+@1620.2
+Will you speak of our clan's merits to lower their loyalty to their castle lord?
+@1621
+Shall I persuade them to join our clan?
+@1621.1
+Shall I persuade them to join our clan?
+@1621.2
+Will you persuade them to join our clan?
+@1622
+Shall I think it over again?
+@1622.1
+Shall I think it over again?
+@1622.2
+I shall think it over again.
+@1623
+We are a vassal of the {02}{03}v, so there is no corps to order.
+@1623.1
+We are a vassal of the {02}{03}v, so there is no corps to order.
+@1623.2
+We are a vassal of the {02}{03}v, so there is no corps to order.
+@1623.3
+We are a vassal of the {02}{03}v, so there is no corps to order.
+@1624
+There is no clan to fight.
+@1624.1
+There is no clan to fight.
+@1624.2
+There is no clan to fight.
+@1624.3
+There is no clan to fight.
+@1625
+I'll give orders to the corps.
+@1625.1
+I shall give orders to the corps.
+@1625.2
+Giving orders to the corps.
+@1626
+Shall I organise the corps?
+@1626.1
+I shall organise the corps.
+@1626.2
+Organising the corps.
+@1627
+There is no corps that can be given a commander.
+@1627.1
+There is no corps that can be given a commander.
+@1627.2
+There is no corps that can be given a commander.
+@1627.3
+There is no corps that can be given a commander.
+@1628
+Shall I appoint a new corps commander?
+@1628.1
+Shall I appoint a new corps commander?
+@1628.2
+Appointing a new corps commander.
+@1629
+With only one castle, we cannot form a corps.
+@1629.1
+With only one castle, we cannot form a corps.
+@1629.2
+With only one castle, we cannot form a corps.
+@1629.3
+With only one castle, we cannot form a corps.
+@1630
+Let me choose a corps to give orders to.
+@1630.1
+Let me choose a corps to give orders to.
+@1630.2
+Please choose a corps to give orders to.
+@1631
+I cannot give orders here.
+@1631.1
+I cannot give orders here.
+@1631.2
+You cannot give orders here.
+@1631.3
+You cannot give orders here.
+@1632
+Shall I give orders to {02}{C9}?
+@1632.1
+I shall give orders to {02}{C9}.
+@1632.2
+Giving orders to {02}{C9}.
+@1633
+Shall I give orders to the {02}{0B}E?
+@1633.1
+Shall I give orders to the {02}{0B}E?
+@1633.2
+Giving orders to the {02}{0B}E.
+@1634
+Shall I finish giving orders to the corps?
+@1634.1
+I shall finish giving orders to the corps.
+@1634.2
+Finishing orders to the corps.
+@1635
+Let us choose a clan as our target.
+@1635.1
+Let us choose a clan as our target.
+@1635.2
+Please choose a clan as our target, my lord.
+@1636
+That is one of our castles.
+@1636.1
+That is one of our own castles.
+@1636.2
+That castle is ours, my lord.
+@1637
+That castle belongs to an ally of ours.
+@1637.1
+That castle belongs to one of our allies.
+@1637.2
+That castle belongs to an ally of ours, my lord.
+@1638
+Shall we target the {02}{0B}E?
+@1638.1
+Perhaps I shall target the {02}{0B}E.
+@1638.2
+We will make the {02}{0B}E our target.
+@1639
+My 1st Corps will target the {02}{0B}E!
+@1639.1
+My 1st Corps shall target the {02}{0B}E.
+@1639.2
+I order the {02}{0C}E to conquer the {02}{0B}E.
+@1639.3
+I command the {02}{0C}E to conquer the {02}{0B}E.
+@1639.4
+{01}C{0B}{00} of {02}{C9}, I order you to conquer the {02}{0B}E.
+@1639.5
+{01}C{0B}{00} of {02}{C9}, I command you to conquer the {02}{0B}E.
+@1640
+Understood. Leave it to me.
+@1640.1
+Very well. You may leave it to me.
+@1640.2
+Understood. Leave it to me.
+@1640.3
+Very well. Leave it to me.
+@1640.4
+Yes, my lord! Your orders are received. Leave it to me!
+@1640.5
+Yes, my lord. Understood. Please leave it to me.
+@1641
+I expect great things from you all!
+@1641.1
+I am counting on you all!
+@1641.2
+Yes, my lord! Your orders are received. Leave it to us!
+@1641.3
+Yes, my lord. Understood. Please leave it to us.
+@1641.4
+Understood. Please leave it to us.
+@1642
+I shall give the corps their targets.
+@1642.1
+I shall give the corps their targets.
+@1642.2
+I will give the corps their targets.
+@1643
+We will set no target and act as the situation demands.
+@1643.3
+I will leave the march to the corps commander.
+@1643.4
+I shall leave the march to the corps commander.
+@1644
+They will concentrate on defence.
+@1644.1
+They shall concentrate on defence.
+@1644.2
+I will have them concentrate on defence.
+@1645
+The 1st Corps cannot be ordered to concentrate on defence.
+@1646
+My 1st Corps will set no target this time. Each of you, be ready to act as the situation demands.
+@1646.1
+My 1st Corps shall set no target this time. Each of you, be ready to act as the situation demands.
+@1646.2
+I set no particular target for the {02}{03}{98} clan. Strive to expand your power.
+@1646.3
+I set no particular target for the {02}{03}{98} clan. Strive to expand your power.
+@1646.4
+I leave the target of {02}{C9} to the judgement of {01}C{0B}{00}.
+@1646.5
+I leave the target of {02}{C9} to the judgement of {01}C{0B}{00}.
+@1647
+{01}C{0B}{00} of {02}{C9}, concentrate on defence.
+@1647.1
+{01}C{0B}{00} of {02}{C9}, you are to concentrate on defence.
+@1648
+Let us assign castles to each corps.
+@1648.1
+Let us assign castles to each corps.
+@1648.2
+Please assign castles to each corps, my lord.
+@1649
+Shall I assign castles to {02}{C9}?
+@1649.1
+Perhaps I shall assign castles to {02}{C9}.
+@1649.2
+I will assign castles to {02}{C9}.
+@1650
+This is my own castle. I must lead the 1st Corps myself.
+@1650.1
+This is my own castle. I must lead the 1st Corps myself.
+@1650.2
+This is your own castle, {01}C{0C}{00}. You must lead the 1st Corps yourself.
+@1651
+That castle belongs to another clan.
+@1651.1
+That castle belongs to another clan.
+@1651.2
+That castle belongs to another clan, my lord.
+@1652
+Shall I put {02}{C9} in charge of it?
+@1652.1
+Perhaps I shall put {02}{C9} in charge of it.
+@1652.2
+I will put {02}{C9} in charge of it.
+@1653
+Shall I settle the corps and name their commanders?
+@1653.1
+Let us settle the corps and name their commanders.
+@1653.2
+I will settle the corps and name their commanders.
+@1654
+Shall I organise the corps again from the start?
+@1654.1
+Perhaps I shall organise the corps again from the start.
+@1654.2
+I will organise the corps again from the start.
+@1655
+Shall I abandon organising the corps?
+@1655.1
+Let us abandon organising the corps.
+@1655.2
+I will abandon organising the corps.
+@1656
+Let us choose a castle lord to name as a new corps commander.
+@1656.1
+Let us choose a castle lord to name as a new corps commander.
+@1656.2
+Please choose a castle lord to name as a new corps commander.
+@1657
+Unless I lead the 1st Corps myself, I set a poor example.
+@1657.1
+I really must lead the 1st Corps myself.
+@1657.2
+{01}C{0C}{00}, you must lead the 1st Corps yourself...
+@1658
+{02}{C9} has not been formed.
+@1658.1
+{02}{C9} has not been formed.
+@1658.2
+{02}{C9} has not been formed, my lord.
+@1658.3
+{02}{C9} has not been formed, my lord.
+@1659
+This corps has only one castle lord who could command it.
+@1659.1
+This corps has only one castle lord who could command it.
+@1659.2
+This corps has only one castle lord who could command it, my lord.
+@1659.3
+This corps has only one castle lord who could command it, my lord.
+@1660
+Shall I name a commander for {02}{C9}?
+@1660.1
+I shall name a commander for {02}{C9}.
+@1660.2
+I will name a commander for {02}{C9}.
+@1661
+Let us choose a castle lord to command {02}{C9}.
+@1661.1
+Let us choose a castle lord to command {02}{C9}.
+@1661.2
+Please choose a castle lord to command {02}{C9}.
+@1662.1
+That castle belongs to another clan.
+@1663
+Shall I name {02})W, lord of {02})N, commander of {02}{C9}?
+@1663.1
+Perhaps I shall name {02})W, lord of {02})N, commander of {02}{C9}.
+@1663.2
+I will name {02})W, lord of {02})N, commander of {02}{C9}.
+@1664
+The lord of {02})N already commands {02}{C9}.
+@1664.1
+The lord of {02})N already commands {02}{C9}.
+@1664.2
+The lord of {02})N already commands {02}{C9}, my lord.
+@1665
+Shall I settle the corps as they are?
+@1665.1
+Let us settle the corps as they are.
+@1665.2
+I will settle the corps as they are.
+@1666
+Shall I name the corps commanders again from the start?
+@1666.1
+Perhaps I shall name the corps commanders again from the start.
+@1666.2
+I will name the corps commanders again from the start.
+@1667
+Shall I decide the corps again from the start?
+@1667.1
+Perhaps I shall decide the corps again from the start.
+@1667.2
+I will decide the corps again from the start.
+@1668.2
+Oh, you entrust this to me? Then I shall strive not to disappoint you.
+@1668.3
+My, you entrust this to me? Then I shall strive not to disappoint you.
+@1668.4
+I am most grateful to be chosen, my lord. I will work with all my might for our clan.
+@1668.5
+An honour, my lord! I'll spare no effort for the glory of our clan!
+@1668.6
+To be entrusted with this is the greatest honour. I shall strive to meet your expectations.
+@1668.7
+Thank you for choosing me, my lord. I shall work with all my strength.
+@1668.8
+An honour, my lord. Leave everything to me.
+@1668.9
+How delightful to be entrusted with this, my lord.
+@1669
+...I see. So I am of no more use.
+@1669.1
+...I see. So I can no longer be of help to you.
+@1669.2
+I see... So I cannot be of help. A pity, but it cannot be helped...
+@1669.3
+I see... So my time has passed.
+@1669.4
+B-but why, my lord? Have I failed you in some way?
+@1669.5
+Hmm... I cannot accept such a decision...
+@1669.6
+How cleverly {01}C{18}{00} has managed it. Can they do better than I? We shall see what they can do.
+@1669.7
+B-but why, my lord? After all I have done for you, what displeases you?
+@1669.8
+You mean {01}C{18}{00} is better than me? I cannot accept that!
+@1669.9
+How fortunate {01}C{18}{00} is. Do work hard in my place, won't you?
+@1670
+I have reorganised the corps.
+@1670.1
+I have reorganised the corps.
+@1670.2
+The corps have been reorganised, my lord.
+@1671
+Your work, {01}C{0B}{00}, leaves me unsatisfied. I hereby relieve {01}C{0B}{00} of command of the corps.
+@1671.1
+Your work, {01}C{0B}{00}, leaves me unsatisfied. I hereby relieve {01}C{0B}{00} of command of the corps.
+@1672
+Let us choose a corps to receive a new commander.
+@1672.1
+Let us choose a corps to receive a new commander.
+@1672.2
+Please choose a corps to receive a new commander.
+@1673
+Shall I name a corps commander?
+@1673.1
+Let us name a corps commander.
+@1673.2
+I will name a corps commander.
+@1674
+Shall I stop naming a corps commander?
+@1674.1
+Let us stop naming a corps commander.
+@1674.2
+I will stop naming a corps commander.
+@1675
+I have named the corps commander.
+@1675.1
+I have named the corps commander.
+@1675.2
+The corps commander has been named, my lord.
+@1676.2
+{01}C{0B}{00} of {02}{C9}, I order you to conquer the {02}{0B}E.
+@1676.3
+{01}C{0B}{00} of {02}{C9}, I command you to conquer the {02}{0B}E.
+@1677
+As you command. I, {02}{01}4, shall strive to live up to your expectations.
+@1677.1
+As you command. I, {02}{01}4, shall do my utmost to live up to your expectations.
+@1678
+Good. I expect great things.
+@1678.1
+I am counting on you.
+@1679
+So the target of {02}{C9} has been changed to the {02}{0B}E.
+@1679.1
+The target of {02}{C9} has been changed to the {02}{0B}E.
+@1679.2
+The target of {02}{C9} has been changed to the {02}{0B}E, my lord.
+@1680
+{01}C{0B}{00}, I transfer you from {02}{C9} and appoint you commander of {02}{CA}.
+@1680.1
+{01}C{0B}{00}, I transfer you from {02}{C9} and appoint you commander of {02}{CA}.
+@1681
+Yes, my lord! I humbly accept.
+@1681.1
+Yes, my lord. I humbly accept.
+@1682
+{01}C{0B}{00}, your corps is no longer needed, so I have decided to disband it. I hereby relieve {01}C{0B}{00} of command.
+@1682.1
+{01}C{0B}{00}, your corps is no longer needed, so I have decided to disband it. I hereby relieve {01}C{0B}{00} of command.
+@1683
+Is that so... A pity, but it cannot be helped...
+@1683.1
+I see... It cannot be helped...
+@1684
+Depending on your future service, I may make you a corps commander again. Until then, work hard.
+@1684.1
+Depending on your future service, I may make you a corps commander again. Until then, do work hard.
+@1685
+{01}C{0B}{00}, I transfer you to {02}{C9}.
+@1685.1
+{01}C{0B}{00}, I am transferring you to {02}{C9}.
+@1686
+So the corps have been reorganised by order of {01}C{17}{00}.
+@1686.1
+The corps have been reorganised by order of {01}C{17}{00}.
+@1686.2
+The corps have been reorganised by order of {01}C{17}{00}, my lord.
+@1687
+{01}C{0B}{00}, the target castle for {02}{02}N shall be {02})N.
+@1687.1
+{01}C{0B}{00}, the target castle for {02}{02}N will be {02})N.
+@1688
+Yes, my lord. As you command.
+@1688.1
+Yes, my lord. Understood.
+@1689
+You sent for me, {01}C{0C}{00}?
+@1689.1
+I have come at your summons, my lord.
+@1690
+Your service has been splendid, {01}C{0B}{00}. As a reward I grant your castle %s %d.
+@1690.1
+Your service has been truly admirable, {01}C{0B}{00}. As a reward I grant your castle %s %d.
+@1691
+I am most grateful. I shall put it to good use.
+@1691.1
+Thank you, my lord. I shall put it to good use.
+@1692
+Good. I expect more great deeds from you.
+@1692.1
+I look forward to more great deeds from you.
+@1693
+I have decided to add {01}C{16}{00} to your castle.
+@1693.1
+I have decided to add {01}C{16}{00} to your castle.
+@1694
+Let me see what you can do. Show me how well you can make use of me.
+@1694.1
+Let me see what you can do.
+@1694.2
+I shall take a good look at what you can do.
+@1694.3
+I shall take a good look at what you can do.
+@1694.4
+{01}C{0C}{00}, I am at your service.
+@1694.5
+{01}C{0C}{00}, I am at your service.
+@1695
+{01}C{09}{00}, I am at your service.
+@1695.1
+{01}C{09}{00}, I am at your service.
+@1695.4
+I expect great deeds from {01}C{0B}{00}.
+@1695.5
+I look forward to great deeds from {01}C{0B}{00}.
+@1696
+Good. Now {02}{02}N is secure.
+@1696.1
+Now {02}{02}N is secure.
+@1697
+{01}C{0B}{00}, I transfer your fief to {02})N.
+@1697.1
+{01}C{0B}{00}, I am transferring your fief to {02})N.
+@1698
+Yes, {02})N has need of your strength, {01}C{0B}{00}. I am counting on you.
+@1698.1
+{02})N has need of your strength, {01}C{0B}{00}. I am counting on you.
+@1699
+The lord of {02}{03}N has changed from {01}C{18}{00} to {01}C {00}. Our secret pact to rise against their lord is void now.
+@1699.1
+The lord of {02}{03}N has changed from {01}C{18}{00} to {01}C {00}. Our secret pact to rise against their lord is void.
+@1699.2
+The lord of {02}{03}N has changed from {01}C{18}{00} to {01}C {00}. Our secret pact to rise against their lord is void.
+@1700
+{01}C{0B}{00} is a pillar of our clan, as everyone well knows.
+@1700.1
+{01}C{0B}{00} is a pillar of our clan, as everyone well knows.
+@1701
+In reward for those deeds, I grant {01}C{0B}{00} the {02}32.
+@1701.1
+In reward for those deeds, I grant {01}C{0B}{00} the {02}32.
+@1702
+I am most grateful. I shall prove worthy of the {02}32.
+@1702.1
+Thank you, my lord. I shall prove worthy of the {02}32.
+@1703
+...Gwah! Wh-what is this...
+@1703.1
+...Aah! B-but why...
+@1704
+{01}C{0C}{00} has been cut down by their own lord! Ah, what a calamity... We must choose an heir at once.
+@1704.1
+{01}C{0C}{00} has been cut down by their own lord! Ah, what a calamity... We must choose an heir at once.
+@1705
+It has come to this. There is nothing for it but to break away from the {02}{02}v.
+@1705.1
+Now that it has come to this, I must break away from the {02}{02}v.
+@1706
+What shall I propose on diplomacy...
+@1706.1
+What shall I propose on diplomacy...
+@1706.2
+What will you propose on diplomacy, my lord?
+@1707
+I will avenge Lord {02}{C9}, without fail!
+@1707.1
+I shall avenge Lord {02}{C9}, I swear it!
+@1707.2
+We shall avenge Lord {02}{C9}, without fail.
+@1707.3
+We shall avenge Lord {02}{C9}, without fail.
+@1708
+So I can make no more proposals.
+@1708.1
+I can make no more proposals.
+@1708.2
+No more proposals can be made, my lord.
+@1708.3
+No more proposals can be made, my lord.
+@1709
+There is nothing to propose.
+@1709.1
+There is nothing to propose.
+@1709.2
+There is nothing to propose, my lord.
+@1709.3
+There is nothing to propose, my lord.
+@1710
+As a vassal of another clan, we cannot form a military alliance.
+@1710.1
+As a vassal of another clan, we cannot form a military alliance.
+@1710.2
+As a vassal of another clan, we cannot form a military alliance, my lord.
+@1710.3
+As a vassal of another clan, we cannot form a military alliance, my lord.
+@1711
+Shall I make a proposal on diplomacy?
+@1711.1
+Perhaps I shall make a proposal on diplomacy.
+@1711.2
+I will make a proposal on diplomacy.
+@1712
+Shall I make a proposal about my corps?
+@1712.1
+Perhaps I shall make a proposal about my corps.
+@1712.2
+I will make a proposal about my corps.
+@1713
+Shall I make a proposal on personnel?
+@1713.1
+Perhaps I shall make a proposal on personnel.
+@1713.2
+I will make a proposal on personnel.
+@1714
+There is no clan we can make a non-aggression pact with.
+@1714.1
+There is no clan we can make a non-aggression pact with.
+@1714.2
+There is no clan we can make a non-aggression pact with, my lord.
+@1714.3
+There is no clan we can make a non-aggression pact with, my lord.
+@1715
+Shall I propose a non-aggression pact with another clan?
+@1715.1
+Perhaps I shall propose a non-aggression pact with another clan.
+@1715.2
+I will propose a non-aggression pact with another clan.
+@1716
+There is no clan we can form a military alliance with.
+@1716.1
+There is no clan we can form a military alliance with.
+@1716.2
+There is no clan we can form a military alliance with, my lord.
+@1716.3
+There is no clan we can form a military alliance with, my lord.
+@1717
+Shall I propose a military alliance with another clan?
+@1717.1
+Perhaps I shall propose a military alliance with another clan.
+@1717.2
+I will propose a military alliance with another clan.
+@1718
+Shall I propose that we end our vassalage to the {02}{0B}E and serve another clan?
+@1718.1
+Perhaps I shall propose that we end our vassalage to the {02}{0B}E and serve another clan.
+@1718.2
+I will propose that we end our vassalage to the {02}{0B}E and serve another clan.
+@1719
+Shall I propose that we become a vassal of another clan?
+@1719.1
+Perhaps I shall propose that we become a vassal of another clan.
+@1719.2
+I will propose that we become a vassal of another clan.
+@1720
+We are not a vassal clan.
+@1720.1
+We are not a vassal clan.
+@1720.2
+We are not a vassal clan, my lord.
+@1720.3
+We are not a vassal clan, my lord.
+@1721
+Shall I propose independence from the {02}{0B}E?
+@1721.1
+Perhaps I shall propose independence from the {02}{0B}E.
+@1721.2
+I will propose independence from the {02}{0B}E.
+@1722
+What shall I propose about my corps...
+@1722.1
+What shall I propose about my corps...
+@1722.2
+What will you propose about your corps, my lord?
+@1723
+No clan but our target is our enemy.
+@1723.1
+No clan but our target is our enemy.
+@1723.2
+No clan but our target is our enemy, my lord.
+@1723.3
+No clan but our target is our enemy, my lord.
+@1724
+Shall I propose a different target?
+@1724.1
+Perhaps I shall propose a different target.
+@1724.2
+I will propose a different target.
+@1725
+There are no spare castles.
+@1725.1
+There are no spare castles.
+@1725.2
+There are no spare castles, my lord.
+@1725.3
+There are no spare castles, my lord.
+@1726
+Shall I propose that my corps be given a castle?
+@1726.1
+Perhaps I shall propose that my corps be given a castle.
+@1726.2
+I will propose that my corps be given a castle.
+@1727
+With the castle under siege, I cannot request a reassignment.
+@1727.1
+With the castle under siege, I cannot request a reassignment.
+@1727.2
+With the castle under siege, we cannot request a reassignment, my lord.
+@1727.3
+With the castle under siege, we cannot request a reassignment, my lord.
+@1728
+No other corps has a castle that could spare officers.
+@1728.1
+No other corps has a castle that could spare officers.
+@1728.2
+No other corps has a castle that could spare officers, my lord.
+@1728.3
+No other corps has a castle that could spare officers, my lord.
+@1729
+Shall I propose that officers be sent to my corps?
+@1729.1
+Perhaps I shall propose that officers be sent to my corps.
+@1729.2
+I will propose that officers be sent to my corps.
+@1730
+Why, it is {01}C{0B}{00}. To come and see me in person, it must be a weighty matter.
+@1730.1
+Why, it is {01}C{0B}{00}. To come and see me in person, it must be a weighty matter.
+@1731
+I have come to ask that we make non-aggression pacts with the {02}{0B}E and the {02}{0C}E.
+@1731.1
+I have come to ask that we make non-aggression pacts with the {02}{0B}E and the {02}{0C}E.
+@1732
+I have come to ask that we make a non-aggression pact with the {02}{0B}E.
+@1732.1
+I have come to ask that we make a non-aggression pact with the {02}{0B}E.
+@1733
+I have come to ask that we form military alliances with the {02}{0B}E and the {02}{0C}E.
+@1733.1
+I have come to ask that we form military alliances with the {02}{0B}E and the {02}{0C}E.
+@1734
+I have come to ask that we form a military alliance with the {02}{0B}E.
+@1734.1
+I have come to ask that we form a military alliance with the {02}{0B}E.
+@1735
+For the survival of the {02}{02}r, I have come to ask that we become vassals of the {02}{0B}E.
+@1735.1
+For the survival of the {02}{02}r, I have come to ask that we become vassals of the {02}{0B}E.
+@1736
+I have come to ask that we cut our ties with the {02}{0B}E and declare independence.
+@1736.1
+I have come to ask that we cut our ties with the {02}{0B}E and declare independence.
+@1737
+I have come to ask that you entrust the conquest of the {02}{0B}E to my corps.
+@1737.1
+I have come to ask that you entrust the conquest of the {02}{0B}E to my corps.
+@1738
+I have come to ask that {02})N be given to my corps.
+@1738.1
+I have come to ask that {02})N be given to my corps.
+@1739
+I have come to ask that {01}C{1A}{00} of {02}{03}N be sent to my castle.
+@1739.1
+I have come to ask that {01}C{1A}{00} of {02}{03}N be sent to my castle.
+@1740
+I have come to ask for the hand of Lady {02}{03}4.
+@1741
+For the sake of the {02}{02}r, I have come to ask that you name me as your successor, {01}C{0C}{00}.
+@1741.1
+For the sake of the {02}{02}r, I have come to ask that you name me as your successor, {01}C{0C}{00}.
+@1741.2
+For the sake of the {02}{02}r, I have come to ask that you name {01}C{1A}{00} as your successor, {01}C{0C}{00}.
+@1741.3
+For the sake of the {02}{02}r, I have come to ask that you name {01}C{1A}{00} as your successor, {01}C{0C}{00}.
+@1742
+For the sake of the {02}{02}r, I have come to ask that you retire, {01}C{0C}{00}.
+@1742.1
+For the sake of the {02}{02}r, I have come to ask that you retire, {01}C{0C}{00}.
+@1743
+Wh-what, such a request... Then let us hear everyone's views in council.
+@1743.1
+Wh-what, such a request... Then let us hear everyone's views in council.
+@1744
+Very well. Then let us hold a council and hear everyone's views.
+@1744.1
+Very well. Then let us hold a council and hear everyone's views.
+@1745
+These are the views of the council. With most in favour, my proposal should be approved.
+@1745.1
+These are the views of the council. With most in favour, my proposal looks set to be approved.
+@1745.2
+These are the views of the council. With most in favour, the proposal of {01}C{0D}{00} should be approved.
+@1746
+These are the views of the council. With most against, the proposal will not be approved as it stands.
+@1746.1
+These are the views of the council. With most against, the proposal will not be approved as it stands.
+@1747
+With most in favour, there is no need to persuade those against.
+@1747.1
+With most in favour, there is no need to persuade those against.
+@1747.2
+With most in favour, there is no need to persuade those against, my lord.
+@1748
+Let us try to persuade those against to change their minds.
+@1748.1
+Let us try to persuade those against to change their minds.
+@1748.2
+I will try to persuade those against to change their minds.
+@1749
+Shall I end the council? The proposal should be approved as it stands.
+@1749.1
+Shall I end the council? The proposal should be approved as it stands.
+@1749.2
+I will end the council. The proposal should be approved as it stands.
+@1750
+The proposal will not be approved as it stands. Shall I give up persuading and end the council?
+@1750.1
+The proposal will not be approved as it stands, but let us give up persuading and end the council.
+@1750.2
+The proposal will not be approved as it stands, but I will give up persuading and end the council.
+@1751
+Let us choose an officer to bring to my castle.
+@1751.1
+Let us choose an officer to bring to my castle.
+@1751.2
+Please choose an officer to bring to this castle.
+@1752
+This officer is in battle.
+@1752.1
+This officer is in battle.
+@1752.2
+This officer is in battle, my lord.
+@1752.3
+This officer is in battle, my lord.
+@1753
+This castle's yield cannot cover this officer's fief.
+@1753.1
+This castle's yield cannot cover this officer's fief.
+@1753.2
+This castle's yield cannot cover this officer's fief, my lord.
+@1753.3
+This castle's yield cannot cover this officer's fief, my lord.
+@1754
+Shall I propose that {01}C{18}{00} be sent to my castle?
+@1754.1
+I shall propose that {01}C{18}{00} be sent to my castle.
+@1754.2
+I will propose that {01}C{18}{00} be sent to my castle.
+@1755
+I have chosen the officer for my castle. Now let the council decide.
+@1755.1
+I have chosen the officer for my castle. Now let the council decide.
+@1755.2
+I have chosen the officer for my castle. Now the council will decide.
+@1756
+Back to choosing a proposal.
+@1756.1
+Let us go back to choosing a proposal.
+@1756.2
+I will go back to choosing a proposal.
+@1757
+Oh, it is {01}C{0B}{00}. What brings you here?
+@1757.1
+Oh, it is {01}C{0B}{00}. What brings you here today?
+@1758
+I have come to ask that {01}C{1A}{00} of {02}{03}N be sent to my castle, my lord.
+@1759
+Then let us hold a council.
+@1759.1
+Then let us hold a council.
+@1760
+My castle truly needs {01}C{18}{00}.
+@1761
+What, you want {01}C{16}{00}? You must have some scheme in mind. I will not give them up.
+@1761.1
+What, you want {01}C{16}{00}? You must have some scheme in mind. I will not give them up.
+@1762
+You ignore my orders, and now you want {01}C{16}{00}! Do you think I will allow such selfishness?
+@1762.1
+You ignore my orders, and now you want {01}C{16}{00}! I will not allow such selfishness!
+@1763
+What, you want {01}C{16}{00}? No! Do you object to what I have decided?
+@1763.1
+You want {01}C{16}{00}? No! Do you object to what I have decided?
+@1763.2
+Give {01}C{18}{00} to you? Out of the question!
+@1763.3
+Give {01}C{18}{00} to you? That is out of the question.
+@1764
+What, you want {01}C{16}{00}? No! {02}{03}N cannot afford to lose any more officers.
+@1764.1
+You want {01}C{16}{00}? No! {02}{03}N cannot afford to lose any more officers.
+@1764.2
+{02}{03}N is short of officers, so I oppose this proposal.
+@1764.3
+{02}{03}N is short of officers, so I oppose this proposal.
+@1765
+What, you want {01}C{16}{00}? No! Officers like {01}C{16}{00} are just what {02}{03}N needs.
+@1765.1
+You want {01}C{16}{00}? No! Officers like {01}C{16}{00} are just what {02}{03}N needs.
+@1765.2
+I believe {01}C{18}{00} is needed at {02}{03}N above all.
+@1765.3
+I think {01}C{18}{00} is needed at {02}{03}N above all.
+@1766
+What, you want {01}C{16}{00}? No! Your castle already has plenty of vassals.
+@1766.1
+You want {01}C{16}{00}? No! Your castle already has plenty of vassals.
+@1766.2
+{02}{02}N already has many officers, and still you want more! I am against it.
+@1766.3
+{02}{02}N already has many officers, and still you want more? I am against it.
+@1767
+I cannot take {01}C{16}{00} away from {02}{03}N. Give it up this time.
+@1767.1
+I cannot take {01}C{16}{00} away from {02}{03}N. Give it up this time.
+@1767.2
+{01}C{18}{00} is my right hand. I cannot let them go.
+@1767.3
+{01}C{18}{00} is my right hand. I cannot let them go.
+@1767.4
+My apologies, but I have no intention of giving up {01}C{18}{00}.
+@1767.5
+I am sorry, but I have no intention of giving up {01}C{18}{00}.
+@1767.6
+It would be cruel to take {01}C{18}{00} away from {02}{03}N. Give it up.
+@1767.7
+It would be cruel to take {01}C{18}{00} away from {02}{03}N. Do give it up.
+@1768
+What, you want {01}C{16}{00}? I need that officer. I will not hand them to you.
+@1768.1
+You want {01}C{16}{00}? I need that officer. I will not hand them to you.
+@1768.2
+It matters little to me either way, but I do not care for it, so I am against it.
+@1768.3
+It matters little to me either way, but I do not care for it, so I am against it.
+@1769
+If {01}C{16}{00} is against it, so am I.
+@1769.1
+If {01}C{16}{00} is against it, so am I.
+@1769.2
+If {01}C{18}{00} is against it, I shall oppose it too, for now.
+@1769.3
+If {01}C{18}{00} is against it, I shall oppose it too, for now.
+@1770
+I cannot approve any proposal of {01}C{16}{00}'s.
+@1770.1
+I cannot approve any proposal of {01}C{16}{00}'s.
+@1770.2
+If {01}C{16}{00} is in favour, I am against it.
+@1770.3
+If {01}C{16}{00} is in favour, I am against it.
+@1770.4
+I cannot approve any proposal of {01}C{18}{00}'s.
+@1770.5
+I cannot approve any proposal of {01}C{18}{00}'s.
+@1770.6
+If {01}C{18}{00} is in favour, I cannot be in favour too. I shall oppose it for now.
+@1770.7
+If {01}C{18}{00} is in favour, I cannot be in favour too. I shall oppose it for now.
+@1771
+I am loath to lose {01}C{16}{00}, but since it is you who asks, I approve the move to {02}{02}N.
+@1771.1
+I am loath to lose {01}C{16}{00}, but since it is you who asks, I approve the move to {02}{02}N.
+@1771.2
+For {01}C{0B}{00}, I can give up {01}C{16}{00}.
+@1771.3
+For {01}C{0B}{00}, I can give up {01}C{16}{00}.
+@1771.4
+I am loath to lose {01}C{18}{00}, but since it is you who asks, I approve the move to {02}{02}N.
+@1771.5
+I am loath to lose {01}C{18}{00}, but since it is you who asks, I approve the move to {02}{02}N.
+@1771.6
+For {01}C{0D}{00}, I believe {01}C{18}{00} may be given up.
+@1771.7
+For {01}C{0D}{00}, I think {01}C{18}{00} may be given up.
+@1772
+I approve your proposal. See that you work all the harder.
+@1772.1
+I approve your proposal. Do not slacken in your efforts.
+@1773
+The objections raised in council are reasonable, so your proposal is rejected. Any complaint?
+@1773.1
+The objections raised in council are reasonable, so your proposal is rejected. No complaints?
+@1774
+Thank you, my lord. Now that {01}C{1A}{00} is in my charge, I shall surely win distinction.
+@1774.1
+Thank you, my lord. Now that {01}C{1A}{00} is in my charge, I shall surely win distinction.
+@1775
+Understood. I will do my best with the vassals I have.
+@1775.1
+Understood. I shall do my best with the vassals I have.
+@1776
+Let us choose a castle to ask for my corps.
+@1776.1
+Let us choose a castle to ask for my corps.
+@1776.2
+Please choose a castle to grant to my corps.
+@1777
+That is a castle of my corps.
+@1777.1
+That is a castle of my corps.
+@1777.2
+That is a castle of my corps, my lord.
+@1746.2
+These are the views of the council. With most against, the proposal will not be approved as it stands, my lord.
+@1778
+I cannot ask for a corps commander's castle.
+@1778.1
+I cannot ask for a corps commander's castle.
+@1778.2
+We cannot ask for a corps commander's castle, my lord.
+@1778.3
+We cannot ask for a corps commander's castle, my lord.
+@1779
+Shall I ask for {02})N?
+@1779.1
+Perhaps I shall ask for {02})N.
+@1779.2
+I will ask for {02})N.
+@1780
+I have chosen the castle to ask for. Now let the council decide.
+@1780.1
+I have chosen the castle to ask for. Now let the council decide.
+@1780.2
+I have chosen the castle to ask for. Now the council will decide.
+@1781
+Please grant {02})N to my corps, my lord.
+@1781.1
+Please grant {02})N to my corps, my lord.
+@1782
+What, you want {02})N? You must have some scheme in mind. I will not allow it.
+@1782.1
+You want {02})N? You must have some scheme in mind. I will not allow it.
+@1783
+You ignore my orders, and now you want {02})N! Do you think I will allow such selfishness?
+@1783.1
+You ignore my orders, and now you want {02})N! I will not allow such selfishness!
+@1784
+What, you want {02})N? No! Do you object to what I have decided?
+@1784.1
+You want {02})N? No! Do you object to what I have decided?
+@1784.2
+Give {02})N to you? Out of the question!
+@1784.3
+Give {02})N to you? That is out of the question.
+@1785
+What, you want {02})N? No! {02}{C9} cannot afford to lose any more castles.
+@1785.1
+You want {02})N? No! {02}{C9} cannot afford to lose any more castles!
+@1785.2
+{02}{C9} has dire need of {02})N.
+@1785.3
+{02}{C9} truly needs {02})N.
+@1786
+{02})N hardly suits you.
+@1786.1
+{02})N does not suit you.
+@1786.2
+I believe {02})N is not a fitting castle for you.
+@1786.3
+I believe {02})N is not a fitting castle for you.
+@1787
+What, you want {02})N? No! I have given you castles enough.
+@1787.1
+You want {02})N? No! I have surely given you castles enough.
+@1787.2
+I believe {01}C{0D}{00} has castles enough already.
+@1787.3
+I think {01}C{0D}{00} has castles enough already.
+@1788
+What, you want {02})N? No! {02}{C9} needs that castle. Be patient a while longer.
+@1788.1
+You want {02})N? No! {02}{C9} needs that castle. Be patient a while longer.
+@1788.2
+I believe {02})N is needed by {02}{C9} above all.
+@1788.3
+I think {02})N is needed by {02}{C9} above all.
+@1789
+What, you want {02})N? I have my own plans. Be patient a while longer.
+@1789.1
+You want {02})N? I have my own plans, so be patient a while longer.
+@1789.2
+It matters little to me either way, but somehow I do not care for it, so I am against it.
+@1789.3
+It matters little to me either way, but somehow I do not care for it, so I am against it.
+@1790
+If you promise to win distinction, I may well entrust {02})N to you.
+@1790.1
+If you promise to win distinction, I may entrust {02})N to you.
+@1790.2
+I believe {02})N may safely be entrusted to {01}C{0D}{00}.
+@1790.3
+I think {02})N may safely be entrusted to {01}C{0D}{00}.
+@1791
+Thank you, my lord. Now that {02})N is mine, I will fulfil my duty admirably.
+@1791.1
+Thank you, my lord. Now that {02})N is mine, I shall fulfil my duty admirably.
+@1792
+Understood. For now I will do my best with the castles I have.
+@1792.1
+Understood. For now I shall do my best with the castles I have.
+@1793
+Let us choose a target for my corps.
+@1793.1
+Let us choose a target for my corps.
+@1793.2
+Please choose a target for my corps.
+@1794
+I have chosen a new target. Now let the council decide.
+@1794.1
+I have chosen a new target. Now let the council decide.
+@1794.2
+I have chosen a new target. Now the council will decide.
+@1795
+Please entrust the conquest of the {02}{0B}E to my corps, my lord.
+@1795.1
+Please entrust the conquest of the {02}{0B}E to my corps, my lord.
+@1796
+What, you want to conquer the {02}{0B}E? You must have some scheme in mind. I will not allow it.
+@1796.1
+You want to conquer the {02}{0B}E? You must have some scheme in mind. I will not allow it.
+@1797
+You ignore my orders, and now you want to conquer the {02}{0B}E? Do you think I will allow such selfishness?
+@1797.1
+You ignore my orders, and now you want to conquer the {02}{0B}E? I will not allow such selfishness!
+@1798
+What, you want to conquer the {02}{0B}E? No! Do you object to what I have decided?
+@1798.1
+You want to conquer the {02}{0B}E? No! Do you object to what I have decided?
+@1798.2
+You, conquer the {02}{0B}E? Out of the question!
+@1798.3
+You, conquer the {02}{0B}E? That is out of the question.
+@1799
+What, you want to conquer the {02}{0B}E? Then who would be left to conquer the {02}{0C}E?
+@1799.1
+You want to conquer the {02}{0B}E? But I need you to conquer the {02}{0C}E.
+@1800
+What, you want to conquer the {02}{0B}E? My own corps is quite enough for that! I have no need of you.
+@1800.1
+You want to conquer the {02}{0B}E? My own corps is quite enough for that! I have no need of you.
+@1801
+What, you want to conquer the {02}{0B}E? I have my own plans. Carry on with your present campaign for now.
+@1801.1
+You want to conquer the {02}{0B}E? I have my own plans. Carry on with your present campaign for now.
+@1802
+If you are that confident, I may well entrust the conquest of the {02}{0B}E to you.
+@1802.1
+If you are that confident, I may entrust the conquest of the {02}{0B}E to you.
+@1802.2
+I believe the conquest of the {02}{0B}E may safely be entrusted to {01}C{0D}{00}.
+@1802.3
+I think the conquest of the {02}{0B}E may safely be entrusted to {01}C{0D}{00}.
+@1803
+Thank you, my lord. I will conquer the {02}{0B}E without fail.
+@1803.1
+Thank you, my lord. I shall conquer the {02}{0B}E without fail.
+@1804
+Understood. For now I will give my all to the task I have been given.
+@1804.1
+Understood. For now I shall give my all to the task I have been given.
+@1805
+What shall I propose on our personnel...
+@1805.1
+What shall I propose on our personnel...
+@1805.2
+What will you propose on our personnel, my lord?
+@1806
+In my present position I cannot propose a marriage.
+@1806.1
+In my present position I cannot propose a marriage.
+@1806.2
+In your present position you cannot propose a marriage, {01}C{0C}{00}.
+@1806.3
+In your present position you cannot propose a marriage, {01}C{0C}{00}.
+@1807
+With no princess to marry, I cannot propose a marriage.
+@1807.1
+With no princess to marry, I cannot propose a marriage.
+@1807.2
+There is no princess, so we cannot propose a marriage, my lord.
+@1807.3
+There is no princess, so we cannot propose a marriage, my lord.
+@1808
+Shall I propose taking a princess of {01}C{17}{00} as a bride, to join their kin?
+@1808.1
+Shall I propose a marriage to a princess of {01}C{17}{00}, to join their kin?
+@1808.2
+I will propose taking a princess of {01}C{17}{00} as a bride, to join their kin.
+@1809
+{01}C{18}{00} is already the heir.
+@1809.1
+{01}C{18}{00} is already the heir.
+@1809.2
+{01}C{18}{00} is already the heir, my lord.
+@1809.3
+{01}C{18}{00} is already the heir, my lord.
+@1810
+Our clan has no kin officer who could be heir.
+@1810.1
+Our clan has no kin officer who could be heir.
+@1810.2
+Our clan has no kin officer who could be heir, my lord.
+@1810.3
+Our clan has no kin officer who could be heir, my lord.
+@1811
+Shall I propose that {01}C{17}{00} name a new heir?
+@1811.1
+Perhaps I shall propose that {01}C{17}{00} name a new heir.
+@1811.2
+I will propose that {01}C{17}{00} name a new heir.
+@1812
+Shall I propose that {01}C{17}{00} retire?
+@1812.1
+Perhaps I shall propose that {01}C{17}{00} retire.
+@1812.2
+I will propose that {01}C{17}{00} retire.
+@1813
+Our corps has been given no clan as a target.
+@1813.1
+Our corps has been given no clan as a target.
+@1813.2
+Our corps has been given no clan as a target, my lord.
+@1813.3
+Our corps has been given no clan as a target, my lord.
+@1814
+There is no other enemy castle we could target.
+@1814.1
+There is no other enemy castle we could target.
+@1814.2
+There is no other enemy castle we could target, my lord.
+@1814.3
+There is no other enemy castle we could target, my lord.
+@1815
+Shall I propose a different target castle to the corps commander?
+@1815.1
+Perhaps I shall propose a different target castle to the corps commander.
+@1815.2
+I will propose a different target castle to the corps commander.
+@1816
+No castle of our corps is linked to mine by a supply line, so I cannot hope for a transfer.
+@1816.1
+No castle of our corps is linked to mine by a supply line, so I cannot hope for a transfer.
+@1816.2
+No castle of our corps is linked to ours by a supply line, so we cannot ask for a transfer.
+@1816.3
+No castle of our corps is linked to ours by a supply line, so we cannot ask for a transfer.
+@1817
+I cannot ask for a transfer during battle.
+@1817.1
+I cannot ask for a transfer during battle.
+@1817.2
+We cannot ask for a transfer during battle, my lord.
+@1817.3
+We cannot ask for a transfer during battle, my lord.
+@1818
+Our corps has no castle I could be transferred to.
+@1818.1
+Our corps has no castle I could be transferred to.
+@1818.2
+Our corps has no castle we could be transferred to, my lord.
+@1818.3
+Our corps has no castle we could be transferred to, my lord.
+@1819
+Shall I ask the corps commander for a transfer?
+@1819.1
+Shall I ask the corps commander for a transfer?
+@1819.2
+I will ask the corps commander for a transfer.
+@1820
+With the castle under siege, I cannot request a reassignment.
+@1820.1
+With the castle under siege, I cannot request a reassignment.
+@1820.2
+With the castle under siege, we cannot request a reassignment, my lord.
+@1820.3
+With the castle under siege, we cannot request a reassignment, my lord.
+@1821
+Our corps has no castle that could spare officers.
+@1821.1
+Our corps has no castle that could spare officers.
+@1821.2
+Our corps has no castle that could spare officers, my lord.
+@1821.3
+Our corps has no castle that could spare officers, my lord.
+@1822
+Shall I ask the corps commander to send officers to my castle?
+@1822.1
+Shall I ask the corps commander to send officers to my castle?
+@1822.2
+I will ask the corps commander to send officers to our castle.
+@1823
+Let us choose an enemy castle as our target.
+@1823.1
+Let us choose an enemy castle as our target.
+@1823.2
+Please choose an enemy castle as our target.
+@1824
+I must choose a castle of the clan our corps was ordered to conquer.
+@1824.1
+I must choose a castle of the clan our corps was ordered to conquer.
+@1824.2
+Please choose a castle of the clan our corps was ordered to conquer.
+@1825
+That is our current target castle.
+@1825.1
+That is our current target castle.
+@1825.2
+That is our current target castle, my lord.
+@1826
+Shall I propose that the conquest of {02})N be left to me?
+@1826.1
+Perhaps I shall propose that the conquest of {02})N be left to me.
+@1826.2
+I will propose that the conquest of {02})N be left to us.
+@1827
+Shall I choose a new target castle and propose it to the corps commander?
+@1827.1
+Perhaps I shall choose a new target castle and propose it to the corps commander.
+@1827.2
+I will choose a new target castle and propose it to the corps commander.
+@1828
+Oh, it is {01}C{0B}{00}. What brings you here today?
+@1829
+I wish to conquer {02})N. I beg your permission!
+@1829.1
+I wish to conquer {02})N. I humbly beg your permission.
+@1830
+You ignore my orders, and now you want to attack {02})N! Do you think I will allow such selfishness?
+@1830.1
+You ignore my orders and want to attack {02})N! I will not allow such selfishness!
+@1831
+What, conquer {02})N? No! Do you mean you will not obey my orders?
+@1831.1
+Conquer {02})N? No! Do you mean you will not obey my orders?
+@1832
+If I order you to {02})N, who will attack {02}*N? I cannot accept that advice.
+@1832.1
+If I send you to {02})N, who will attack {02}*N? I cannot accept that advice.
+@1833
+Do not be so hasty. Keep up the attack on {02}*N for now. {02})N can come later.
+@1833.1
+You must not be so hasty. Keep up the attack on {02}*N for now. {02})N can come later.
+@1834
+Since you offer, I approve the conquest of {02})N. I expect great deeds.
+@1834.1
+Since you offer, I approve the conquest of {02})N. Work hard.
+@1835
+You seem to have misunderstood me... I spoke out of turn. I humbly beg your pardon.
+@1835.1
+You seem to have misunderstood me... If it displeases {01}C{0D}{00}, I humbly beg your pardon.
+@1836
+Is that so... Then I will simply follow the orders of {01}C{0D}{00}.
+@1836.1
+Understood. For now I shall follow the orders of {01}C{0D}{00}.
+@1837
+I am most grateful. I will take {02})N without fail.
+@1837.1
+Thank you, my lord. I shall take {02})N without fail.
+@1838
+Understood. I will do my best with the retainers I have.
+@1839
+I am most grateful. Now that {01}C{1A}{00} is in my charge, I shall surely win distinction!
+@1840
+Let us choose the castle to be transferred to.
+@1840.1
+Let us choose the castle to be transferred to.
+@1840.2
+Please choose the castle to be transferred to.
+@1841
+I must choose a castle of the same corps...
+@1841.1
+I must choose a castle of the same corps...
+@1841.2
+Please choose a castle of the same corps.
+@1842
+This is my own castle. I must choose another...
+@1842.1
+This is my own castle. I must choose another...
+@1842.2
+This is your own castle. Please choose another.
+@1843
+My castle and this one are not linked by a supply line.
+@1843.1
+My castle and this one are not linked by a supply line.
+@1843.2
+Our castle and this one are not linked by a supply line, my lord.
+@1843.3
+Our castle and this one are not linked by a supply line, my lord.
+@1844
+This castle's officers are out on campaign, or else it is under siege.
+@1844.1
+This castle's officers are out on campaign, or else it is under siege.
+@1844.2
+This castle's officers are out on campaign, or else it is under siege, my lord.
+@1844.3
+This castle's officers are out on campaign, or else it is under siege, my lord.
+@1845
+This castle's yield is not enough.
+@1845.1
+This castle's yield is not enough.
+@1845.2
+This castle's yield is not enough, my lord.
+@1845.3
+This castle's yield is not enough, my lord.
+@1846
+Shall I propose a transfer to {02})N?
+@1846.1
+Perhaps I shall propose a transfer to {02})N.
+@1846.2
+I will propose a transfer to {02})N.
+@1847
+I have chosen the castle. Now let me propose the transfer to the corps commander.
+@1847.1
+I have chosen the castle. Now let us propose the transfer to the corps commander.
+@1847.2
+I have chosen the castle and will propose the transfer to the corps commander.
+@1848
+I wish to be transferred to {02})N. I humbly beg your permission.
+@1848.1
+I have come to ask for a transfer to {02})N.
+@1849
+What, you want to move to {02})N? No! I see through your scheme. You are plotting some mischief!
+@1849.1
+You want to move to {02})N? No! I see through your scheme. You are plotting some mischief!
+@1850
+You ignore my orders, and now you want to move to {02})N! Do you think I will allow such selfishness?
+@1850.1
+You ignore my orders and want to move to {02})N! I will not allow such selfishness!
+@1851
+What, you want to move to {02})N? No! Do you object to what I have decided?
+@1851.1
+You want to move to {02})N? No! Do you object to what I have decided?
+@1852
+I intend to leave {02})N to {02})W for a while yet, so I cannot accept that proposal.
+@1852.1
+I intend to leave {02})N to {02})W for a while yet, so I cannot accept that proposal.
+@1853
+You want to move here to {02})N? I am rather fond of this place myself. I will not give it to you.
+@1853.1
+You want to move here to {02})N? I am fond of this place, so I will not give it to you.
+@1854
+I was fond of this place myself, but since it is you who asks, I approve your transfer to {02})N.
+@1854.1
+I was fond of this place myself, but since it is you who asks, I approve your transfer to {02})N.
+@1854.2
+Since you ask, I approve your transfer to {02})N. Serve well in that land.
+@1854.3
+Since you ask, I approve your transfer to {02})N. Serve well in that land.
+@1855
+Is that so... Then I will devote myself to governing {02}{01}N.
+@1855.1
+Understood. Then I shall devote myself to governing {02}{01}N.
+@1856
+I am most grateful. I shall surely win distinction at {02})N!
+@1856.1
+Thank you, my lord. I shall surely win distinction at {02})N.
+@1857.1
+Let us choose an officer to bring to my castle.
+@1858
+Shall I choose the officer for my castle and propose it to the corps commander?
+@1858.1
+Shall I choose the officer for my castle and propose it to the corps commander?
+@1858.2
+I will choose the officer for this castle and propose it to the corps commander.
+@1859
+What, you want {01}C{16}{00}? No! I see through your scheme. You are plotting some mischief!
+@1859.1
+You want {01}C{16}{00}? No! I see through your scheme. You are plotting some mischief!
+@1860.1
+You ignore my orders and want {01}C{16}{00}? I will not allow such selfishness!
+@1861
+What, you want {01}C{16}{00}? No! Do you object to what I have decided?
+@1861.1
+You want {01}C{16}{00}? No! Do you object to what I have decided?
+@1862.1
+You want {01}C{16}{00}? No! {02}{03}N cannot afford to lose any more officers!
+@1864
+What, you want {01}C{16}{00}? No! Your castle has many vassals already.
+@1864.1
+You want {01}C{16}{00}? No! Your castle surely has many vassals already.
+@1865
+{01}C{16}{00} is my right hand. I cannot let them go.
+@1865.1
+{01}C{16}{00} is my right hand. I cannot let them go.
+@1865.2
+The lord of {02}{03}N is unwilling to part with {01}C{16}{00}. Give it up this time.
+@1865.3
+The lord of {02}{03}N is unwilling to part with {01}C{16}{00}. Give it up this time.
+@1866
+What, you want {01}C{16}{00}? I need that officer. I will not hand them to you.
+@1867.2
+Since you ask, I approve the move to {02}{02}N. See that you make good use of them.
+@1867.3
+Since you ask, I approve the move to {02}{02}N. Do make good use of them.
+@1868
+Let us choose a clan to make a non-aggression pact with. If we choose two clans at once and succeed, a mutual pact is made.
+@1868.1
+Let us choose a clan to make a non-aggression pact with. If we choose two clans at once and succeed, a mutual pact is made.
+@1868.2
+Please choose a clan to make a non-aggression pact with. If you choose two clans at once and succeed, a mutual pact is made.
+@1869
+Non-aggression pacts can be sought with at most two clans at once, as I recall.
+@1869.1
+Non-aggression pacts can be sought with at most two clans at once, as I recall.
+@1869.2
+Non-aggression pacts can be sought with at most two clans at once, my lord.
+@1869.3
+Non-aggression pacts can be sought with at most two clans at once, my lord.
+@1870
+We already have a pact with them. There is no need for a non-aggression pact.
+@1870.1
+We already have a pact with them. There is no need for a non-aggression pact.
+@1870.2
+We already have a pact with them, my lord. There is no need for a non-aggression pact.
+@1870.3
+We already have a pact with them, my lord. There is no need for a non-aggression pact.
+@1872
+Shall I propose a non-aggression pact with the {02}{0B}E?
+@1872.1
+Perhaps I shall propose a non-aggression pact with the {02}{0B}E.
+@1872.2
+We will make a non-aggression pact with the {02}{0B}E.
+@1873
+I have chosen the clan for the non-aggression pact. Now let the council decide.
+@1873.1
+I have chosen the clan for the non-aggression pact. Now let the council decide.
+@1873.2
+I have chosen the clan for the non-aggression pact. Now the council will decide.
+@1874
+I believe it wise to make non-aggression pacts with the {02}{0B}E and the {02}{0C}E, and so have fewer enemies for now.
+@1874.1
+I believe it wise to make non-aggression pacts with the {02}{0B}E and the {02}{0C}E, and so have fewer enemies for now. What say you?
+@1875
+I believe it wise to make a non-aggression pact with the {02}{0B}E, and so have fewer enemies for now.
+@1876
+Non-aggression pacts with the {02}{0B}E and the {02}{0C}E? You must have some scheme in mind. I will not allow it.
+@1876.1
+Non-aggression pacts with the {02}{0B}E and the {02}{0C}E? You must have some scheme in mind. I will not allow it.
+@1877
+A non-aggression pact with the {02}{0B}E? You must have some scheme in mind. I will not allow it.
+@1877.1
+A non-aggression pact with the {02}{0B}E? You must have some scheme in mind. I will not allow it.
+@1878
+You ignore my orders, and now you want pacts with the {02}{0B}E and the {02}{0C}E? Do you think I will allow such selfishness?
+@1878.1
+You ignore my orders, and now you want pacts with the {02}{0B}E and the {02}{0C}E? I will not allow such selfishness!
+@1879
+You ignore my orders, and now you want a non-aggression pact with the {02}{0B}E? Do you think I will allow such selfishness?
+@1879.1
+You ignore my orders, and now you want a non-aggression pact with the {02}{0B}E? I will not allow such selfishness!
+@1880
+Non-aggression pacts with the {02}{0B}E and the {02}{0C}E? Why such timid talk?
+@1880.1
+Non-aggression pacts with the {02}{0B}E and the {02}{0C}E? Why such timid talk?
+@1880.2
+Non-aggression pacts with the {02}{0B}E and the {02}{0C}E? Absurd! I will not listen to you.
+@1880.3
+Non-aggression pacts with the {02}{0B}E and the {02}{0C}E? Absurd! I will not listen to you.
+@1881
+A non-aggression pact with the {02}{0B}E? Why such timid talk?
+@1881.1
+A non-aggression pact with the {02}{0B}E? Why such timid talk?
+@1881.2
+A non-aggression pact with the {02}{0B}E? What are you saying?
+@1881.3
+A non-aggression pact with the {02}{0B}E? What are you saying?
+@1882
+A non-aggression pact with the {02}{0B}E is worthless to the {02}{01}2 clan. I will never approve it!
+@1882.1
+A non-aggression pact with the {02}{0B}E is worthless to the {02}{01}2 clan. I will never approve it!
+@1883
+I would sooner join hands with bandits than make a pact with the {02}{0B}E.
+@1883.1
+I would sooner join hands with bandits than make a pact with the {02}{0B}E.
+@1883.2
+I cannot abide the {02}{0B}E. I am firmly against it!
+@1883.3
+I cannot abide the {02}{0B}E. I am firmly against it!
+@1884
+The {02}{0B}E hardly amounts to much. A non-aggression pact with such a clan is of no use to me, {02}{01}4.
+@1884.1
+The {02}{0B}E hardly amounts to much. A non-aggression pact with such a clan would be of no use to me, {02}{01}4.
+@1884.2
+The {02}{0B}E hardly amounts to much. A non-aggression pact with such a clan brings our clan no gain.
+@1884.3
+The {02}{0B}E hardly amounts to much. A non-aggression pact with such a clan would bring our clan no gain.
+@1885
+You want non-aggression pacts with the {02}{0B}E and the {02}{0C}E? Hmm, I am not keen...
+@1885.1
+You want non-aggression pacts with the {02}{0B}E and the {02}{0C}E? Hmm, I am not keen...
+@1886
+You want a non-aggression pact with the {02}{0B}E? Hmm, I am not keen...
+@1886.1
+You want a non-aggression pact with the {02}{0B}E? Hmm, I am not keen...
+@1887
+Non-aggression pacts with the {02}{0B}E and the {02}{0C}E are rather a good idea.
+@1887.1
+Non-aggression pacts with the {02}{0B}E and the {02}{0C}E are rather a good idea.
+@1887.2
+As {01}C{0D}{00} says, pacts with the {02}{0B}E and the {02}{0C}E suit our clan well.
+@1887.3
+As {01}C{0D}{00} says, pacts with the {02}{0B}E and the {02}{0C}E suit our clan well.
+@1888
+A non-aggression pact with the {02}{0B}E is rather a good idea.
+@1888.1
+A non-aggression pact with the {02}{0B}E is rather a good idea.
+@1888.2
+As {01}C{0D}{00} says, a pact with the {02}{0B}E suits our clan well.
+@1888.3
+As {01}C{0D}{00} says, a pact with the {02}{0B}E suits our clan well.
+@1889
+I approve your proposal. We shall negotiate non-aggression pacts with the {02}{0B}E and the {02}{0C}E.
+@1889.1
+I approve your proposal. We shall negotiate non-aggression pacts with the {02}{0B}E and the {02}{0C}E.
+@1890
+I approve your proposal. We shall send an envoy to the {02}{0B}E and negotiate a non-aggression pact.
+@1890.1
+I approve your proposal. We shall send an envoy to the {02}{0B}E and negotiate a non-aggression pact.
+@1891
+Most kind of you, my lord. Once the pact is made, we need not fear for our rear.
+@1891.1
+Thank you, my lord. Once the pact is made, we need not fear for our rear.
+@1892
+Very well. We shall face this with our own strength alone, relying on no other clan.
+@1892.1
+Understood. We shall face this with our own strength alone, relying on no other clan.
+@1893
+Thanks to the negotiations of {01}C{17}{00}, we have non-aggression pacts with the {02}{0B}E and the {02}{0C}E!
+@1893.1
+Thanks to the negotiations of {01}C{17}{00}, we have non-aggression pacts with the {02}{0B}E and the {02}{0C}E.
+@1893.2
+Thanks to the negotiations of {01}C{17}{00}, we have non-aggression pacts with the {02}{0B}E and the {02}{0C}E, my lord.
+@1894
+Thanks to the negotiations of {01}C{17}{00}, we have a non-aggression pact with the {02}{0B}E!
+@1894.1
+Thanks to the negotiations of {01}C{17}{00}, we have a non-aggression pact with the {02}{0B}E.
+@1894.2
+Thanks to the negotiations of {01}C{17}{00}, we have a non-aggression pact with the {02}{0B}E, my lord.
+@1895
+{01}C{17}{00} negotiated, but it seems no pact could be made.
+@1895.1
+{01}C{17}{00} negotiated, but it seems no pact could be made.
+@1895.2
+{01}C{17}{00} negotiated, but sadly it seems no non-aggression pact could be made.
+@1896
+Let us choose a clan to ally with. If we choose two clans at once and succeed, a mutual alliance is made.
+@1896.1
+Let us choose a clan to ally with. If we choose two clans at once and succeed, a mutual alliance is made.
+@1896.2
+Please choose a clan to ally with. If you choose two clans at once and succeed, a mutual alliance is made.
+@1897
+Alliances can be sought with at most two clans at once, as I recall.
+@1897.1
+Alliances can be sought with at most two clans at once, as I recall.
+@1897.2
+Alliances can be sought with at most two clans at once, my lord.
+@1897.3
+Alliances can be sought with at most two clans at once, my lord.
+@1898
+We are hostile to this clan, so we cannot ally with them.
+@1898.1
+We are hostile to this clan, so we cannot ally with them.
+@1898.2
+We are hostile to this clan, so we cannot ally with them, my lord.
+@1898.3
+We are hostile to this clan, so we cannot ally with them, my lord.
+@1899
+We already have a pact with them, so there is no need for an alliance.
+@1899.1
+We already have a pact with them, so there is no need for an alliance.
+@1899.2
+We already have a pact with them, so there is no need for an alliance, my lord.
+@1899.3
+We already have a pact with them, so there is no need for an alliance, my lord.
+@1900
+This clan is a vassal of another, so we cannot ally with them.
+@1900.1
+This clan is a vassal of another, so we cannot ally with them.
+@1900.2
+This clan is a vassal of another, so we cannot ally with them, my lord.
+@1900.3
+This clan is a vassal of another, so we cannot ally with them, my lord.
+@1901
+Shall I propose a military alliance with the {02}{0B}E?
+@1901.1
+Perhaps I shall propose a military alliance with the {02}{0B}E.
+@1901.2
+I will propose a military alliance with the {02}{0B}E.
+@1902
+I have chosen the clan to ally with. Now let the council decide.
+@1902.1
+I have chosen the clan to ally with. Now let the council decide.
+@1902.2
+I have chosen the clan to ally with. Now the council will decide.
+@1903
+I believe it wise to form a three-way alliance with the {02}{0B}E and the {02}{0C}E and fight together.
+@1903.1
+I believe it wise to form a three-way alliance with the {02}{0B}E and the {02}{0C}E and fight together. What say you?
+@1904
+I believe it wise to ally with the {02}{0B}E and call on them for aid in the Military phase.
+@1904.1
+I believe it wise to ally with the {02}{0B}E and call on them for aid in the Military phase. What say you?
+@1905
+A three-way alliance with the {02}{0B}E and the {02}{0C}E? You must have some scheme in mind. I will not allow it.
+@1905.1
+A three-way alliance with the {02}{0B}E and the {02}{0C}E? You must have some scheme in mind. I will not allow it.
+@1906
+An alliance with the {02}{0B}E? You must have some scheme in mind. I will not allow it.
+@1906.1
+An alliance with the {02}{0B}E? You must have some scheme in mind. I will not allow it.
+@1907
+You ignore my orders, and now you want an alliance with the {02}{0B}E and the {02}{0C}E? Do you think I will allow such selfishness?
+@1907.1
+You ignore my orders, and now you want an alliance with the {02}{0B}E and the {02}{0C}E? I will not allow such selfishness!
+@1908
+You ignore my orders, and now you want an alliance with the {02}{0B}E? Do you think I will allow such selfishness?
+@1908.1
+You ignore my orders, and now you want an alliance with the {02}{0B}E? I will not allow such selfishness!
+@1909
+A three-way alliance with the {02}{0B}E and the {02}{0C}E? Why such timid talk?
+@1909.1
+A three-way alliance with the {02}{0B}E and the {02}{0C}E? Why such timid talk?
+@1909.2
+A three-way alliance with the {02}{0B}E and the {02}{0C}E? Absurd! I will not listen to you.
+@1909.3
+A three-way alliance with the {02}{0B}E and the {02}{0C}E? Absurd! I will not listen to you.
+@1910
+An alliance with the {02}{0B}E? Why such timid talk?
+@1910.1
+An alliance with the {02}{0B}E? Why such timid talk?
+@1910.2
+An alliance with the {02}{0B}E? What are you saying?
+@1910.3
+An alliance with the {02}{0B}E? What are you saying?
+@1911
+An alliance with the {02}{0B}E is worthless to the {02}{01}2 clan. I will never approve it!
+@1911.1
+An alliance with the {02}{0B}E is worthless to the {02}{01}2 clan. I will never approve it!
+@1912
+I would sooner join hands with bandits than ally with the {02}{0B}E.
+@1912.1
+I would sooner join hands with bandits than ally with the {02}{0B}E.
+@1913
+The {02}{0B}E hardly amounts to much. An alliance with such a clan is of no use to me, {02}{01}4.
+@1913.1
+The {02}{0B}E hardly amounts to much. An alliance with such a clan would be of no use to me, {02}{01}4.
+@1913.2
+The {02}{0B}E hardly amounts to much. An alliance with such a clan brings our clan no gain.
+@1913.3
+The {02}{0B}E hardly amounts to much. An alliance with such a clan would bring our clan no gain.
+@1914
+You want a three-way alliance with the {02}{0B}E and the {02}{0C}E? Hmm, I am not keen...
+@1914.1
+You want a three-way alliance with the {02}{0B}E and the {02}{0C}E? Hmm, I am not keen...
+@1915
+You want an alliance with the {02}{0B}E? Hmm, I am not keen...
+@1915.1
+You want an alliance with the {02}{0B}E? Hmm, I am not keen...
+@1916
+A three-way alliance with the {02}{0B}E and the {02}{0C}E is rather a good idea.
+@1916.1
+A three-way alliance with the {02}{0B}E and the {02}{0C}E is rather a good idea.
+@1916.2
+As {01}C{0D}{00} says, a three-way alliance with the {02}{0B}E and the {02}{0C}E suits our clan well.
+@1916.3
+As {01}C{0D}{00} says, a three-way alliance with the {02}{0B}E and the {02}{0C}E suits our clan well.
+@1917
+An alliance with the {02}{0B}E is rather a good idea.
+@1917.1
+An alliance with the {02}{0B}E is rather a good idea.
+@1917.2
+As {01}C{0D}{00} says, an alliance with the {02}{0B}E suits our clan well.
+@1917.3
+As {01}C{0D}{00} says, an alliance with the {02}{0B}E suits our clan well.
+@1918
+I approve your proposal. We shall negotiate alliances with the {02}{0B}E and the {02}{0C}E.
+@1918.1
+I approve your proposal. We shall negotiate alliances with the {02}{0B}E and the {02}{0C}E.
+@1919
+I approve your proposal. We shall send an envoy to the {02}{0B}E and negotiate an alliance.
+@1919.1
+I approve your proposal. We shall send an envoy to the {02}{0B}E and negotiate an alliance.
+@1920
+Most kind of you, my lord. Once the alliance is made, we need not fear for our rear.
+@1920.1
+Thank you, my lord. Once the alliance is made, we need not fear for our rear.
+@1921
+Thanks to the negotiations of {01}C{17}{00}, we are allied with the {02}{0B}E and the {02}{0C}E!
+@1921.1
+Thanks to the negotiations of {01}C{17}{00}, we are allied with the {02}{0B}E and the {02}{0C}E.
+@1921.2
+Thanks to the negotiations of {01}C{17}{00}, we are allied with the {02}{0B}E and the {02}{0C}E, my lord.
+@1922
+Thanks to the negotiations of {01}C{17}{00}, we are allied with the {02}{0B}E!
+@1922.1
+Thanks to the negotiations of {01}C{17}{00}, we are allied with the {02}{0B}E.
+@1922.2
+Thanks to the negotiations of {01}C{17}{00}, we are allied with the {02}{0B}E, my lord.
+@1923
+{01}C{17}{00} negotiated, but it seems no alliance could be made.
+@1923.1
+{01}C{17}{00} negotiated, but it seems no alliance could be made.
+@1923.2
+{01}C{17}{00} negotiated, but sadly it seems no alliance could be made.
+@1924
+Let us choose a clan to serve.
+@1924.1
+Let us choose a clan to serve.
+@1924.2
+Please choose a clan to serve.
+@1925
+That is a vassal clan.
+@1925.1
+That is a vassal clan.
+@1925.2
+That is a vassal clan, my lord.
+@1926
+That is the clan we serve now.
+@1926.1
+That is the clan we serve now.
+@1926.2
+That is the clan we serve now, my lord.
+@1927
+Shall I propose that we become vassals of the {02}{0B}E?
+@1927.1
+Perhaps I shall propose that we become vassals of the {02}{0B}E.
+@1927.2
+I will propose that we become vassals of the {02}{0B}E.
+@1928
+I have chosen the clan to serve. Now let the council decide.
+@1928.1
+I have chosen the clan to serve. Now let the council decide.
+@1928.2
+I have chosen the clan to serve. Now the council will decide.
+@1929
+To keep the name of the {02}{01}{98} clan alive, I fear we have no choice but to submit to the {02}{0B}E.
+@1929.1
+To keep the name of the {02}{01}{98} clan alive, we have no choice but to submit to the {02}{0B}E.
+@1930
+Submit to the {02}{0B}E? You must have some scheme in mind. I will not allow it.
+@1930.1
+Submit to the {02}{0B}E? You must have some scheme in mind. I will not allow it.
+@1931
+You ignore my orders, and now you want us to submit to the {02}{0B}E? Do you think I will allow such selfishness?
+@1931.1
+You ignore my orders, and now you want us to submit to the {02}{0B}E? I will not allow such selfishness!
+@1932
+What, become vassals of the {02}{0B}E? Who do you think you are, {01}C{0B}{00}, to force such shame on me!
+@1932.1
+Become vassals of the {02}{0B}E? Who do you think you are, {01}C{0B}{00}, to force such shame on me!
+@1932.2
+Vassals of the {02}{0B}E? What are you thinking?
+@1932.3
+Vassals of the {02}{0B}E? I will not listen to you.
+@1933
+What, become vassals of the {02}{0B}E? You would have me endure such shame?
+@1933.1
+Become vassals of the {02}{0B}E? You would have me endure such shame?
+@1934
+I would rather die than submit to the {02}{0B}E...
+@1934.1
+I would rather die than submit to the {02}{0B}E...
+@1934.2
+Rather than submit to the {02}{0B}E, I will fight on alone!
+@1934.3
+Rather than submit to the {02}{0B}E, I shall fight on alone!
+@1935
+The {02}{0B}E hardly amounts to much. Serving such a clan would stain the name of {02}{01}4.
+@1935.1
+The {02}{0B}E is nothing much. Serving such a clan would stain the name of {02}{01}4.
+@1935.2
+The {02}{0B}E hardly amounts to much. Serving such a clan would bring our clan no gain.
+@1935.3
+The {02}{0B}E is nothing much. Serving such a clan would bring our clan no gain.
+@1936
+To make our lord a vassal of the {02}{0B}E would be too pitiful.
+@1936.1
+To make our lord a vassal of the {02}{0B}E would be too pitiful.
+@1937
+What, submit to the {02}{0B}E? I am not keen on that...
+@1937.1
+Submit to the {02}{0B}E? I am not keen on that...
+@1938
+With my present strength, perhaps submitting to the {02}{0B}E cannot be helped...
+@1938.1
+With my present strength, submitting to the {02}{0B}E cannot be helped...
+@1938.2
+As {01}C{0D}{00} says, we had best submit to the {02}{0B}E and keep our house safe.
+@1938.3
+As {01}C{0D}{00} says, we should submit to the {02}{0B}E and keep our house safe.
+@1939
+I approve your proposal. We shall send an envoy to the {02}{0B}E at once and offer our submission.
+@1939.1
+I approve your proposal. We shall send an envoy to the {02}{0B}E at once and offer our submission.
+@1940
+A wise decision, my lord. It will be a burden for {01}C{0C}{00}, but bear it for the sake of the {02}{02}2 clan.
+@1940.1
+A wise decision, my lord. It will be a burden for {01}C{0C}{00}, but bear it for the sake of the {02}{02}2 clan.
+@1941
+Is that so... Then all your vassals will give their utmost to keep the {02}{02}2 clan safe.
+@1941.1
+Understood. Then all your vassals will give their utmost to keep the {02}{02}2 clan safe.
+@1942
+Thanks to the negotiations of {01}C{17}{00}, the {02}{03}2 clan now serves the {02}{0B}E.
+@1942.1
+Thanks to the negotiations of {01}C{17}{00}, the {02}{03}2 clan now serves the {02}{0B}E.
+@1942.2
+Thanks to the negotiations of {01}C{17}{00}, the {02}{03}2 clan now serves the {02}{0B}E, my lord.
+@1943
+{01}C{17}{00} negotiated, but it seems our offer of submission was refused.
+@1943.1
+{01}C{17}{00} negotiated, but it seems our offer of submission was refused.
+@1943.2
+{01}C{17}{00} negotiated, but sadly it seems our offer of submission was refused, my lord.
+@1943.3
+{01}C{17}{00} negotiated, but sadly it seems our offer of submission was refused.
+@1944
+Shall I propose independence from the {02}{0B}E to {01}C{17}{00}?
+@1944.1
+Shall I propose independence from the {02}{0B}E to {01}C{17}{00}?
+@1944.2
+I will propose independence from the {02}{0B}E to {01}C{17}{00}.
+@1945
+Now is the time to break away from the {02}{0B}E and make the {02}{01}{98} name known throughout the land.
+@1945.1
+Now is the time to break away from the {02}{0B}E and make the {02}{01}{98} name known throughout the land.
+@1946
+Independence from the {02}{0B}E? You must have some scheme in mind. I will not allow it.
+@1946.1
+Independence from the {02}{0B}E? You must have some scheme in mind. I will not allow it.
+@1947
+You ignore my orders, and now you want independence from the {02}{0B}E? Do you think I will allow such selfishness?
+@1947.1
+You ignore my orders, and now you want independence from the {02}{0B}E? I will not allow such selfishness!
+@1948
+What, independence from the {02}{0B}E? No! I endure it, so do not speak so selfishly!
+@1948.1
+Independence from the {02}{0B}E? No! I endure it, so you must not speak so selfishly!
+@1948.2
+Independence from the {02}{0B}E? Absurd! I will not listen to you.
+@1948.3
+Independence from the {02}{0B}E? Absurd! I will not listen to you.
+@1949
+What, independence from the {02}{0B}E? My daughter is married into the {02}{0B}E! Would you have me abandon her?
+@1949.1
+Independence from the {02}{0B}E? My daughter is married into the {02}{0B}E! Would you have me abandon her?
+@1950
+What, independence from the {02}{0B}E? They are still of use to us. Breaking away now would be unwise.
+@1950.1
+Independence from the {02}{0B}E? They are still of use to us. Breaking away now would be unwise.
+@1951
+Independence is unthinkable! If we underestimate the {02}{0B}E, our clan will surely be in danger.
+@1951.1
+Independence is unthinkable! If we underestimate the {02}{0B}E, disaster will befall our clan.
+@1952
+Break away from the {02}{0B}E? Unthinkable! If we abandon them now, who will ever trust our clan again?
+@1952.1
+Break away from the {02}{0B}E? Unthinkable! If we abandon them now, who will ever trust our clan again?
+@1953
+What, independence from the {02}{0B}E? I have my own plans. Endure it a while longer.
+@1953.1
+Independence from the {02}{0B}E? I have my own plans. Please endure it a while longer.
+@1953.2
+It is hard to say either way, but for now I am against it.
+@1953.3
+It is hard to say either way, but for now I am against it.
+@1954
+We have served the {02}{0B}E well enough. Perhaps it is time to think again.
+@1954.1
+We have served the {02}{0B}E well enough. Perhaps it is time to think again.
+@1954.2
+As {01}C{0D}{00} says, let us cut our ties with the {02}{0B}E and stand alone!
+@1954.3
+As {01}C{0D}{00} says, let us cut our ties with the {02}{0B}E and stand alone.
+@1955
+I approve your proposal. We shall send an envoy to the {02}{0B}E at once and declare our independence.
+@1955.1
+I approve your proposal. We shall send an envoy to the {02}{0B}E at once and declare our independence.
+@1956
+A bold decision, my lord. Now the world will know our clan as an independent power!
+@1956.1
+A bold decision, my lord. Now the world will know our clan as an independent power.
+@1957
+Very well. For now we shall endure the unendurable and gather our strength until the day of independence.
+@1957.1
+Understood. For now we shall endure the unendurable and gather our strength until the day of independence.
+@1958
+We are now independent of the {02}{0B}E!
+@1958.1
+We are now independent of the {02}{0B}E!
+@1958.2
+We are now independent of the {02}{0B}E, my lord!
+@1959
+Let us choose a princess to ask in marriage.
+@1959.1
+Let us choose a princess to ask in marriage.
+@1959.2
+Please choose a princess to ask in marriage.
+@1960
+Shall I propose that I marry this princess?
+@1960.1
+Perhaps I shall propose a marriage with this princess.
+@1960.2
+I will propose a marriage with this princess.
+@1961
+I have chosen the princess. Now let the council decide.
+@1961.1
+I have chosen the princess. Now let the council decide.
+@1961.2
+I have chosen the princess. Now the council will decide.
+@1962
+In recognition of my service, I beg you to allow my marriage to Lady {02}{03}4.
+@1963
+What, you want to marry {02}{03}4? You must have some scheme in mind. I will not allow it.
+@1963.1
+You want to marry {02}{03}4? You must have some scheme in mind. I will not allow it.
+@1964
+You ignore my orders, and now you want to marry {02}{03}4! Do you think I will allow such selfishness?
+@1964.1
+You ignore my orders, and now you want to marry {02}{03}4? I will not allow such selfishness!
+@1965
+Marriage to {02}{03}4? Out of the question! I will not be taken in by your smooth talk.
+@1965.1
+Marriage to {02}{03}4? Out of the question! I will not be taken in by your smooth talk.
+@1965.2
+What, you want to marry {02}{03}4? I will not give my dear {02}{03}4 to the likes of you!
+@1965.3
+You want to marry {02}{03}4? I will not give my dear {02}{03}4 to the likes of you!
+@1965.4
+Marriage to Lady {02}{03}4? Out of the question! I will not be taken in by your smooth talk.
+@1965.5
+Marriage to Lady {02}{03}4? Out of the question! I will not be taken in by your smooth talk.
+@1967
+What, you want to marry {02}{03}4? I have no intention of making you kin!
+@1967.1
+You want to marry {02}{03}4? I have no wish to make you kin!
+@1967.2
+You want to marry Lady {02}{03}4? The likes of you, join our kin? How presumptuous!
+@1967.3
+You want to marry Lady {02}{03}4? If the likes of you joined our kin, our house's standing would be questioned!
+@1968
+We have a rightful heir. Making you kin could stir up a feud over the succession.
+@1968.1
+We have a rightful heir. Making you kin could stir up a feud over the succession.
+@1969
+What have you ever done for our clan? I will not give {02}{03}4 to you.
+@1969.1
+I will not give {02}{03}4 to one who has done nothing of note, like you.
+@1969.2
+You have achieved nothing! I cannot approve a marriage with such a one.
+@1969.3
+You have achieved nothing. I cannot approve a marriage with such a one.
+@1970
+What are you saying? Consider your age and show some restraint!
+@1970.1
+What are you saying? You and {02}{03}4 are too far apart in age.
+@1970.2
+At your age, Princess {02}{03}4 would be far too young for you.
+@1970.3
+At your age, you are no match for Princess {02}{03}4.
+@1971
+I am grateful for your offer, {01}C{0B}{00}, but this concerns my dear {02}{03}4. Let me think on it.
+@1971.1
+I am grateful for your offer, {01}C{0B}{00}, but this concerns my dear {02}{03}4. I cannot decide at once.
+@1971.2
+I am grateful for your offer, {01}C{0D}{00}, but this concerns my dear {02}{03}4. Let me think on it.
+@1971.3
+I am grateful for your offer, {01}C{0D}{00}, but this concerns my dear {02}{03}4. I cannot decide at once.
+@1971.4
+I do not much care for this match.
+@1971.5
+I do not much care for this match.
+@1972
+A splendid match! To {01}C{0B}{00}, I gladly give {02}{03}4 in marriage.
+@1972.1
+To {01}C{0B}{00}, I gladly give {02}{03}4 in marriage.
+@1972.2
+A splendid match! To {01}C{0D}{00}, I gladly give {02}{03}4 in marriage.
+@1972.3
+To {01}C{0D}{00}, I gladly give {02}{03}4 in marriage.
+@1972.4
+{01}C{0D}{00} and Lady {02}{03}4 would make a fine couple. I have no objection.
+@1972.5
+{01}C{0D}{00} and Lady {02}{03}4 would surely live in harmony. I have no objection.
+@1973
+I approve your proposal. You shall take {02}{03}4 as your wife and become one of our kin.
+@1973.1
+I approve your proposal. {02}{03}4 shall marry you, and you shall become one of our kin.
+@1974
+I am most grateful. From now on I shall join hands with {02}{03}4 and work hard for the {02}{02}{98} clan.
+@1975
+...Is that so. It is a pity, but I shall give up this time.
+@1976
+I have married {02}{03}4 and become kin of the {02}{02}{98} clan!
+@1976.1
+{01}C{0D}{00}, congratulations on your marriage to Lady {02}{03}4. You are now kin of the {02}{02}{98} clan.
+@1976.2
+{01}C{0D}{00}, congratulations on your marriage to Lady {02}{03}4. You are now kin of the {02}{02}{98} clan.
+@1977
+Let us choose an officer to recommend as our heir.
+@1977.1
+Let us choose an officer to recommend as our heir.
+@1977.2
+Please choose an officer to recommend as our heir.
+@1978
+Shall I propose that I be named heir?
+@1978.1
+Perhaps I shall propose that I be named heir.
+@1978.2
+You would propose that I be named heir?
+@1978.3
+Shall I propose that {01}C{18}{00} be named heir?
+@1978.4
+Shall I propose that {01}C{18}{00} be named heir?
+@1978.5
+I will propose that {01}C{18}{00} be named heir.
+@1979
+I have chosen the officer to recommend. Now let the council decide.
+@1979.1
+I have chosen the officer to recommend. Now let the council decide.
+@1979.2
+I have chosen the officer to recommend. Now the council will decide.
+@1980
+Leave it to me. I will surely make our clan prosper!
+@1980.1
+Leave it to me. I shall surely make our clan prosper.
+@1980.2
+For the safety of our house, it is best that {01}C{1A}{00} succeed.
+@1980.3
+For the safety of our house, it is best that {01}C{1A}{00} succeed.
+@1981
+What, make {01}C{16}{00} heir? You must have some scheme in mind. I will not allow it.
+@1981.1
+You want {01}C{16}{00} made heir? You must have some scheme in mind. I will not allow it.
+@1982
+You ignore my orders, and now you want {01}C{16}{00} made heir! Do you think I will allow such selfishness?
+@1982.1
+You ignore my orders, and now you want {01}C{16}{00} made heir? I will not allow such selfishness!
+@1983
+What, make me heir? You are plotting something, no doubt. I will not be taken in by your smooth talk.
+@1983.1
+Make me heir? You are plotting something, no doubt. I will not be taken in by your smooth talk.
+@1983.2
+Name {01}C{16}{00} heir? You are plotting something, no doubt. I will not be taken in by your smooth talk.
+@1983.3
+Name {01}C{16}{00} heir? You are plotting something, no doubt. I will not be taken in by your smooth talk.
+@1984
+Making {01}C{16}{00} heir would do our clan no good.
+@1984.1
+Making {01}C{16}{00} heir would do our clan no good.
+@1984.2
+Making {01}C{18}{00} heir would do our clan no good.
+@1984.3
+Making {01}C{18}{00} heir would do our clan no good.
+@1985
+What, make me heir? That burden is too heavy for me. There must be someone better suited.
+@1985.1
+Make me heir? That burden is too heavy for me. There must be someone better suited.
+@1985.2
+Make {01}C{18}{00} heir? I cannot accept that! There are others better suited!
+@1985.3
+Make {01}C{18}{00} heir? I cannot accept that! There must be others better suited!
+@1986
+{01}C{16}{00}? Out of the question! It is only right to name our clan's rightful heir.
+@1986.1
+{01}C{16}{00}? Out of the question! It is only right to name our clan's rightful heir.
+@1986.2
+Me? Out of the question! For the sake of the house, it is only right to name the rightful heir.
+@1986.3
+Me? Out of the question! For the sake of the house, it is only right to name the rightful heir.
+@1986.4
+{01}C{18}{00}? Out of the question! For the sake of the house, it is only right to name the rightful heir.
+@1986.5
+{01}C{18}{00}? Out of the question! For the sake of the house, it is only right to name the rightful heir.
+@1987
+Hmm... I am not keen on it.
+@1987.1
+I am not keen on it.
+@1987.2
+I am grateful for the offer of {01}C{0D}{00}, but heading the clan is too heavy a burden for me.
+@1987.3
+I thank {01}C{0D}{00} for the offer, but heading the clan is too heavy a burden for me.
+@1987.4
+I am not keen on it, I must say.
+@1987.5
+I am not keen on it.
+@1988
+I humbly accept the proposal of {01}C{0D}{00}. I shall succeed as head of the clan.
+@1988.1
+I humbly accept the proposal of {01}C{0D}{00}. I shall succeed as head of the clan.
+@1988.2
+If {01}C{18}{00} is to succeed, I have no objection.
+@1988.3
+If {01}C{18}{00} is to succeed, I have no objection.
+@1989
+I approve your proposal. I name you my heir. Strive hard from now on.
+@1989.1
+I approve your proposal. I name you my heir, so strive hard from now on.
+@1989.2
+I approve your proposal. I name {01}C{16}{00} my heir. Strive hard from now on.
+@1989.3
+I approve your proposal. I name {01}C{16}{00} my heir, so strive hard from now on.
+@1990
+I am most grateful. Now that I am to succeed, I will conquer the realm for you!
+@1990.1
+Thank you, my lord. Now that I am to succeed, I shall surely make our clan prosper.
+@1990.2
+I am most grateful. With {01}C{1A}{00} as heir, our clan is secure.
+@1990.3
+Thank you, my lord. With {01}C{1A}{00} as heir, our clan should be secure.
+@1991
+...Is that so. As long as {01}C{0C}{00} is in good health, our clan has nothing to fear.
+@1991.1
+...Is that so. As long as {01}C{0C}{00} is in good health, our clan should have nothing to fear.
+@1992
+I have been named heir of the {02}{02}{98} clan!
+@1992.1
+I have been named heir of the {02}{02}{98} clan!
+@1992.2
+You have been named heir of the {02}{02}{98} clan, my lord!
+@1992.3
+So {01}C{18}{00} has been named heir of the {02}{02}{98} clan.
+@1992.4
+{01}C{18}{00} has been named heir of the {02}{02}{98} clan.
+@1992.5
+{01}C{18}{00} has been named heir of the {02}{02}{98} clan, my lord.
+@1993
+Shall I press {01}C{17}{00} to retire and hand the headship to me?
+@1993.1
+Perhaps I shall press {01}C{17}{00} to retire and hand the headship to me.
+@1993.2
+Shall we press {01}C{17}{00} to retire and hand the headship to {01}C{0C}{00}?
+@1993.3
+Shall I press {01}C{17}{00} to retire and hand the headship to {01}C {00}?
+@1993.4
+Shall I press {01}C{17}{00} to retire and hand the headship to {01}C {00}?
+@1993.5
+Shall we press {01}C{17}{00} to retire and hand the headship to me?
+@1993.6
+Shall we press {01}C{17}{00} to retire and hand the headship to {01}C {00}?
+@1994
+Shall I ask {01}C{17}{00} to retire?
+@1994.1
+Perhaps I shall ask {01}C{17}{00} to retire.
+@1994.2
+Shall we ask {01}C{17}{00} to retire?
+@1995
+Under {01}C{17}{00}, the future of the {02}{03}{98} clan is uncertain. I ask that you hand the headship to me.
+@1995.1
+Under {01}C{17}{00}, the future of the {02}{03}{98} clan is in doubt. Please hand the headship to me.
+@1995.2
+Under {01}C{17}{00}, the future of the {02}{03}{98} clan is uncertain. {01}C {00} is fit to be our head.
+@1995.3
+Under {01}C{17}{00}, the future of the {02}{03}{98} clan is in doubt. {01}C {00} should be our head.
+@1996
+Asking {01}C{17}{00} to retire is for the good of the {02}{03}{98} clan.
+@1996.1
+Asking {01}C{17}{00} to retire is truly for the good of the {02}{03}{98} clan.
+@1997
+What, hand the headship to {01}C{16}{00}? Never, as long as I draw breath!
+@1997.1
+Hand the headship to {01}C{16}{00}? I have no intention of handing it over while I draw breath!
+@1998
+What, I should retire? Never, as long as I draw breath!
+@1998.1
+I should retire? I have no intention of handing over to anyone while I draw breath!
+@1999
+What, hand the headship to me? You are plotting something, no doubt. I will not be taken in by your smooth talk.
+@1999.1
+Hand the headship to me? You are plotting something, no doubt. I will not be taken in by your smooth talk.
+@1999.2
+Make {01}C{17}{00} retire? I will not be taken in by your smooth talk.
+@1999.3
+Make {01}C{17}{00} retire? I will not be taken in by your smooth talk.

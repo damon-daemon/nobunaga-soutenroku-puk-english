@@ -1,0 +1,2678 @@
+@3400
+When a daimyo controls several castles, you can create corps and leave strategy to corps commanders.\n\nUp to 8 corps can be formed. The daimyo can use [{1C}[{1C}I~REF_SE_GU_Gundanshiji~Corps Orders{1C}]] to name the clan each corps should attack.\n\nEach corps can use [{1C}[{1C}I~REF_SE_TEJ_Shiroshiji~Castle Orders{1C}]] to set target castles (for schemes and attacks) for the castles in it.
+@3357
+The Onin War, born of a quarrel over the Ashikaga shogun's succession, set the whole land ablaze. An age of gekokujo had come, when sons struck down fathers and vassals their lords.\nIn the 5th month of 1534, Oda Nobuhide, lord of Furuwatari Castle in Owari, had an heir: Kipposhi.\nKipposhi would take the name Oda Nobunaga, and rise until the realm was almost in his grasp...
+@3358
+Imagawa Yoshimoto of Suruga and Totomi had brought the Matsudaira of Mikawa under his wing and was pushing into Owari. Saito Dosan of Mino eyed Owari too, and at home the deputy constable Oda Nobutomo stood against Nobuhide behind the constable Shiba Yoshimune.\nIn 1546, at Nagoya Castle, Nobuhide's heir Kipposhi came of age as Saburo Nobunaga...
+@3359
+Some years after taking over the Oda clan, Nobunaga struck down his defiant brother Nobukatsu and Oda Nobukata of Iwakura, and united Owari.\nBut in 1560 Imagawa Yoshimoto, lord of Suruga, Totomi and Mikawa, set out for Kyoto, claiming to aid the shogun.\nYoshimoto had 40,000 men; Nobunaga, a mere 4,000. Everyone thought the Oda were finished...
+@3360
+Nobunaga marched on Kyoto with Ashikaga Yoshiaki, made him shogun and grew ever stronger. But Yoshiaki realised he was a puppet and urged the daimyo to bring Nobunaga down.\nIn the 9th month of 1570, as Nobunaga faced the Miyoshi Triumvirate in Settsu, an Ikko army suddenly fell on his camp. The greatest crisis of his life was at hand...
+@3361
+Nobunaga drove Ashikaga Yoshiaki from Kyoto, destroyed old foes such as the Asakura, Azai and Honganji one by one, and pressed on toward ruling the realm by force.\nIn the 2nd month of 1582, Kiso Yoshimasa, Takeda Shingen's son-in-law, offered to submit. Seeing the Takeda in decline, Nobunaga accepted and sent his heir Nobutada against them. No foe seemed left to stand before him...
+@3362
+Nobunaga perished in the flames of the Honnoji, betrayed by his vassal Akechi Mitsuhide. Mitsuhide in turn was beaten by Hashiba Hideyoshi's army, which rushed back to the capital, and was killed by someone as he fled.\nHalf a month later, a council met at Kiyosu Castle to choose Nobunaga's successor and divide his lands. There Shibata Katsuie and Hashiba Hideyoshi clashed over the heir. War between them could not be avoided...
+@3363
+Hojo Soun entered Imagawa service at the call of his sister Lady Kitagawa, wife of Imagawa Yoshitada, constable of Suruga. After Yoshitada's death he guarded his son Ujichika, and in 1493 he destroyed the Horigoe Kubo and took Izu, laying the base of a warlord's domain. In 1495 he drove out Omori Fujiyori and seized Odawara Castle. Now he faced both Uesugi houses, Yamanouchi and Ogigayatsu...
+@3364
+The kanrei Hosokawa Masamoto had banished Shogun Ashikaga Yoshitane, set up Ashikaga Yoshizumi and seized the shogunate's power. Devoted to the mountain ascetics' ways, he kept all women away from him.\nSo he adopted Sumiyuki, son of the former Regent Kujo Masamoto, then also Sumimoto of the Awa Hosokawa and Takakuni of the Tenkyu Hosokawa.\nA bitter fight over his succession began...
+@3365
+In 1518 Ouchi Yoshioki, who had long aided Shogun Ashikaga Yoshitane as deputy kanrei, went home to Suo, citing the cost.\nHosokawa Sumimoto and Miyoshi Yukinaga, hiding in Awa, kept trying to enter Kyoto, and the Kinki grew unstable again.\nMeanwhile a succession dispute broke out in the Kyogoku clan, constables of half of Omi, splitting the house in two...
+@3366
+Since the murder of the kanrei Hosokawa Masamoto in 1507, the Kinki had been in utter chaos, as Hosokawa Takakuni and Ouchi Yoshioki, backing Ashikaga Yoshitane, fought Hosokawa Sumimoto and Miyoshi Yukinaga, backing Ashikaga Yoshizumi.\nNow Yoshizumi's side raised an army to drive Yoshitane's from Kyoto. But illness was closing in on Yoshizumi...
+@3367
+At the Kiyosu council, Hashiba Hideyoshi and Shibata Katsuie clashed head-on over Nobunaga's heir.\nResenting a council that went Hideyoshi's way, Katsuie bound himself to Nobunaga's 3rd son Oda Nobutaka, Takigawa Kazumasu, Sassa Narimasa and others against him. Hideyoshi in turn allied with Nobunaga's 2nd son Oda Nobukatsu, Uesugi Kagekatsu and others.\nWar between them could not be avoided...
+@3368
+As the turmoil of the warring states began to ebb, heroes thought long dead, such as Oda Nobunaga and Takeda Shingen, rose again! In the chaos the great old houses, the Ashikaga, Minamoto and Taira, returned too. Great generals of every age gather to fight for supremacy. A war like no other is about to begin...\n* A fictional scenario. Officers do not die of old age.
+@3369
+One of the skills an officer may have.\n\nAn officer with this skill is good at winning sympathy, and does well in diplomacy when asking other clans or minor powers for something or proposing a pact.
+@3370
+Each officer has a compatibility. Good compatibility between a castle lord and a retainer makes loyalty rise more easily, and between an envoy and the other side it makes talks go more smoothly, among other effects.\n\nCompatibility cannot be seen as a number. It is inborn and never changes.
+@3371
+One of the troop types an officer leads in field battles.\n\nA common troop type any officer can organise.\n\nAgainst Pikes, the unit's attack rises and it fights at an advantage. Against Cavalry or Mounted Gunners, the enemy's attack rises and it is at a disadvantage.\n\nTo change an officer's troops, use [Military] - [{1C}[{1C}I~REF_SE_NA_GU_Heishuhenkou~Change Troops{1C}]].
+@3372
+A {1C}[{1C}I~REF_V_Sakusen~tactic{1C}] for both field and siege battles. It drops the {1C}[{1C}I~REF_V_Seni~fighting spirit{1C}] of the enemy unit being fought to 0. In field battles it also lowers its morale.\n\nThe higher the officer's Intellect, the stronger the effect.
+@3373
+One of the skills an officer may have.\n\nAn officer with this skill is good at forceful talks, and does well in diplomacy when asking other clans or minor powers for something or threatening them.
+@3374
+Officers of the daimyo's blood, and officers married to a daughter of one, who belong to the same clan.\n\nWith [Propose] - [Heir] - [{1C}[{1C}I~REF_SE_JI_Yotsugishimei~Name Heir{1C}]], you can persuade a castle lord to recommend a kin officer as the daimyo's heir.\n\nWhen playing as a daimyo, if the daimyo or a blood relative has a princess (daughter), you can marry her to a retainer with [Personnel] - [Heir] - [{1C}[{1C}I~REF_SE_JI_KO_Haika~Adopt{1C}]] to gain kin officers.
+@3375
+A type of minor power.\n\nIt has its own troops and may rise up against clans it is unfriendly with. Once it is subordinate to you, you can borrow troops with [{1C}[{1C}I~REF_GU_CMD_Shutujinyousei~Request Sortie{1C}]] or [{1C}[{1C}I~REF_GU_CMD_Kyoudougunyousei~Request Aid{1C}]].\n\nAs a [{1C}[{1C}I~REF_SE_NA_Baibai~Power Trade{1C}]] partner it sells rice, treasures, horses and guns. What can be bought depends on the base.
+@3376
+One of a castle's industries.\n\nA castle with this industry earns horses every season.\n\nIt comes in three sizes, large, medium and small; the larger it is, the more it earns.
+@3377
+An event that occurs in spring.\n\nCastles in a province struck by plague lose commerce, and the officers there lose troops.\n\nPlague that breaks out in spring may spread to neighbouring provinces in summer. It dies out in autumn.
+@3378
+In the Military phase, [{1C}[{1C}I~REF_GU_CMD_Shutujinyousei~Request Sortie{1C}]] and [{1C}[{1C}I~REF_GU_CMD_Kyoudougunyousei~Request Aid{1C}]] let you ask allied castles and minor powers for reinforcements.\n\nBoth can be sent to:\n 1. other castles of your clan\n (for a corps commander, castles of the clan's other corps)\n 2. castles of clans in a military alliance with yours\n 3. castles of clans in a {1C}[{1C}I~REF_V_Juuzokukankei~vassal relationship{1C}] with yours\n 4. Gentry, Ikko and Monk bases subordinate to you.
+@3379
+A type of treasure.\n\nAn officer with a cannon who joins the attackers in a siege battle shells the gate from afar, lowering its defence.\n\nWith the defenders, he can shell the attacking units, lowering their squads and morale.\n\nNo side can fire cannon in rain or snow.
+@3380
+One of the skills an officer may have.\n\nAn officer with this skill raises a castle's defence efficiently when made Repair {1C}[{1C}I~REF_V_Bugyou~magistrate{1C}].
+@3381
+Clan castles and minor power bases are linked by roads.\n\nArmies leaving a castle or base move along the roads. When enemy armies meet on a road, a field battle follows.\n\nAn enemy castle or base on the road stops an army from going further.\n\nRoads linking your own castles (bases), and roads from your castles to adjacent enemy castles, are called "{1C}[{1C}I~REF_V_Hokyuusenn~supply lines{1C}]".
+@3382
+One of a castle's industries.\n\nA castle with this industry earns guns every season.\n\nIt comes in three sizes, large, medium and small; the larger it is, the more it earns.
+@3383
+Giving a treasure to a retainer raises his loyalty, and it may also raise his abilities ({1C}[{1C}I~REF_V_Seiji~Politics{1C}], {1C}[{1C}I~REF_V_Chiryaku~Intellect{1C}], {1C}[{1C}I~REF_V_Tousotsu~Leadership{1C}]) or teach troop types and skills.\n\nThe higher a treasure's grade (the lower the number), the stronger its effect.\n\nAn officer can hold up to 2 treasures. Treasures can be bought from minor powers that own them with [Domestic] - [Power Trade].\n\nAn officer holding a "{1C}[{1C}I~REF_V_Taihou~cannon{1C}]" type treasure can fire cannon in siege battles.
+@3384
+An event that occurs in autumn.\n\nCastles in a province struck by famine see their rice income for the year plunge.\n\nFamine is more likely after flood damage in summer.
+@3385
+One of the troop types an officer leads in field battles.\n\nOrganising it needs as many horses as troops.\n\nAgainst Infantry or Gunners, the unit's attack rises and it fights at an advantage. Against Pikes, the enemy's attack rises and it is at a disadvantage.\n\nIt moves fast in field battles, and when strengthened its attack is higher than any other troop type's.\n\nTo change an officer's troops, use [Military] - [{1C}[{1C}I~REF_SE_NA_GU_Heishuhenkou~Change Troops{1C}]].
+@3386
+One of the troop types an officer leads in field battles.\n\nIt has the effects of both {1C}[{1C}I~REF_V_Kiba~Cavalry{1C}] and {1C}[{1C}I~REF_V_TeppouHensei~Gunners{1C}]. Organising it needs as many horses and guns as troops.\n\nIt matches up against other types like {1C}[{1C}I~REF_V_Kiba~Cavalry{1C}].\n\nTo change an officer's troops, use [Military] - [{1C}[{1C}I~REF_SE_NA_GU_Heishuhenkou~Change Troops{1C}]].
+@3387
+Minor powers have a size from 1 to 6. The larger the size, the more troops it can raise and the better it defends its base.\n\nSize changes with the gold clans invest. When a minor power receives enough gold through diplomacy and the like, it grows in size.
+@3388
+The officer's father-in-law.\n\nIf the father-in-law is the daimyo of the officer's clan, the officer is kin.
+@3390
+An event that occurs in autumn.\n\nCastles in a province struck by a poor harvest get less rice income that year.\n\nPoor harvests are more likely after typhoon or flood damage in summer.
+@3391
+A {1C}[{1C}I~REF_V_Sakusen~tactic{1C}] for both field and siege battles. In field battles it forces the enemy unit being fought back to its headquarters. In siege battles it forces it to another gate of the same bailey.\n\nThe higher the officer's Intellect, the stronger the effect.
+@3392
+Officers differ in their sense of duty. A dutiful officer puts duty before gain when deciding things. Sense of duty cannot be seen as a number.\n\nIt is inborn and never changes.
+@3393
+A type of minor power.\n\nIt has troops only for self-defence and never rises up. Even when subordinate to you, it lends no {1C}[{1C}I~REF_V_Engun~reinforcements{1C}].\n\nAs a [{1C}[{1C}I~REF_SE_NA_Baibai~Power Trade{1C}]] partner it sells guns and treasures, but only Christians who own treasures sell them.
+@3394
+A type of mine a castle may have. A castle with a gold mine earns gold every season, more than with a silver mine.
+@3395
+A type of mine a castle may have. A castle with a silver mine earns gold every season, less than with a gold mine.
+@3396
+The resource needed to carry out commands and to negotiate with other powers.\n\nEach castle earns it every turn. The amount depends on the castle's commerce, and a mine adds more.\n\nOrdinary castle lords give a tenth of their income to their corps commander. A daimyo subordinate to another clan gives a tenth to that daimyo.\n\nIf you need gold fast, sell goods with [Domestic] - [{1C}[{1C}I~REF_SE_NA_Baibai~Power Trade{1C}]] or [Domestic] - [{1C}[{1C}I~REF_SE_NA_Baibai2~Local Trade{1C}]].
+@3397
+A castle lord earns merit by scheming against or attacking the {1C}[{1C}I~REF_V_Kouryakumokuhyoujou~target castle{1C}] set by his corps commander. The more merit he earns, the more influence he gains.\n\nWhen castle lords in a corps earn merit, the corps commander's merit rises too.\n\nMerit cannot be seen as a number.
+@3398
+A pact between clans.\n\nClans in a military alliance cannot attack each other, and their armies may pass through each other's castles. They can also lend armies with [{1C}[{1C}I~REF_GU_CMD_Shutujinyousei~Request Sortie{1C}]] or [{1C}[{1C}I~REF_GU_CMD_Kyoudougunyousei~Request Aid{1C}]].\n\nPropose one to another clan with [Diplomacy] - [Daimyo] - [{1C}[{1C}I~REF_SE_GA_DA_Gunjidoumei~Alliance{1C}]]. It lasts 2 years; using [Alliance] again before it ends extends it.
+@3399
+Armies are needed to attack the enemy.\n\nWhen a castle is ordered to [{1C}[{1C}I~REF_GU_SHIRO_Shutujin~Sortie{1C}]] in the Military phase, an army appears and moves along the roads toward its target.\n\nTargeting an army of the same corps merges several armies.\n\nMeeting an enemy army on a road starts a field battle; ordering an army at an enemy castle to [{1C}[{1C}I~REF_GU_GUNZEI_Chikarazeme~Assault{1C}]] starts a siege battle.\n\nAn army that loses a field or siege battle, or is ordered to [{1C}[{1C}I~REF_GU_GUNZEI_Taikyaku~Retreat{1C}]], disbands and returns to its castle.
+@3000
+Hmm... a groundless rumour has the men in confusion.
+@3000.1
+Damn... a groundless rumour has the men in confusion.
+@3000.2
+What...!? A groundless rumour seems to have the men in confusion.
+@3000.3
+Ngh... a groundless rumour seems to have the men in confusion.
+@3000.4
+Ngh... a groundless rumour has the men in confusion.
+@3000.5
+What...!? A groundless rumour seems to have the men in confusion.
+@3001
+In the hands of {02}{01}4, praised as a master of castle design, repairing a gate is a simple matter.
+@3001.1
+Repair the damaged gate.
+@3001.2
+Repair the damaged gate, quickly!
+@3001.3
+Let us repair the damaged gate.
+@3001.4
+Repair the damaged gate.
+@3001.5
+Repair the damaged gate.
+@3001.6
+Let us repair the damaged gate.
+@3002
+Hmm, the enemy has repaired the gate!
+@3002.1
+Hm, the enemy has repaired the gate!
+@3002.2
+The enemy has repaired the gate...
+@3002.3
+The enemy has repaired the gate!
+@3002.5
+The enemy seems to have repaired the gate...
+@3003
+A hundred years too early to sow confusion against {02}{01}4! This is real confusion... There!
+@3003.1
+Heh, you call that sowing confusion? Watch, this is how it is done!
+@3003.2
+Wahaha, you call that sowing confusion? Watch, this is how it's done!
+@3003.3
+Heh, you call that sowing confusion? This is how it is done!
+@3003.4
+Heh heh, you call that sowing confusion? This is how it's done. There!
+@3003.6
+Hoho, you call that sowing confusion? This is how it is done. There!
+@3004
+Fly the Sanada six-coin banner over the enemy lines! We want one thing only: the enemy general's head. Attack!!
+@3004.1
+Everyone, we have orders to sally! Let us scatter the enemy!
+@3004.3
+Orders to meet the enemy, then... Everyone, let us sally out.
+@3004.4
+Everyone, we have orders to sally! We scatter the enemy!
+@3004.6
+Orders to meet the enemy, then... Let us sally out!
+@3005
+Whoa! The enemy has suddenly come out! Curse you, {02}{03}4, you sly dog!
+@3005.1
+Ngh, a surprise attack! Curse you, {02}{03}4...!
+@3005.2
+Eek! A surprise attack, how base! Curse that {02}{03}4!
+@3005.3
+Eek! The enemy has suddenly come out! Curse you, {02}{03}4, you sly fox!
+@3005.5
+Eek! A surprise attack, how base! Just what one expects of {02}{03}4...
+@3006
+Right, signal the spies inside the castle. Have them open the gate.
+@3006.1
+Signal the spies! Get them to open the gate from inside!
+@3006.2
+Signal the spies inside the castle. Have them open the gate from inside!
+@3006.3
+Signal the spies inside the castle! Have them open the gate!
+@3006.4
+Signal the spies! That should open the gate from inside.
+@3006.5
+Please signal the spies inside the castle. That should open the gate.
+@3007
+Wh-what is this? The gate is opening by itself!
+@3007.1
+Wh-what? The gate's opening!
+@3007.2
+N-no... The gate has opened!!
+@3007.3
+Wh-what is going on? The gate is opening!
+@3007.4
+Wh-what!? The gate's opening!
+@3007.5
+My... The gate, by itself...
+@3008
+With {02}{01}4's skill, breaking a gate is a simple matter. Attack!
+@3008.1
+Tear the gate down in one go! Now, attack!
+@3008.2
+We tear the gate down in one go!! Men, attack!
+@3008.3
+We tear the gate down in one go. Now, attack!
+@3008.4
+Tear the gate down in one go! Now, attack!
+@3008.5
+We tear the gate down in one go! Now, attack!
+@3008.6
+Let us tear the gate down in one go. Come, here we go!
+@3009
+What is this? The gate is groaning!
+@3009.1
+Wh-what!? The gate won't hold!
+@3009.2
+Wh-what...!? The gate is creaking!
+@3009.3
+Wh-what is happening? The gate is groaning!
+@3009.4
+Wh-what? The gate won't hold!
+@3009.5
+My, whatever is happening? The gate is creaking so...
+@3010
+Hey, you lily-livered warriors! If it stings, come and get me! Come on, come on!
+@3010.1
+Provoke the enemy, lure them out, and attack all at once!
+@3010.2
+Provoke the enemy, lure them out, and beat them to a pulp!
+@3010.3
+Let us provoke the enemy, lure them out, and attack all at once!
+@3010.4
+Let us provoke the enemy, lure them out, and attack all at once!
+@3010.5
+I'll provoke the enemy, lure them out, and beat them to a pulp!
+@3010.6
+Let us provoke the enemy, lure them out, and attack all at once.
+@3011
+I'll take that bait! Now's the chance to strike out. Sally forth!!
+@3011.1
+To mock {02}{01}4... {02}{03}4, I will never forgive this!
+@3011.2
+To mock {02}{01}4... Men, take {02}{03}4's head!
+@3011.3
+To mock {02}{01}4... Everyone, go after that {02}{03}4!
+@3011.4
+To mock {02}{01}4... {02}{03}4, I shall teach you a lesson!
+@3011.5
+To mock {02}{01}4... Unforgivable! Everyone, go for {02}{03}4's head!
+@3011.6
+To insult {02}{01}4 so... Everyone, go after that {02}{03}4!
+@3012
+What, not one went off! What is the meaning of this?
+@3012.1
+What, they all failed to go off? What's going on?
+@3012.2
+What, not one went off! Whatever is the meaning of this?
+@3012.3
+None of them are going off! What is going on?
+@3012.4
+None of them are going off! What's going on?
+@3012.5
+They are not going off at all. Whatever can be the matter?
+@3013
+Hmm... no one falls for the false report. They are good.
+@3013.1
+Ngh... no one falls for the false report. Not bad, for an enemy.
+@3013.2
+Oho... no one falls for the false report. They are rather good.
+@3013.3
+No one seems taken in by the false report. The enemy is rather good.
+@3013.4
+No one seems taken in by the false report. The enemy's calmer than I thought.
+@3013.5
+No one seems taken in by the false report. The enemy is rather good.
+@3014
+Hmm... they will not take the bait. They are good.
+@3014.1
+Ngh... they won't take the bait. Not bad, for an enemy.
+@3014.2
+Oho... they will not take the bait. They are rather good.
+@3014.3
+They show no sign of taking the bait. The enemy is rather good.
+@3014.4
+They show no sign of taking the bait. The enemy's calmer than I thought.
+@3014.5
+They show no sign of taking the bait. The enemy is rather good.
+@3015
+...Blast it, what are the men doing? Can they not even make a proper repair?
+@3015.1
+...Ngh, what are the men doing! Nothing is getting repaired!
+@3015.2
+...The repairs are not going well. What can the trouble be?
+@3015.3
+...Everyone, what are you doing? The gate is not getting fixed at all!
+@3015.4
+...Everyone, what are you doing? The work is getting nowhere!
+@3015.5
+...The repairs are not going well. I am no good at such work.
+@3016
+...What is this half-hearted effort! You'll never break the gate like that!
+@3016.1
+...Put your backs into it! At this rate it'll never break!
+@3016.2
+...We cannot seem to break it. Perhaps the men are not working together.
+@3016.3
+...What is this listless effort! The enemy will laugh at us!
+@3016.4
+...Put your backs into it, or we'll never break through!
+@3016.5
+...We cannot seem to break it. I am no good at such work.
+@3017
+Morale is falling and the men are deserting. Shall we withdraw for now...?
+@3017.1
+Morale is falling and the men are running off. Should we withdraw...?
+@3017.2
+Morale is falling and the men are deserting. Should we pull back...?
+@3017.3
+Morale is falling and the men are deserting. Should we withdraw for now...?
+@3017.4
+Morale is falling and the men are running off. Maybe we should withdraw...
+@3017.5
+Morale is falling and the men seem to be running off. Perhaps we should pull back.
+@3018
+Taking castles is my speciality. Everyone, there is a reward for breaking the gate!
+@3018.1
+Break the gate as fast as you can! Never fear their arrows and shot!
+@3018.2
+Men, stop dawdling! Tear that gate down!
+@3018.3
+Break the gate! Do not fear their arrows and shot!
+@3018.4
+Break the gate as fast as you can! Do not fear their arrows and shot!
+@3018.5
+Everyone, stop dawdling! Tear that gate down as fast as you can!
+@3018.6
+Break the gate as fast as you can. Come, one more push!
+@3019
+Now is the time to show the power of the three-rank volley! Wipe out {02}{02}4's unit in one go!
+@3019.1
+Fire on {02}{02}4's unit without a break! Do not let up!
+@3019.2
+Fire, fire and keep firing at {02}{02}4's unit!!
+@3019.3
+Everyone, take good aim at {02}{02}4's unit! Now, fire!
+@3019.4
+Fire on {02}{02}4's unit without a break!
+@3019.5
+Fire, fire and keep firing at {02}{02}4's unit!
+@3019.6
+Everyone, take good aim at {02}{02}4's unit... Now, fire!
+@3020
+Stay alert. Be ready to fire at any moment.
+@3020.1
+Stay sharp, so we can resume the attack at any moment!
+@3020.2
+Do not relax. Be ready to fire at any moment.
+@3020.3
+Do not relax. Be ready to fire at any moment.
+@3020.4
+Stay sharp, so we can resume the attack at any moment!
+@3020.5
+Do not relax. Being ready to fire at any moment is what matters.
+@3021
+We can fight no more. Withdraw!
+@3021.1
+There's nothing more to be done. Ignore the enemy and withdraw!
+@3021.2
+Never mind the enemy. Withdraw at once.
+@3021.3
+We can fight no more. Withdraw!
+@3021.4
+There's nothing more to be done. Ignore the enemy and withdraw!
+@3021.5
+We cannot fight on. Let us withdraw at once.
+@3022
+The more points of attack, the better. Attack another gate.
+@3022.1
+Stop dawdling! We move to another gate!
+@3022.2
+Attack another gate. Come, hurry!
+@3022.3
+The more points of attack, the better. Hurry to another gate.
+@3022.4
+Stop dawdling! We're moving to another gate!
+@3022.5
+Let us attack another gate. We must move quickly...
+@3023
+The enemy left are a mere rabble. We scatter them in one go.
+@3023.1
+Don't let the enemy escape! Cut them all down!
+@3023.2
+Sweep away the rest of the enemy! Attack, attack!
+@3023.3
+The enemy left are a mere rabble. Scatter them in one go!
+@3023.4
+Don't let the enemy escape! Cut them all down!
+@3023.5
+Sweep away the rest of the enemy. Come, nearly there!
+@3024
+Defend the gate with all you have. Everyone, I count on you.
+@3024.1
+Hold the gate to the death! Not one of them gets in!
+@3024.2
+Defend the gate. It must not be broken.
+@3024.3
+Defend the gate with all you have. Everyone, I count on you.
+@3024.4
+Hold the gate to the death! Not one of them gets in!
+@3024.5
+Defend the gate. It must not be broken.
+@3025.1
+Fire on {02}{02}4's unit!
+@3025.2
+Aim for {02}{02}4's unit! Fire, fire, fire! Don't let them leave this castle alive!
+@3025.3
+At {02}{02}4's unit... now, fire! ...Next rank, fire!
+@3025.4
+Fire on {02}{02}4's unit.
+@3025.5
+Aim for {02}{02}4's unit! Fire, fire! Don't let them leave this castle alive!
+@3026
+Use every trick we have to drive off the attackers.
+@3026.1
+Aren't the tricks ready yet? Give them the fright of their lives!
+@3026.2
+We must hold the castle at all costs. Hurry with the tricks.
+@3026.3
+Use every trick we have to drive off the attackers!
+@3026.4
+Aren't the tricks ready yet!? Give them the fright of their lives!
+@3026.5
+A castle cannot be held without using one's head. Let us hurry with the tricks.
+@3027
+We can only retreat now. Everyone, fall back, fall back!
+@3027.1
+We can't hold any longer. Ignore the enemy and withdraw!
+@3027.2
+We cannot hold any longer. Withdraw at once.
+@3027.3
+We can only retreat now... Everyone, fall back, fall back!
+@3027.4
+We can't hold any longer. Ignore the enemy and withdraw!
+@3027.5
+We cannot hold any longer. We withdraw at once.
+@3028
+We defend another gate. Move quickly.
+@3028.1
+We move to another gate. Men, hurry.
+@3028.2
+Defend another gate. Come, hurry!
+@3028.3
+We defend another gate. Everyone, hurry!
+@3028.4
+We're defending another gate. Move quickly.
+@3028.5
+Let us defend another gate. Come, hurry.
+@3029
+Charge into the enemy! Win glory!
+@3029.1
+Come on, scatter the attackers! Out of the way!
+@3029.2
+Forward without fear! Scatter the attackers.
+@3029.3
+We charge into the enemy. Win glory!
+@3029.4
+Come on, scatter the attackers! Go! Go!
+@3029.5
+Forward without fear. Come, let us drive off the attackers!
+@3030
+The gate is broken, but stand your ground here at all costs.
+@3030.1
+Stay here and stop them getting in!
+@3030.2
+Do not leave this spot. The enemy must not get in.
+@3030.3
+We cannot abandon this spot. Stop them getting in as long as you can.
+@3030.4
+Stay here and stop them getting in!
+@3030.5
+The gate is broken, but stop them getting in as long as you can.
+@3031
+Sallying out? They don't know their place. We'll cut them down!
+@3031.1
+Now that they've come out, here's our chance. Cut them down!
+@3031.2
+Defeat every enemy who comes out! Do not falter!
+@3031.3
+Sallying out? They don't know their place. We shall cut them down.
+@3031.4
+Now that they've come out, here's our chance. Cut them down!
+@3031.5
+Defeat every enemy who comes out. You must not falter!
+@3032
+Cover our men! Loose!
+@3032.1
+Help our men! Loose! Loose!
+@3032.2
+Cover our men. Now, loose!
+@3032.3
+Cover our men. Loose!
+@3032.4
+Help our men! Loose! Loose!
+@3032.5
+We must cover our men. Now, loose!
+@3033
+Lure the enemy away and thin their ranks. Come, follow me if you dare.
+@3033.1
+Lure the enemy away and thin their ranks. Come on, this way!
+@3033.2
+Lure the enemy away and thin their ranks. Come, follow me if you dare.
+@3033.3
+Lure the enemy away and thin their ranks. Come, follow me if you dare.
+@3033.4
+Lure the enemy away and thin their ranks. Come on, follow me!
+@3033.5
+We must lure the enemy away and thin their ranks. Come, follow me.
+@3034
+{02}{03}4 is moving to another gate. I don't know what they're plotting, but we follow.
+@3034.1
+That {02}{03}4 is moving to another gate! What are they plotting? Blast it, we follow!
+@3034.2
+{02}{03}4 is moving to another gate... What can they be plotting? Very well, we follow!
+@3034.3
+{02}{03}4 is moving to another gate. What are they plotting...? Let us follow!
+@3034.4
+{02}{03}4 is moving to another gate. What are they plotting...? After them!
+@3034.5
+{02}{03}4 is moving to another gate. What can they be plotting? Let us follow.
+@3035
+Loose arrows at {02}{02}4's unit! Do not let up!
+@3035.1
+Loose arrows at {02}{02}4's unit! Don't let up!
+@3035.2
+Everyone, take good aim at {02}{02}4's unit! Now, loose!
+@3035.3
+Loose arrows at {02}{02}4's unit without a break!
+@3035.4
+Loose arrows at {02}{02}4's unit! Don't let up!
+@3035.5
+Everyone, take good aim at {02}{02}4's unit... Now, loose!
+@3036
+Rain arrows on {02}{02}4's unit!
+@3036.1
+Loose arrows at {02}{02}4's unit! Don't let them leave this castle alive!
+@3036.2
+Aim at {02}{02}4's unit... now, loose! ...Next, loose!
+@3036.3
+Rain arrows on {02}{02}4's unit!
+@3037
+What are you doing! You're fighting each other! Can't you tell friend from foe?
+@3037.1
+Everyone, calm down! You're fighting each other! Can't you tell friend from foe?
+@3037.2
+Can you not tell friend from foe? Calm down, calm yourselves!
+@3037.3
+What are you doing! Can you not see you are fighting each other?
+@3037.4
+Everyone, calm yourselves! Can you not see you are fighting each other?
+@3037.5
+Can you not tell friend from foe? Everyone, calm yourselves!
+@3038
+What are you doing? Everyone, obey orders!
+@3038.1
+Everyone, calm down and obey my orders!
+@3038.2
+Calm down, calm yourselves! Why do you not obey my orders?
+@3038.3
+What are you doing? Everyone, obey orders!
+@3038.4
+Everyone, calm yourselves and obey my orders!
+@3038.5
+Calm yourselves. Obey my orders!
+@3039
+Everyone, the enemy may attack at any time. Stay alert.
+@3039.1
+Everyone, get ready now, so you can fight at any time.
+@3039.2
+Everyone, stand by for now. Stay alert.
+@3039.3
+Everyone, the enemy may attack at any time. Stay alert.
+@3039.4
+Everyone, get ready now, so you can fight at any time.
+@3039.5
+Everyone, stand by for now. You must stay alert.
+@3040
+Guns are useless in this weather. We can only wait for it to clear.
+@3040.1
+Guns are useless in this weather! We'll have to wait for it to stop.
+@3040.2
+Guns are useless in this weather. How I wish we could fire whatever the weather.
+@3040.3
+Guns are useless in this weather. We can only wait for it to clear.
+@3040.4
+Guns are useless in this weather! I suppose we wait for it to stop.
+@3040.5
+Guns are useless in this weather. How I wish we could fire whatever the weather.
+@3041
+{02})N is an impregnable fortress. However many come, we need not fear.
+@3041.1
+{02})N is an impregnable fortress. We need fear no enemy.
+@3041.2
+{02})N is an impregnable fortress. We need fear no enemy.
+@3042
+{02})N is no great fortress, but it should hold off a fair number of enemies.
+@3042.1
+{02})N is no great fortress, but it should hold off a fair number of enemies.
+@3042.2
+{02})N is no great fortress, but it should hold off a fair number of enemies.
+@3043
+{02})N's defences are weak, so we cannot rely on the castle in this fight.
+@3043.1
+{02})N's defences are weak, so we cannot rely on the castle in this fight.
+@3043.2
+{02})N's defences are weak, so we cannot rely on the castle in this fight.
+@3044
+The army at {02})N looks to be about %d strong...
+@3044.2
+The army at {02})N numbers about %d.
+@3045
+{02})N is a strong fortress. Steel yourselves for the attack.
+@3045.1
+{02})N is a strong fortress. Steel yourselves for the attack.
+@3045.2
+{02})N is a strong fortress. Let us steel ourselves for the attack.
+@3046
+{02})N seems to have decent defences. We must not be careless.
+@3046.1
+{02})N seems to have decent defences. We must not be careless.
+@3046.2
+{02})N seems to have decent defences. We must not be careless.
+@3047
+We take {02})N in one assault!
+@3047.1
+Let us take {02})N in one assault!
+@3048
+I am not the commander-in-chief, so I cannot change the deployment.
+@3048.1
+I am not the commander-in-chief, so I cannot change the deployment.
+@3048.2
+You are not the commander-in-chief, so the deployment cannot be changed.
+@3049
+I see how the units are deployed.
+@3049.1
+I see how the units are deployed.
+@3049.2
+Ending the deployment check.
+@3050
+No units are deployed.
+@3050.1
+No units are deployed.
+@3050.2
+No units are deployed.
+@3051
+I shall choose one gate to trap.
+@3051.1
+Let us choose one gate to trap.
+@3051.2
+Please choose one gate to trap.
+@3052
+Shall I set a trap at %s...?
+@3052.1
+Shall I set a trap at %s...?
+@3052.2
+Will you set a trap at %s?
+@3053
+The gate of the "Main Bailey" cannot be trapped.
+@3053.1
+The gate of the "Main Bailey" cannot be trapped.
+@3053.2
+The gate of the "Main Bailey" cannot be trapped.
+@3054
+I will remove the trap at %s.
+@3054.1
+I will remove the trap at %s.
+@3054.2
+Removing the trap at %s.
+@3055
+We go into the siege without setting traps.
+@3055.1
+We go into the siege without setting traps.
+@3055.2
+Beginning the siege without setting traps.
+@3056
+The traps are set. The siege begins!
+@3056.1
+The traps are set. Let the siege begin!
+@3056.2
+Trap placement is finished. The siege begins.
+@3058
+I shall set a trap at a gate.
+@3058.1
+Let us set a trap at a gate.
+@3059
+Our army has taken {02})N of the {02})S!
+@3059.1
+Our army has taken {02})N of the {02})S!
+@3059.2
+Our army has taken {02})N of the {02})S!
+@3060
+My castle, {02})N, has driven off the {02}{03}v!
+@3060.1
+My castle, {02})N, has driven off the {02}{03}v!
+@3060.2
+Our castle, {02})N, has driven off the {02}{03}v!
+@3061
+Unused message.
+@3063
+It cannot be helped now... From this day we shall work for the {02}{03}v.
+@3063.1
+It cannot be helped now... From this day we shall follow the {02}{03}v.
+@3063.2
+It cannot be helped now... From this day we shall work for the {02}{0B}4, as the {02}{03}v does.
+@3063.3
+It cannot be helped now... From this day we shall follow the {02}{0B}4, as the {02}{03}v does.
+@3064
+We have crushed the {02}{03}v and brought them under our clan!
+@3064.1
+We have crushed the {02}{03}v and brought them under our clan!
+@3064.2
+We have crushed the {02}{03}v and brought them under our clan!
+@3064.3
+The {02}{03}v lost the battle and has been absorbed by the {02}{04}v!
+@3064.4
+The {02}{03}v lost the battle and has been absorbed by the {02}{04}v!
+@3064.5
+The {02}{03}v lost the battle and has been absorbed by the {02}{04}v!
+@3064.6
+The {02}{04}v, our vassal, seems to have crushed the {02}{03}v and brought them under our clan!
+@3064.7
+The {02}{04}v, our vassal, seems to have crushed the {02}{03}v and brought them under our clan!
+@3064.8
+The {02}{04}v, our vassal, has crushed the {02}{03}v and brought them under our clan!
+@3064.9
+The {02}{03}v lost the battle and, like the {02}{04}v, has been absorbed by the {02}{0B}4!
+@3064.10
+The {02}{03}v lost the battle and, like the {02}{04}v, has been absorbed by the {02}{0B}4!
+@3064.11
+The {02}{03}v lost the battle and, like the {02}{04}v, has been absorbed by the {02}{0B}4!
+@3065
+It cannot be helped now... From this day, we submit to the {02}{03}v.
+@3065.1
+It cannot be helped now... From this day, we shall submit to the {02}{03}v.
+@3065.2
+It cannot be helped now... From this day, like the {02}{03}v, we submit to the {02}{0B}4.
+@3065.3
+It cannot be helped now... From this day, like the {02}{03}v, we shall submit to the {02}{0B}4.
+@3066
+The {02}{0C}E lost the battle and has submitted to us!
+@3066.1
+The {02}{0C}E lost the battle and has submitted to us!
+@3066.2
+The {02}{0C}E lost the battle and has submitted to us, my lord!
+@3066.3
+It is bitter, but from now on we have no choice but to obey the {02}{04}v...
+@3066.4
+It is a shame, but from now on we have no choice but to obey the {02}{04}v...
+@3066.5
+It is bitter, but from now on we have no choice but to obey the {02}{04}v.
+@3066.6
+The {02}{0C}E lost the battle and has submitted to the {02}{04}v!
+@3066.7
+The {02}{0C}E lost the battle and has submitted to the {02}{04}v!
+@3066.8
+The {02}{0C}E lost the battle and has submitted to the {02}{04}v, my lord!
+@3066.9
+The {02}{0C}E lost the battle and, like us, has submitted to the {02}{0B}4!
+@3066.10
+The {02}{0C}E lost the battle and, like us, has submitted to the {02}{0B}4!
+@3066.11
+The {02}{0C}E lost the battle and, like us, has submitted to the {02}{0B}4, my lord!
+@3066.12
+We lost the battle and, like the {02}{04}v, have submitted to the {02}{0B}4!
+@3066.13
+We lost the battle and, like the {02}{04}v, have submitted to the {02}{0B}4!
+@3066.14
+We lost the battle and, like the {02}{04}v, have submitted to the {02}{0B}4, my lord!
+@3066.15
+The {02}{0C}E lost the battle and, like the {02}{04}v, has submitted to us!
+@3066.16
+The {02}{0C}E lost the battle and, like the {02}{04}v, has submitted to us!
+@3066.17
+The {02}{0C}E lost the battle and, like the {02}{04}v, has submitted to us, my lord!
+@3066.18
+The {02}{0C}E lost the battle and, like the {02}{04}v, has submitted to the {02}{0B}4!
+@3066.19
+The {02}{0C}E lost the battle and, like the {02}{04}v, has submitted to the {02}{0B}4!
+@3066.20
+The {02}{0C}E lost the battle and, like the {02}{04}v, has submitted to the {02}{0B}4, my lord!
+@3067
+I will resist no longer. From this day, make me one of the {02}{03}v.
+@3067.1
+I will resist no longer. From this day, please make me one of the {02}{03}v.
+@3068
+My {02}{03}N has fallen! It is bitter, but from now on we have no choice but to obey the {02}{04}v...
+@3068.1
+My {02}{03}N has fallen! It is a shame, but from now on we have no choice but to obey the {02}{04}v...
+@3068.2
+My {02}{03}N has fallen! It is bitter, but from now on we have no choice but to obey the {02}{04}v.
+@3068.3
+Our {02}{03}N has fallen and yielded to the {02}{04}v!
+@3068.4
+Our {02}{03}N has fallen and yielded to the {02}{04}v!
+@3068.5
+Our {02}{03}N has fallen and yielded to the {02}{04}v, my lord!
+@3068.6
+{02}{03}N of the {02}{0C}E has fallen and yielded to us!
+@3068.7
+{02}{03}N of the {02}{0C}E has fallen and yielded to us!
+@3068.8
+{02}{03}N of the {02}{0C}E has fallen and yielded to us, my lord!
+@3068.9
+{02}{03}N of the {02}{0C}E has fallen and yielded to the {02}{04}v!
+@3068.10
+{02}{03}N of the {02}{0C}E has fallen and yielded to the {02}{04}v!
+@3068.11
+{02}{03}N of the {02}{0C}E has fallen and yielded to the {02}{04}v, my lord!
+@3068.12
+My {02}{03}N has fallen! It is bitter, but from now on we have no choice but to obey the {02}{0B}4...
+@3068.13
+My {02}{03}N has fallen! It is a shame, but from now on we have no choice but to obey the {02}{0B}4...
+@3068.14
+My {02}{03}N has fallen! It is bitter, but from now on we have no choice but to obey the {02}{0B}4.
+@3068.15
+Our {02}{03}N has fallen and yielded to the {02}{0B}4!
+@3068.16
+Our {02}{03}N has fallen and yielded to the {02}{0B}4!
+@3068.17
+Our {02}{03}N has fallen and yielded to the {02}{0B}4, my lord!
+@3068.21
+{02}{03}N of the {02}{0C}E has fallen and yielded to the {02}{0B}4!
+@3068.22
+{02}{03}N of the {02}{0C}E has fallen and yielded to the {02}{0B}4!
+@3068.23
+{02}{03}N of the {02}{0C}E has fallen and yielded to the {02}{0B}4, my lord!
+@3069
+The army of my retainer {02}{03}n has taken {02})N, main castle of the {02})S!
+@3069.1
+The army of my retainer {02}{03}n has taken {02})N, main castle of the {02})S!
+@3069.2
+Lord {02}{03}n's army has taken {02})N, main castle of the {02})S!
+@3069.3
+Lord {02}{03}n's army has taken {02})N, main castle of the {02})S!
+@3069.4
+The army of our {02}{03}n has taken {02})N, main castle of the {02})S!
+@3069.5
+The army of our {02}{03}n has taken {02})N, main castle of the {02})S!
+@3069.6
+The army of {01}C{17}{00} has taken {02})N, main castle of the {02})S!
+@3069.7
+The army of our {02}{03}n has taken {02})N, main castle of the {02})S, my lord!
+@3069.8
+The army of our ally {02}{03}n of the {02}{03}v has taken {02})N, main castle of the {02})S!
+@3069.9
+The army of {02}{03}n of the {02}{03}v, our ally, has taken {02})N, main castle of the {02})S!
+@3069.10
+The army of our ally {02}{03}n of the {02}{03}v has taken {02})N, main castle of the {02})S!
+@3069.12
+The army of our ally {02}{03}n of the {02}{03}v has taken {02})N, main castle of the {02})S, my lord!
+@3069.13
+The army of {02}{03}n of the {02}{03}v, our ally, has taken {02})N, main castle of the {02})S, my lord!
+@3069.14
+The army of my retainer {02}{03}n has taken {02})N of the {02})S!
+@3069.15
+The army of my retainer {02}{03}n has taken {02})N of the {02})S!
+@3069.16
+Lord {02}{03}n's army has taken {02})N of the {02})S!
+@3069.17
+Lord {02}{03}n's army has taken {02})N of the {02})S!
+@3069.18
+The army of our {02}{03}n has taken {02})N of the {02})S!
+@3069.19
+The army of our {02}{03}n has taken {02})N of the {02})S!
+@3069.20
+The army of {01}C{17}{00} has taken {02})N of the {02})S!
+@3069.21
+The army of our {02}{03}n has taken {02})N of the {02})S, my lord!
+@3069.22
+The army of our ally {02}{03}n of the {02}{03}v has taken {02})N of the {02})S!
+@3069.23
+The army of {02}{03}n of the {02}{03}v, our ally, has taken {02})N of the {02})S!
+@3069.24
+The army of our ally {02}{03}n of the {02}{03}v has taken {02})N of the {02})S!
+@3069.26
+The army of our ally {02}{03}n of the {02}{03}v has taken {02})N of the {02})S, my lord!
+@3069.27
+The army of {02}{03}n of the {02}{03}v, our ally, has taken {02})N of the {02})S, my lord!
+@3070
+So our attack on {02})N of the {02})S has failed...
+@3070.1
+Our attack on {02})N of the {02})S has failed.
+@3070.2
+Our attack on {02})N of the {02})S has failed, my lord.
+@3070.3
+It seems the attack on {02})N of the {02})S by my retainer {02}{03}n's army has failed.
+@3070.4
+It seems the attack on {02})N of the {02})S by my retainer {02}{03}n's army has failed.
+@3070.5
+It seems Lord {02}{03}n's attack on {02})N of the {02})S has failed.
+@3070.6
+It seems Lord {02}{03}n's attack on {02})N of the {02})S has failed.
+@3070.7
+Sadly, it seems our corps commander Lord {02}{03}n's attack on {02})N of the {02})S has failed.
+@3070.8
+Sadly, it seems our corps commander Lord {02}{03}n's attack on {02})N of the {02})S has failed.
+@3070.9
+It seems the attack on {02})N of the {02})S by our {02}{03}n's army has failed.
+@3070.10
+It seems the attack on {02})N of the {02})S by our {02}{03}n's army has failed.
+@3070.11
+It seems Lord {02}{03}n's attack on {02})N of the {02})S has failed, my lord.
+@3070.12
+The attack of {01}C{0C}{00}'s army on {02})N of the {02})S has failed.
+@3070.13
+It seems the attack on {02})N of the {02})S by our {02}{03}n's army has failed, my lord.
+@3070.14
+It seems the attack on {02})N of the {02})S by our ally {02}{03}n of the {02}{03}v has failed.
+@3070.15
+It seems the attack on {02})N of the {02})S by {02}{03}n of the {02}{03}v, our ally, has failed.
+@3070.16
+It seems the attack on {02})N of the {02})S by our ally {02}{03}n of the {02}{03}v has failed.
+@3070.17
+It seems the attack on {02})N of the {02})S by {02}{03}n of the {02}{03}v, our ally, has failed.
+@3070.18
+It seems the attack on {02})N of the {02})S by our ally {02}{03}n of the {02}{03}v has failed, my lord.
+@3070.19
+It seems the attack on {02})N of the {02})S by {02}{03}n of the {02}{03}v, our ally, has failed, my lord.
+@3071
+{02}{03}n is my sworn enemy. Shall I cut this one down and abolish the house...?
+@3071.1
+{02}{03}n is my sworn enemy. Shall I cut this one down and abolish the house...?
+@3071.2
+{02}{03}n is the sworn enemy of {01}C{0C}{00}. Will you cut this one down and abolish the house?
+@3072
+I have no regrets in my life.
+@3072.1
+I have no regrets in my life.
+@3073
+That the {02}{01}v should end in my time... Nothing could be more bitter...
+@3073.1
+That the {02}{01}v should end in my time... It is so bitter...
+@3073.2
+We have executed the head of the clan, {02}{03}n. The {02}{03}v is no more.
+@3073.3
+We have executed the head of the clan, {02}{03}n. The {02}{03}v is no more.
+@3073.4
+We have executed the head of the clan, {02}{03}n. The {02}{03}v is no more, my lord.
+@3073.5
+The {02}{04}v has executed the head of the clan, {02}{03}n. The {02}{03}v is no more.
+@3073.6
+The {02}{04}v has executed the head of the clan, {02}{03}n. The {02}{03}v is no more.
+@3073.7
+The {02}{04}v has executed the head of the clan, {02}{03}n. The {02}{03}v is no more, my lord.
+@3074.5
+The {02}{04}v has executed Lord {02}{03}n! Our clan is finished! From now on we have no choice but to obey the {02}{04}v.
+@3074.6
+The {02}{04}v has executed Lord {02}{03}n! Our clan is finished! From now on we have no choice but to obey the {02}{04}v.
+@3074.7
+The {02}{04}v has executed Lord {02}{03}n! Our clan is finished! From now on we have no choice but to obey the {02}{04}v.
+@3074.8
+The {02}{04}v has executed Lord {02}{03}n! Our clan is finished! From now on we have no choice but to obey the {02}{04}v.
+@3075
+Our army failed to take {02})N of the {02})S. The commander-in-chief's unit was wiped out, so the army disbands.
+@3075.1
+Our army failed to take {02})N of the {02})S. The commander-in-chief's unit was wiped out, so the army disbands.
+@3075.2
+Our army failed to take {02})N of the {02})S. The commander-in-chief's unit was wiped out, so the army will disband.
+@3076
+Our army failed to take {02})N of the {02})S. We fall back for now.
+@3076.1
+Our army failed to take {02})N of the {02})S. We fall back for now.
+@3076.2
+Our army failed to take {02})N of the {02})S. We will fall back for now.
+@3077
+What!? My own {02})N has fallen...
+@3077.1
+That my own {02})N should fall...
+@3077.2
+My {02})N has fallen to the attack of the {02}{03}v! How could this happen...
+@3077.3
+My {02})N has fallen to the attack of the {02}{03}v! How could this happen...
+@3077.4
+Our {02})N has fallen to the attack of the {02}{03}v, my lord!
+@3078
+Our {02})N has driven off the army of the {02}{03}v.
+@3078.1
+Our {02})N has driven off the army of the {02}{03}v.
+@3078.2
+Our {02})N has driven off the army of the {02}{03}v, my lord.
+@3078.3
+{02})N of the {02})S has driven off the army of the {02}{03}v.
+@3078.4
+{02})N of the {02})S has driven off the army of the {02}{03}v.
+@3078.5
+{02})N of the {02})S has driven off the army of the {02}{03}v, my lord.
+@3079.2
+Our main castle, {02})N, has fallen to the army of the {02}{03}v!
+@3079.3
+Our main castle, {02})N, has fallen to the army of the {02}{03}v!
+@3079.4
+Our main castle, {02})N, has fallen to the army of the {02}{03}v, my lord!
+@3079.5
+{02})N, main castle of the {02})S, has fallen to the army of the {02}{03}v!
+@3079.6
+{02})N, main castle of the {02})S, has fallen to the army of the {02}{03}v!
+@3079.7
+{02})N, main castle of the {02})S, has fallen to the army of the {02}{03}v, my lord!
+@3079.8
+Our {02})N has fallen to the army of the {02}{03}v!
+@3079.9
+Our {02})N has fallen to the army of the {02}{03}v!
+@3079.10
+Our {02})N has fallen to the army of the {02}{03}v, my lord!
+@3079.11
+{02})N of the {02})S has fallen to the army of the {02}{03}v!
+@3079.12
+{02})N of the {02})S has fallen to the army of the {02}{03}v!
+@3079.13
+{02})N of the {02})S has fallen to the army of the {02}{03}v, my lord!
+@3080
+Shall I cut down {02}{03}n, who resisted to the last, and abolish the house...? If not, the house submits to us.
+@3080.1
+Shall I cut down {02}{03}n, who resisted to the last, and abolish the house...? If not, the house submits to us.
+@3080.2
+Will you cut down {02}{03}n, who resisted to the last, and abolish the house? If not, the house will submit to us.
+@3081
+I am ready. Cut me down, and walk your blood-soaked road to supremacy...
+@3081.1
+That the {02}{01}v should fall in my time... I cannot face my ancestors.
+@3081.2
+It cannot be helped now... I bear no one a grudge.
+@3082.1
+So you will cut me down. Very well; one day you too will meet the same fate...
+@3082.2
+The {02}{01}v will not perish. One day it will surely rise again...
+@3083
+{02})N of the {02})S has no strength left to resist. We have won without a fight.
+@3083.1
+{02})N of the {02})S has no strength left to resist. We have won without a fight.
+@3083.2
+{02})N of the {02})S seems to have no strength left to resist. We have won without a fight, my lord!
+@3083.3
+{02})N of the {02})S seems to have no strength left to resist. We have won without a fight, my lord.
+@3084
+Hmm, there is no one left who can hold {02})N...
+@3084.1
+Oh, there is no one left who can hold {02})N...
+@3084.2
+There is no one to defend our {02})N!
+@3084.3
+There is no one to defend our {02})N!
+@3084.4
+There is no one to defend our {02})N, my lord!
+@3084.5
+There is no one to defend {02})N of the {02})S!
+@3084.6
+There is no one to defend {02})N of the {02})S!
+@3084.7
+There is no one to defend {02})N of the {02})S, my lord!
+@3085
+There may be a trap set at this gate. I must be careful.
+@3085.1
+There may be a trap set at this gate. Watch yourselves.
+@3085.2
+There may well be a trap set at this gate. We must be careful.
+@3085.3
+There may be a trap set at this gate. Let us be careful.
+@3085.4
+There may be a trap set at this gate. Let's be careful.
+@3085.5
+There may be a trap set at this gate. Let us be careful.
+@3086
+We will surrender and hand the castle over to the {02}{03}v. Is that all right?
+@3087
+The enemy has come to surrender. Accept their surrender?
+@3088
+Surrender? Too late for that. Fight to the end with honour, like a true warrior!
+@3088.1
+Surrender? Too late for that. Fight to the end with honour!
+@3089
+This cannon will blow you to pieces! Take aim... Fire!
+@3089.1
+Feel the might of this cannon! Take aim... Fire!
+@3089.2
+This cannon has no equal in the realm. Take aim... Fire!
+@3089.3
+This cannon will blow you to pieces! Take aim... Fire!
+@3089.4
+Feel the might of this cannon! Take aim... Fire!
+@3089.5
+This cannon has no equal in the realm. Take aim... Fire!
+@3092
+To the main bailey!
+@3092.2
+To the main bailey, now!
+@3092.3
+Let us move to the main bailey!
+@3092.4
+To the main bailey!
+@3092.5
+We move to the main bailey!
+@3093
+To the second bailey!
+@3093.2
+To the second bailey, now!
+@3093.3
+Let us move to the second bailey!
+@3093.4
+To the second bailey!
+@3093.5
+We move to the second bailey!
+@3094
+To the third bailey!
+@3094.2
+To the third bailey, now!
+@3094.3
+Let us move to the third bailey!
+@3094.4
+To the third bailey!
+@3094.5
+We move to the third bailey!
+@3095
+Back to our position!
+@3095.2
+Back to our position, now!
+@3095.3
+Let us return to our position!
+@3095.4
+Back to our position!
+@3095.5
+We return to our position!
+@3096
+The enemy has pulled back. Seize the chance and push them all the way!
+@3096.1
+The enemy has pulled back. Now, push them all the way!
+@3096.2
+The enemy seems to have pulled back. Do not miss this chance; push them all the way!
+@3096.3
+The enemy seems to have pulled back. Don't miss this chance; push them all the way!
+@3096.4
+The enemy has pulled back. Now, push them all the way!
+@3096.5
+The enemy has pulled back. Seize the chance and push them all the way!
+@3097
+From this moment I, {02}{01}4, take the side of {01}C{17}{00}!
+@3097.1
+Hear me, all of you! From this moment our unit takes the side of {01}C{17}{00}!
+@3097.2
+Hear me well! From this moment our unit takes the side of {01}C{17}{00}!
+@3097.3
+From this moment I, {02}{01}4, take the side of {01}C{17}{00}!
+@3097.4
+Listen, all of you! From this moment our unit takes the side of {01}C{17}{00}!
+@3097.5
+Now our unit takes the side of {01}C{17}{00}!
+@3098
+Good, no enemy is left guarding this gate. On to the next bailey!
+@3098.1
+Good, no enemy is left guarding this gate. Storm the next bailey in one go!
+@3098.2
+Good, no enemy is left guarding this gate. On to the next bailey!
+@3098.3
+Good, no enemy is left guarding this gate. Let us go on to the next bailey!
+@3098.4
+Good, it seems no enemy is left guarding this gate. Storm the next bailey in one go!
+@3098.5
+It seems no enemy is left guarding this gate. Let us go on to the next bailey.
+@3099
+Good, no enemy is left guarding this gate. Open it and let our men in!
+@3099.1
+Good, no enemy is left guarding this gate. Open it and let our men in!
+@3099.2
+Good, no enemy is left guarding this gate. Let us open it and let our men in.
+@3099.3
+Good, no enemy is left guarding this gate. Let us open it and let our men in!
+@3099.4
+Good, it seems no enemy is left guarding this gate. Open it and let our men in!
+@3099.5
+Good, it seems no enemy is left guarding this gate. Let us open it and let our men in.
+@3100
+Cowards! Is there no one who will face me in a fair fight!?
+@3100.1
+Hiding in the shadows to save your skin, you coward! You disgrace the name of warrior!
+@3100.2
+Lost your nerve, have you? Call yourself a warrior!? Shame on you, shame!
+@3100.3
+Skulking about on the battlefield... Do you call yourself a warrior!?
+@3100.4
+Stop hiding and come out! Or have you lost your nerve?
+@3100.5
+Losing your nerve like that... Do you call yourself a warrior!? Shame on you!
+@3100.6
+Skulking about on the battlefield... What cowardly conduct for a warrior!
+@3101
+Th-this is bad... The men are looking at me coldly.
+@3101.1
+Curse them and their meddling tongues... This will hurt the men's morale!
+@3101.2
+What is this!? The men took the enemy's jeers to heart, and their morale is falling!
+@3101.3
+Wh-what is this... The men are looking at me coldly.
+@3101.4
+Saying such careless things... This will hurt the men's morale...
+@3101.5
+How could this happen... The men took the enemy's jeers to heart, and their morale is falling...
+@3102
+The enemy is calmer than I thought. The jeers had no effect.
+@3102.1
+The enemy keeps calm. It seems our jeers had no effect.
+@3102.2
+Hmm, jeers like these will not lower the enemy's morale, it seems.
+@3102.3
+The enemy is calmer than I thought. It seems the jeers had no effect.
+@3102.4
+The enemy keeps calm. It seems our jeers had no effect.
+@3102.5
+Hmm, jeers like these will not lower the enemy's morale, it seems.
+@3103
+On the battlefield, the side with the stronger spirit survives. Advance without fear, and the enemy will scatter of itself.
+@3103.1
+One glare from me, and the enemy will tremble... Here I come.
+@3103.2
+I am {02}{01}4, peerless in the realm! If you want to live, get out of here!
+@3103.3
+No one can beat me! If you value your life, withdraw!
+@3103.4
+One glare from me, and the enemy will tremble... Here I come.
+@3103.5
+Whoever wishes to die, come at me! The spear of {02}{01}4 awaits you!
+@3103.6
+No one can beat me! If you value your life, leave at once!
+@3104
+Ngh... The enemy's fury has broken our men's fighting spirit!
+@3104.1
+What is this... The enemy's fury has our men shaken.
+@3104.2
+H-hey, don't flinch! Curse it, I said don't be afraid!
+@3104.3
+H-hey, don't flinch! Oh, I told you not to be afraid!
+@3104.4
+What is this... The enemy's fury has our men shaken.
+@3104.5
+Oh my... The enemy's fury seems to have broken our men's fighting spirit.
+@3105
+Hmm, the intimidation failed... This foe is not one to fall for a bluff.
+@3105.1
+Ngh... My intimidation has no effect.
+@3105.2
+The enemy is no pushover. They show not the slightest sign of fear.
+@3105.3
+So the intimidation failed... This foe is not one to fall for a bluff.
+@3105.4
+Too bad... My intimidation seems to have no effect.
+@3105.5
+The enemy is no fool... They show no sign of fear.
+@3106
+If you value your lives, kneel beneath the banner of Furin Kazan! Do so, and I shall spare you.
+@3106.1
+Hear me, enemy soldiers! This battle is decided. Leave while you still live!
+@3106.2
+No sense dying for a losing side. Throw down your weapons and get lost!
+@3106.3
+The battle is decided! Those who value their lives, run while you can!
+@3106.4
+This battle is decided. Leave while you still live!
+@3106.5
+No sense dying for a losing side. Throw down your weapons and run while you can!
+@3106.6
+The battle is decided! Those who value their lives may go wherever they please!
+@3107
+Wh-what is this!? The men are starting to run!
+@3107.1
+H-hey! Don't leave your posts! I'll not allow anyone to flee!
+@3107.2
+Do not be fooled by the enemy's words! Stand your ground!
+@3107.3
+Wh-what is this!? The men are starting to run!
+@3107.4
+Don't leave your posts! I won't allow anyone to flee!
+@3107.5
+Do not be fooled by the enemy's words! Stand your ground!
+@3108
+The attempt to break their ranks failed. The enemy is more united than I thought.
+@3108.1
+The enemy shows no sign of running. They have more backbone than I thought.
+@3108.2
+Not one deserter... A stubborn foe indeed.
+@3108.3
+The attempt to break their ranks failed. The enemy is more united than I thought.
+@3108.4
+The enemy shows no sign of running... They have more backbone than I thought.
+@3108.5
+Not one deserter... A stubborn foe indeed.
+@3109
+Tamper with the enemy's trap and turn its rain of rocks on them!
+@3109.1
+Tamper with the enemy's trap and rain rocks on them instead!
+@3109.2
+Let us tamper with the enemy's trap and rain rocks on them instead!
+@3109.3
+Let us tamper with the enemy's trap and turn its rain of rocks on them!
+@3109.4
+We tamper with the enemy's trap and rain rocks on them instead!
+@3109.5
+Tamper with the enemy's trap and turn its rain of rocks on them!
+@3110
+Disarm the trap the enemy has set!
+@3110.2
+Disarm the trap the enemy has set, now!
+@3110.3
+We will disarm the trap the enemy has set!
+@3110.4
+We disarm the enemy's trap!
+@3111
+Let us send spies to see what is inside the castle.
+@3111.2
+Perhaps we should send spies to see what is inside the castle.
+@3111.3
+Let us send spies to see what is inside the castle.
+@3111.4
+Let's send spies to see what is inside the castle.
+@3111.5
+Let us send spies to see what is inside the castle.
+@3112
+Find out exactly where the traps are set.
+@3112.1
+Go and find out exactly where the traps are set.
+@3112.2
+Go and find out exactly where the traps are set, mind you.
+@3112.3
+Go and find out exactly where the traps are set.
+@3112.4
+Go and find out exactly where the traps are set.
+@3112.5
+Go and find out exactly where the traps are set.
+@3113
+They turned the trap at our gate against us!
+@3113.1
+What? They turned the trap at our gate against us!?
+@3113.2
+So they turned the trap at our gate against us!
+@3113.3
+They turned the trap at our gate against us!
+@3113.5
+They turned the trap at our gate against us!?
+@3114
+They disarmed the trap at our gate!
+@3114.1
+What? They disarmed the trap at our gate!?
+@3114.2
+So they disarmed the trap at our gate!
+@3114.3
+They disarmed the trap at our gate!
+@3114.5
+They disarmed the trap at our gate!?
+@3115
+Learning about the enemy is not so easy...
+@3115.1
+Not so easy to learn about the enemy, then.
+@3115.2
+It seems learning about the enemy is not so simple...
+@3115.3
+Learning about the enemy is not so easy...
+@3115.4
+Seems it's not so easy to learn about the enemy.
+@3115.5
+It seems learning about the enemy is not so simple.
+@3116
+They found the trap at our gate!
+@3116.1
+What? They found the trap at our gate!?
+@3116.2
+So they found the trap at our gate!
+@3116.3
+They found the trap at our gate!
+@3116.5
+They found the trap at our gate!?
+@3117
+The enemy has learned the layout of our bailey!
+@3117.1
+So the enemy has learned the layout of our bailey!
+@3117.2
+It seems the enemy has learned the layout of our bailey!
+@3117.3
+The enemy has learned the layout of our bailey!
+@3117.5
+The enemy has learned the layout of our bailey!?
+@3118
+Tamper with the enemy's trap!
+@3118.1
+We tamper with the enemy's trap!
+@3118.2
+Tamper with the enemy's trap, now!
+@3118.3
+Tamper with the enemy's trap!
+@3118.4
+We tamper with the enemy's trap!
+@3118.5
+Let us tamper with the enemy's trap!
+@3119
+Now we know what is inside the castle.
+@3119.1
+Now we know what is inside the castle!
+@3119.2
+Now we know what is inside the castle, it seems.
+@3119.3
+Now we know what is inside the castle.
+@3119.4
+Now we know what is inside the castle.
+@3119.5
+Now we know what is inside the castle.
+@3121
+Heh heh... The trap is disarmed.
+@3121.1
+Wahaha! Disarmed their trap!
+@3121.2
+Hohoho... I have disarmed the trap.
+@3121.3
+Heh heh... The trap is disarmed.
+@3121.4
+Heh heh... The trap is disarmed.
+@3121.5
+Hohoho... I have disarmed the trap.
+@3122
+Setting a thing like this... They have dug their own graves.
+@3122.1
+Setting a thing like this... They've dug their own graves.
+@3122.2
+Setting a thing like this... They have dug their own graves, it seems.
+@3122.3
+Setting a thing like this... They have dug their own graves.
+@3122.4
+Setting a thing like this... They've dug their own graves.
+@3122.5
+Setting a thing like this... They have dug their own graves.
+@3123
+What are the spies doing?
+@3123.1
+What are those spies up to?
+@3123.2
+What are those spies up to, I wonder?
+@3123.4
+What are those spies up to!?
+@3123.5
+What are the spies doing, I wonder?
+@3124.1
+Let us spread a false report that our reinforcements are near.
+@3124.2
+Spread a false report that our reinforcements are near!
+@3124.3
+Spread a false report that our reinforcements are near, now!
+@3124.4
+Let us spread a false report that our reinforcements are near.
+@3124.5
+Let's spread a false report that our reinforcements are near.
+@3124.6
+Spread a false report that our reinforcements are near.
+@3125
+What? Enemy reinforcements are near!? It cannot be helped; we must withdraw!
+@3125.1
+What? Enemy reinforcements are near!? No choice, we withdraw!
+@3125.2
+What? Enemy reinforcements are near? We must withdraw at once!
+@3125.3
+Enemy reinforcements are near? It cannot be helped; we withdraw!
+@3125.4
+Enemy reinforcements are near? That's serious; we must withdraw at once...
+@3125.5
+Enemy reinforcements are near? We must withdraw at once!
+@3126
+What? The enemy is heading for another gate!? That will not do; we must move at once!
+@3126.1
+What? The enemy is heading for another gate!? That's serious; we move at once!
+@3126.2
+What? The enemy is heading for another gate? No time to lose; we must move at once!
+@3126.3
+The enemy is heading for another gate? That is bad; we move at once!
+@3126.4
+The enemy is heading for another gate? That's serious; we must move at once!
+@3126.5
+The enemy is heading for another gate? Let us move at once!
+@3127
+Hmm... It seems they saw through our false report.
+@3127.1
+Ngh... They saw through the false report. The enemy is no fool.
+@3127.2
+Hmm... It seems they saw through our false report.
+@3127.3
+Hmm... It seems they saw through our false report.
+@3127.4
+Hmm... They saw through the false report. The enemy is no fool.
+@3127.5
+Oh dear... It seems they saw through our false report.
+@3128
+Flinch in battle, and you lose. Everyone, trust in me!
+@3128.1
+Victory is close at hand. Everyone, one more push!
+@3128.2
+One more push and victory is ours! Everyone, put your backs into it!
+@3128.3
+For our army's victory, everyone, lend me your strength!
+@3128.4
+Victory is close at hand. Everyone, one more push!
+@3128.5
+One more push! Everyone, put your backs into it!
+@3128.6
+For our victory, everyone, please lend me your strength!
+@3129
+Good, the men's morale has risen. Now we can fight on a while longer.
+@3129.1
+Good, the men's morale is up! Now we can fight on a while longer.
+@3129.2
+Good, the men's morale is up. It seems we can fight on a while longer.
+@3129.3
+Good, the men's morale is up. It seems we can fight on a while longer.
+@3129.5
+The men's morale seems to have risen. Now we can fight on a while longer.
+@3130
+Hmm... The men's morale did not rise...
+@3130.1
+Ngh... Their morale won't rise. Useless lot.
+@3130.2
+Hmm... The men's morale will not rise...
+@3130.3
+Hmm... The men's morale did not rise...
+@3130.4
+Hmm... Their morale won't rise. What a sorry lot.
+@3130.5
+I am sorry, but the men's morale does not seem to rise...
+@3131
+Anyone with free hands, tend to the wounded! We must not waste a single life!
+@3131.1
+Tend to the wounded men.
+@3131.2
+Let us tend to the wounded men.
+@3131.3
+Let us tend to the wounded men, then.
+@3131.4
+Let us tend to the wounded men.
+@3131.5
+Let's tend to the wounded men.
+@3131.6
+Let us tend to the wounded men.
+@3132
+Good, the wounded men are back in the unit.
+@3132.1
+Good, the wounded men are back in the unit!
+@3132.2
+Good, the wounded men seem to be back in the unit.
+@3132.3
+Good, the wounded men are back in the unit.
+@3132.4
+Good, the wounded men seem to be back in the unit.
+@3132.5
+The wounded men seem to be back in the unit.
+@3133
+Hmm... More are badly hurt than I thought. They cannot return to the ranks.
+@3133.1
+Ngh... More are badly hurt than I thought. Tending them here will do no good...
+@3133.2
+Hmm... More are badly hurt than I thought. We cannot hope to get them back.
+@3133.3
+Hmm... More are badly hurt than I thought. They cannot return to the ranks.
+@3133.4
+Hmm... More are badly hurt than I thought. Tending them here won't help...
+@3133.5
+More are badly hurt than I thought. I fear they cannot return to the ranks...
+@3134
+Everyone, do not panic. Calm down, calm down!
+@3134.1
+Don't panic! Calm down and follow my orders!
+@3134.2
+Do not panic. Calm down and follow my orders!
+@3134.3
+Everyone, calm down. Do not panic!
+@3134.4
+Do not panic! Follow my orders!
+@3134.5
+Do not panic. Calm down and follow my orders!
+@3135.3
+Good, the confusion seems to have settled.
+@3135.4
+Phew... The confusion seems to have settled.
+@3135.5
+The confusion seems to have settled...
+@3136
+Hmm... The confusion will not settle...
+@3136.1
+Ngh... Why won't this confusion settle!?
+@3136.2
+Hmm... The confusion will not settle.
+@3136.3
+Hmm... The confusion won't settle.
+@3136.4
+Hmm... The confusion won't settle.
+@3136.5
+The confusion will not settle...
+@3137
+Hmm... Why won't the men move?
+@3137.1
+Ngh... Why won't the men move!?
+@3137.2
+Hmm... The men will not move as I wish.
+@3137.3
+Hmm... The men won't move.
+@3137.4
+Hmm... The men won't move.
+@3137.5
+The men will not move as I wish...
+@3138
+We have cleared the enemy from the gate. Everyone, raise a victory cry!
+@3138.1
+Enemy cleared from the gate! Everyone, victory cry!
+@3138.2
+We have cleared the enemy from the gate. Everyone, let us raise a victory cry!
+@3138.3
+We have cleared the enemy from the gate. Everyone, victory cry!
+@3138.4
+We have cleared the enemy from the gate. Everyone, raise a victory cry!
+@3138.5
+We seem to have cleared the enemy from the gate. Everyone, let us raise a victory cry!
+@3139
+Set fire to the bailey! Hem them in and cut the enemy apart!!
+@3139.1
+Set fire to the bailey and hinder the enemy units' movement!
+@3139.2
+Set fire to the bailey! We hinder the enemy units' movement!
+@3139.3
+Let us set fire to the bailey and hinder the enemy units' movement!
+@3139.4
+Set fire to the bailey and hinder the enemy units' movement!
+@3139.5
+Set fire to the bailey and hinder the enemy units' movement!
+@3139.6
+Let us set fire to the bailey and hinder the enemy units' movement!
+@3140
+They have set fire to the bailey! We cannot move like this.
+@3140.1
+The bailey's on fire! How are we to move now!?
+@3140.2
+They have set fire to the bailey! We cannot move like this.
+@3140.3
+They have set fire to the bailey! We cannot move...
+@3140.4
+The bailey's on fire! How are we to move now!?
+@3140.5
+The bailey is on fire! We cannot move like this...
+@3141
+They have set fire to the bailey! We cannot get near that gate like this.
+@3141.1
+The bailey's on fire! How are we to reach that gate now!?
+@3141.2
+They have set fire to the bailey! We cannot get near that gate like this.
+@3141.3
+They have set fire to the bailey! We cannot get near that gate...
+@3141.4
+The bailey's on fire! How are we to reach that gate now!?
+@3141.5
+The bailey is on fire! We cannot get near that gate like this...
+@3142
+The enemy spotted us; the fire did not catch...
+@3142.1
+Damn... The enemy spotted us. The fire didn't catch.
+@3142.2
+We tried to set a fire, but the enemy spotted it and put it out.
+@3142.3
+The enemy spotted us; the fire did not catch...
+@3142.4
+The enemy spotted us; the fire did not catch, it seems.
+@3142.5
+We tried to set a fire, but the enemy spotted it and put it out.
+@3143
+Set fire near the gate and hinder the enemy!
+@3143.1
+Set fire near the gate! We hinder the enemy!
+@3143.2
+Let us set fire near the gate and hinder the enemy!
+@3143.3
+Set fire near the gate and hinder the enemy!
+@3143.4
+Set fire near the gate and hinder the enemy!
+@3143.5
+Let us set fire near the gate and hinder the enemy!
+@3144
+They have set fire near the gate! We cannot get close.
+@3144.1
+They have set fire near the gate! We can't get close!
+@3144.2
+They have set fire near the gate! We cannot get close.
+@3144.3
+They have set fire near the gate! We cannot get close...
+@3144.4
+Fire by the gate! How are we to get close now!?
+@3144.5
+Fire by the gate! We cannot get close...
+@3145
+We spread a false report to draw the enemy units back. When they retreat, storm in all at once!
+@3145.1
+We spread a false report to draw the enemy units back. When they retreat, storm in all at once!
+@3145.2
+We spread a false report to draw the enemy units back. When they retreat, let us storm in all at once!
+@3145.3
+We spread a false report to draw the enemy units back. When they retreat, storm in all at once!
+@3145.4
+Let's spread a false report to draw the enemy units back. When they retreat, we storm in all at once!
+@3145.5
+Let us spread a false report to draw the enemy units back. When they retreat, storm in all at once!
+@3146
+The enemy is inside the castle!? No time to lose; fall back!
+@3146.1
+The enemy is inside the castle!? No choice; we pull back!
+@3146.2
+The enemy is inside the castle!? We must regroup! Pull back!
+@3146.3
+The enemy is inside the castle!? No time to lose; we must fall back.
+@3146.4
+The enemy is inside the castle!? It can't be helped; let's pull back.
+@3146.5
+The enemy is inside the castle!? Very well, fall back!
+@3147
+Hmm... The enemy did not move. The storming has failed.
+@3147.1
+Ngh... The enemy won't move. The storming has failed.
+@3147.2
+Hmm... The enemy will not move. The storming has failed.
+@3147.3
+Hmm... The enemy won't move. The storming has failed.
+@3147.4
+Hmm... The enemy won't move. The storming has failed.
+@3147.5
+The enemy does not seem to move... The storming has failed.
+@3148
+We have cleared the enemy from the gate. Now storm in, all at once!
+@3148.1
+Enemy cleared from the gate! We storm in, all at once!
+@3148.2
+We have cleared the enemy from the gate. Now storm in, all at once!
+@3148.3
+We have cleared the enemy from the gate. Let us storm in, all at once!
+@3148.4
+We have cleared the enemy from the gate. Now storm in, all at once!
+@3148.5
+We seem to have cleared the enemy from the gate. Let us storm in, all at once!
+@3149
+Come, follow me.
+@3149.1
+Come on, follow me!
+@3149.2
+Come, follow me.
+@3149.3
+Come, follow me.
+@3149.4
+Come on, follow me!
+@3149.5
+Come, follow me.
+@3150
+Where does the enemy think it is going... We have no choice but to follow!
+@3150.1
+Where does the enemy think it is going... Just follow them!
+@3150.2
+Where can the enemy be going, I wonder... Follow them!
+@3150.3
+Where can the enemy be going... We follow them!
+@3150.4
+Where is the enemy going... Follow them!
+@3150.5
+Where can the enemy be going... Follow them!
+@3151
+Curse you, how dare you strike down {01}C{16}{00}... I will have my revenge!
+@3151.1
+How dare you strike down {01}C{16}{00}... I will surely avenge this!
+@3151.2
+{01}C{17}{00}'s unit has been broken!? Curse them, I will have my revenge!
+@3151.3
+{01}C{17}{00}'s unit has been broken!? Curse them, I will have my revenge!
+@3151.4
+Curse you, how dare you strike down {01}C{18}{00}... I will avenge this!
+@3151.5
+How dare you strike down {01}C{18}{00}... I will avenge this!
+@3152
+Scatter the enemy and make an opening to break the gate!
+@3152.1
+Scatter the enemy! We make an opening to break the gate!
+@3152.2
+Scatter the enemy and make an opening to break the gate, now!
+@3152.3
+Scatter the enemy and make an opening to break the gate!
+@3152.5
+Scatter the enemy and make an opening to break the gate!
+@3153
+Cut down the enemy that storms in!
+@3153.1
+We cut down the enemy that storms in!
+@3153.2
+Cut down the enemy that storms in, now!
+@3153.3
+Cut down the enemy that storms in!
+@3153.5
+Cut down the enemy that storms in!
+@3154
+I will swap posts with {01}C{0B}{00}.
+@3154.1
+Swapping posts with {01}C{0B}{00}!
+@3154.2
+I shall swap posts with {01}C{0B}{00}.
+@3154.3
+I will swap posts with {01}C{0B}{00}.
+@3154.4
+Let's swap posts with {01}C{0B}{00}.
+@3154.5
+I will swap posts with {01}C{0B}{00}.
+@3154.12
+I will swap posts with {01}C{0D}{00}.
+@3154.13
+Swapping posts with {01}C{0D}{00}!
+@3154.14
+I shall swap posts with {01}C{0D}{00}.
+@3154.15
+I will swap posts with {01}C{0D}{00}.
+@3154.16
+Let's swap posts with {01}C{0D}{00}.
+@3154.17
+I will swap posts with {01}C{0D}{00}.
+@3155
+Very well, I will swap posts with {01}C{16}{00}.
+@3155.1
+Right, swapping posts with {01}C{16}{00}!
+@3155.2
+Very well, I will swap posts with {01}C{16}{00}.
+@3155.3
+Very well, I will swap posts with {01}C{16}{00}.
+@3155.4
+Right, I will swap posts with {01}C{16}{00}!
+@3155.5
+Very well, I will swap posts with {01}C{16}{00}.
+@3155.6
+Very well, swap posts with me.
+@3155.7
+Right, swap posts with me!
+@3155.8
+Very well, swap posts with me.
+@3155.9
+Very well, swap posts with me.
+@3155.10
+Right, swap posts with me!
+@3155.12
+Very well, swap posts with {01}C{16}{00}.
+@3155.14
+Very well, swap posts with {01}C{16}{00}.
+@3155.15
+Very well, swap posts with {01}C{16}{00}.
+@3155.16
+Right, swap posts with {01}C{16}{00}!
+@3156
+What are you saying!? I decide the formation. Just wait for my orders!
+@3156.1
+What did you say!? I decide the formation. Keep quiet and obey my orders!
+@3156.2
+What are you saying? As commander-in-chief, I decide the formation.
+@3156.3
+What are you saying? As commander-in-chief, I decide the formation.
+@3156.4
+What are you saying!? I decide the formation, so keep quiet and obey my orders!
+@3156.5
+What are you saying? Deciding the formation is the commander-in-chief's task.
+@3157
+You came to my aid; well done. I shall never forget your loyalty.
+@3157.1
+You came to my aid; well done. I shall never forget your loyalty.
+@3157.2
+That {01}C{0C}{00}'s army should come to my aid... I am overwhelmed with gratitude. I shall never forget this kindness!
+@3157.3
+That {01}C{0C}{00}'s army should come to my aid... I, {02}{01}4, am deeply moved. Thank you!
+@3157.4
+I knew {01}C{0D}{00}'s army would come to my aid. Truly, I do not know how to thank you...
+@3157.5
+I firmly believed {01}C{0D}{00}'s army would come to my aid... Thank you, truly.
+@3157.6
+You drove off the enemy that surrounded this castle. I do not know how to thank you... You have my heartfelt gratitude.
+@3157.7
+You drove off the enemy that surrounded this castle. I do not know how to thank you... You have my heartfelt gratitude.
+@3157.8
+You drove off the enemy that surrounded this castle. I am obliged to you.
+@3157.9
+You drove off the enemy that surrounded this castle. Thank you.
+@3157.10
+I thank you for driving off the enemy. But to be saved by you, of all people...
+@3157.11
+I thank you for driving off the enemy. But to be saved by you, of all people... I confess I did not expect it.
+@3157.12
+That {01}C{0D}{00}'s army should come to my aid... I am deeply grateful. I shall never forget this kindness!
+@3157.13
+That {01}C{0D}{00}'s army should come to my aid... I, {02}{01}4, am deeply moved. Thank you!
+@3157.14
+You came to our aid in our hour of need; well done. You have my thanks.
+@3157.15
+You came to our aid in our hour of need; well done. You have my thanks.
+@3157.16
+You came to our aid in our hour of need; well done. You have my deepest thanks.
+@3157.17
+You came to our aid in our hour of need; well done. You have my deepest thanks.
+@3158
+There were treasures in the storehouse of {02})N, so I have moved them to my castle's storehouse!
+@3158.1
+There were treasures in the storehouse of {02})N, so I have moved them to my castle's storehouse!
+@3158.2
+There were treasures in the storehouse of {02})N, so I have moved them to our castle's storehouse!
+@3159
+All the treasures kept in the storehouse of {02})N have been taken!
+@3159.1
+All the treasures kept in the storehouse of {02})N have been taken!
+@3159.2
+All the treasures kept in the storehouse of {02})N have been taken, my lord!
+@3160
+Skill: Tea Ceremony
+@3160.8
+Leadership +10
+@3160.9
+Leadership +9
+@3160.10
+Leadership +8
+@3160.11
+Leadership +7
+@3160.12
+Leadership +6
+@3160.13
+Leadership +5
+@3160.14
+Leadership +4
+@3160.15
+Leadership +3
+@3160.16
+Leadership +2
+@3160.17
+Leadership +1
+@3160.18
+Can form Pikes
+@3160.19
+Can form Gunners
+@3160.21
+Can form Mounted Gunners
+@3160.22
+Cannon fire in sieges
+@3160.33
+Intellect +10
+@3160.34
+Intellect +9
+@3160.35
+Intellect +8
+@3160.36
+Intellect +7
+@3160.37
+Intellect +6
+@3160.38
+Intellect +5
+@3160.39
+Intellect +4
+@3160.40
+Intellect +3
+@3160.41
+Intellect +2
+@3160.42
+Intellect +1
+@3160.43
+Can form Cavalry
+@3160.44
+Skill: Swordsman
+@3160.45
+Skill: Farming
+@3160.46
+Skill: Commerce
+@3160.47
+Skill: Repair
+@3160.48
+Skill: Recruitment
+@3160.49
+Skill: Eloquence
+@3160.50
+Morale recovery in field battles
+@3160.51
+Raises desertion chance
+@3160.52
+Can fire in the rain
+@3160.53
+Politics +10
+@3160.54
+Politics +9
+@3160.55
+Politics +8
+@3160.56
+Politics +7
+@3160.57
+Politics +6
+@3160.58
+Politics +5
+@3160.59
+Politics +4
+@3160.60
+Politics +3
+@3160.61
+Politics +2
+@3160.62
+Politics +1
+@3160.73
+Keeps holder healthy
+@3160.74
+Skill: Intimidation
+@3160.76
+Skill: Plea
+@3161
+I must choose an heir before I die...
+@3161.1
+I must choose an heir before I die...
+@3161.2
+My heir shall be...
+@3161.4
+Please choose your heir, my lord.
+@3162
+I shall make {01}C{16}{00} my heir.
+@3162.1
+I shall make {01}C{16}{00} my heir.
+@3162.2
+You would make me your heir?
+@3162.3
+{01}C{18}{00} shall be the heir.
+@3163
+{02}{03}n... I leave the rest to you...
+@3163.1
+{02}{03}n... I leave the rest to you...
+@3163.2
+Shall I make this one my heir?
+@3163.3
+Shall I make this one my heir, I wonder?
+@3163.5
+Will you make this one your heir?
+@3164
+I shall make {01}C{16}{00} my successor.
+@3164.1
+I shall make {01}C{16}{00} my successor.
+@3164.2
+If I inherit the clan, taking the realm will be a simple matter.
+@3164.3
+There is no one but {01}C{18}{00} to succeed to our clan.
+@3164.5
+Will you make this one your heir?
+@3165
+Failed to load the data.
+@3166
+No officer has been chosen to play. Is that all right?
+@3167
+Data is already saved here. Overwrite it?
+@3168
+Change the officer you play from %s to %s. Is that all right?
+@3169
+Join the game as %s. Is that all right?
+@3170
+The officer you play will not change. Continue the game as %s. Is that all right?
+@3171
+Switch to demo play. Is that all right?
+@3172
+The officer you play will not change. Continue the demo play. Is that all right?
+@3173
+Return to the setup screen. Is that all right?
+@3174
+War with the {02}{03}v, bound to us by marriage, can no longer be avoided. What shall I do with {02}{04}4, princess of the {02}{03}v?
+@3174.1
+War with the {02}{03}v, bound to us by marriage, can no longer be avoided. What shall I do with {02}{04}4, princess of the {02}{03}v?
+@3174.2
+War with the {02}{03}v, bound to us by marriage, cannot be avoided. Will you put {02}{04}n, princess of the {02}{03}v, to death?
+@3175
+Lord {02}{02}4, I curse you...
+@3175.1
+I should never have married into such a house...
+@3176
+My daughter {02}{04}4, cut down by {02}{03}n!? Curse him, I will not rest until I have revenge!
+@3176.1
+My daughter {02}{04}4 has been cut down by {02}{03}n! Curse you, {02}{03}4, I c-cannot forgive this...
+@3176.2
+So Princess {02}{04}n, who married into the {02}{03}v, died at the hands of {02}{03}n... Our marriage alliance with the {02}{03}v is at an end.
+@3176.3
+So Princess {02}{04}n, who married into the {02}{03}v, died at the hands of {02}{03}n... Our marriage alliance with the {02}{03}v is at an end.
+@3176.4
+Lady {02}{04}n, who married into the {02}{03}v, has died at the hands of {02}{03}n... Our marriage alliance with the {02}{03}v is at an end.
+@3177
+{02}{04}4, this too is the way of a warring age. Forgive me...
+@3177.1
+What!? My wife {02}{04}4 took her own life on the orders of {02}{01}{99}... What can our lord be thinking!?
+@3177.2
+With this, the marriage alliance between us and the {02}{03}v is dissolved.
+@3177.3
+With this, the marriage alliance between us and the {02}{03}v is dissolved.
+@3177.4
+What!? Princess {02}{04}4 took her own life on the orders of {02}{01}{99}... Does our lord mean to cut ties with the {02}{03}v?
+@3177.5
+Princess {02}{04}4 took her own life on the orders of {02}{01}{99}!? Does our lord mean to cut ties with the {02}{03}v?
+@3177.6
+On your orders, my lord, Princess {02}{04}4 has taken her own life. The marriage alliance between the {02}{02}v and the {02}{03}v is now dissolved.
+@3177.7
+On the orders of {02}{01}{99}, Princess {02}{04}4 has taken her own life. That means the marriage alliance between the {02}{02}v and the {02}{03}v is dissolved.
+@3178
+It seems the marriage alliance between the {02}{03}v and the {02}{04}v has been dissolved.
+@3178.1
+It seems the marriage alliance between the {02}{03}v and the {02}{04}v has been dissolved.
+@3178.2
+It seems the marriage alliance between the {02}{03}v and the {02}{04}v has been dissolved, my lord.
+@3179
+Rather than part from Lord {02}{02}n, I would sooner die...
+@3179.1
+Why would you say such a thing? I had come to think of myself as one of the {02}{02}v... How cruel...
+@3180
+{02}{04}4 has been sent back by the {02}{03}v!? What fault could they find in my daughter!?
+@3180.1
+My daughter {02}{04}4 has been sent back by the {02}{03}v! What an insult!
+@3180.2
+It seems Princess {02}{04}n, who married into the {02}{03}v, has come home. Our marriage alliance with the {02}{03}v is at an end.
+@3180.3
+It seems Princess {02}{04}n, who married into the {02}{03}v, has come home. Our marriage alliance with the {02}{03}v is at an end.
+@3180.4
+Lady {02}{04}n, who married into the {02}{03}v, has come home. Our marriage alliance with the {02}{03}v is no more.
+@3181
+{02}{04}4, this too is the way of a warring age. Fare you well...
+@3181.1
+What!? My wife {02}{04}4 has been sent back to the {02}{03}v on the orders of {02}{01}{99}. What can our lord be thinking!?
+@3181.4
+What!? Princess {02}{04}4 has been sent back on the orders of {02}{01}{99}... Does our lord mean to cut ties with the {02}{03}v?
+@3181.5
+Princess {02}{04}4 has been sent home on the orders of {02}{01}{99}!? Does our lord mean to cut ties with the {02}{03}v?
+@3181.6
+On your orders, my lord, Princess {02}{04}4 has been sent home. The marriage alliance between the {02}{02}v and the {02}{03}v is now dissolved.
+@3181.7
+On the orders of {02}{01}{99}, Princess {02}{04}4 has been sent home. The marriage alliance between the {02}{02}v and the {02}{03}v is now dissolved.
+@3182
+I shall give the princess a good name.
+@3182.1
+I shall give the princess a good name.
+@3182.2
+Please give the princess a good name, my lord.
+@3183
+Half-width symbols cannot be used. Mind that.
+@3183.1
+Half-width symbols cannot be used. Let us be careful.
+@3183.2
+Half-width symbols cannot be used. Please take care.
+@3184
+Only full-width hiragana and katakana can be used.
+@3184.1
+Only full-width hiragana and katakana can be used.
+@3184.2
+Only full-width hiragana and katakana can be used, my lord.
+@3185
+Shall I choose another name?
+@3185.1
+Shall I choose another name, I wonder?
+@3185.2
+Would you prefer another name?
+@3186
+Shall I settle on this name?
+@3186.1
+Shall I go with this name, I wonder?
+@3186.2
+Is this name to your liking?
+@3187
+I shall choose the princess's name and its reading. The name can be up to 4 full-width characters; the reading, in hiragana or katakana, up to 8.
+@3187.1
+I shall choose the princess's name and its reading. The name can be up to 4 full-width characters; the reading, in hiragana or katakana, up to 8.
+@3187.2
+Please choose the princess's name and its reading. The name can be up to 4 full-width characters; the reading, in hiragana or katakana, up to 8.
+@3188
+The {02}{05}v, subordinate to the {02}{03}v, has switched its allegiance to us.
+@3188.1
+The {02}{05}v, subordinate to the {02}{03}v, has switched its allegiance to us.
+@3188.2
+The {02}{05}v, subordinate to the {02}{03}v, has switched its allegiance to us, my lord.
+@3188.3
+The {02}{05}v, subordinate to the {02}{03}v, has switched its allegiance to the {02}{04}v.
+@3188.4
+The {02}{05}v, subordinate to the {02}{03}v, has switched its allegiance to the {02}{04}v.
+@3188.5
+The {02}{05}v, subordinate to the {02}{03}v, has switched its allegiance to the {02}{04}v, my lord.
+@3189
+Since the {02}{03}v has submitted to the {02}{04}v, we are now subordinate to the {02}{04}v too.
+@3189.1
+Since the {02}{03}v has submitted to the {02}{04}v, we are now subordinate to the {02}{04}v too.
+@3189.2
+Since the {02}{03}v has submitted to the {02}{04}v, we are now subordinate to the {02}{04}v too, my lord.
+@3189.3
+A rider brings word: since the {02}{03}v has submitted to the {02}{04}v, we are now subordinate to the {02}{04}v too.
+@3189.4
+A rider brings word: since the {02}{03}v has submitted to the {02}{04}v, we are now subordinate to the {02}{04}v too.
+@3189.5
+A rider has brought word, my lord: since the {02}{03}v has submitted to the {02}{04}v, we are now subordinate to the {02}{04}v too.
+@3190
+It seems the daimyo clans subordinate to us have switched their allegiance to the {02}{04}v.
+@3190.1
+The daimyo clans subordinate to us have switched their allegiance to the {02}{04}v.
+@3190.2
+The daimyo clans subordinate to us have switched their allegiance to the {02}{04}v, my lord.
+@3191.3
+It seems the daimyo clans subordinate to the {02}{03}v have switched their allegiance to the {02}{04}v.
+@3191.4
+It seems the daimyo clans subordinate to the {02}{03}v have switched their allegiance to the {02}{04}v.
+@3191.5
+It seems the daimyo clans subordinate to the {02}{03}v have switched their allegiance to the {02}{04}v, my lord.
+@3192
+Audience
+@3193
+Mediation offer with the {02}{0C}E
+@3196
+Mediation request with the {02}{0C}E
+@3198
+Request for aid
+@3200
+Non-aggression pact
+@3202
+Military alliance
+@3204
+Encirclement of the {02}{0C}E
+@3206
+Marriage proposal
+@3208
+End of marriage alliance
+@3210
+Adoption
+@3212
+Threat
+@3214
+Submission
+@3216
+Independence
+@3217
+Donation
+@3218
+Court title request
+@3219
+Naming the {02}{0C}E an enemy of the court
+@3220
+Lifting enemy of the court
+@3221
+Ceasefire order to the {02}{0C}E
+@3222
+Post appointment
+@3224
+Punitive order
+@3225
+Punitive order against the {02}{0C}E
+@3227
+Lifting punitive order
+@3230
+Retirement
+@3231
+Naming an heir
+@3232
+Clan targeted by %s
+@3233
+Clan targeted by %s (current target: {02}{0D}E)
+@3234
+Load an officer file and add its officers to the registered officers.
+@3235
+Write registered officers to an officer file.
+@3236
+Make registered officers appear in the game.
+@3237
+Keep registered officers out of the game.
+@3238
+Create a new officer.
+@3239
+Edit the data of the selected registered officer.
+@3240
+Delete the data of the selected registered officer.
+@3241
+Return to the start menu.
+@3242
+Up to 100 officers can appear at once.
+@3243
+Up to 100 officers can be registered.
+@3244
+No more registered officers can be added.
+@3245
+Failed to write the file.
+@3246
+A file with the same name already exists. Save under another name?
+@3247
+Saved as the file %s.
+@3248
+Delete the data of the %d selected registered officers? Is that all right?
+@3249
+Change the officer's portrait.
+@3250
+Load the data of historical officers.
+@3251
+Spread rumours to throw an enemy unit into confusion.\nUsable in field and siege battles.
+@3252
+Hurl abuse to lower an enemy unit's morale.\nUsable in field and siege battles.
+@3253
+Overawe an enemy unit to lower its fighting spirit.\nUsable in field and siege battles.
+@3254
+Call on an enemy unit to surrender, reducing its troops.\nUsable in field and siege battles.
+@3255
+Spread false reports to make an enemy unit retreat or move to another gate.\nUsable in field and siege battles.
+@3256
+Rouse your men to restore the morale of this unit and nearby allied units.\nUsable in field and siege battles.
+@3257
+Tend the wounded to restore the troops of this unit and nearby allied units.\nUsable in field and siege battles.
+@3258
+Call out to restore this unit and nearby allied units from bad states.\nUsable in field and siege battles.
+@3259
+Find traps set at a gate, or reveal the inside of the castle.\nSiege battles, attackers only.
+@3260
+Throw gunpowder to reduce an enemy unit's troops, morale and fighting spirit.\nUsable in siege battles.
+@3261
+Use a battering ram to lower a gate's defence.\nSiege battles, attackers only.
+@3262
+Restore a gate's defence.\nSiege battles, defenders only.
+@3263
+Lure an enemy unit to another gate.\nUsable in siege battles.
+@3264
+Lure an enemy unit out of the gate.\nSiege battles, attackers only.
+@3265
+Sally out of the gate.\nSiege battles, defenders only.
+@3266
+Storm in with an enemy unit as it pulls back inside.\nSiege battles, attackers only.
+@3267
+Set fire to a bailey to hinder enemy units' movement.\nUsable in siege battles.
+@3268
+Set fire to a bailey to hinder enemy units' actions.\nUsable in siege battles.
+@3269
+Gives an edge in diplomacy when your position is weak.
+@3270
+Gives an edge in diplomacy when your position is strong.
+@3271
+Can hold tea ceremonies.
+@3272
+Can hold sword tournaments.
+@3273
+As farming magistrate, raises yield more easily.
+@3274
+As commerce magistrate, raises commerce more easily.
+@3275
+As repair magistrate, raises castle defence more easily.
+@3276
+As recruitment magistrate, finds ronin more easily.
+@3277
+Gives an edge in negotiations through diplomacy and stratagems.
+@3278
+Can form Infantry units.
+@3279
+Can form Pikes units.
+@3280
+Can form Cavalry units.
+@3281
+Can form Gunners units.
+@3282
+Can form Mounted Gunners units.
+@3283
+Set the officer this officer is most compatible with.
+@3284
+Of samurai descent.
+@3285
+Of gentry descent.
+@3286
+A follower of the Ikko sect.
+@3287
+A follower of the old Buddhist sects.
+@3288
+A follower of Christianity.
+@3289
+Of merchant descent.
+@3290
+Of pirate descent.
+@3291
+Of ninja descent.
+@3292
+Of court descent.
+@3293
+Set the officer who is this officer's father.
+@3294
+Clear the father setting.
+@3295
+Set the castle where this officer appears.
+@3296
+Register the officer with the current settings.
+@3297
+Stop editing this officer.
+@3298
+Respects the Imperial Court.\nDislikes clans that are enemies of the court.
+@3299
+Respects the shogunate.\nDislikes clans under a punitive order.
+@3300
+Values prestige.\nDislikes clans with low prestige.
+@3301
+Changing the birth and death years will cancel the father setting. Is that all right?
+@3302
+Changing the birth and death years will cancel the father setting of {02}{01}n. Is that all right?
+@3303
+Changing the gender will cancel the father setting of {02}{01}n. Is that all right?
+@3304
+Discard the data being created and return to the registered officers screen. Is that all right?
+@3305
+Show portraits of the previous category.
+@3306
+Show portraits of the next category.
+@3307
+Show the previous page of portraits.
+@3308
+Show the next page of portraits.
+@3309
+Use the selected portrait for the registered officer.
+@3310
+Cancel the portrait change.
+@3311
+Load the selected officer's data.
+@3312
+Cancel loading historical officer data.
+@3313
+Discard the data being created and load historical officer data. Is that all right?
+@3314
+Make this officer compatible with the selected officer.
+@3315
+Cancel the compatibility setting.
+@3316
+Set the selected officer as the father.
+@3317
+Cancel the father setting.
+@3318
+Make the officer appear at the selected castle.
+@3319
+Cancel the change of home castle.
+@3320
+View the relations between powers in each scenario.
+@3321
+Convert registered officer data from "Ransei-ki" and "Ransei-ki with Power-Up Kit" for use in "Soutenroku with Power-Up Kit".
+@3322
+Convert registered officer data from "Ransei-ki". A file with the same name will be overwritten. Convert now?
+@3323
+No registered officer data from "Ransei-ki" was found. No data was converted.
+@3324
+Conversion complete.
+@3325
+This is not available now.
+@3326
+Show the options screen.
+@3327
+Explain the current screen and terms.
+@3328
+Show lists of clans and officers.
+@3329
+Show diplomatic relations between clans and friendship between castle lords.
+@3330
+Quit the current game and return to the setup? Is that all right?
+@3331
+Quit Soutenroku with Power-Up Kit?
+@3332
+Please choose the castle lord you will play.
+@3333
+Summer 1534: Nobunaga Born
+@3334
+Spring 1546: Young Nobunaga
+@3335
+Summer 1560: Okehazama
+@3336
+Autumn 1570: Anti-Nobunaga
+@3337
+Spring 1582: Honnoji Incident
+@3338
+Autumn 1582: Kiyosu Council
+@3339
+Autumn 1495: Suruga Warlord
+@3340
+Summer 1507: Three Heirs
+@3341
+Spring 1523: Kohoku Aflame
+@3342
+Autumn 1511: Funaokayama
+@3343
+Summer 1583: Shizugatake
+@3344
+Spring 1600: Sekigahara
+@3345
+Nobunaga's Birth
+@3346
+Young Nobunaga
+@3347
+Battle of Okehazama
+@3348
+Encircling Nobunaga
+@3349
+The Honnoji Incident
+@3350
+The Kiyosu Council
+@3351
+Suruga Warlord
+@3352
+Three Heirs
+@3353
+Kohoku Aflame
+@3354
+Battle of Funaokayama
+@3355
+Battle of Shizugatake
+@3356
+Heroes at Sekigahara
+@3401
+Horses are the goods needed to form cavalry units.\n\nA castle with "Horse Breeding" earns horses every turn.\n\nOrdinary castle lords give a tenth of the horses they earn to their corps commander. A daimyo subordinate to another clan gives a tenth to that daimyo.\n\nIf you need horses fast, buy them with [Domestic] - [{1C}[{1C}I~REF_SE_NA_Baibai~Power Trade{1C}]] or [Domestic] - [{1C}[{1C}I~REF_SE_NA_Baibai2~Local Trade{1C}]].
+@3402
+A {1C}[{1C}I~REF_V_Sakusen~tactic{1C}] only the defenders can use in siege battles. The unit raises its attack, leaves the castle and strikes an attacking unit directly.\n\nAn attacking unit that is intercepted cannot attack the gate.
+@3403
+Officers and ninja may be injured.\n\nAn injured officer's Politics, Leadership and Intellect drop to about half their true values. An injured ninja cannot act until healed.\n\nAn officer holding a "medical book" treasure heals quickly.
+@3404
+One of the skills an officer may have.\n\nAn officer with this skill wins fights more easily when attacked by enemy ninja, for example while carrying out a stratagem.\n\nWhen an officer with this skill uses [{1C}[{1C}I~REF_SE_NA_Shoutai~Invite{1C}]], a sword tournament may be held.
+@3405
+When an army besieging an enemy castle is ordered to [{1C}[{1C}I~REF_GU_GUNZEI_Chikarazeme~Assault{1C}]], a siege battle begins.\n\nIf the assaulted castle is yours, or the assaulting army includes officers from your castle, you command the siege battle yourself. If you are the army's commander-in-chief you command the whole army; if not, you command only the units from your castle.\n\nBy winning the siege battle, the attackers bring the castle under their clan's rule. If the attackers lose, the army disbands and the officers return to their castles.
+@3406
+An event that occurs in summer.\n\nA province a typhoon passes over may flood as well. Castles in a flooded province lose defence, and a poor harvest or famine becomes more likely in autumn.\n\nIn a province where flood control works are done, typhoon damage is kept small, and there are no floods.
+@3407
+An event that occurs in winter.\n\nArmies have trouble moving along roads hit by heavy snow. When the snow melts in spring, they can move as usual again.
+@3408
+With [{1C}[{1C}I~REF_SE_GU_Gundanshiji~Corps Orders{1C}]] you name the clan each corps should target.\n\nEach corps attacks and schemes against the castles of its target clan first.\n\nIn a corps with no target, each castle lord decides for himself which nearby enemies to attack or scheme against. To advance your strategy to a plan, give every corps a target.
+@3409
+With [{1C}[{1C}I~REF_SE_TEJ_Shiroshiji~Castle Orders{1C}]] you set the castle each castle should target with stratagems and attacks.\n\nIf the daimyo has named a target clan, the castle is chosen from that clan's castles.\n\nEach castle schemes against its target castle, or sends an army to attack it in the Military phase.
+@3411
+The rice harvest.\n\nAn officer's fief is carved out of the castle's yield, so even with a high yield, giving out too much in fiefs leaves little rice income.\n\nYield can be raised by appointing a farming magistrate with [Domestic] - [{1C}[{1C}I~REF_SE_NA_Bugyou~Magistrates{1C}]]. Appointing an officer with high Politics or the [Farming] skill raises it efficiently.\n\nOnce the total yield of the castles in a province reaches the province's maximum yield, it rises no further.
+@3412
+A {1C}[{1C}I~REF_V_Sakusen~tactic{1C}] for both field and siege battles. It restores the morale of the unit and allied units.\n\nThe higher the officer's Intellect, the stronger the effect.
+@3413
+Clans joined by a marriage alliance get the same effect as a non-aggression pact.\n\nIf the daimyo or an officer of his blood has a princess (daughter), you can propose a marriage to another clan with [Diplomacy] - [Daimyo] - [{1C}[{1C}I~REF_SE_JI_KO_Daimyouke~Marriage{1C}]].
+@3414
+A {1C}[{1C}I~REF_V_Sakusen~tactic{1C}] for both field and siege battles. It throws the enemy unit being fought into confusion.\n\nThe higher the officer's Intellect, the stronger the effect.
+@3415
+Special moves usable in field and siege battles. They become available once 5 or more points of {1C}[{1C}I~REF_V_Seni~fighting spirit{1C}] are built up.\n\nEach officer has up to 3 tactics. Tactics belong to the officer, so they cannot be changed or added.
+@3416
+The eagerness for battle of the troops an officer leads.\n\nIn field and siege battles, a unit's defence falls along with its morale. At 0 morale it can fight no longer.\n\nOfficers not on campaign slowly regain morale. On campaign, morale also rises while the army is at a friendly castle. But if the officer's own castle is besieged by an enemy army, his morale does not rise.
+@3417
+An event that can occur in any season.\n\nCastles in a province struck by an earthquake lose defence and commerce.
+@3418
+A type of minor power.\n\nIt has troops only for self-defence and never rises up. Even when subordinate to you, it lends no {1C}[{1C}I~REF_V_Engun~reinforcements{1C}].\n\nAs a [{1C}[{1C}I~REF_SE_NA_Baibai~Power Trade{1C}]] partner it trades rice, horses, guns and treasures.
+@3419
+The officer's natural father.\n\nIf the father is a daimyo, the officer is kin of that daimyo's clan.
+@3420
+A {1C}[{1C}I~REF_V_Sakusen~tactic{1C}] for both field and siege battles. It brings the unit out of confusion.
+@3421
+A vassal relationship forms between two clans when [{1C}[{1C}I~REF_SE_GA_DA_HO_Juuzokukamoushiire~Submit{1C}]] or [{1C}[{1C}I~REF_SE_GA_DA_HO_Juuzokukakyouhaku~Threaten{1C}]] succeeds, or when a daimyo's home castle falls in a siege battle.\n\nIt has the same effect as a military alliance. The subordinate daimyo must give its overlord a tenth of its goods income every season, and may be restricted in diplomacy.\n\n[{1C}[{1C}I~REF_SE_GA_DA_HO_Juuzokuhaki~Demand{1C}]] ends it at any time, but leaves the two clans' friendship very low. Minor powers can be made subordinate with [{1C}[{1C}I~REF_SE_GA_SH_HO_Juuzokukakyouhaku~Threaten{1C}]] or by taking their base.
+@3422
+A {1C}[{1C}I~REF_V_Sakusen~tactic{1C}] only defending units can use in siege battles. It repairs a gate weakened by attacks, restoring its defence.\n\nThe higher the officer's Intellect, the stronger the effect.
+@3423
+The power an officer originally came from.\n\nThere are 9 origins: "Samurai", "Gentry", "Ikko", "Old Buddhist", "Christian", "Merchant", "Pirate", "Ninja" and "Court".\n\nWhen the envoy has the same origin as the other side in diplomacy, talks go more smoothly, among other effects.\n\nAn envoy of "Court" origin also does better with the Imperial Court, and one of "Merchant" origin with the self-governing towns.
+@3424
+How developed the town is. It affects the castle's gold income.\n\nCommerce can be raised by appointing a commerce magistrate with [Domestic] - [{1C}[{1C}I~REF_SE_NA_Bugyou~Magistrates{1C}]]. Appointing an officer with high Politics or the "Commerce" skill raises it efficiently.
+@3425
+One of the skills an officer may have.\n\nAn officer with this skill raises a castle's commerce efficiently when made commerce {1C}[{1C}I~REF_V_Bugyou~magistrate{1C}].
+@3426
+The smallest group of soldiers in a unit in field and siege battles. When its squads reach 0, the unit is destroyed.\n\nEach soldier on screen is one squad. The more troops a unit has, the more squads.
+@3427
+You win when you rule or hold as subordinates every castle in the land.\n\nYou also win as a corps commander or ordinary castle lord if your clan achieves this.\n\nYou lose if another clan achieves it, or if you die with no kin officer left. You also lose if the year 1700 comes before you achieve it.
+@3428
+Besides minor powers, local merchants can be trading partners.\n\nWith [{1C}[{1C}I~REF_SE_NA_Baibai2~Local Trade{1C}]] you can buy and sell rice, horses and guns with local merchants.
+@3429
+A type of minor power.\n\nIt has its own troops and may raid clans it is unfriendly with.\n\nWhen a field battle is fought on coastal ground, it may side with a friendly clan and give covering fire from ironclads.\n\nWith [Visit] - [Minor Powers] - [{1C}[{1C}I~REF_SE_GA_SH_HO_Bouekiirai~Trade{1C}]] you can arrange trade ships. A successful voyage brings gold or treasures.
+@3430
+One of an officer's abilities.\n\nThe higher it is, the better the results of diplomacy and domestic affairs.\n\nIt rises with experience, for example as a diplomatic envoy. Holding a "book of learning" treasure also raises it according to the treasure's grade.
+@3431
+The eagerness of the troops while fighting in field and siege battles.\n\nIt slowly rises as the unit fights enemy units; when it is high enough, troop commands and tactic commands can be used.\n\nThe higher the officer's Leadership, the faster it rises.
+@3432
+A warrant from the shogunate or the Imperial Court that justifies gekokujo.\n\nWith a just cause, castle lords you invite to gekokujo with [{1C}[{1C}I~REF_SE_GA_DA_HO_Gekokujoukanyuu~Secret Pact{1C}]] agree more easily.\n\nRequest one with [{1C}[{1C}I~REF_SE_GA_CH_Taigimeibun~Just Cause{1C}]] under [Visit] - [Court] or [Shogunate].
+@3433
+An event that occurs in summer.\n\nCastles in a province a typhoon passes over lose defence, and a poor harvest becomes more likely in autumn.\n\nIn a province where flood control works are done, a typhoon causes no flood.
+@3434
+The stipend a castle lord gives a retainer, carved out of the castle's yield.\n\nA fief that matches the officer's renown raises his loyalty. A fief that falls short makes his loyalty slowly drop.\n\nThe fief also sets the most troops an officer can have: 10 troops per point of fief.
+@3435
+When every castle in a province belongs to the same clan, flood control works may begin.\n\nThey take several turns. When done, the province's maximum yield rises, and floods and plague become less likely.
+@3436
+One of the skills an officer may have.\n\nWhen an officer with this skill uses [{1C}[{1C}I~REF_SE_NA_Shoutai~Invite{1C}]], a tea ceremony may be held.
+@3437
+An officer's loyalty to his castle lord.\n\nThe higher it is, the harder he is to poach. With low loyalty he may desert.\n\nA fief that matches his renown slowly raises it. It drops when his fief is small for his renown, or when officers of other clans tempt him with [{1C}[{1C}I~REF_SE_GA_BU_Bushouhikinuki~Persuade{1C}]] and the like.
+@3438
+How much a clan has done for the Imperial Court. It must be high to receive higher court titles or have the court issue ceasefire orders.\n\nIt rises with [{1C}[{1C}I~REF_SE_GA_CH_Kenkin~Donate{1C}]] and with victories over clans named enemies of the court, and falls with [{1C}[{1C}I~REF_SE_GA_CH_Kaniyousei~Court Title{1C}]], [{1C}[{1C}I~REF_SE_GA_CH_Choutekishimei~Enemy of Court{1C}]] and [{1C}[{1C}I~REF_SE_GA_CH_Teisenkankoku~Ceasefire{1C}]].
+@3439
+Each castle lord has a friendship with the Imperial Court. For a castle lord who is a daimyo, the higher it is, the better diplomacy with the court goes.\n\nIt rises with [{1C}[{1C}I~REF_SE_GA_CH_Kenkin~Donate{1C}]], and falls with [{1C}[{1C}I~REF_SE_GA_CH_Kaniyousei~Court Title{1C}]], [{1C}[{1C}I~REF_SE_GA_CH_Choutekishimei~Enemy of Court{1C}]] and [{1C}[{1C}I~REF_SE_GA_CH_Teisenkankoku~Ceasefire{1C}]].
+@3440
+A {1C}[{1C}I~REF_V_Sakusen~tactic{1C}] only attacking units can use in siege battles. It lures a defending unit out of the gate with its attack lowered.\n\nThe higher the officer's Intellect, the stronger the effect.
+@3441
+One of an officer's abilities.\n\nThe higher it is, the better commands such as [Publicise], [Slander], [Incite] and [Persuade] under [Visit] go.\n\nIn battle, high Intellect makes tactic commands stronger and confusion easier to recover from.\n\nIt rises with experience, for example carrying out [Visit] or [Diplomacy] commands. Holding a "book of strategy" or "helmet" treasure also raises it according to the treasure's grade.
+@3442
+A {1C}[{1C}I~REF_V_Sakusen~tactic{1C}] for both field and siege battles. It restores squads the unit and allied units lost to enemy attacks.\n\nThe higher the officer's Intellect, the stronger the effect.
+@3443
+A princess married to the officer.\n\nYou can marry princesses into other clans with [Diplomacy] - [Daimyo] - [{1C}[{1C}I~REF_SE_JI_KO_Daimyouke~Marriage{1C}]], and to retainers with [Personnel] - [Heir] - [{1C}[{1C}I~REF_SE_JI_KO_Haika~Adopt{1C}]].
+@3444
+When a castle is besieged by an army, or armies stand face to face after a drawn field battle, the clans of the castle and armies are "at war". So are a clan targeted by an {1C}[{1C}I~REF_V_Houimou~encirclement{1C}] and the clans taking part, and a clan targeted by a {1C}[{1C}I~REF_SE_GA_BA_Toubatsurei~punitive order{1C}] and the shogun's clan.\n\nDiplomacy with a clan you are "at war" with is limited: no pact but [{1C}[{1C}I~REF_SE_GA_DA_Fusenkyoutei~Non-Aggression{1C}]] can be made, among other limits.
+@3445
+Guns are the goods needed to form gunner units.\n\nA castle with "Gunsmiths" earns guns every turn.\n\nOrdinary castle lords give a tenth of the guns they earn to their corps commander. A daimyo subordinate to another clan gives a tenth to that daimyo.\n\nIf you need guns fast, buy them with [Domestic] - [{1C}[{1C}I~REF_SE_NA_Baibai~Power Trade{1C}]] or [{1C}[{1C}I~REF_SE_NA_Baibai2~Local Trade{1C}]].
+@3446
+One of the troop types an officer leads in field battles. When sent onto the field, it can fire its guns before fighting enemy units in the vanguard, and in siege battles it can fire guns. Gunfire reduces the enemy's troops and also throws the enemy unit into confusion.\n\nNo one can fire guns in rain or snow, except officers holding a "gunnery manual" treasure.\n\nIt matches up against other types like {1C}[{1C}I~REF_V_Ashigaru~Infantry{1C}]. To change an officer's troops, use [Military] - [{1C}[{1C}I~REF_SE_NA_GU_Heishuhenkou~Change Troops{1C}]].
+@3447
+One of an officer's abilities.\n\nThe higher it is, the faster fighting spirit rises in battle.\n\nIt rises with experience in field and siege battles. Holding a "sword" or "armour" treasure also raises it according to the treasure's grade.
+@3448
+One of the skills an officer may have.\n\nAn officer with this skill recruits ronin more successfully when made recruitment {1C}[{1C}I~REF_V_Bugyou~magistrate{1C}].
+@3449
+Officers may have skills. There are 9; giving orders that suit an officer's skills advances your strategy efficiently.\n\nEach officer is born with 1 skill, and can learn up to 2 more by holding treasures.\n\nSkills ---------------\n{1C}[{1C}I~REF_V_Aigan~Plea{1C}], {1C}[{1C}I~REF_V_Iatsu~Intimidation{1C}], {1C}[{1C}I~REF_V_Chanoyu~Tea Ceremony{1C}], {1C}[{1C}I~REF_V_Kengou~Swordsman{1C}], {1C}[{1C}I~REF_V_Nougyou~Farming{1C}], {1C}[{1C}I~REF_V_ShougyouTokugi~Commerce{1C}], {1C}[{1C}I~REF_V_Kaishuu~Repair{1C}], {1C}[{1C}I~REF_V_Touyou~Recruitment{1C}], {1C}[{1C}I~REF_V_Benzetsu~Eloquence{1C}]
+@3450
+A {1C}[{1C}I~REF_V_Sakusen~tactic{1C}] only the attackers can use in siege battles. When a defending unit uses [Intercept], it drives the intercepting unit back and storms in with it to strike the defenders directly.\n\nA defending unit that is stormed cannot defend the gate.
+@3451
+One of the troop types an officer leads in field battles.\n\nAgainst Cavalry or Mounted Gunners, the unit's attack rises and it fights at an advantage. Against Infantry, the enemy's attack rises and it is at a disadvantage.\n\nTo change an officer's troops, use [Military] - [{1C}[{1C}I~REF_SE_NA_GU_Heishuhenkou~Change Troops{1C}]].
+@3452
+Ninja are hired from ninja bands for goods with [{1C}[{1C}I~REF_SE_NI_NI_Yatoiire~Hire{1C}]] under [Ninja]. A ninja sent to [{1C}[{1C}I~REF_SE_NI_NI_Sennyuu~Infiltrate{1C}]] another castle reports its troops, defence and more, and lets you use stratagems there such as [{1C}[{1C}I~REF_SE_NI_Bousatsu~Sow Doubt{1C}]], [{1C}[{1C}I~REF_SE_NI_Shuugeki~Assassinate{1C}]], [{1C}[{1C}I~REF_SE_NI_Hakai~Sabotage{1C}]] and [{1C}[{1C}I~REF_SE_NI_Ryuugen~Rumours{1C}]]. The higher a ninja's {1C}[{1C}I~REF_V_Nouryoku~ability{1C}], the better the odds.\n\nA ninja kept at your castle foils enemy stratagems, and can carry out [{1C}[{1C}I~REF_GU_CMD_Nisedenrei~False Orders{1C}]] in the Military phase.\n\nA ninja is hired for 8 seasons (2 years). If the band agrees to extend, you can keep him by paying gold.
+@3453
+A type of minor power.\n\nIt has troops only for self-defence and never rises up. Even when subordinate to you, it lends no {1C}[{1C}I~REF_V_Engun~reinforcements{1C}].\n\nNinja bands provide the ninja clans need for stratagems. Hire ninja from them with [Ninja] - [{1C}[{1C}I~REF_SE_NI_NI_Yatoiire~Hire{1C}]].\n\nThey cannot be [{1C}[{1C}I~REF_SE_NA_Baibai~Power Trade{1C}]] partners.
+@3454
+Whether a castle lord of another clan has promised to defect to yours.\n\nTo defect from your castle to another clan, use [{1C}[{1C}I~REF_SE_GA_DA_HO_Negaeriyakusoku~Defect{1C}]]; to invite another castle to defect, use [{1C}[{1C}I~REF_SE_GA_DA_HO_Naioukanyuu~Incite{1C}]].\n\nA castle lord who has promised can be made to defect with [{1C}[{1C}I~REF_GU_CMD_Negaerishiji~Order Defection{1C}]] in the Military phase. The promise lapses 1 year after it was made.
+@3455
+One of the skills an officer may have.\n\nAn officer with this skill raises a castle's yield efficiently when made farming {1C}[{1C}I~REF_V_Bugyou~magistrate{1C}].
+@3456
+Ninja differ in ability. The higher a ninja's ability, the better the odds of stratagems and so on.\n\nAbility rises from E to D, C, B and A; S is the highest.\n\nA ninja's ability rises by carrying out stratagems such as [{1C}[{1C}I~REF_SE_NI_Shuugeki~Assassinate{1C}]], [{1C}[{1C}I~REF_SE_NI_Hakai~Sabotage{1C}]] and [{1C}[{1C}I~REF_SE_NI_Ryuugen~Rumours{1C}]] again and again.
+@3457
+A {1C}[{1C}I~REF_V_Sakusen~tactic{1C}] only attacking units can use in siege battles. It greatly lowers the defence of the gate the unit is at.\n\nThe higher the officer's Intellect, the stronger the effect.
+@3458
+A hired ninja serves for a set period. When it ends, he leaves the castle he infiltrated and returns to his ninja village.\n\nIf the band's leader offers an extension, you can extend it by paying gold.
+@3459
+A {1C}[{1C}I~REF_V_Sakusen~tactic{1C}] for both field and siege battles. It greatly lowers the morale of the enemy unit being fought.\n\nThe higher the officer's Intellect, the stronger the effect.
+@3460
+Every castle lord in a clan has influence. The more influence, the more weight he carries in a council. For a corps commander, more influence also means more attempts to persuade castle lords who oppose his proposal in council.\n\nAn ordinary castle lord with high influence is more likely to be chosen as corps commander.\n\nInfluence changes every spring according to the year's work (merit). Scheme against and fight the corps target set by the daimyo, or the target castle set by the corps commander, to raise it.
+@3461
+Princesses play an important part in binding daimyo to daimyo and castle lords to retainers.\n\nIf you or an officer of your blood has a princess (daughter), you can marry her into another clan with [Diplomacy] - [Daimyo] - [{1C}[{1C}I~REF_SE_JI_KO_Daimyouke~Marriage{1C}]] to form a marriage alliance. Marrying her to a retainer makes him {1C}[{1C}I~REF_V_Ichimon~kin{1C}].\n\nWhen a daughter is born to you, you choose whether she becomes a princess or an officer. An officer cannot be married off.
+@3462
+Officers may fall ill. An ill officer's Politics, Leadership and Intellect drop to about half their true values.\n\nAn officer holding a "medical book" treasure recovers quickly.
+@3463
+A council is held when a corps commander makes a [Propose]. If the total influence of those in favour exceeds that of those against, the proposal passes.\n\nPersuading opponents adds supporters. Choose a castle lord, then a way to persuade. Each success adds a star; at 4 stars that lord changes sides.\n\nThe higher the corps commander's own influence, the more attempts he gets. Higher friendship with the lord makes success likelier. The right approach depends on the lord's character and state; hearing him out may give a clue.
+@3464
+Rice is the goods needed to send armies out, negotiate with other powers and so on.\n\nEach castle earns it every autumn. The amount depends on the castle's yield; yield given out as officers' fiefs earns nothing.\n\nOrdinary castle lords give a tenth of the income to their corps commander. A daimyo subordinate to another clan gives a tenth to that daimyo.\n\nIf you need rice fast, buy it with [Domestic] - [{1C}[{1C}I~REF_SE_NA_Baibai~Power Trade{1C}]] or [Domestic] - [{1C}[{1C}I~REF_SE_NA_Baibai2~Local Trade{1C}]].
+@3465
+Magistrates are officers who oversee domestic affairs. Each castle sets them with [Domestic] - [{1C}[{1C}I~REF_SE_NA_Bugyou~Magistrates{1C}]].\n\nThere are 4 kinds: "Farming" raises yield, "Commerce" commerce, "Repair" defence, and "Recruitment" the number of officers.\n\nUp to 4 of each, 16 in all.\n\nOnce set, the same officers stay magistrates the next season.
+@3466
+A pact made by clans and minor powers. Clans with a non-aggression pact cannot attack each other, and their armies may pass through each other's castles.\n\nA daimyo can propose one to another clan with [Diplomacy] - [Daimyo] - [{1C}[{1C}I~REF_SE_GA_DA_Fusenkyoutei~Non-Aggression{1C}]]. Anyone, whatever their rank, can propose one to Gentry, Ikko, Monks and Pirates with [Diplomacy] - [Minor Powers] - [{1C}[{1C}I~REF_SE_GA_SH_HO_Fusenkyoutei~Non-Aggression{1C}]].\n\nIt lasts 2 years, or half a year when made through a ceasefire order from the court or shogunate. Using [Non-Aggression] again before it ends extends it.
+@3467
+How much an officer has achieved. It rises by carrying out commands and earning distinction in battle.\n\nThe higher the renown, the larger the fief an officer can hold.
+@3468
+A {1C}[{1C}I~REF_V_Sakusen~tactic{1C}] for siege battles. It sets fire between gates, stopping enemy units from moving for a while.\n\nThe higher the officer's Intellect, the stronger the effect.
+@3469
+The number of soldiers in the unit an officer leads.\n\nThe maximum is set by the officer's fief: 10 times the fief (a fief of 100 means 1000 troops).\n\nBelow the maximum, troops recover every season. To recover them at once, use [Military] - [{1C}[{1C}I~REF_SE_NA_GU_Bohei~Recruit{1C}]] to add troops for gold and rice.
+@3470
+There are 5 troop types: Infantry, Pikes, Cavalry, Gunners and Mounted Gunners.\n\nIn field battles, each type is strong against the next along the arrows:\nInfantry/Gunners -> Pikes -> Cavalry/Mounted Gunners -> Infantry/Gunners\n\nA unit fighting a type it is strong against gains attack and cuts down enemy troops more easily.
+@3471
+One of the skills an officer may have.\n\nAn officer with this skill excels at negotiation, and does better than others when asking other clans or minor powers for something through [Diplomacy].
+@3472
+A pact between clans.\n\nThe clans in an encirclement take one clan as their common enemy and hold non-aggression pacts with each other.\n\nPropose one to other clans with [Diplomacy] - [Daimyo] - [{1C}[{1C}I~REF_SE_GA_DA_Houimou~Encircle{1C}]]. It lasts 2 years.
+@3473
+A castle surrounded by an army. An army that reaches an enemy castle or base besieges it automatically. A besieged castle loses its seasonal income, its morale stops recovering, and its defence slowly drops.\n\nThe castle's clan and the besieging army's clan are then "{1C}[{1C}I~REF_V_Tekitai~at war{1C}]".\n\nIn the Military phase, an army besieging an enemy castle starts a siege battle with [{1C}[{1C}I~REF_GU_GUNZEI_Chikarazeme~Assault{1C}]].
+@3474
+A {1C}[{1C}I~REF_V_Sakusen~tactic{1C}] for siege battles. It sets fire near a gate, stopping the enemy's [Ram] and [Defend] for a while.\n\nThe higher the officer's Intellect, the stronger the effect.
+@3475
+A minor power's strength in holding its base.\n\nWhen a clan army uses [{1C}[{1C}I~REF_GU_GUNZEI_Chikarazeme~Assault{1C}]] on a minor power's base, the higher its defence strength, the harder the base is to take.\n\nThe larger the minor power, the higher its defence strength.
+@3476
+A successful trade voyage brings gold or treasures. Trade with [Visit] - [Minor Powers] - [{1C}[{1C}I~REF_SE_GA_SH_HO_Bouekiirai~Trade{1C}]].\n\nThe ship returns to Japan from abroad after half a year and hands the treasures and gold to the castle lord who asked. If it is wrecked, nothing is gained.\n\nA voyage costs 1000 gold, or 500 with a friendly pirate band. With an envoy of "Pirate" origin it costs even less.
+@3477
+A castle has 3 baileys (main, second and third), each with its own defence.\n\nThe higher the defence, the harder the castle is to take.\n\nDefence can be raised by appointing a repair magistrate with [Domestic] - [{1C}[{1C}I~REF_SE_NA_Bugyou~Magistrates{1C}]]. Appointing an officer with high Politics or the "Repair" skill raises it efficiently.
+@3478
+An event that occurs in autumn.\n\nCastles in a province with a bumper harvest get more rice income that year.
+@3479
+Roads linking your own castles (bases), and roads from your castles to adjacent enemy castles, are called supply lines.\n\nAn army that leaves its supply lines gets no rice, and its officers' morale falls. Supply lines also affect strategy in many other ways.\n\nA minor power can be chosen for diplomacy or [{1C}[{1C}I~REF_SE_NA_Baibai~Power Trade{1C}]] only if its base is within your supply lines or in the same province.\n\n[{1C}[{1C}I~REF_SE_NA_JO_Busshiyusou~Transport{1C}]] and [{1C}[{1C}I~REF_SE_NA_JO_Tenpou~Transfer{1C}]] work only between castles linked by supply lines.
+@3480
+A {1C}[{1C}I~REF_V_Sakusen~tactic{1C}] for siege battles. It hurls fire pots at the enemy unit being fought, reducing its troops.\n\nThe higher the officer's Intellect, the stronger the effect.
+@3481
+Clans in a pact ({1C}[{1C}I~REF_V_Fusenkyoutei~non-aggression pact{1C}], {1C}[{1C}I~REF_V_Gunjidoumei~military alliance{1C}], {1C}[{1C}I~REF_V_Houimou~encirclement{1C}]) with you, and clans and minor powers in a {1C}[{1C}I~REF_V_Koninkankei~marriage alliance{1C}] or {1C}[{1C}I~REF_V_Juuzokukankei~vassal relationship{1C}] with you, are your "allies". Clans subordinate to a clan in a pact with you are allies too.\n\nYour armies may pass freely through the castles and bases of allies, and meeting an allied army on a road starts no field battle.\n\nAn ally cannot be the target of [{1C}[{1C}I~REF_SE_GA_DA_Houimou~Encircle{1C}]], [{1C}[{1C}I~REF_SE_GA_CH_Choutekishimei~Enemy of Court{1C}]], [{1C}[{1C}I~REF_SE_GA_BA_Toubatsushimei~Punish{1C}]] or [{1C}[{1C}I~REF_SE_GA_BA_Toubatsurei~Punitive Order{1C}]].
+@3482
+A {1C}[{1C}I~REF_V_Sakusen~tactic{1C}] only attacking units can use in siege battles. It scouts where the defending units stand inside the bailey and where traps are set at the gates.\n\nThe higher the officer's Intellect, the stronger the effect.
+@3483
+A clan's reputation. It affects how other powers treat you in diplomacy, how often officers accept recruitment and so on.\n\nPrestige depends on the clan's yield, court titles, posts, vassal relationships, marriage alliances and more. Refusing a ceasefire order from the court or shogunate lowers it.
+@3484
+There are 3 kinds of pact: {1C}[{1C}I~REF_V_Fusenkyoutei~non-aggression pact{1C}], {1C}[{1C}I~REF_V_Gunjidoumei~military alliance{1C}] and {1C}[{1C}I~REF_V_Houimou~encirclement{1C}].\n\nClans in a pact cannot attack each other's castles or armies.
+@3485
+Every officer has ambition. The more ambitious an officer, the likelier he is to defect; the more ambitious a castle lord, the likelier gekokujo. Ambition cannot be seen as a number.\n\nIt rises when his fief is cut, his treasures are taken or he is tempted by stratagems. Raising his fief or giving him treasures lowers it.
+@3486
+When enemy armies meet on a road, a field battle follows.\n\nIf an army includes officers from your castle, you command the field battle yourself. If you are the army's commander-in-chief you command the whole army; if not, you command only the units from your castle.\n\nA defeated army disbands and its officers return to their castles.
+@3487
+Each castle lord has a friendship with every other castle lord and minor power.\n\nThe higher it is, the better diplomacy and the like go with them.\n\n[Diplomacy] depends heavily on the friendship between clans, which is the friendship between their daimyo.
+@3488
+A {1C}[{1C}I~REF_V_Sakusen~tactic{1C}] for siege battles. The unit moves to another gate, luring the enemy along.\n\nThe higher the officer's Intellect, the stronger the effect.
+@3489
+The officer who became the officer's father by adoption.\n\nIf the adoptive father is a daimyo, the officer is kin of that daimyo's clan.
+@3490
+The officer a castle lord recommends as heir to his daimyo. A castle lord who recommends no one backs the "first heir candidate".\n\nWhen a new daimyo takes over through death or [{1C}[{1C}I~REF_SE_JI_Inkyo~Retire{1C}]], castle lords who recommended someone else lose friendship with the new daimyo and become likelier to rebel.\n\nThe daimyo can change a castle lord's recommended heir with [Personnel] - [Heir] - [{1C}[{1C}I~REF_SE_JI_Yotsugishimei~Name Heir{1C}]].
+@3491
+The rightful heir of the clan. Usually the daimyo's own child is the first heir candidate.\n\nA castle lord with no {1C}[{1C}I~REF_V_Yotsugisuisenbushou~recommended heir{1C}] backs the first heir candidate.
+@3492
+Troops who cannot join battle because needed goods are short.\n\nIf a Cavalry, Mounted Gunners or Gunners unit has fewer horses or guns than troops, the rest wait in reserve until the goods arrive.\n\nWhen the goods are bought with [Domestic] - [{1C}[{1C}I~REF_SE_NA_Baibai~Power Trade{1C}]] and the like, the reserves join the unit next season.\n\nChanging to "Infantry" or "Pikes" with [Military] - [{1C}[{1C}I~REF_SE_NA_GU_Heishuhenkou~Change Troops{1C}]] also adds the reserves to the troops.
+@3493
+A {1C}[{1C}I~REF_V_Sakusen~tactic{1C}] for both field and siege battles. It makes soldiers of the enemy unit being fought desert, reducing its squads.\n\nThe higher the officer's Intellect, the stronger the effect.
+@3494
+What you can and should do in the Strategy phase depends on your rank and situation. Whatever your rank, though, start with [{1C}[{1C}I~REF_SE_NA_Bugyou~Magistrates{1C}]] under [Domestic]. Magistrates develop your castle's yield, commerce and so on, making you richer in goods.\n\nNext, hiring ninja with [Ninja] is recommended. A ninja sent to [{1C}[{1C}I~REF_SE_NI_NI_Sennyuu~Infiltrate{1C}]] another castle brings you its information and lets you use many stratagems there.\n\nIf you are a daimyo, giving each corps a target under [Military] matters too. Use [Visit] and [Diplomacy] to isolate the target clan.
+@3495
+Visit another castle to deepen ties.\n\nFriendship between your castle and the target castle rises.\n\nAn envoy with high Politics and the Plea, Intimidation or Eloquence skill does better.
+@3496
+Send another castle 500 gold to deepen ties.\n\nFriendship between your castle and the receiving castle rises.\n\nAn envoy with high Politics and the Plea, Intimidation or Eloquence skill does better.
+@3497
+Corps commanders and castle lords only. Give another castle a good impression of your clan.\n\nOn success, friendship between your daimyo and the target castle rises.\n\nAn envoy with high Politics and the Eloquence skill raises it more easily.\n\nIt succeeds more easily the higher the friendship between your castle and the target, and the lower that between the target and its daimyo. An envoy with high Intellect helps further.
+@3498
+Ask another castle for gold.\n\nOn success, you receive a tenth of the gold the castle holds.\n\nThe higher the friendship between your castle and the target, the likelier success. An envoy with high Politics and the Eloquence or Plea skill helps further.
+@3499
+Slander a daimyo's overlord, or a castle lord's daimyo, to them.\n\nOn success, friendship falls between the target clan and its overlord clan, or between the target castle and its daimyo.\n\nIt succeeds more easily the higher your friendship with the target, and the lower the target's friendship with the one slandered. An envoy with high Intellect helps further.

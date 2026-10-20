@@ -1,0 +1,1624 @@
+@6000
+Does {01}C{0D}{00} know their own worth and place? A frog in a well, if ever there was one! I will never follow you!!
+@6000.1
+I will not trust my life any longer to one who betrays their own lord so easily! I misjudged you, {01}C{0D}{00}!!
+@6000.2
+What, {01}C{0D}{00} rebels?! Whatever the reason, following you would put me in danger. Sorry, but I stay with our liege clan.
+@6000.3
+So at last you show your true colours... I no longer have any reason to follow {01}C{0D}{00}. I must report this to our lord at once.
+@6001
+Does {01}C{0D}{00} know their own worth and place? A frog in a well, if ever there was one. I will never follow you.
+@6001.1
+How could I trust my life to one who betrays their own lord so easily? I misjudged you, {01}C{0D}{00}!!
+@6001.2
+What, {01}C{0D}{00} rebels?! Whatever the reason, following you would put me in danger... I stay with our liege clan, as before.
+@6001.3
+So at last you show your true colours... I no longer have any reason to follow {01}C{0D}{00}! I must report this to our lord at once.
+@6002
+What, some refuse to follow my command!? Very well. Birds that cannot fly may stay nesting in that rotten old tree.
+@6002.1
+Curse them, they choose the {02}{0B}E over me! Short-sighted fools...
+@6003
+What, some refuse to follow my command!? Fine. Cowards like that would only eat our rice for nothing.
+@6003.1
+Curse them, choosing the {02}{0B}E over me... Some people are so short-sighted.
+@6004
+{01}C{0D}{00} rebels?! Hmm, I have no choice but to follow. Running away is out of the question...
+@6004.1
+So {01}C{0D}{00} has truly betrayed our liege clan... The future looks uncertain, but for now I shall follow.
+@6004.2
+What, {01}C{0D}{00} rebels?! {01}C{0D}{00} is far too hasty. The time is not yet ripe...
+@6004.3
+So you have made your move... I have no special loyalty to {01}C{0D}{00}, but walking this thorny path together might be fun.
+@6005
+{01}C{0D}{00} rebels?! Hmm, it seems I have no choice but to follow... Running away is out of the question...
+@6005.1
+So {01}C{0D}{00} has truly betrayed our liege clan... It feels shaky, but for now I shall follow...
+@6005.2
+What, {01}C{0D}{00} rebels?! Why is {01}C{0D}{00} in such a hurry? The time is not yet ripe...
+@6005.3
+So you have made your move... I have no special loyalty to {01}C{0D}{00}, but walking this thorny path together might be fun...
+@6006
+No one at this castle broke away, but some seem uneasy about my decision...
+@6006.1
+No one at this castle broke away, but some seem uneasy about my decision...
+@6007
+A fine decision!! Breaking with the {02}{0B}E is the right path for this castle. Lead us on to unite the realm!
+@6007.1
+At last the day has come! All of us humbly support {01}C{0D}{00}'s will!!
+@6007.2
+So at last we part ways with the {02}{0B}E. Whatever you decide, we will follow {01}C{0D}{00}!
+@6008
+A fine decision!! Breaking with the {02}{0B}E is the right path for this castle. Lead us on to unite the realm!
+@6008.1
+At last the day has come! All of us humbly support {01}C{0D}{00}'s will!!
+@6008.2
+So at last we part ways with the {02}{0B}E. Whatever you decide, we will follow {01}C{0D}{00}!
+@6009
+Good. My decision has brought my retainers even closer together, it seems.
+@6009.1
+Good. My decision has brought my retainers even closer together, it seems.
+@6010
+Hey, that's a samurai in fine clothes. Not many men with him, either. Let's have a go at him.
+@6010.1
+Samurai, hand over everything you've got on you. We might even let you live.
+@6010.2
+Well, well, Lord {02}{02}4, all tired out from battle. How about giving us your head? Help us get ahead, eh?
+@6011
+My, a samurai in fine clothes. A bit too dazzling to be wandering round here, aren't you? Leave everything you've got!
+@6011.1
+A woman samurai, eh... Quite a show you put on. But if you think you'll pass here for free, you're dead wrong!
+@6012
+Ugh, fugitive hunters...! I cannot die here. Retreat! Back the way we came!
+@6012.1
+Damn, we're surrounded... Men, never give up until your spears and swords are spent!! Our lives are not theirs to take!
+@6012.2
+Heh, you think you're hunting a fugitive... Then come on. I'll at least spare you the six coins to pay the ferryman of the Sanzu River.
+@6013
+Fugitive hunters...! I cannot die here. Everyone, retreat!
+@6013.1
+Oh no, we're surrounded... Then we must fight. Everyone, don't give up till the very end!
+@6013.2
+You think you can hunt fugitives with those blunt blades? Very well, I'll take you on!
+@6014
+Urgh! I'll die for nothing at this rate. Please, {02}32! Get me out of this!
+@6014.1
+Ugh! C-curse you... Right, {02}32, your turn! Let's ride through this carnage together!!
+@6014.2
+Gah!! Ugh...! Th-this is bad... I must ride {02}32 back to the castle...
+@6015
+Eek! I'll die for nothing at this rate. {02}32, you're my only hope... Get me out of this!
+@6015.1
+Ugh! I'm nearly at my limit... {02}32, you can still run, can't you? Let's ride through this carnage together!!
+@6015.2
+Ah!! Ugh...! Th-this is bad... I must ride {02}32 back to the castle...
+@6016
+Oh, that's a fine steed... It'd fetch a good price. Catch the horse, and don't you dare hurt it!
+@6016.1
+Shoot your arrows! Stab with your spears! He's wounded, now's our... W-wait! Hold it! That's a good horse, don't hurt the horse!!
+@6016.2
+Wh-what's that horse!? ...Hey, catch that horse! It's worth more than a samurai's head!
+@6017
+My, what a fine horse. It'd fetch a good price. Everyone, we're taking that horse!
+@6017.1
+Wh-what is that horse!? Everyone, catch it! It's worth far more than a samurai's head!
+@6018
+Whoa! I'm falling! Wh-what's wrong, {02}32?! Throwing me off all of a sudden?!
+@6018.1
+Eek! I'm falling! Wh-what's wrong?! Throwing me off all of a sudden?!
+@6019
+I see, you mean to be the decoy! {02}32... you are a true steed. One day I'll get you back!
+@6019.1
+You mean to be the decoy? {02}32... thank you. One day I will get you back, I promise!
+@6020
+Phew, I shook them off... Back to the castle to tend my wounds. But {02}32, for my sake... {02}32, thank you!!
+@6020.1
+I seem to have shaken them off at last... I must get back to the castle and tend my wounds. But {02}32, for my sake... {02}32, please be safe...!
+@6020.2
+What, {01}C{0C}{00} was set upon by fugitive hunters while fleeing a field battle, and was saved by that beloved horse! Oh, thank heaven you're safe...
+@6020.3
+What, {01}C{0C}{00} was set upon by fugitive hunters while fleeing a field battle, and was saved by that beloved horse? Thank goodness...
+@6020.4
+What, {02}{02}4 was set upon by fugitive hunters while fleeing a field battle, and was saved by a beloved horse? Oh, thank heaven...
+@6020.5
+What, {02}{02}4 was set upon by fugitive hunters while fleeing a field battle, and was saved by a beloved horse? Thank goodness...
+@6020.10
+What, {02}{02}n of our castle was set upon by fugitive hunters while fleeing a field battle, and was saved by a beloved horse!? The {02}32 truly is a fine steed...
+@6020.11
+{02}{02}n of our castle was set upon by fugitive hunters while fleeing a field battle, and was saved by a beloved horse?! The {02}32 truly is a fine steed...
+@6021.8
+What, Lord {02}{02}4 was set upon by fugitive hunters while fleeing a field battle, and was saved by a beloved horse? Oh, thank heaven...
+@6021.9
+What, Lord {02}{02}4 was set upon by fugitive hunters while fleeing a field battle, and was saved by a beloved horse? Thank goodness...
+@6021.10
+What, {01}C{0C}{00} of the {02}{0B}E was set upon by fugitive hunters while fleeing a field battle, and was saved by a beloved horse! We serve different clans now; my feelings are mixed...
+@6021.11
+What, {01}C{0C}{00} of the {02}{0B}E was set upon by fugitive hunters while fleeing a field battle, and was saved by a beloved horse! We serve different clans now; my feelings are mixed...
+@6021.12
+What, {02}{02}n of the {02}{0B}E was set upon by fugitive hunters while fleeing a field battle, and was saved by a beloved horse? We serve different clans now; my feelings are mixed...
+@6021.13
+What, {02}{02}n of the {02}{0B}E was set upon by fugitive hunters while fleeing a field battle, and was saved by a beloved horse? We serve different clans now; my feelings are mixed...
+@6021.14
+What, {02}{02}n of the {02}{0B}E was set upon by fugitive hunters while fleeing a field battle, and was saved by a beloved horse? We serve different clans now; my feelings are mixed...
+@6021.15
+What, {02}{02}n of the {02}{0B}E was set upon by fugitive hunters while fleeing a field battle, and was saved by a beloved horse? We serve different clans now; my feelings are mixed...
+@6021.18
+What, {02}{02}n of the {02}{0B}E was set upon by fugitive hunters while fleeing a field battle, and was saved by a beloved horse! We serve different clans now; my feelings are mixed...
+@6021.19
+What, {02}{02}n of the {02}{0B}E was set upon by fugitive hunters while fleeing a field battle, and was saved by a beloved horse! We serve different clans now; my feelings are mixed...
+@6022
+So our {02}{02}n escaped the fugitive hunters on a beloved horse! Well, at least they're safe...
+@6022.1
+Our {02}{02}n escaped the fugitive hunters on a beloved horse? At least they're safe...
+@6022.2
+So our {02}{02}n escaped the fugitive hunters on a beloved horse! Well, thank heaven our lord is safe...
+@6022.3
+So our {02}{02}n escaped the fugitive hunters on a beloved horse! Well, thank heaven...
+@6022.4
+Our {02}{02}n escaped the fugitive hunters on a beloved horse? Whatever the case, thank goodness our lord is safe...
+@6022.5
+Our {02}{02}n escaped the fugitive hunters on a beloved horse? At least they're safe...
+@6022.6
+Our {02}{02}n was set upon by fugitive hunters while fleeing, but was saved by a beloved horse!
+@6022.7
+Our {02}{02}n was set upon by fugitive hunters while fleeing, but was saved by a beloved horse!
+@6023
+Fool! However famous a warrior you are, you can't swing a spear when you're that worn out... Have at you!!
+@6023.1
+Come on, come on! Don't take us for mere foot soldiers, you beaten wretch!!
+@6023.2
+What, scared? Your hands are shaking. This is a laugh, hee hee hee!
+@6024
+Why you play the woman warrior is none of my business, but dying out here... as a fellow woman, I can feel for you!
+@6024.1
+My, take off the helmet and you've quite a pretty face. And your life just beginning... What a shame.
+@6025
+Gah... Careless...! To die in a place like this...
+@6025.1
+Curses... I can't get away... My luck in war has run out at last... My lord, forgive me...
+@6025.2
+Hmph, if you want this head, take it... But you're coming with me!
+@6026
+Ugh... Careless...! To die in a place like this...
+@6026.1
+My lord, forgive me... My fate ends here... I wanted to see the realm at peace with you... Gah...
+@6026.2
+Hahaha, very well. If you want my head, come at me with all you've got! See how a woman warrior meets her end!
+@6027
+What, {01}C{0C}{00} was killed by fugitive hunters?! To lose {01}C{0C}{00} like this...
+@6027.1
+What, {01}C{0C}{00} was killed by fugitive hunters?! To lose {01}C{0C}{00} like this...
+@6027.2
+What, {02}{02}4 was killed by fugitive hunters?! To die before me... The fool...
+@6027.3
+What, {02}{02}4 was killed by fugitive hunters?! To die before me... Such an unworthy child...
+@6027.4
+What, {01}C{0C}{00} was killed by fugitive hunters?! {01}C{0C}{00}...!!
+@6027.5
+What, {01}C{0C}{00} was killed by fugitive hunters?! {01}C{0C}{00}...!!
+@6027.6
+What, {02}{02}4 was killed by fugitive hunters?! Not {02}{02}4, surely...
+@6027.7
+What, {02}{02}4 was killed by fugitive hunters?! Not {02}{02}4, surely...
+@6027.8
+{02}{02}n of our castle was killed by fugitive hunters?! We have lost a fine officer...
+@6027.9
+{02}{02}n of our castle was killed by fugitive hunters?! We have lost a fine officer...
+@6028
+What, {01}C{0C}{00} was cut down by common soldiers while fleeing?! To lose {01}C{0C}{00} like this...
+@6028.1
+What, {01}C{0C}{00} was cut down by common soldiers while fleeing?! To lose {01}C{0C}{00} like this...
+@6028.2
+What, {02}{02}4 was cut down by common soldiers while fleeing?! To die before me... The fool...
+@6028.3
+What, {02}{02}4 was cut down by common soldiers while fleeing?! To die before me... Such an unworthy child...
+@6028.4
+What, Lord {02}{02}4 was cut down by common soldiers while fleeing?! {01}C{0C}{00}...!!
+@6028.5
+What, Lord {02}{02}4 was cut down by common soldiers while fleeing?! {01}C{0C}{00}...!!
+@6028.6
+What, {02}{02}4 was cut down by common soldiers while fleeing?! Not {02}{02}4, surely...
+@6028.7
+What, {02}{02}4 was cut down by common soldiers while fleeing?! Not {02}{02}4, surely...
+@6028.8
+What, Lord {02}{02}4 was cut down by common soldiers while fleeing?! Not {02}{02}4, surely...
+@6028.9
+What, Lord {02}{02}4 was cut down by common soldiers while fleeing?! Not {02}{02}4, surely...
+@6028.10
+What, {01}C{0C}{00} of the {02}{0B}E was cut down by common soldiers while fleeing?! How bitter that end must have been...
+@6028.11
+What, {01}C{0C}{00} of the {02}{0B}E was cut down by common soldiers while fleeing?! So that was the foreboding I felt the other day...
+@6028.12
+What, {02}{02}n of the {02}{0B}E was cut down by common soldiers while fleeing?! To die before me... The fool...
+@6028.13
+What, {02}{02}n of the {02}{0B}E was cut down by common soldiers while fleeing?! To die before me... Such an unworthy child...
+@6028.14
+What, {02}{02}n of the {02}{0B}E was cut down by common soldiers while fleeing?! Hmm, I see...
+@6028.15
+What, {02}{02}n of the {02}{0B}E was killed by fugitive hunters? I-I see...
+@6028.16
+What, {02}{02}n of the {02}{0B}E was cut down by common soldiers while fleeing?! The novice...
+@6028.17
+What, {02}{02}n of the {02}{0B}E was cut down by common soldiers while fleeing?! I-I see...
+@6029
+Our {02}{02}n was cut down by common soldiers while fleeing a field battle?! {02}{02}4 still had so much left to do... A great pity...
+@6029.1
+Our {02}{02}n was cut down by common soldiers while fleeing a field battle?! {02}{02}4 still had so much left to do... A great pity...
+@6029.2
+Our Lord {02}{02}n was cut down by common soldiers while fleeing a field battle?! How bitter that end must have been...
+@6029.3
+Our Lord {02}{02}n was cut down by common soldiers while fleeing a field battle?! How bitter that end must have been...
+@6029.4
+Our Lord {02}{02}n was caught by common soldiers while fleeing a field battle and, despite a brave fight, was killed!!
+@6029.5
+It seems {02}{02}n of the {02}{0B}E was cut down by common soldiers while fleeing a field battle...
+@6029.6
+It seems {02}{02}n of the {02}{0B}E was cut down by common soldiers while fleeing a field battle...
+@6029.7
+It seems {02}{02}n of the {02}{0B}E was caught by common soldiers while fleeing a field battle and, despite a brave fight, was killed.
+@6030
+Fugitive hunters, in a place like this... Then it's time for {01}C{07}{00} {02}32! Run, {02}32! Go!!
+@6030.1
+Ugh, an ambush here of all places... Fall back! Fall back! Don't fight them! {02}32, your turn! Lose them with your swift legs!
+@6030.2
+Ugh, there are too many of them. This is getting us nowhere. Right, {02}32! Let's break through!! Go!
+@6031
+Fugitive hunters here too... It seems it's time for {01}C{07}{00} {02}32... Run, {02}32! Go!!
+@6031.1
+Ugh, an ambush... {02}32, hold on a little longer... Your swift legs will carry us through!
+@6031.2
+Ugh, there are too many of them... This is getting us nowhere. {02}32! Run all the way to the castle!
+@6032
+Oh, that's a fine steed! Our lucky day! You lot, catch that horse!!
+@6032.1
+Well, that's a fine horse you're riding. It'd fetch good money... Hey, catch that horse!
+@6032.2
+That horse looks worth more than the head of some samurai nobody's heard of...
+@6033
+That's quite a fine horse you're riding. I'll take it off you and make a living from it!
+@6033.1
+You don't look like anyone important, and yet you sit on a horse? Cheeky. Hand that horse over!
+@6034
+Whoa! I'm falling! Wh-what's wrong, {02}32?! Do as I say!
+@6034.1
+Eek! I'm falling! H-hey, what are you doing all of a sudden?!
+@6037
+What, {01}C{0C}{00} escaped the fugitive hunters on a beloved horse? Just like {01}C{0C}{00}, to own such a fine horse!
+@6037.1
+What, {01}C{0C}{00} escaped the fugitive hunters on a beloved horse? Just like {01}C{0C}{00}, to own such a fine horse!
+@6037.2
+What, {02}{02}4 escaped the fugitive hunters on a beloved horse? Knowing {02}{02}4, death was never on the cards.
+@6037.3
+What, {02}{02}4 escaped the fugitive hunters on a beloved horse? Ohoho, knowing {02}{02}4, there's no need to worry.
+@6037.4
+What, Lord {02}{02}4 escaped the fugitive hunters on a beloved horse? Just like {01}C{0C}{00}, to own such a fine horse.
+@6037.5
+What, Lord {02}{02}4 escaped the fugitive hunters on a beloved horse? Just like {01}C{0C}{00}.
+@6037.10
+What, {01}C{0C}{00} of the {02}{0B}E escaped the fugitive hunters on a beloved horse? {01}C{0C}{00} has always been lucky.
+@6037.11
+What, {01}C{0C}{00} of the {02}{0B}E escaped the fugitive hunters on a beloved horse? {01}C{0C}{00} has always been lucky...
+@6037.12
+What, {02}{02}n of the {02}{0B}E escaped the fugitive hunters on a beloved horse? Hm, {02}{02}4 is quite capable.
+@6037.13
+What, {02}{02}n of the {02}{0B}E escaped the fugitive hunters on a beloved horse? {02}{02}4... I'm glad you're safe...
+@6037.14
+What, {02}{02}n of the {02}{0B}E escaped the fugitive hunters on a beloved horse? {01}C{0C}{00} has always been lucky.
+@6037.15
+What, {02}{02}n of the {02}{0B}E escaped the fugitive hunters on a beloved horse? {01}C{0C}{00} has always been lucky...
+@6037.16
+What, {02}{02}n of the {02}{0B}E escaped the fugitive hunters on a beloved horse? Hm, {02}{02}4 is quite capable...
+@6037.17
+What, {02}{02}n of the {02}{0B}E escaped the fugitive hunters on a beloved horse? {02}{02}4 is quite capable too...
+@6037.18
+What, {02}{02}n of the {02}{0B}E escaped the fugitive hunters on a beloved horse? {02}{02}4 has found a fine horse...
+@6038.2
+So our {02}{02}n escaped the fugitive hunters on a beloved horse! Well, thank heaven our lord is safe...
+@6038.4
+Our {02}{02}n escaped the fugitive hunters on a beloved horse? Whatever the case, thank goodness our lord is safe...
+@6038.6
+Our {02}{02}n was set upon by fugitive hunters while fleeing a field battle, but was saved by a beloved horse!
+@6038.7
+Our {02}{02}n was set upon by fugitive hunters while fleeing a field battle, but was saved by a beloved horse!
+@6039
+Finish him off!! Take this one's head and we'll all rise in the world!
+@6039.1
+Hey, hey, samurai. A little learning's a dangerous thing, they say. That's no joke, hee hee.
+@6039.2
+Damn, he got me!! You bastard, I'll take you with me!
+@6040
+Finish her off, everyone!! Take this woman's head and we'll rise in the world!
+@6040.1
+She's a woman just like me. I won't lose! Here goes!
+@6041
+Not bad... Gah... I-I won't be beaten...
+@6041.1
+Ugh! D-damn... Of all the stratagems, running away is the best. Men, run for the castle! Let's meet again alive!
+@6041.2
+Ugh...! They're tough... Everyone, hold the line! Don't give up!!
+@6042
+Not bad... Ugh... But I can still fight...
+@6042.1
+Eek! They're tough... Of all the stratagems, running away is the best. Everyone, run for the castle! Let's meet again alive!
+@6042.2
+Ah...! That swordwork... no amateur, it seems... Everyone, hold the line! Don't give up!!
+@6043
+That I should be wounded by fugitive hunters... Ugh...!
+@6043.1
+That I should be wounded by fugitive hunters... Ugh...!
+@6043.2
+What, {01}C{0C}{00} was wounded by fugitive hunters?! {01}C{0C}{00}... will you be all right...?
+@6043.3
+What, {01}C{0C}{00} was wounded by fugitive hunters?! {01}C{0C}{00}... please be safe...
+@6043.4
+What, {02}{02}4 was wounded by fugitive hunters?! I hope they make it back to the castle safely...
+@6043.5
+What, {02}{02}4 was wounded by fugitive hunters?! I hope they make it back to the castle safely...
+@6043.6
+What, {01}C{0C}{00} was wounded by fugitive hunters?! {01}C{0C}{00}... please be safe...
+@6043.10
+{02}{02}n of our castle was wounded by fugitive hunters?! Tomorrow it could be me...
+@6043.11
+{02}{02}n of our castle was wounded by fugitive hunters?! Tomorrow it could be me...
+@6044.4
+What, Lord {02}{02}4 was wounded by fugitive hunters?! {01}C{0C}{00}... will you be all right...?
+@6044.5
+What, Lord {02}{02}4 was wounded by fugitive hunters?! {01}C{0C}{00}... please be safe...
+@6044.8
+What, {02}{02}4 was wounded by fugitive hunters?! And how bad is it?! I hope they make it back to the castle safely...
+@6044.9
+What, {02}{02}4 was wounded by fugitive hunters?! And how bad is it?! I'm worried... Will they be all right...?
+@6044.10
+What, {01}C{0C}{00} of the {02}{0B}E was wounded by fugitive hunters?! {01}C{0C}{00} is as reckless as ever...
+@6044.11
+What, {01}C{0C}{00} of the {02}{0B}E was wounded by fugitive hunters?! {01}C{0C}{00} is as reckless as ever...
+@6044.12
+What, {02}{02}n of the {02}{0B}E was wounded by fugitive hunters?! {02}{02}4 is still only half a warrior. They should thank their lucky stars...
+@6044.13
+What, {02}{02}n of the {02}{0B}E was wounded by fugitive hunters?! {02}{02}4 still has much to learn...
+@6044.14
+What, {02}{02}n of the {02}{0B}E was wounded by fugitive hunters?! {01}C{0C}{00} is as reckless as ever...
+@6044.15
+What, {02}{02}n of the {02}{0B}E was wounded by fugitive hunters?! {01}C{0C}{00} is as reckless as ever...
+@6045
+Our {02}{02}n was wounded by fugitive hunters? How pathetic...
+@6045.1
+Our {02}{02}n was wounded by fugitive hunters? Whatever the case, at least they're safe...
+@6045.2
+Our {02}{02}n was wounded by fugitive hunters? It is a blessing in misfortune that our lord survived...
+@6045.3
+Our {02}{02}n was wounded by fugitive hunters? What bad luck...
+@6045.4
+Our {02}{02}n was wounded by fugitive hunters? It is a blessing in misfortune that our lord survived...
+@6045.5
+Our {02}{02}n was wounded by fugitive hunters? What bad luck...
+@6045.6
+It seems our {02}{02}n was set upon by fugitive hunters and wounded!
+@6045.7
+It seems our {02}{02}n was wounded by fugitive hunters!
+@6046
+Th-they're strong... Too much for us. Fall back, fall back!
+@6046.1
+Eek! We picked the wrong one... I-I'm off!
+@6046.2
+Aaargh! H-help us! We're sorry!
+@6047
+Eek! What are you doing?! ...I-I'm off!
+@6047.1
+Aaargh! Spare my life! We're both women, aren't we?
+@6048
+Small fry. All that big talk, and this is all you've got? Get lost!
+@6048.1
+I escaped, somehow... To be killed by common soldiers would be beyond shameful...
+@6048.2
+Phew... What a waste of time... I must hurry back to {02})N.
+@6048.3
+Phew, we made it through somehow... Back to {02})N, quickly.
+@6049
+What happened to all that bluster? Admit defeat and be gone!
+@6049.1
+I escaped, somehow... To be killed by common soldiers would shame my warrior house...
+@6049.2
+What a waste of time... I must hurry back to {02})N.
+@6049.3
+Phew, we made it through somehow... Let us hurry back to {02})N.
+@6050
+That I should be set upon by fugitive hunters... One must be careful with few men at hand.
+@6050.1
+That I should be set upon by fugitive hunters... One must be careful with few men at hand.
+@6050.2
+What, {01}C{0C}{00} came through the fugitive hunters! Thank heaven you're safe.
+@6050.3
+What, {01}C{0C}{00} came through the fugitive hunters?! Thank goodness...
+@6050.4
+What, {02}{02}4 came through the fugitive hunters! Making me worry like that...
+@6050.5
+What, {02}{02}4 came through the fugitive hunters?! Making me worry like that...
+@6050.10
+{02}{02}n of our castle came through the fugitive hunters! Glad they're safe.
+@6050.11
+{02}{02}n of our castle came through the fugitive hunters?! Thank goodness...
+@6051.3
+What, {02}{02}4 came through the fugitive hunters?! You had me worried...
+@6051.8
+What, Lord {02}{02}4 came through the fugitive hunters! Making me worry like that! Still, thank heaven for it.
+@6051.9
+What, Lord {02}{02}4 came through the fugitive hunters?! Honestly, making me worry so. Still, thank goodness.
+@6051.10
+What, {01}C{0C}{00} of the {02}{0B}E came through the fugitive hunters! Such vigour, at that age.
+@6051.11
+What, {01}C{0C}{00} of the {02}{0B}E came through the fugitive hunters?! Such vigour, at that age.
+@6051.12
+What, {02}{02}n of the {02}{0B}E came through the fugitive hunters! The youngster is making a stir, it seems.
+@6051.13
+What, {02}{02}n of the {02}{0B}E came through the fugitive hunters?! That child is doing well, it seems...
+@6051.14
+What, {02}{02}n of the {02}{0B}E came through the fugitive hunters! Just like {01}C{0C}{00}.
+@6051.15
+What, {02}{02}n of the {02}{0B}E came through the fugitive hunters?! Just like {01}C{0C}{00}...
+@6051.18
+What, {02}{02}n of the {02}{0B}E came through the fugitive hunters! The youngster is making a stir.
+@6051.19
+What, {02}{02}n of the {02}{0B}E came through the fugitive hunters?! Doing well, it seems.
+@6052
+Our {02}{02}n escaped the fugitive hunters! That was close...
+@6052.1
+Our {02}{02}n escaped the fugitive hunters?! That was close...
+@6052.2
+Our {02}{02}n escaped the fugitive hunters! Just like Lord {02}{02}4.
+@6052.3
+Our {02}{02}n escaped the fugitive hunters! Just like Lord {02}{02}4.
+@6052.4
+Our {02}{02}n escaped the fugitive hunters?! Just like Lord {02}{02}4.
+@6052.5
+Our {02}{02}n escaped the fugitive hunters?! Just like Lord {02}{02}4.
+@6052.6
+It seems our {02}{02}n has escaped the fugitive hunters!
+@6052.7
+It seems our {02}{02}n has escaped the fugitive hunters!
+@6053
+My {02}{01}N seems to be under siege. My apologies to {01}C{18}{00}, but I must withdraw.
+@6053.1
+My {02}{01}N seems to be under siege... My apologies to {01}C{18}{00}, but I must withdraw.
+@6054
+In the present situation I cannot send false orders...
+@6054.1
+In the present situation I cannot send false orders...
+@6054.2
+In the present situation we cannot send false orders.
+@6055
+The {02}{01}v has fallen... I no longer have the will to live. I shall follow {01}C{0C}{00} in death...
+@6055.1
+With {01}C{0C}{00} gone, my life has no meaning. {01}C{0C}{00}, I come to your side at once...
+@6055.2
+I have no wish to serve the likes of {02}{03}4. My soul will always be with {01}C{0C}{00}...
+@6056
+The {02}{01}v has fallen... I no longer have the will to live. I shall follow {01}C{0C}{00} in death...
+@6056.1
+With {01}C{0C}{00} gone, my life has no meaning. {01}C{0C}{00}, I come to your side at once...
+@6056.2
+I have no wish to serve the likes of {02}{03}4. For my soul will always be with {01}C{0C}{00}...
+@6057.2
+The troops' morale has fallen and we can no longer advance... {02}{01}n and {02}{BF} others will hurry back to the castle and prepare for the next sortie.
+@6057.3
+The troops' morale has fallen and we can no longer advance... {02}{01}n and {02}{BF} others will hurry back to the castle and prepare for the next sortie.
+@6058
+The army from {02}{03}N lost heart, it seems, and {01}C{1A}{00} and {02}{BF} others have retreated.
+@6058.1
+The army from {02}{03}N lost heart, it seems, and {01}C{1A}{00} and {02}{BF} others have retreated.
+@6058.2
+The army from {02}{03}N lost heart, it seems, and {01}C{1A}{00} and {02}{BF} others have retreated.
+@6059
+What! A surprise attack! It seems {02}{02}N is surrounded by the enemy army...
+@6059.1
+What, a surprise attack... {02}{02}N is surrounded by the enemy army.
+@6059.2
+{01}C{0C}{00}, a surprise attack! {02}{02}N is surrounded by the enemy army!
+@6060
+{01}C{17}{00}'s army seems to have pulled back to {02}{03}N... Did something happen?
+@6060.1
+{01}C{17}{00}'s army seems to have pulled back to {02}{03}N... I wonder what happened?
+@6060.2
+{01}C{17}{00}'s army has suddenly pulled back to {02}{03}N. Has something happened?
+@6061
+{01}C{17}{00}'s army seems to have suddenly stopped moving... Did something happen?
+@6061.1
+{01}C{17}{00}'s army seems to have suddenly stopped moving... I wonder what happened?
+@6061.2
+{01}C{17}{00}'s army seems to have suddenly stopped moving. Has something happened?
+@6062
+{01}C{0C}{00}, a messenger from {02}{02}N! A night attack has left {02}{02}N on the verge of falling. You must return at once, he says...
+@6062.1
+{01}C{0C}{00}, a messenger from {02}{02}N! {02}{02}N is struggling against a night attack. You must return at once, he says...
+@6064
+Lord {02}{02}4, a messenger from {02}{02}N! A night attack has left {02}{02}N on the verge of falling. You must return at once, he says...
+@6064.1
+Lord {02}{02}4, a messenger from {02}{02}N! {02}{02}N is struggling against a night attack. You must return at once, he says...
+@6066
+A transfer is not possible...
+@6066.1
+A transfer is not possible...
+@6066.2
+A transfer is not possible.
+@6067
+A transfer would not be approved...
+@6067.1
+A transfer would not be approved...
+@6067.2
+A transfer would not be approved.
+@6068.2
+{02})N, which we are besieging, seems to be growing weaker. If we storm it, it may fall at a stroke.
+@6069
+I cannot order the ninja to scheme.
+@6069.1
+I cannot order the ninja to scheme.
+@6069.2
+The ninja cannot be ordered to scheme.
+@6070
+I cannot pass the headship to anyone.
+@6070.1
+I cannot pass the headship to anyone.
+@6070.2
+You cannot pass the headship to anyone.
+@6071
+I cannot give up the castle to anyone.
+@6071.1
+I cannot give up the castle to anyone.
+@6071.2
+You cannot hand the castle over to anyone.
+@6072
+We cannot get a punitive order issued.
+@6072.1
+We cannot get a punitive order issued.
+@6072.2
+We cannot get a punitive order issued.
+@6073
+I cannot issue a punitive order.
+@6073.1
+I cannot issue a punitive order.
+@6073.2
+A punitive order cannot be issued.
+@6074
+We cannot get the punitive order withdrawn.
+@6074.1
+We cannot get the punitive order withdrawn.
+@6074.2
+We cannot get the punitive order withdrawn.
+@6075
+We cannot get anyone branded an enemy of the court.
+@6075.1
+We cannot get anyone branded an enemy of the court.
+@6075.2
+We cannot get anyone branded an enemy of the court.
+@6076
+We cannot get the branding as enemy of the court lifted.
+@6076.1
+We cannot get the branding as enemy of the court lifted.
+@6076.2
+We cannot get the branding as enemy of the court lifted.
+@6077
+The Imperial Court has branded us an enemy of the court!? This is terrible...
+@6077.1
+The Imperial Court has branded us an enemy of the court!? How awful...
+@6077.2
+The Imperial Court has branded us an enemy of the court!? This is terrible...
+@6078
+The Imperial Court has lifted its old branding and named us the new enemy of the court!? This is terrible...
+@6078.1
+The Imperial Court has lifted its old branding and named us the new enemy of the court!? How awful...
+@6078.2
+The Imperial Court has lifted its old branding and named us the new enemy of the court!? This is terrible...
+@6079
+The Imperial Court has branded the {02}{03}v an enemy of the court!
+@6079.1
+The Imperial Court has branded the {02}{03}v an enemy of the court!
+@6079.2
+The Imperial Court has branded the {02}{03}v an enemy of the court.
+@6080
+The Imperial Court has lifted its old branding and named the {02}{03}v the new enemy of the court!
+@6080.1
+The Imperial Court has lifted its old branding and named the {02}{03}v the new enemy of the court!
+@6080.2
+The Imperial Court has lifted its old branding and named the {02}{03}v the new enemy of the court.
+@6081
+The shogunate has issued a punitive order against us!? Getting above themselves...
+@6081.1
+The shogunate has issued a punitive order against us!? Unforgivable...
+@6081.2
+The shogunate has issued a punitive order against us! This is terrible...
+@6082
+The shogunate has dropped its old punitive order and issued a new one against us!? Getting above themselves...
+@6082.1
+The shogunate has dropped its old punitive order and issued a new one against us!? Unforgivable...
+@6082.2
+The shogunate has dropped its old punitive order and issued a new one against us! This is terrible...
+@6083
+The shogunate has issued a punitive order against the {02}{03}v!
+@6083.1
+The shogunate has issued a punitive order against the {02}{03}v!
+@6083.2
+The shogunate has issued a punitive order against the {02}{03}v.
+@6084
+The shogunate has dropped its old punitive order and issued a new one against the {02}{03}v!
+@6084.1
+The shogunate has dropped its old punitive order and issued a new one against the {02}{03}v!
+@6084.2
+The shogunate has dropped its old punitive order and issued a new one against the {02}{03}v.
+@6085
+Back to choosing whom to give orders to.
+@6085.1
+Let us go back to choosing whom to give orders to.
+@6085.2
+Back to choosing whom to give orders to.
+@6086
+What orders shall I give?
+@6086.1
+What orders shall I give?
+@6086.2
+Please choose the orders to give.
+@6087
+10 years have passed since the start of the game. Speed Mania play is over.
+@6088
+Hm? ...Who could this letter be from? Oh, it's from {02}{02}4, who married {02}{03}n. Let me see...
+@6088.1
+Oh, a letter from {02}{02}4! {02}{02}4 seems to be living well. Let me see...
+@6088.2
+Never forgetting your father, always writing to me... {02}{02}4 is truly a dutiful child. Let me see...
+@6089
+Father, your {02}{01}4 is lonely. Since you no longer write to Lord {02}{03}4, the {02}{03}2 household look on me coldly...
+@6090
+Hmm, it seems I have made {02}{02}4 feel lonely. I am a failure as a father... I shall write to {02}{03}4 at once.
+@6092
+There are rumours that you have been slighting Lord {02}{03}4 of late, Father... Is it true? Your {02}{01}4 is so worried...
+@6093
+Hmm, it seems I have caused {02}{02}4 grief. I am a failure as a father... I shall write to {02}{03}4 at once.
+@6095
+I have heard rumours that Lord {02}{04}n is plotting treason. I do not know if it will be of use to you, Father, but I write to let you know at once...
+@6096
+What!? {02}{04}n is plotting treason!? {02}{02}4 has brought me good intelligence. I shall write back with my thanks.
+@6096.1
+Oh... {02}{04}n is plotting treason, is it. {02}{02}4 has brought me good intelligence. I shall write back with my thanks.
+@6098
+There are rumours that Lord {02}{04}n is unhappy with you, Father... I do not know if it will be of use, but I write to let you know at once...
+@6098.1
+There are rumours that Lord {02}{04}n is unhappy with the {02}{04}v... I do not know if it will be of use, but I write to let you know at once...
+@6099
+What... {02}{04}n is unhappy with me... I must think of some measure. But first I shall write back to {02}{02}4.
+@6099.1
+Oh... {02}{04}n is unhappy with the {02}{04}v, is it. Now that is interesting news...
+@6104
+Father, are you well? Your {02}{01}4 is living well. Lord {02}{03}4 is so kind that every day is a happy one...
+@6104.1
+Your {02}{01}4 is truly blessed. Lord {02}{03}4 and everyone in the {02}{03}2 clan are so kind to me...
+@6104.2
+At first I was afraid to leave you, Father, but now I am truly glad I married Lord {02}{03}4...
+@6105
+It seems {02}{02}4 is living happily. I am relieved, and yet somehow a little lonely... Now, I shall write back too.
+@6106
+In the present situation I cannot negotiate these terms.
+@6106.1
+In the present situation I cannot negotiate these terms.
+@6106.2
+In the present situation we cannot negotiate these terms.
+@6106.3
+In the present situation we cannot negotiate these terms.
+@6107
+In the present situation I cannot make this proposal.
+@6107.1
+In the present situation I cannot make this proposal.
+@6107.2
+In the present situation this proposal cannot be made.
+@6107.3
+In the present situation this proposal cannot be made.
+@6108
+Continue the game as it is?
+@6109
+"Officer Mania" is a customisation for players who want to gather many able officers.\n\nOfficers' personalities, compatibility and origins are all set fictitiously; officers rarely die, and recruitment succeeds more often.\n\nTo win the prize, reach 5000 points or more. Points are added for each officer serving at your castles. The higher an officer's total Politics, Leadership and Intellect and the larger their fief, the more points.\n\nDuring play, choose [Options] - [View Custom Data] to check the customisation and your current points.
+@6110
+"Treasure Mania" is a customisation for players who want to gather many fine treasures.\n\nThe only income is gold. You can [Trade] and [Request Trade] with every city and pirate band in the land. Confiscating treasures from retainers does not lower their loyalty.\n\nTo win the prize, reach 5000 points or more. Points are added for each treasure you obtain. The higher its grade, the more points, and more still if it comes from "Nanban" (the West).\n\nDuring play, choose [Options] - [View Custom Data] to check the customisation and your current points.
+@6111
+"Speed Mania" is a customisation for players who want to unite the realm as fast as possible.\n\nOfficers grow and castles develop quickly, and officers' troop types can be changed without limit. In field and siege battles, friendly pirates give you powerful covering fire.\n\nTo win the prize, reach 3000 points or more within 10 years of the start. Points are added for each castle the player's daimyo controls, and taken off for each castle lost.\n\nDuring play, choose [Options] - [View Custom Data] to check the customisation and your current points.
+@6112
+"Hardship Mania" is a customisation for players who want to unite the realm the slow, hard way.\n\nEven if you take another daimyo's home castle, that clan's other castles become independent. Friendship and loyalty swing wildly with compatibility with the castle lord, and ninja ask twice the usual fee.\n\nTo win the prize, bring every castle and base in the land under your clan's control.\n\nDuring play, choose [Options] - [View Custom Data] to check the customisation and your current points.
+@6113
+"Battle Mania" is a customisation for players who just want to fight battle after battle.\n\nOfficers' troop types can be changed without limit, and you can command the battles of your clan's other castles directly. In battle, officers with high Leadership have a certain advantage.\n\nTo win the prize, reach 3000 points or more. Points are added for winning field and siege battles, and taken off for defeats.\n\nDuring play, choose [Options] - [View Custom Data] to check the customisation and your current points.
+@6114
+"Intrigue Mania" is a customisation for players who would rather unite the realm by scheming than by fighting.\n\nNinja are cheap to hire and grow faster than usual. Officers' personalities and compatibility are set fictitiously, and all officers share the same origin.\n\nTo win the prize, reach 5000 points or more. Points are added for each successful [Force Vassalage], [Poach] and [Order Defection].\n\nDuring play, choose [Options] - [View Custom Data] to check the customisation and your current points.
+@6115
+"Wedding Mania" is a customisation for players who want to be surrounded by princesses and kin officers.\n\nOfficers rarely die, fictional princesses appear more often and recruitment succeeds more often. Loyalty and friendship do not change by themselves.\n\nTo win the prize, reach 3000 points or more. Points are added each time a daughter of the player's daimyo is given in [Marriage] to an officer. The higher the groom's total Politics, Leadership and Intellect and the larger his fief, the more points.\n\nDuring play, choose [Options] - [View Custom Data] to check the customisation and your current points.
+@6116
+If you want to fine-tune the settings yourself, choose "Free Mania".\n\nChoose "Free Mania" on the Special Customisation screen and click "Next" to go to the customisation screens. Click each item's ▼ and change it to the setting you like.\n\n"Free Mania" customisations can be saved to a file and swapped with other players. Click [Export] to save the current customisation to the [Edit] - [Custom] folder inside the folder where "Nobunaga no Yabou: Soutenroku with Power-Up Kit" is installed.
+@6117
+With the units we have now, defeat is certain. Shall I split the units...
+@6117.1
+With the units we have now, defeat is certain. Shall I split the units...
+@6117.2
+With the units we have now, defeat is certain. Shall we split the units?
+@6118
+We attack {02}{02}n's unit! Everyone, follow me!
+@6118.1
+We attack {02}{02}n's unit! Men, don't fall behind!
+@6118.2
+We shall attack {02}{02}n's unit! All of you, follow Us.
+@6118.3
+We attack {02}{02}n's unit. Everyone, follow me.
+@6118.4
+We attack {02}{02}n's unit! Everyone, keep up!
+@6118.5
+Then let us attack {02}{02}n's unit.
+@6119
+Right, we attack {02}{03}n's unit.
+@6119.1
+Right, we attack {02}{03}n's unit.
+@6119.2
+Right, go and attack {02}{03}n's unit!
+@6119.3
+Right, attack {02}{03}n's unit!
+@6119.4
+Right, you may go and attack {02}{03}n's unit.
+@6119.5
+Right, go and attack {02}{03}n's unit.
+@6119.6
+Right, go and attack {02}{03}n's unit!
+@6119.7
+Then please go and attack {02}{03}n's unit.
+@6120
+{02}{03}n resisted to the last. Execute them and abolish their house.
+@6120.1
+{02}{03}n resisted to the last. Execute them and abolish their house.
+@6120.2
+{02}{03}n resisted to the last, and will be executed and their house abolished.
+@6121
+Lord {02}{02}n, we come to your aid! Behold the might of our ironclads!
+@6122
+Hmm... Best not to move rashly. We shall wait and see.
+@6123
+Lord {02}{02}n, leave it to us! We'll blow that gate to pieces!
+@6124
+With Lord {02}{02}n in danger, we cannot stand idle! We shall cover you!
+@6125
+Meddling is not in our nature... We shall wait and see.
+@6126
+The {02}{03}v army that marched out at our request lost its battle with the enemy and has pulled back to its base, it seems.
+@6126.1
+The {02}{03}v army that marched out at our request lost its battle with the enemy and has pulled back to its base, it seems.
+@6126.2
+The {02}{03}v army that marched out at our request seems to have lost its battle with the enemy and pulled back to its base.
+@6127
+The {02}{03}v army that marched out at our request lost its battle with the enemy and has pulled back to its castle, it seems.
+@6127.1
+The {02}{03}v army that marched out at our request lost its battle with the enemy and has pulled back to its castle, it seems.
+@6127.2
+The {02}{03}v army that marched out at our request seems to have lost its battle with the enemy and pulled back to its castle.
+@6128
+{02}{03}n is my sworn enemy. Execute them and abolish their house.
+@6128.1
+{02}{03}n is my sworn enemy. Execute them and abolish their house.
+@6128.2
+{02}{03}n is {01}C{0C}{00}'s sworn enemy. They will be executed and their house abolished.
+@6129
+Choose the registered treasure to edit.
+@6130
+Choose the registered treasures to load.
+@6131
+Load %d registered treasures. Are you sure?
+@6132
+There are no registered treasures.
+@6133
+Choose the registered treasures to save.
+@6134
+Choose the registered treasure to delete.
+@6135
+Choose the registered treasures to bring into play.
+@6136
+Bring %d registered treasures into play. Are you sure?
+@6137
+Set the treasure's name.
+@6138
+Set the reading of the treasure's name.
+@6139
+Set the treasure's type.
+@6140
+Set the treasure's grade.
+@6141
+Set the treasure's origin.
+@6142
+Set the treasure's graphic.
+@6143
+Set the skill the treasure grants.
+@6144
+Set the ability the treasure raises.
+@6145
+Set the troop type the treasure allows.
+@6146
+Look at other treasure data.
+@6147
+Finish setting the treasure data.
+@6148
+Register the treasure data as it is.
+@6149
+A "name" and a "reading" must be set to register.
+@6150
+Make the treasure's origin Japan.
+@6151
+Make the treasure's origin Ming.
+@6152
+Make the treasure's origin Nanban (the West). Nanban treasures are obtained through dealings with Christians or trade.
+@6153
+Owning the treasure grants no skill.
+@6154
+Discard the data being created and return to the registered treasure screen. Are you sure?
+@6155
+Set the castle's gold.
+@6156
+Set the castle's rice.
+@6157
+Set the castle's horses.
+@6158
+Set the castle's guns.
+@6159
+The castle's guns cannot be changed.
+@6160
+Set the castle's yield.
+@6161
+Set the castle's commerce.
+@6162
+Set the defence and maximum defence of the castle's main bailey.
+@6163
+Set the defence and maximum defence of the castle's second bailey.
+@6164
+Set the defence and maximum defence of the castle's third bailey.
+@6165
+Set the size of the castle's gold mine.
+@6166
+This castle has no gold mine.
+@6167
+Set the size of the castle's silver mine.
+@6168
+This castle has no silver mine.
+@6169
+Set the size of the castle's horse ranch.
+@6170
+This castle has no horse ranch.
+@6171
+Set the size of the castle's smithy.
+@6172
+This castle has no smithy.
+@6173
+Finish setting the castle data.
+@6174
+Discard the data being created and return to castle selection. Are you sure?
+@6175
+Set the princess's family name.
+@6176
+Set the reading of the princess's family name.
+@6177
+Set the princess's given name.
+@6178
+Set the reading of the princess's given name.
+@6179
+Set the princess's lifespan and cause of death.
+@6180
+Set the princess's portrait.
+@6181
+Finish setting the princess data.
+@6182
+Discard the data being created and return to princess selection. Are you sure?
+@6183
+Set the ninja's abilities.
+@6184
+Set the ninja's gender.
+@6185
+All are set to female.
+@6186
+Set the ninja's portrait.
+@6187
+Finish setting the ninja data.
+@6188
+Discard the data being created and return to ninja selection. Are you sure?
+@6189
+The officer's family name cannot be changed.
+@6190
+The officer's given name cannot be changed.
+@6191
+The reading of the officer's family name cannot be changed.
+@6192
+The reading of the officer's given name cannot be changed.
+@6193
+The officer's status cannot be changed.
+@6194
+The officer's home castle cannot be changed.
+@6195
+Set the officer's domestic and diplomatic abilities.
+@6196
+Set the officer's battle abilities.
+@6197
+Set the officer's strategic leanings.
+@6198
+Set the officer's scheming and tactics abilities.
+@6199
+Set the officer's sense of duty.
+@6200
+Set the officers this officer gets on with.
+@6201
+Set how easily the officer betrays.
+@6202
+Set the officer's origin.
+@6203
+Set to a fixed origin.
+@6204
+Set what the officer values most.
+@6205
+Set the troop types the officer can lead.
+@6206
+Set so that all troop types can be used.
+@6207
+Set the officer's skill (up to 1).
+@6208
+Set the officer's tactics (up to 3).
+@6209
+The officer's birth year cannot be changed.
+@6210
+Set the officer's lifespan and cause of death.
+@6211
+The officer's father cannot be changed.
+@6212
+Set the officer's portrait.
+@6213
+The officer's gender cannot be changed.
+@6214
+Finish setting the officer data.
+@6215
+Discard the data being created and return to officer selection. Are you sure?
+@6216
+%5d pts
+@6217
+%5d seasons
+@6218
+Get 5000+ points
+@6220
+Get 3000+ points in 10 years
+@6221
+Get 3000 points by %s
+@6222
+Unite the realm
+@6223
+Get 3000+ points
+@6226
+None
+@6227
+30 officers incl. Ashikaga Takauji
+@6228
+30 treasures incl. Koyo Gunkan
+@6229
+Special: Wedding Mania
+@6230
+Scenario: Battle of Funaokayama
+@6231
+30 officers incl. Minamoto no Yoshitsune
+@6232
+30 officers incl. Abe no Seimei
+@6233
+Scenario: Battle of Shizugatake
+@6235
+Won! 30 officers incl. Ashikaga Takauji
+@6236
+Won! 30 treasures incl. Koyo Gunkan
+@6237
+Won! Special: Wedding Mania
+@6238
+Won! Scenario: Battle of Funaokayama
+@6239
+Won! 30 officers incl. Minamoto no Yoshitsune
+@6240
+Won! 30 officers incl. Abe no Seimei
+@6241
+Won! Scenario: Battle of Shizugatake
+@6242
+Gather officers at your castles to raise your points. The higher their abilities and fiefs, the more points.
+@6243
+Gather treasures at your castles to raise your points. The higher their grade, the more points.
+@6244
+Points rise as your clan rules more castles and fall as it loses them.
+@6246
+Points rise when you win field and siege battles and fall when you lose.
+@6247
+Points rise when you use diplomacy and schemes to make enemy castles defect or poach enemy officers.
+@6248
+Points rise when the player daimyo marries off a daughter. The higher the groom's abilities and fief, the more points.
+@6250
+Honnoji Incident: Not available\nSekigahara Heroes: Not available
+@6251
+Registered events: Off\nRegistered officers: Off\nPrincess limit: On
+@6252
+Registered events: Off\nRegistered treasures: Off
+@6253
+Registered events: Off
+@6254
+Take all castles: Large-scale independence\nRegistered events: Off\nRegistered officers/treasures: Off\nPrincess limit: On
+@6255
+Take all castles: Small-scale independence\nOwn battles: Watch\nRegistered officers: Off
+@6256
+Take all castles: Large-scale independence\nOwn battles: Don't watch\nRegistered events: Off\nRegistered officers: Off
+@6257
+Registered events: Off\nRegistered officers: Off\nPrincess limit: Off
+@6258
+No limit
+@6259
+Take on the Special Customisation "Officer Mania".
+@6260
+Take on the Special Customisation "Treasure Mania".
+@6261
+Take on the Special Customisation "Speed Mania".
+@6262
+Take on the Special Customisation "Hardship Mania".
+@6263
+Take on the Special Customisation "Battle Mania".
+@6264
+Take on the Special Customisation "Intrigue Mania".
+@6265
+Take on the Special Customisation "Wedding Mania".
+@6266
+Take on the Special Customisation "Free Mania".
+@6267
+Finish checking the customisation data.
+@6268
+Reset the customisation data.
+@6269
+Save the customisation settings.
+@6270
+Change the scoring method.
+@6271
+Make officers grow faster.
+@6272
+Make officers grow at the standard rate.
+@6273
+Make officers grow slower.
+@6274
+Set officers' personalities as in history.
+@6275
+Set officers' personalities at random.
+@6276
+Set officers' compatibility as in history.
+@6277
+Set officers' compatibility at random.
+@6278
+Each officer can lead only certain troop types.
+@6279
+All officers can lead every troop type.
+@6280
+Set officers' origins as in history.
+@6281
+Set officers' origins at random.
+@6282
+Give all officers the same origin.
+@6283
+Each officer has only certain tactics.
+@6284
+All officers have 3 tactics.
+@6285
+Set officers' genders as in history.
+@6286
+Make all officers female.
+@6287
+Officers die less easily.
+@6288
+Officers die at the standard rate.
+@6289
+Officers die more easily.
+@6290
+[False Orders] cannot be used.
+@6291
+Only castle lords run by players can use [False Orders].
+@6292
+Computer castle lords also use [False Orders].
+@6293
+Show all armies.
+@6294
+Show only allied and minor power armies.
+@6295
+Army morale falls at the normal rate.
+@6296
+Army morale falls more easily and recovers more slowly.
+@6297
+Nothing changes when a castle is besieged.
+@6298
+A besieged castle loses defence and morale.
+@6299
+A besieged castle loses only morale.
+@6300
+Besieged bases do not intercept.
+@6301
+Besieged bases may intercept.
+@6302
+You command battles only for your own castle's armies.
+@6303
+You command all your clan's armies directly.
+@6304
+Field battle terrain depends on where the battle takes place.
+@6305
+Field battle terrain is chosen at random.
+@6306
+You may choose the field battle terrain.
+@6307
+The castle layout in siege battles depends on the castle.
+@6308
+The castle layout is chosen at random.
+@6309
+Battles favour Intellect.
+@6310
+Battles favour Leadership.
+@6311
+Field battles are fought to a decision.
+@6312
+Field battles end in a draw when time runs out.
+@6313
+Units are not split.
+@6314
+Units may be split in field battles when there are fewer than 3.
+@6315
+No pirate support in field battles.
+@6316
+Pirates may give support in field battles.
+@6317
+Pirates give strong support in field battles.
+@6318
+In siege battles, breaking the main bailey gate wins.
+@6319
+In siege battles, you win only by wiping out all defending units.
+@6320
+[Yield] cannot be used in siege battles.
+@6321
+[Yield] can be used in siege battles.
+@6322
+No garrison troops appear.
+@6323
+Garrison troops may appear when there are few defending officers.
+@6324
+No pirate support in siege battles.
+@6325
+Pirates may give support in siege battles.
+@6326
+Pirates give strong support in siege battles.
+@6327
+[Magistrates] cost double, and castles develop faster.
+@6328
+Domain development at the standard rate.
+@6329
+[Magistrates] cost half, and castles develop slower.
+@6330
+Flood works happen more often and progress faster.
+@6331
+Flood works at the standard rate and speed.
+@6332
+Flood works happen less often and progress slower.
+@6333
+Castle lords pay no tribute to corps commanders.
+@6334
+Castle lords pay 10％ of income to corps commanders.
+@6335
+Castle lords pay 20％ of income to corps commanders.
+@6336
+Castle lords pay 30％ of income to corps commanders.
+@6337
+The game ends when the user's castle lord dies.
+@6338
+The headship can be passed on.
+@6339
+[Transfer] cannot be used.
+@6340
+[Transfer] can be used.
+@6341
+Computer castle lords rarely use stratagems.
+@6342
+Computer castle lords use stratagems at the standard rate.
+@6343
+Computer castle lords often use stratagems.
+@6344
+[Poach] succeeds less often.
+@6345
+[Poach] succeeds at the standard rate.
+@6346
+[Poach] succeeds more often.
+@6347
+Troops recover each season, but [Recruit] is not available.
+@6348
+Troops recover each season, and [Recruit] is available.
+@6349
+Troops do not recover each season, but [Recruit] is available.
+@6350
+Minor powers send no tribute.
+@6351
+Minor powers may send tribute.
+@6352
+Ninja can gather information, guard your castle and scheme against other castles.
+@6353
+Ninja can only gather information and guard your castle.
+@6354
+Make ninja grow faster.
+@6355
+Make ninja grow at the standard rate.
+@6356
+Make ninja grow slower.
+@6357
+Daimyo lobbying decides who is named enemy of the court or target of a punitive order.
+@6358
+Enemies of the court and punitive order targets are chosen at random.
+@6359
+Castle lords gain a just cause through their own efforts.
+@6360
+Every castle lord always has a just cause.
+@6361
+You can deal only with merchants within your supply lines.
+@6362
+You can deal with merchants all over the land.
+@6363
+You can deal only with pirates within your supply lines.
+@6364
+You can deal with pirates all over the land.
+@6365
+Uprisings happen less often.
+@6366
+Uprisings happen at the standard rate.
+@6367
+Uprisings happen more often.
+@6368
+Your corps commanders and castle lords make no [Propose].
+@6369
+Your corps commanders and castle lords may [Propose].
+@6370
+You can become another clan's vassal.
+@6371
+You cannot become another clan's vassal.
+@6372
+[Donate] and [Gift Gold] give a fixed amount of gold.
+@6373
+[Donate] and [Gift Gold] give about 10％ of the castle's gold.
+@6374
+Income is gold only.
+@6375
+Income is gold and rice.
+@6376
+Income is rice only.
+@6377
+Loyalty and friendship do not change by themselves.
+@6378
+Loyalty and friendship change with compatibility with the castle lord.
+@6379
+Loyalty and friendship change sharply with compatibility with the castle lord.
+@6380
+Control or subjugate every castle to win.
+@6381
+Control or subjugate every castle and base to win.
+@6382
+Show years in the Western calendar (e.g. 1582).
+@6383
+Show years by era name (e.g. Tensho 10).
+@6384
+Historical events do not happen.
+@6385
+Historical events happen when their conditions are met.
+@6386
+Treasures have no effect.
+@6387
+Treasures have their effects.
+@6388
+Disasters happen less often.
+@6389
+Disasters happen at the standard rate.
+@6390
+Disasters happen more often.
+@6391
+Computer castle lords rarely send out armies.
+@6392
+Computer castle lords fight at the standard rate.
+@6393
+Computer castle lords often send out armies.
+@6394
+Officers are harder to recruit.
+@6395
+Officers are recruited at the standard rate.
+@6396
+Officers are easier to recruit.
+@6397
+Princesses who appear cannot become officers.
+@6398
+You can choose whether a princess who appears becomes an officer.
+@6399
+Princesses who appear become officers at random.
+@6400
+Choose the officer to edit.
+@6401
+Choose the princess to edit.
+@6402
+Choose the ninja to edit.
+@6403
+Choose the castle to edit.
+@6404
+There is no one now who could take my place as castle lord...
+@6404.1
+There is no one now who could take my place as castle lord...
+@6404.2
+There is no one now who could serve as castle lord in place of {01}C{0C}{00}.
+@6405
+There is no one I could adopt at present...
+@6405.1
+There is no one I could adopt at present...
+@6405.2
+There is no one we could adopt at present.
+@6406
+Shall I adopt from another clan...
+@6406.1
+Perhaps I shall adopt from another clan...
+@6406.2
+Will you adopt from another clan?
+@6407
+Choose the clan to adopt from.
+@6408
+Now, whom shall I adopt...
+@6408.1
+Whom shall I adopt...
+@6408.2
+Whom will you adopt?
+@6410
+{01}C{0D}{00} comes in person? What is the meaning of this?
+@6410.1
+An envoy from the {02}{03}r? What is the meaning of this?
+@6410.2
+{01}C{0D}{00} comes all this way in person? What brings you here?
+@6410.3
+Oh, an envoy from the {02}{03}r. What is it?
+@6410.4
+{01}C{0D}{00}, welcome! No need for formalities. Now, what is your business?
+@6410.5
+An envoy from {01}C{18}{00}; thank you for coming. Now, what is your business?
+@6410.6
+{01}C{0D}{00} comes in person? What is the meaning of this?
+@6410.7
+An envoy from the {02}{03}r? What is the meaning of this?
+@6410.8
+{01}C{0D}{00} comes all this way in person? What brings you here?
+@6410.9
+Oh, an envoy from the {02}{03}r. What is it?
+@6410.10
+{01}C{0D}{00}, welcome! Let us skip the formalities. Now, what is your business?
+@6410.11
+An envoy from {01}C{18}{00}; thank you for coming. Now, what is your business?
+@6411
+We would like to adopt your son, Lord {02}{04}4, into our clan. What do you say, {01}C{0D}{00}?
+@6411.1
+We would like to adopt your daughter, Lady {02}{04}4, into our clan. What do you say, {01}C{0D}{00}?
+@6411.2
+We would like to adopt your son, Lord {02}{04}4, into our clan. What do you say, {01}C{0D}{00}?
+@6411.3
+We would like to adopt your daughter, Lady {02}{04}4, into our clan. What do you say, {01}C{0D}{00}?
+@6411.4
+{01}C{0C}{00}, we would like Lord {02}{03}4 to adopt your son, Lord {02}{04}4. What do you say?
+@6411.5
+{01}C{0C}{00}, we would like Lord {02}{03}4 to adopt your daughter, Lady {02}{04}4. What do you say?
+@6412
+Oh, with {01}C{0D}{00}, {02}{04}4 will have much to learn. Nothing could be better: I gladly entrust the child to you.
+@6412.1
+Oh, with the {02}{02}r, {02}{04}4 will have much to learn. Nothing could be better: I gladly entrust the child to you.
+@6412.2
+With {01}C{0D}{00}, {02}{04}4 will have much to learn. Nothing could be better: I gladly entrust the child to you.
+@6412.3
+Yes, with the {02}{02}r, {02}{04}4 will have much to learn. Nothing could be better: I gladly entrust the child to you.
+@6413
+Oh, I am grateful! I shall raise Lord {02}{04}4 into a fine warrior, you will see.
+@6413.1
+Oh, I am most grateful. Our clan will take responsibility for raising Lord {02}{04}4 into a fine warrior.
+@6413.2
+I am so grateful. I shall raise Lord {02}{04}4 into a fine warrior, you will see.
+@6413.3
+I am most grateful. Our clan will take responsibility for raising Lord {02}{04}4 into a fine warrior.
+@6414
+I am in your hands.
+@6414.1
+Give my regards to {01}C{18}{00} as well.
+@6414.2
+I am in your hands.
+@6414.3
+Please give my regards to {01}C{18}{00} as well.
+@6415
+Leave it to me.
+@6415.1
+Yes, sir.
+@6415.2
+Leave it to me.
+@6416
+We have adopted Lord {02}{02}n's son. I look forward to his coming of age.
+@6416.1
+So we have adopted Lord {02}{02}n's son. I look forward to his coming of age.
+@6416.2
+We have adopted Lord {02}{02}n's son. I look forward to his coming of age.
+@6416.3
+We have adopted Lord {02}{02}n's son. I look forward to his coming of age.
+@6417
+Our clan has its own circumstances. Sorry, but I cannot accept such an offer.
+@6417.1
+Our clan has its own circumstances. I am sorry, but I cannot accept such an offer.
+@6418
+I see... I thought it would benefit both clans, but if you say so, there is nothing for it.
+@6418.1
+I see... I thought it would benefit both clans, but if you say so, there is nothing for it.
+@6418.2
+I see... I thought it would benefit both clans, but if you say so, there is nothing for it.
+@6419
+I cannot lightly hand my dear child over to another clan. Please understand a parent's feelings...
+@6419.1
+I cannot lightly hand my dear child over to another clan. Understand a parent's feelings...
+@6419.2
+I cannot lightly hand my dear child over to another clan. Please understand a parent's feelings...
+@6419.3
+I cannot lightly hand my dear child over to another clan. Please understand a parent's feelings...
+@6420
+Understood. Then I take my leave.
+@6420.2
+Understood. Then I take my leave.
+@6421
+We could not adopt a child...
+@6421.1
+So we could not adopt a child...
+@6421.2
+We were unable to adopt a child...
+@6422
+How dare you ask me to give up my child as a hostage! Begone while your head is still on your shoulders!!
+@6422.1
+How dare you ask me to give up my child as a hostage! Begone while your head is still on your shoulders!!
+@6423
+It seems they will not even hear me out...
+@6423.1
+It seems they will not even hear me out...
+@6424
+I take my leave...
+@6424.1
+I take my leave...
+@6425
+Adopt a child of another daimyo who has not yet come of age. The adopted child becomes {1C}[{1C}I~REF_V_Ichimon~kin{1C}] of the daimyo and, once of age, can be named heir.
+@6426
+One day, {02}{01}n, who had taken over the headship of the {02}{03}2 clan, received a visit from {02}{02}n, the father.
+@6427
+It has been a long time, Father. I am glad to see you well.
+@6428
+Yes, and I am glad to see you well too. And how fine you have grown. It was worth sending you to be adopted by the {02}{03}2 clan.
+@6429
+Thank you. But what brings you here today?
+@6430
+Well, there is something I wish to say about your taking over the headship.
+@6431
+You want me to return to the {02}{02}2 clan, is that it...?
+@6432
+No, it is not that.
+@6433
+Then what...?
+@6434
+You are a daimyo now, just like me. From now on, live freely, without worrying about me.
+@6435
+What, you mean I may do as I please...?
+@6436
+Yes. I have thought long about it.
+@6437
+Return to me if you like, or contend with me for the realm. Your path is yours to carve.
+@6438
+Yes, I understand...
+@6439
+And so the last meeting of father and child ended. What path would {02}{01}n now take...?
+@6440
+One day, Tokugawa Ieyasu, lord of Okazaki Castle, was swimming in the river below the castle with Honda Tadakatsu, Honda Masazumi and others...
+@6441
+You swim well too, Tadakatsu! Like a river imp! But I'm not beaten yet, here goes!
+@6442
+Hahaha! Our lord hates to lose! But don't overdo it, my lord. You're not young any more; it'll do you harm.
+@6443
+Nonsense, I can still beat any youngster. Here, Masazumi! Stop standing guard all the time and have a swim for once!
+@6444
+No, I... Ah! My lord, come out of the water! The great lord is here!
+@6445
+What, playing in the water again?
+@6446
+Lord Nobunaga... Playing? Certainly not. This is swimming drill.
+@6447
+That day, in Okazaki Castle, Nobunaga and Ieyasu held a long secret talk about the Oda clan's strategy for the future.
+@6448
+Date in the north, Shimazu in the south, Taira no Kiyomori enthroned in Kyoto, Uesugi and Mori swallowing their neighbours... No one could read where the realm was heading, and the Oda could not move rashly.
+@6449
+I see... But even Minamoto no Yoritomo cannot strike easily. Lord Imagawa Yoshimoto holds Sunpu, and the Takeda keep watch from the mountains of Kai.
+@6450
+True... In Kyoto, Taira no Kiyomori has the Azai and Asakura in hand, and they say he keeps that rumoured sorcerer too. I cannot take my eyes off him for a moment...
+@6451
+A messenger has come from Lord Shibata Katsuie, lord of Inuyama Castle!
+@6452
+Send him in!
+@6453
+I report! "Something is stirring at Karasumine Castle," he says!
+@6454
+Good work. Karasumine Castle, is it... Is that brat Takenaka plotting something again?
+@6455
+You must not act in haste. He may only be trying to lure us into a skirmish. And Saito Dosan stands behind him...
+@6456
+I know that! Right, I'm going back to Kiyosu now! You make no mistakes either. I leave everything east of Mikawa to you!
+@6458
+Nobunaga rode for Kiyosu as fast as his horse could go. Even now, wars seen and unseen were being fought... At the thought, his hands grew slick with sweat and gripped the reins all the tighter.
+@6459
+The conditions include registered officers who do not appear in the game. Register those officers from the "Create Your Own Officer" menu.
+@6460
+Daimyo illness
+@6461
+Daimyo retires
+@6462
+Daimyo assassinated
+@6463
+Daimyo banished
+@6464
+Lord betrays
+@6465
+Lord rebels
+@6466
+Rebellion fails
+@6467
+Officer deserts
+@6468
+Ronin enlists
+@6469
+Officer poached
+@6470
+Officer defects
+@6471
+Punish: slander
+@6472
+Punish: scheme
+@6473
+Retainer wedding
+@6474
+Wife dies
+@6475
+Hair-tying
+@6476
+Meeting: daimyo
+@6477
+Meeting: minor power
+@6478
+Military alliance
+@6479
+Non-aggr.: daimyo
+@6480
+Non-aggr.: minor power
+@6481
+Marriage alliance
+@6482
+Vassalage: daimyo
+@6483
+Vassalage: minor power
+@6484
+End vassal: daimyo
+@6485
+End vassal: minor power
+@6486
+Court title
+@6487
+Post appointment
+@6488
+Treasure gift
+@6489
+Base burns
+@6490
+Choose the scenario used to enter this registered event.
+@6491
+Enter the name of this registered event.
+@6492
+Enter the year and season this registered event happens.
+@6493
+Enter the conditions for this registered event.
+@6494
+Finish entering this registered event.
+@6495
+The conditions of the event data being created have changed. Discard the changes?
+@6496
+Discard the event data being created. Are you sure?
+@6497
+Choose the registered event data to change.
+@6498
+Change this registered event data.
+@6499
+The daimyo dies of illness and a kin officer inherits the headship.

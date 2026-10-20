@@ -1,0 +1,356 @@
+@6002
+Flatland castle in Bungo, also called Niage or Oita Castle, built over 3 years from 1597 by Toyotomi vassal Fukuhara Nagataka. The sea lay to the north, with moats on the other three sides.
+@6004
+Castle in Bungo, a stronghold among many cliffs, famed as one of the three strongest castles in the land. Its lord Shiga Chikatsugu, an Otomo vassal, drove off 35,000 Shimazu men with 1,000, it is said.
+@6012
+Mountain castle in Chikuzen, built by Otomo Sadatoshi in the age of two courts. Near the town of Hakata, it was fought over by the Otomo and Mori. Abandoned after Hideyoshi's Kyushu campaign.
+@6014
+Mountain castle on top of Mt Kosho in Chikuzen, the Akizuki seat from the early Kamakura era. It fell in Hideyoshi's Kyushu campaign; lord Akizuki Tanezane was moved to Hyuga, and it was abandoned.
+@6016
+Mountain castle on top of Mt Takatori in Chikuzen, built in Heian times and fought over by the Otomo and Ouchi. Kuroda vassal Mori Tomonobu later held it; it was abandoned under the one-castle law.
+@6022
+Castle in Chikugo, seat of generations of Kamachi. In 1581 Kamachi Shigenami was murdered by his wife's father Ryuzoji Takanobu, and the clan ended. After Ryuzoji rule, Tachibana Muneshige became its lord.
+@6024
+Castle in Chikugo, built by Muto Suketomo, founder of the Shoni, and their seat for generations. Under the 15th head Shoni Masasuke it fell to an Ouchi attack.
+@6024.1
+Castle in Chikugo, seat of the Egami, Shoni vassals, until the Shoni moved in. Fuyuhisa, last head of the Shoni, killed himself inside when Ryuzoji Takanobu attacked.
+@6024.4
+Hilltop castle on hills by the Chikugo river, named for being built on cleared bamboo grass (sasa). It was later renamed Kurume Castle, and Kobayakawa Hidekane made it his seat.
+@6028
+Flatland castle in Hizen, the Ryuzoji seat, rebuilt by Nabeshima Naoshige as Saga Castle. It could flood everything but the main bailey, earning it the name "the sinking castle".
+@6030
+Castle in Hizen, seat of generations of Matsura until Matsura Shigenobu built Hinotake Castle. On the top of Mt Katsuo, it looked out as far as Hirado harbour, it is said.
+@6032
+Castle in Hizen, said to be built in the Kamakura era by Tsunezumi, founder of the Arima. Its 13th lord Harunobu, a Christian daimyo, invited many missionaries and traders to live in its town.
+@6034
+Castle in Hizen, built by the Christian daimyo Omura Sumitada. In 1572, when a great army from a neighbouring land attacked, Sumitada's tiny force drove it off: the famed "seven horsemen of Sanjo".
+@6034.3
+Castle in Hizen, the Omura seat; the Omura descend from Naozumi, grandson of Fujiwara no Sumitomo. Omura Yoshiaki made it a sea castle, but was poisoned for persecuting Christians.
+@6040
+Castle in Higo, built in the Muromachi era by Kanokogi Chikakazu. After the Kyushu campaign Sassa Narimasa held it, but misruled and was made to commit seppuku. Kato Kiyomasa then ruled it.
+@6042
+Castle in Higo, built in the Kamakura era by the Aso, high priests of Aso. The Aso thrived, once ruling 24 lesser castles, but were destroyed by Shimazu Yoshihisa's attack.
+@6044
+Castle in Higo. A Taira estate, it was taken by Minamoto no Yoritomo's vassal Sagara Nagayori and became the Sagara seat. Serving the Shimazu, Toyotomi and Tokugawa, the Sagara survived.
+@6050
+Hilltop castle in Hyuga, built by Takahashi Mototane on receiving Agata. A stronghold with the Gokase and Ose rivers as outer moats, its second bailey has a high stone wall called "the thousand-killer".
+@6052
+Flatland castle in Hyuga, the Ito seat, built by Ito Sukemochi in 1337. As rivers run around it, it is also called the Floating Boat Castle. Abandoned in 1615.
+@6052.2
+Hilltop castle in Hyuga, said to be built in the early Muromachi era by the Tajima, an Ito branch, and greatly rebuilt by Ito Yoshisuke. After Yoshisuke lost to the Shimazu, it became a Shimazu outpost.
+@6054
+Castle in Hyuga, a natural stronghold ringed by the Sakatani and other rivers. The Shimazu and Ito fought over it for a long time from the Muromachi era; Ito Suketaka later became its lord.
+@6058
+Mountain castle in Osumi, also called Takayama Castle, the Kimotsuki seat from the late Kamakura era. After long wars with the Shimazu, the Kimotsuki surrendered in 1574 and soon lost the castle.
+@6060
+Castle in Osumi facing Kagoshima Bay, at a key point for travel by land and sea. Named after the Kajiki, who ruled it in the Kamakura era.
+@6064
+Flatland castle at Kagoshima in Satsuma, built by Shimazu Takahisa to replace Shimizu Castle after he won the succession and took over the head house. The Shimazu seat until Tsurumaru Castle was built.
+@6064.3
+Mountain castle in Satsuma, built by Shimazu Motohisa in the mid-Muromachi era, with a town and overseas trade. The main Shimazu castle until Shimazu Takahisa moved to Uchi Castle in 1550.
+@6066
+Castle in Satsuma, ruled by the Izumi from the Kamakura era until they declined and the Shimazu took over. After Sekigahara, Kato Kiyomasa attacked it, but the Shimazu drove him off.
+@6069
+A tea caddy of the highest class. Its refined beauty was praised by many famous tea men; to warlords who loved tea, it was said to be worth no less than a whole province.
+@6069.1
+A famous tea caddy. Its rare beauty went beyond mere tea ware; it sold at high prices as a work of art, and passed through the hands of daimyo as an important diplomatic gift.
+@6069.2
+A tea caddy, one of the fine pieces loved by many tea men of the age. Its origin is unclear, but its artistic worth was highly prized, and those who owned it treasured it.
+@6069.3
+A tea jar of the highest class, rated no lower than the Three Great Jars, Matsushima, Mikazuki and Matsuhana. To warlords who loved tea, it was said to be worth a whole province.
+@6069.4
+A famous tea jar. Its rare beauty went beyond mere tea ware; it sold at high prices as a work of art, and passed through the hands of daimyo as an important diplomatic gift.
+@6069.5
+A tea jar, one of the fine pieces loved by many tea men of the age. Its origin is unclear, but its artistic worth was highly prized, and those who owned it treasured it.
+@6069.6
+A tea kettle of the highest class, by a master of the day, cast with graceful patterns. To warlords who loved tea, it was said to be worth no less than a whole province.
+@6069.7
+A famous tea kettle. Its stately form went beyond mere tea ware; it sold at high prices as a work of art, and passed through the hands of daimyo as an important diplomatic gift.
+@6069.8
+A tea kettle, one of the fine pieces loved by many tea men of the age. Its origin is unclear, but its artistic worth was highly prized, and those who owned it treasured it.
+@6069.9
+A tea bowl of the highest class, a gem with elegance, rustic charm and quiet age that captivated many tea men. To warlords who loved tea, it was said to be worth no less than a whole province.
+@6069.10
+A famous tea bowl. Its refined style went beyond mere tea ware; it sold at high prices as a work of art, and passed through the hands of daimyo as an important diplomatic gift.
+@6069.11
+A tea bowl, one of the fine pieces loved by many tea men of the age. Its origin is unclear, but its artistic worth was highly prized, and those who owned it treasured it.
+@6069.12
+A flower vase of the highest class, whose elegant form graced the tea alcove and captivated many tea men. To warlords who loved tea, it was said to be worth no less than a castle.
+@6069.13
+A famous flower vase. Its original design went beyond mere tea ware; it sold at high prices as a work of art, and passed through the hands of daimyo as an important diplomatic gift.
+@6069.14
+A flower vase, one of the fine pieces loved by many tea men of the age. Its origin is unclear, but its artistic worth was highly prized, and those who owned it treasured it.
+@6069.15
+A masterpiece among tea scoops, by a famous tea man whose sense of beauty shows in every part. To warlords who loved tea, it was said to be worth no less than a castle.
+@6069.16
+A fine tea scoop with an air of grace in the gentle curve of its tip. Prized for its curious history, it sold at high prices among merchants, it is said.
+@6069.17
+A tea scoop, one of the fine scoops loved by many tea men of the age. Its origin is unclear, but its artistic worth was highly prized, and those who owned it treasured it.
+@6069.18
+A masterpiece among censers, so graceful in form that it changed the very scent of the incense burned in it, it is said. To warlords who loved tea, it was worth no less than a castle.
+@6069.19
+A fine censer, its unusual shape and lively painted patterns joined with elegance. Prized for its beauty, it sold at high prices among merchants, it is said.
+@6069.20
+A censer, one of the fine pieces loved by many tea men of the age. Its origin is unclear, but its artistic worth was highly prized, and those who owned it treasured it.
+@6069.21
+A water jar of the highest class; its stately form, full of its maker's spirit, captivated many tea men. To warlords who loved tea, it was said to be worth no less than a castle.
+@6069.22
+A famous water jar, finely designed throughout. It went beyond mere tea ware, sold at high prices as a work of art, and became an important diplomatic gift.
+@6069.23
+A water jar, one of the fine pieces loved by many tea men of the age. Its origin is unclear, but its artistic worth was highly prized, and those who owned it treasured it.
+@6069.24
+Held to be among the finest blades of the age, alongside the Five Swords of the realm. Its lovely, clear blade had such majesty that merely drawing it overawed a foe, it is said.
+@6069.25
+A fine blade forged by a master smith. Its mighty blade cut superbly, and many warlords were captivated by its majestic form, it is said.
+@6069.26
+A famous sword of the age. Unsigned, but the strength of its steel and the beauty of its temper line show the smith's skill. So practical that every owner wore it.
+@6069.27
+A spear among the finest of the age, its heavy, solemn form held a sign of peerless might. It was said that an army with a man worthy of it would never lose.
+@6069.28
+A famous spear of many tales that led army after army to victory. So many warlords prayed to it before battle, and it was always kept beside the commander, it is said.
+@6069.29
+A spear praised as good for thrust and sweep alike. Easy to handle, it was loved by many warlords; some even armed all their spearmen with it, it is said.
+@6069.30
+A masterpiece of Japanese matchlocks, of the highest craft of its day, with far greater range and accuracy than common matchlocks, it is said.
+@6069.31
+A matchlock said to come from Ming China, with special touches to improve its aim. Its rare form made it a fitting gift to daimyo.
+@6069.32
+A European matchlock said to have come on the southern ships. Until guns were made in Japan in numbers, it was treasured as a great rarity, it is said.
+@6069.33
+A masterpiece of tube-lock guns, made with the very latest craft. Its beautiful barrel, decorated throughout, was also prized as art and sold at very high prices, it is said.
+@6069.34
+A fine tube-lock gun, made with the very latest craft. Far more accurate than the old matchlocks, it fired surely even in rain, it is said.
+@6069.35
+A gun with a tube-lock action, using the latest craft, it fired surely even in rain. But the barrel jolted hard when fired, making it hard to handle.
+@6069.36
+A masterpiece among short guns, made with the very latest craft. Its beautiful barrel, decorated throughout, was also prized as art and sold at very high prices, it is said.
+@6069.37
+A fine short gun, made with the very latest craft. Smaller and lighter than early short guns, some warlords always carried one for self-defence, it is said.
+@6069.38
+A short gun: a new model with a short barrel, easy to handle on horseback. Some daimyo formed mounted gun units with it, but using it in battle took thorough training.
+@6069.39
+A cannon made by Japanese gunsmiths, modelled on cannon bought from the southern traders. Its great destructive power made it vital in sieges, and demand for it rose fast.
+@6069.40
+A cannon made in Ming China. There its roar was likened to a dragon's, and it was treasured as a special weapon that only the emperor could own, it is said.
+@6069.41
+A cannon brought on the southern ships, carried by trade ships against pirates at sea. A daimyo amazed by its power begged to buy it, it is said.
+@6069.42
+Armour of unclear origin, thought to belong to a general of high rank. A fine piece in which the many-coloured lacing of its scales and gold leaf throughout blend superbly.
+@6069.43
+High-class armour both beautiful and practical, richly decorated so that the wearer's deeds with the spear would catch the commander's eye.
+@6069.44
+Practical armour, much improved over the great armour of pre-Muromachi times: light and easy to move in, with iron plates in the cuirass to stand against gunfire.
+@6069.45
+A helmet with a splendid crest, made more to catch the eye on the battlefield than for use; fierce generals sure of their skill liked to wear it, it is said.
+@6069.46
+A ridged helmet with flattened rivets and fine decoration. Its striking crest, a mark of command, was handed down from head to head of the family that owned it, it is said.
+@6069.47
+A practical helmet made for hard fighting. Rough to look at, but so strong it could turn even a bullet at close range; many warlords loved it, it is said.
+@6069.48
+A swift steed said to run a thousand ri in a day. Wild in temper too, it took great skill to ride, and threw any poor rider at once, it is said.
+@6069.49
+A famed horse, said to be born perhaps once in a thousand. Its powerful gallop made it stand out even on the battlefield, it is said.
+@6069.50
+A famed horse loved by many warlords. Mounted on it in armour, a man was said to look more the general; in some houses, riding it marked one as a full warrior.
+@6069.51
+A secret book of swordsmanship by a famed swordsman, holding all the secrets he grasped through countless bouts and duels; it was never shown outside the school.
+@6069.52
+A manual of swordsmanship by a famed swordsman, covering not only technique but the spirit a student of the sword must have; it influenced many schools.
+@6069.53
+A primer of swordsmanship by a famed swordsman, carefully explaining basic training and the manners of a bout; widely read, above all by warriors' sons.
+@6069.54
+A book on farming, covering all farm knowledge from clearing land to harvest, with ways to raise yields and guard against disaster: the highest skills of the day.
+@6069.55
+A book on advanced farming, briefly covering a wide range: judging land fit to clear, how to grow each crop, kinds of tools and methods of flood control.
+@6069.56
+A book on basic farming, explaining clearly how to judge land fit to clear, how to grow each crop, kinds of tools and methods of flood control.
+@6069.57
+A book on the theory of commerce. Taking cities that grew rich on trade as examples, it sets out the ideal market and flow of goods by the most advanced theory of the day.
+@6069.58
+A book on advanced commercial theory. Taking cities that grew rich on trade as examples, it briefly covers a wide range, such as the ideal market and flow of goods.
+@6069.59
+A book on applied commercial theory. Taking the layout of cities that grew rich on trade as examples, it clearly explains the ideal market and flow of goods.
+@6069.60
+A book on building, covering all castle-building knowledge from layout to construction, with ways to strengthen defences: the highest skills of the day.
+@6069.61
+A book on advanced castle-building, briefly covering a wide range: choosing the ground, digging moats, raising walls, placing towers, building gates and keeps.
+@6069.62
+A book on basic castle-building, clearly explaining choosing the site, digging moats, raising walls, placing towers, and building gates and keeps.
+@6069.63
+A book collecting many tales from all over Japan. As many hold lessons, it was often used to teach the sons of warrior houses, it is said.
+@6069.64
+A collection of tales of the wise rulers of ancient China, rich in lessons for those who govern; often used to teach the sons of daimyo, it is said.
+@6069.65
+A book of tales of the monarchs of Europe's dynasties, brought by southern merchants. Full of lovely pictures, it was popular even with Japanese who could not read it, it is said.
+@6069.66
+A great work on diplomacy. Quoting tales of ancient China, it explains in careful detail the fine art of diplomatic bargaining and how to win men over with words.
+@6069.67
+A book on diplomacy. Quoting tales of ancient China, it briefly covers a wide range, such as the envoy's frame of mind and how to win men over with words.
+@6069.68
+A book on diplomacy. Quoting tales of ancient China, it clearly explains the envoy's frame of mind and how to win men over with words.
+@6069.69
+A book of the secrets of a martial art, developed from bodily skills of old. Its ascetic approach to training was held to be universal, true of every martial art.
+@6069.70
+A book of the secrets of the boxing of ancient China. Brought to Japan by way of Ryukyu, it influenced many later Japanese schools of martial arts.
+@6069.71
+A book on Western hand-to-hand combat, covering the West's own fighting skills, but hard for the Japanese of the time to read, so it had little effect on Japanese schools.
+@6069.72
+A secret book of horsemanship by a master hailed as a second Bo Le, with the secrets of training warhorses and riding in battle; it was never shown outside the school.
+@6069.73
+A manual of horsemanship by a famed martial artist, covering riding in general and the spirit a student of the arts must have; it influenced many schools.
+@6069.74
+A primer of horsemanship by a famed martial artist, carefully explaining basic training and the manners of riding; widely read, above all by warriors' sons.
+@6069.75
+A secret book of gunnery, holding all the feats of the art that its author, called a master gunner, devised by trial and error; it was never shown outside the school.
+@6069.76
+A manual of gunnery by a famed gunner, covering gunnery in general, with detailed diagrams of how to make improved guns and cannon.
+@6069.77
+A primer of gunnery by a famed gunner, carefully explaining how to mix powder and train in the basics; widely read, above all by warriors' sons.
+@6069.78
+A book on the history of battles in Japan before the Muromachi era, sharply analysing why each was won or lost. A favourite of many daimyo aiming to rule the land.
+@6069.79
+A book on China's wars before the Ming dynasty, with an original, broad analysis of why each was won or lost. Widely read by Japanese warlords too.
+@6069.80
+A book on the wars of the European countries, brought to Japan by way of China with a Chinese translation; a shock to Japanese only just meeting Western culture.
+@6069.81
+A book of the secrets of war, in which an author versed in the war arts of ancient China set down the command skills he learned in battle, under march, formation and tactics.
+@6069.82
+A war tale of the battles of the early Sengoku era, mixed with fiction. Full of lessons for leaders of men, it was read as a kind of book of war.
+@6069.83
+A primer of war, explaining the basics anyone leading an army must know, such as kinds of formation and the importance of supply; widely read, above all by warriors' sons.
+@6069.84
+A book of folk remedies from all over Japan, mainly natural cures based on yin-yang and the five elements. Though partly superstition, it was well loved by common people.
+@6069.85
+A book on kampo medicine from Ming China, based on the idea that food and medicine are one. It sorts and explains in detail the herbal remedies for each illness.
+@6069.86
+A book on Western medicine, with detailed diagrams of the body's workings. The doctors of Japan were greatly shocked when they saw it, it is said.
+@6069.87
+Ink painting said to be dashed off by a high monk of the mid-Muromachi era; its graceful brush drew viewers into a dream. Passed down by the rulers of the realm and kept as a symbol of power.
+@6069.88
+Ink painting said to date from the early Kamakura era. Its bold brush, the very image of plain strength, was very popular with Sengoku warlords and sold at very high prices.
+@6069.89
+Ink painting said to be by a Song Chinese poet or a monk of Mt Hiei. Especially prized by tea men, it was often hung at great tea gatherings.
+@6069.90
+Colour painting of the Sengoku era. The painter is unknown but held to be of the Kano school; a rare work whose brushwork and colours show the marks of Japanese painting of the day.
+@6069.91
+Buddhist painting said to be made by a high Tang monk for his emperor, with buddhas and bodhisattvas finely painted. Its unique composition influenced Buddhist painting in Japan.
+@6069.92
+Religious painting of the Renaissance brought by missionaries. Its vivid colours and lifelike style with perspective were a shock to the Japanese of the day.
+@6069.93
+A fine traditional Japanese sweet, one of those that grew with the spread of tea. Mostly eaten by people of high rank, at tea gatherings and the like, it is said.
+@6069.94
+A sweet from Ming China, first prescribed by apothecaries and doctors as a tonic. Once the method came over and it was made in Japan, it came to be eaten as a sweet.
+@6069.95
+A sweet brought on the southern ships. Spread quickly as missionaries used it in their work, it captivated all who ate it with its new taste and texture, it is said.
+@6069.96
+A fine sake loved by many warlords, made by a master brewer of a family of brewers. Some warlords even sold their precious armour to buy it, it is said.
+@6069.97
+A kind of aged Chinese wine from Ming, with a rich, heavy aroma. First imported as an elixir of long life, it was the rage among nobles and daimyo, it is said.
+@6069.98
+A Western liquor brought on the southern ships. Very costly, only people of high rank could drink it; its unique colour and rich aroma delighted all who drank it.
+@6069.99
+A famous incense of aloeswood; bitter and sour. Said to come from India, it was kept by high nobles. A gem with a sharp note within a gorgeous scent, it is said.
+@6069.100
+A famous incense of rakoku wood; sweet and sour. From Southeast Asia, it was kept by high nobles. A gem with a light sharpness within a sweet scent, it is said.
+@6069.101
+A famous incense of manaban wood; bitter, sweet, sour and salty. From southwest India, it was kept by high nobles. A gem with a fresh coolness, it is said.
+@6069.102
+It was a very fine thing indeed, it is said. (This should never be displayed.)
+@6001
+Funai Castle
+@6003
+Oka Castle
+@6005
+Tsunomure Fort
+@6007
+Deusu Church
+@6007.1
+Usuki Village
+@6009
+Saiki Port
+@6011
+Tachibanayama Castle
+@6013
+Akizuki Castle
+@6015
+Takatori Castle
+@6017
+Munakata Shrine
+@6019
+Hakata
+@6021
+Yanagawa Castle
+@6023
+Uchiyama Castle
+@6023.1
+Seifukuji Castle
+@6023.2
+Seifukuji Castle
+@6023.3
+Seifukuji Castle
+@6023.4
+Sasahara Castle
+@6025
+Kuroki Fort
+@6027
+Muranaka Castle
+@6029
+Byakkosan Castle
+@6031
+Hinoe Castle
+@6033
+San Castle
+@6033.1
+San Castle
+@6033.2
+San Castle
+@6033.3
+Omura Castle
+@6035
+Imari Fort
+@6037
+Oyadori Church
+@6037.1
+Nagasaki Village
+@6039
+Kumamoto Castle
+@6041
+Iwao Castle
+@6043
+Hitoyoshi Castle
+@6045
+Uto Fort
+@6047
+Shinobi Village
+@6049
+Agata Castle
+@6051
+Tonokori Castle
+@6051.1
+Tonokori Castle
+@6051.2
+Sadowara Castle
+@6053
+Obi Castle
+@6055
+Chozenji
+@6057
+Kimotsuki Castle
+@6059
+Kajiki Castle
+@6061
+Kunimi Fort
+@6063
+Uchi Castle
+@6063.1
+Uchi Castle
+@6063.2
+Uchi Castle
+@6063.3
+Shimizu Castle
+@6065
+Izumi
+@6067
+Okuchi Fort
+@6056
+* temple

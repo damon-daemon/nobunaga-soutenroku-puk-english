@@ -1,0 +1,998 @@
+@4477
+Don't say such things so loudly! ...But you are right, my wife, as ever. Listen: what you just said, you must never tell a soul.
+@4478
+Very well. I understand.
+@4479
+And so {02}{01}n changed his name to "Hashiba {02}{01}4".
+@4480
+Ranjatai: the finest incense wood of the age, which not even Taira no Kiyomori or Minamoto no Yoritomo were allowed to cut... And there was a daimyo who set out to obtain it.
+@4481
+Ah, {02}{02}4! Did the monks of Todaiji hand over the Ranjatai without a fuss?
+@4482
+I beg your pardon, my lord. It seems that to obtain the Ranjatai, we need an imperial permit from the Palace.
+@4483
+I see... Then send an envoy to the Palace at once and petition for the Ranjatai. If I get it, it proves the Palace ranks me above Lord Kiyomori and Lord Yoritomo.
+@4484
+In other words, the clearest proof that I am recognised as ruler of the realm... Gaining the Ranjatai is worth an army of a million men.
+@4485
+I see... Understood! I shall go to the Palace as envoy at once.
+@4486
+News that {02}{01}n wanted the Ranjatai spread across the land in no time. Many daimyo laughed, calling it the height of {02}{01}4's folly. However...
+@4487
+Against all expectations, {02}{01}4 was granted an imperial permit to cut the Ranjatai. {02}{01}4 set off for Todaiji at once.
+@4488
+I am {02}{01}n!! His Majesty has granted me an imperial permit to cut it. I have come for the Ranjatai!
+@4489
+Ngh... If you have an imperial permit, it cannot be helped. I shall show you to the Shosoin.
+@4490
+Hmph... So this is the Ranjatai. Take it to {02}{01}N! I shall cut it in the castle!
+@4491
+Wait! The Ranjatai may never leave these gates. It must not be taken out of this temple!
+@4492
+Where I cut it is my own affair. Do you mean to defy an imperial permit? Men! We are leaving!
+@4493
+{02}{02}4... What arrogance...
+@4494
+And so {02}{01}4 obtained the Ranjatai. The other daimyo were deeply shaken to see that even the Imperial Court bent to {02}{01}4's power...
+@4495
+They say {02}{01}n has built a new seat, "Azuchi Castle". The name seems to carry {02}{01}4's wish to turn Japan into a land of peace and plenty.
+@4496
+Some years after {02}{01}n ordered his master builder, Okabe Mataemon, to build a new castle, Mataemon came to see {02}{01}4 one day...
+@4497
+Lord {02}{01}4, thank you for waiting! The castle is finally complete. Please take your time and look around. I shall be your guide.
+@4498
+The keep has five storeys and seven floors. All the wall paintings inside are by Kano Eitoku and his father Shoei. The roof tiles were specially made thin and light.
+@4499
+...
+@4000
+It seems {02}{01}n has been killed by Iwamatsu Hachiya, one of his attendants. Hachiya seems to have been an assassin sent by a local lord hostile to {02}{01}4.
+@4001
+{02}{01}n had inherited the headship at just 10 when his father Kiyoyasu died suddenly. He had overcome many hardships and was slowly regaining strength...
+@4003
+Oh, Hachiya. I hear you have something private to tell me. What is it?
+@4004
+Yes... It is not something I can say aloud. May I come a little closer?
+@4005
+Don't hold back; come closer. Well, what is it?
+@4006
+Yes... It seems danger is closing in on you, my lord...
+@4007
+What!? What danger?
+@4008
+This!
+@4009
+Gwah!? ...Wh-what are you doing...
+@4010
+Hahaha! I am an assassin, sent into this castle at the request of a certain person. Farewell!
+@4011
+Ngh... S-so it is Sakuma of Nishi-Hirose... Gwah!...
+@4012
+Hachiya was an assassin sent by Sakuma Zenko, a local lord hostile to {02}{01}n. His successor {02}{02}4 was only {02}{02}p. The {02}{01}2 clan's road of hardship went on...
+@4013
+It seems {02}{01}4, head of the {02}{01}2 clan, has been killed by his attendants, and his son {02}{02}4 has succeeded him. It seems {02}{01}4 had tried to pass the headship to his 3rd son, Shioichimaru.
+@4014
+{02}{01}4, head of the {02}{01}2 clan, disliked his eccentric eldest son {02}{02}4 and meant to make his 3rd son Shioichimaru heir. But this move would bring disaster...
+@4015
+I have gathered you for one reason. I have decided to disinherit {02}{02}4 and make Shioichimaru my heir. I trust there is no objection.
+@4016
+!? ...F-for what reason, my lord!?
+@4017
+{02}{02}4 has always been eccentric. He is unfit to head the {02}{01}2 clan, a great house since the Kamakura age. That is why I disinherit him.
+@4018
+I too have long been troubled by Lord {02}{02}4's eccentric ways, so I support your view, my lord.
+@4019
+How strange of you both, my lord and Lord {02}{03}2... To me, Lord {02}{02}4 seems rather of a lively nature...
+@4020
+...The late Lord Yoshinaga said the eldest son must inherit the {02}{01}2 clan... Should you, his own son, break that rule, my lord?
+@4021
+Enough! Silence, silence! Whatever anyone says, Shioichimaru will inherit the {02}{01}2 clan! Get out, get out!
+@4022
+...Is that so. Then we will say no more. Well then... Come, all of you.
+@4023
+A few days later, Saito Harima-no-kami and Kozai Yamato-no-kami were both murdered by unknown hands. It was plain that {02}{01}4 had ordered it.
+@4024
+They say Lord Saito and Lord Kozai were cut down... We are surely next... Lord Taguchi, it seems we too must make up our minds.
+@4025
+So it seems... Rather than sit and wait for death...
+@4026
+That night... Taguchi Shinkurodo and Tsukumi Mimasaka-no-kami broke into {02}{01}4's residence.
+@4027
+Wh-what is this! Hm! Taguchi and Tsukumi! Have you gone mad!?
+@4028
+This is not madness! It is for the good of the house. My lord, we have come for your life!
+@4029
+Guards! Intruders!!
+@4030
+My lord, forgive us!
+@4031
+Gwah!...
+@4032
+Taguchi and Tsukumi were cut down by {02}{01}4's guards. Shioichimaru and his mother died, and {02}{01}4 was mortally hurt. {02}{02}4 calmed the chaos in {02}{01}N and rushed to his side.
+@4033
+Father! Why... Why has it come to this?
+@4034
+{02}{02}4... Is that you, {02}{02}4...? I heard... you calmed the chaos in the castle splendidly...
+@4035
+I-it seems I was wrong... The headship of the {02}{01}2 clan... I leave to you...
+@4036
+...Rest easy. I will surely spread the {02}{01}2 name to the four seas. Father, hold on!
+@4037
+Ngh... {02}{02}4... F-forgive... your father...
+@4038
+Father!...
+@4039
+And so {02}{02}n became the 21st head of the {02}{01}2 clan. {02}{03}n, leader of Shioichimaru's faction, is said to have been cut down later where he had fled...
+@4040
+It seems {02}{01}n's sons have changed their family names. His 2nd son {02}{03}4 will now be called "Kikkawa," and his 3rd son {02}{04}4 "Kobayakawa."
+@4041
+One day... {02}{01}n called his three sons, {02}{02}n, {02}{03}n and {02}{04}n, together at {02}{01}N.
+@4042
+What I am about to say is a grave matter for the future of the {02}{01}2 clan. All three of you, listen closely.
+@4044
+Yes, Father!!
+@4045
+As you wish.
+@4046
+Here is an arrow. A single arrow breaks easily.
+@4047
+The same goes for two. But three are not easily broken. {02}{02}4... do you see what I mean?
+@4048
+...Forgive me, I do not quite understand.
+@4049
+I see. Then all three of you, listen well. These three arrows are you.
+@4050
+If you join your strength like these three arrows, the {02}{01}2 clan will be safe for generations... But if your hearts are divided, the three arrows become one apiece... and break easily.
+@4051
+...Understood? Like these three arrows, you three brothers must stand together and protect the {02}{01}2 clan.
+@4052
+Yes, Father! We will engrave your words on our hearts.
+@4053
+{02}{03}4, from today you are head of the Kikkawa clan. Call yourself Kikkawa {02}{03}4. I leave the conquest of the San'in to you.
+@4054
+Yes, Father! I will help my brother and make the Kikkawa name known to the world.
+@4055
+{02}{04}4, from today you are head of the Kobayakawa clan. Call yourself Kobayakawa {02}{04}4. I leave the conquest of the Sanyo to you.
+@4056
+Yes... I will strive not to fall behind my two brothers.
+@4057
+And so {02}{03}n succeeded to the Kikkawa clan and {02}{04}n to the Kobayakawa. The "Two Rivers" system of the {02}{01}2 was born...
+@4058
+It seems {02}{02}n, a vassal of the {02}{01}2 clan, has rebelled and killed his lord {02}{01}4. The feud between {02}{02}4 and {02}{03}n seems to be the cause.
+@4059
+Ever since losing his adopted heir Harumochi in battle, {02}{01}4, head of the {02}{01}2 clan, had buried himself in learning and the arts, and slowly lost his vassals' trust...
+@4060
+My lord, open your eyes! {02}{03}2 is a man who will bring harm to our clan. You must not favour him! Do you mean to destroy the {02}{01}2 clan!?
+@4061
+Enough, be quiet! What is wrong with doing as I think best? I never want to see your face again! Get out!
+@4062
+...Is this the end of the {02}{01}2 clan...
+@4063
+After this, a rumour began to spread in the {02}{01}2 clan: "{02}{02}n means to rebel and destroy the {02}{01}2 clan"...
+@4064
+My lord... There is a rumour that Lord {02}{02}2 is plotting rebellion. Have you thought of what to do?
+@4065
+Hahaha! {02}{02}4 would never rebel. The {02}{02}2 have served our {02}{01}2 clan as hereditary vassals for generations.
+@4066
+My lord, all is ready for the renga gathering.
+@4067
+Oh, is it? I'll come at once.
+@4068
+...I hope nothing comes of it...
+@4069
+Before long, the rumour came true. {02}{02}4's army raced toward {02}{01}N to strike down his lord {02}{01}4...
+@4070
+M-my lord! Word has come that Lord {02}{02}2's army is marching on {02}{01}N!
+@4071
+Wh-what!? {02}{02}4's army!? B-but why!?
+@4072
+It is over, my lord. I, {02}{04}4, will buy time, so please prepare yourself and take your own life without delay!
+@4073
+Wh... why... {02}{02}4...
+@4074
+And so {02}{01}n took his own life after the rebellion of his vassal {02}{02}n. {02}{05}4 of the {02}{05}2 clan was brought in as {02}{01}4's heir...
+@4075
+It seems {02}{02}n, a vassal of the {02}{01}2 clan, has suddenly taken his own life. It seems he meant to rebuke his lord {02}{01}4, who would not stop his strange behaviour.
+@4076
+After his father Nobuhide's death, {02}{01}4 became head of the {02}{01}2 clan, but ignored the warnings of his guardian {02}{02}n and kept up his strange behaviour. Then one day, a small incident occurred...
+@4077
+Ah, Nagamasa. I have a favour to ask. Will you give me your horse? I have never seen so fine a steed.
+@4078
+With respect, I must refuse. Keeping a fine horse is only proper for a warrior. I am truly sorry, but...
+@4079
+What... You refuse? Hmph. A good horse alone won't win you glory on the battlefield. Enough, go.
+@4080
+...Yes, my lord.
+@4081
+After this, all of {02}{02}4's sons came to loathe {02}{01}4, and {02}{02}4 was driven into a corner. Then one day...
+@4082
+...It seems this is the end. Lord {02}{01}4 will not heed a word I say, and what is more...
+@4083
+...even my sons are at odds with Lord {02}{01}4... The blame for that must fall on me.
+@4084
+Lord {02}{01}4... I, {02}{02}4, will watch over you from the grave...
+@4085
+What!? The old man has cut his belly!? ...Bring my horse! To the old man's house!!
+@4086
+{02}{01}4 rushed to the house and faced the silent {02}{02}4. On the desk lay a single letter addressed to {02}{01}4... {02}{01}4 began to read it.
+@4087
+Old man... Fretting over such small things... The one man in this world who was on my side...
+@4088
+Cutting your belly without my leave... You're a fool, old man! A great fool!!
+@4089
+And so {02}{02}n brought down the curtain on his own life. Later, {02}{01}4 is said to have built the {02}{02}4 Temple to pray for him...
+@4090
+It seems {02}{01}n and {02}{03}n have met at a place called Shotokuji. {02}{01}4's son {02}{02}4 seems displeased that {02}{01}4 thinks so highly of {02}{03}4.
+@4091
+Some years after {02}{01}n's daughter {02}{04}4 married {02}{03}n... {02}{01}4 and {02}{03}4 were to meet at the Shotokuji in Tonda.
+@4092
+Hmm... It seems my son-in-law has not arrived yet. Then I shall take a look at his face first... Doku, come with me!
+@4094
+{02}{01}4 and Doku slipped into a hut by the road and watched the road.
+@4095
+My lord, it seems Lord {02}{03}4's party is coming.
+@4096
+Is it? Let me see... Hm!? What's this...
+@4097
+That son-in-law... When did he come to keep so many soldiers? And what is that get-up? So the rumours are true?
+@4098
+...Doku! I don't feel like meeting him any more. I'm going back to {02}{01}N.
+@4099
+What are you saying now? It was our side that asked for this meeting. Why not meet him in plain dress yourself, my lord?
+@4100
+That's true, but... I'm not in the mood... Poor {02}{04}4, married to that...
+@4101
+{02}{01}4 and Doku returned to the Shotokuji unseen by {02}{03}4, and {02}{01}4 took his seat in plain dress. Half an hour later...
+@4102
+He's late, my son-in-law... Hm? Doku, who is that?
+@4103
+...Let me see? That should be Lord {02}{03}4's waiting room...
+@4104
+...Ah! That is my son-in-law!
+@4105
+What!? ...Ah! It is indeed Lord {02}{03}4!
+@4106
+Such a different man, just from a change of clothes... This is no fool at all. Doku! Show my son-in-law to his seat.
+@4107
+...Lord {02}{03}4, Lord {02}{01}4 is already here. Please come this way, Lord {02}{03}4.
+@4108
+So it is. Thank you for your trouble!
+@4109
+...I am {02}{01}4.
+@4110
+I am {02}{03}n.
+@4111
+After that, the meeting ended without another word between them. Some time after returning to {02}{01}N, {02}{01}4 spoke to Doku.
+@4112
+Doku... What did you make of him?
+@4113
+To my eyes {02}{03}4 looked every bit the fool the rumours say. Good news for our clan indeed... What did you think, my lord?
+@4114
+...The only fool here is you. When I die, {02}{02}4 will surely end up tying his horse at my son-in-law's gate...
+@4115
+Wh-what did you say!?
+@4116
+I said {02}{02}4 will one day become my son-in-law's vassal... A pity, but... {02}{02}4 and my son-in-law are not men of the same calibre...
+@4117
+...Perhaps it would not be so bad to entrust my dream to my son-in-law...
+@4118
+A few days later... these words of {02}{01}4's reached {02}{02}4's ears...
+@4119
+What!? I will one day be that fool's vassal!? Who said such a thing!?
+@4120
+!? ...Father... Father said that!?
+@4121
+Grrrr... To mock me so...
+@4122
+So ended the meeting at the Shotokuji. From then on {02}{01}4 and {02}{03}4 grew close, but {02}{01}4 and his son {02}{02}4 drifted further apart...
+@4123
+It seems {02}{02}n and his son {02}{03}4 have been killed by their lord {02}{01}n. It seems a plot set up by {02}{04}n to weaken the {02}{01}2 clan.
+@4124
+{02}{02}n and {02}{03}n, who served the {02}{01}2 clan, led the strongest troops in the house, feared by neighbouring provinces as the "Shingu-to."
+@4125
+But they grew ever more high-handed, to {02}{01}4's annoyance. Then one day...
+@4126
+My lord... A grave matter. We caught a suspicious man near the border, and he was carrying this letter.
+@4127
+Show me. Let's see... "When you have killed {02}{01}4, you shall have whatever lands you wish"...?
+@4128
+"I await good news... {02}{04}4"!? Surely not... {02}{02}4 in league with the {02}{04}2...?
+@4129
+This is unforgivable. What will you do?
+@4130
+...No, wait a while. I cannot believe it from this letter alone. Whatever else they are, those two are loyal...
+@4131
+A few days later... another suspicious letter was found, this time inside {02}{01}N. The hand looked like {02}{02}4's.
+@4132
+Let's see... "As we are taking the side of the {02}{04}2 clan, we shall not see you again... It grieves us to part..."
+@4133
+My lord! This makes it plain that {02}{02}4 and his Shingu-to are in league with the {02}{04}2!
+@4134
+...Unforgivable!! I will see them punished!!
+@4135
+Enraged by the two letters, {02}{01}4 began to plan the downfall of the Shingu-to, never knowing it was {02}{04}4's scheme. And the fateful day came...
+@4136
+Our lord is unwell. He will appear as soon as he recovers, so please wait a little longer.
+@4137
+What is he doing!? It was our lord who called us to the castle for an urgent council!
+@4138
+He should recover very soon. Please wait a little longer...
+@4139
+But even late into the night, {02}{01}4 did not appear...
+@4140
+I am very sorry, but perhaps another day...
+@4141
+Not even a cup of tea... What is he thinking!? {02}{03}4, we're going home!
+@4142
+Right! What a nuisance this is!
+@4143
+{02}{02}4 and {02}{03}4 stormed out of {02}{01}N. It happened on their way home!
+@4144
+{02}{02}n! By our lord's order, you die!
+@4145
+Wh-what are you doing!?
+@4146
+Don't play dumb! Who plotted to kill our lord and seize the {02}{01}2 clan!?
+@4147
+What!? What do you mean!? I know nothing of it!
+@4148
+No more talk! Your secret letter has been found!
+@4149
+Nonsense! That must be a scheme of the {02}{04}2... Gwah!...
+@4150
+So {02}{02}4 and his son {02}{03}4 died, and the Shingu-to's residence was destroyed by {02}{01}4's army. {02}{01}4 had cut away his own precious strength with his own hands.
+@4151
+It seems {02}{01}n and his son {02}{02}4 have fought, and {02}{01}4 lost and was killed. It seems the cause was {02}{01}4's backing of his son-in-law {02}{03}n.
+@4152
+After the meeting at the Shotokuji, the feud between father and son in the {02}{01}2 clan only grew worse, for {02}{01}4 had taken a liking to his son-in-law {02}{03}4 and backed him.
+@4153
+A rumour that "{02}{02}4's real father is Toki Yorinari" deepened the rift. At last {02}{02}4 took his mother's maiden name and rose against his father {02}{01}4.
+@4154
+I write expressly to say that {02}{01}{9C} is hereby left wholly to {02}{03}n to rule as he sees fit, and I hand this deed of transfer to {02}{03}4...
+@4155
+My lord... You sent for me?
+@4156
+Ah, Doku. I have a favour to ask. I have written a letter giving {02}{01}{9C} to my son-in-law. Take it to him.
+@4157
+!! ...M-my lord... Wh-what can you mean by this...
+@4158
+I want to entrust my dream to my son-in-law. The dream of soaring over the realm from {02}{03}{9C} and this {02}{01}{9C}...
+@4159
+...With this letter, my son-in-law can openly swallow {02}{01}{9C}, for {02}{02}4 holds land that I have given away.
+@4160
+I see... Understood! I will deliver it to Lord {02}{03}4 even at the cost of my life. Then, my lord... farewell!
+@4161
+Yes... You have served me well all these years. I thank you...
+@4162
+Early the next morning, the battle began at last. {02}{02}4 had 12,000 men; {02}{01}4, some 2,000. The outcome was decided from the start.
+@4163
+Oh... Not bad, {02}{02}4. I thought a body that big would leave no room for brains... It seems I was wrong.
+@4164
+...Hm! Who's there!
+@4165
+Komaki Genta, vassal of {02}{02}n! Lord {02}{01}n, I have come for your head!
+@4166
+Genta, is it! I'd gladly fall to you. Come, quickly.
+@4167
+My lord...
+@4168
+Hurry up! I won't be killed by anyone else! Quickly!!
+@4169
+My lord! Forgive me!
+@4170
+Gahh!...
+@4171
+And so {02}{01}n, the great schemer of his age, was killed by his son {02}{02}4's army, ending a life full of turmoil...
+@4172
+It seems {02}{02}n has been killed by his brother {02}{01}4 at {02}{01}N. It seems {02}{02}4 would not stop defying him.
+@4173
+Since the Battle of Ino the year before, {02}{03}n, the senior retainer attached to {02}{02}n, had clashed with {02}{02}4 at every turn.
+@4174
+My lord, stop fighting Lord {02}{01}4! Have you no wish to support your own brother?
+@4175
+Don't be absurd! My mind is made up. I will strike down my brother... no, {02}{01}4.
+@4176
+"The {02}{01}2 clan cannot be left to a fool. Lord {02}{02}4 is the true head of the {02}{01}2 clan"... Who was it who said that to me!?
+@4177
+Ngh...
+@4178
+Understood!? Then go and prepare for war!
+@4179
+Cornered, {02}{03}4 secretly told {02}{01}4 all of this. Some time later, a rumour began to spread that "{02}{01}4 has fallen ill."
+@4180
+Oh... So the fool has fallen ill. And, {02}{03}4, how is the fool?
+@4181
+Well... He is not doing well. "His life hangs by a thread" is exactly how one would describe Lord {02}{01}4 now.
+@4182
+Hahaha... Is that so! Then there is no need to send troops. I shall go and see the fool's dying face, as a last farewell.
+@4183
+...My lord, forgive me...
+@4184
+Claiming he came to visit the sick, {02}{02}4 set out for {02}{01}N, {02}{01}4's castle.
+@4185
+Brother! It is {02}{02}4! I heard of your condition from {02}{03}4 and hurried here!
+@4186
+Oh... {02}{02}4... Good of you... to come...
+@4187
+Brother! Leave everything after this to me, {02}{02}4.
+@4188
+...As if I would!
+@4189
+...Urgh! ...You... tricked me...
+@4190
+You are my own brother. I would rather not kill you... But you have turned your blade on me again and again. You have gone past what I can forgive.
+@4191
+...Yet I will not hand your life to another man...
+@4192
+Since the Battle of Ino you would not leave your castle, so there was no other way. Forgive me, {02}{02}4...
+@4193
+B-Brother... I am... sorry... I was... a fool...
+@4194
+And so {02}{01}n killed his own brother {02}{02}4...
+@4195
+It seems {02}{01}n will now call himself "Anegakoji Yoshiyori." He seems to mean to secure his rule with the name of the Anegakoji, the governors of Hida.
+@4196
+One day... {02}{01}n visited the court noble Kikutei Harusue.
+@4197
+Why, Lord {02}{01}n! Whatever brings you here? Your sudden visit took me by surprise.
+@4198
+Forgive me... I have come because I have a request to make of you, Lord Harusue.
+@4199
+Oh... And what is this request?
+@4200
+I would ask leave to carry on the name of the Anegakoji house...
+@4201
+Hm? The Anegakoji are the greatest house in Hida, one of the "Three Provincial Governors" along with the Kitabatake of Ise and the Ichijo of Tosa.
+@4202
+Just so. The other day I learned that the Anegakoji line had died out...
+@4203
+To rule Hida with ease, I believe I need not the name {02}{01}2, but the noble name "Anegakoji"...
+@4204
+Hmm... I cannot say whether I can help, but I shall put it to His Majesty. Do not expect too much.
+@4205
+Thank you! I am most grateful that you have heard me. I shall await good news.
+@4206
+Some time later, {02}{01}n was allowed to carry on the Anegakoji name, and so {02}{01}4 took the name "Anegakoji Yoshiyori."
+@4207
+It seems {02}{01}n will now call himself "{02}{01}2 Shingen." By taking holy orders, he seems to aim to win more favour with the religious sects.
+@4208
+One day... {02}{02}n, a vassal of the {02}{01}2 clan, visited his lord {02}{01}4.
+@4209
+My lord... I have something to say.
+@4210
+What is it, {02}{02}4? Has something happened?
+@4211
+Might you hold back a little on your gifts to the sects? It might be better to set the money aside for war...
+@4212
+Don't talk nonsense. I follow every faith... Giving to them is only natural.
+@4213
+I know that well, but... Raising the {02}{01}2 banner over the realm will need vast war funds. So...
+@4214
+{02}{02}4... Listen well. I give to the sects for exactly that reason... to raise the {02}{01}2 banner over the realm.
+@4215
+To rule the realm, I need the help of the priests. Without gifts I cannot win their hearts... unless I take holy orders myself...
+@4216
+...! {02}{02}4, bring my horse! I am going to the priest Gishu at the Chozenji!
+@4217
+Oh, Lord {02}{01}4, welcome. Please come in. What brings you here so suddenly?
+@4218
+Reverend... I would have you guide me in taking the tonsure.
+@4219
+M-my lord! Why take holy orders...? It is far too early for you to retire!
+@4220
+Listen well, both of you. I, {02}{01}4, wish to become a disciple of the Buddha and face this warring age with a new heart.
+@4221
+I take orders only to be reborn... It is no retirement. Rest easy, {02}{02}4.
+@4222
+I understand your feelings, Lord {02}{01}4. Then let us prepare at once... Are you ready?
+@4223
+...Then from this day, {02}{01}n, I give you the Buddhist name "Tokueiken Shingen."
+@4224
+{02}{01}2 Shingen... eh?
+@4225
+And so {02}{01}n took holy orders and the name "Shingen"...
+@4226
+It seems {02}{01}n has entered {02}{01}N and declared independence from the {02}{04}2 clan. He seems set on allying with {02}{05}n.
+@4227
+More than 10 years after {02}{01}n began his life as a hostage of the {02}{04}2 clan, a chance to escape that plight suddenly came...
+@4228
+{02}{02}4... I hear something grave has happened... Is it true?
+@4229
+...They say Lord Imagawa Yoshimoto has been killed at Dengakuhazama by {02}{05}n. His main force is destroyed and the other units are in disarray. I have sent scouts to learn more.
+@4230
+What!? The scouts are not back yet?
+@4231
+My lord, the scouts have just returned. Good news! The deputy holding {02}{01}N seems to have abandoned the castle and fled.
+@4232
+What!? Then {02}{01}N stands empty?
+@4233
+So it seems. My lord! Let us return to {02}{01}N!
+@4234
+When {02}{01}4 reached {02}{01}N, the {02}{04}2 clan's deputy had already fled, and the castle stood empty...
+@4235
+...My lord! All our hardship has not been in vain. Among the {02}{04}2 we were mocked even by foot soldiers...
+@4236
+We bore the shame until the day we could welcome you to {02}{01}N, and at last our hardship has been rewarded... *sob*
+@4237
+Yes... yes... All of you, you have truly endured well... I will never give up this castle again. I will be no one's hostage!
+@4238
+And so {02}{01}n returned to {02}{01}N for the first time in more than 10 years. A new fight was beginning for {02}{01}4...
+@4239
+It seems {02}{02}n has decided to hand the post of Kanto Kanrei and the name "Uesugi" to {02}{01}n, and a grand ceremony was held at the Tsurugaoka Hachimangu.
+@4240
+One day... the Kanto Kanrei {02}{02}n, who had taken refuge with {02}{01}n, visited {02}{01}4's residence.
+@4241
+Lord {02}{01}4... There is something I must ask of you.
+@4242
+What might it be? Anything I can do, I will.
+@4243
+Yes... You see, I want you to become my adopted son and take on the name "{02}{02}2" and the post of Kanto Kanrei.
+@4244
+!? Wh-why would you...
+@4245
+Of course you would not know, but some time ago, this happened...
+@4246
+Lord {02}{03}4, your ancestors came from the {02}{02}2 clan. That means the same {02}{02}2 blood as mine flows in you.
+@4247
+There is nothing to stop you taking the post of Kanto Kanrei and the name "{02}{02}2."
+@4248
+I cannot accept that. What you say makes sense, Lord {02}{02}4, but... I am now head of the {02}{03}2 clan.
+@4249
+I cannot cast off the noble name {02}{03}2, handed down unbroken from Lord Shinra Saburo Yoshimitsu. I am sorry, but I must ask you to leave.
+@4250
+...I see. So that is what happened...
+@4251
+You are the only one I can turn to now. I beg you to take on the name "{02}{02}2" and the post of Kanto Kanrei. What do you say?
+@4252
+You do me too much honour. I gladly accept!
+@4253
+And so {02}{01}n became Kanto Kanrei, and took the name "Uesugi Masatora."
+@4254
+It seems {02}{01}n will now call himself "{02}{01}2 Sorin." It seems the vassals, worried by his leaning toward Christianity, have talked him into it.
+@4255
+Ever since Francis Xavier's visit in 1551, {02}{01}n had been leaning ever more toward Christianity. His vassals watched with bitter hearts.
+@4256
+My lord... Today you will hear me out, whatever it takes.
+@4257
+What is it... If it's about the foreign priests, I won't listen.
+@4258
+No, you will listen. All your vassals lament that you have gone over to foreign ways.
+@4259
+Many of your vassals follow the Zen sect. Do you not think you will lose their hearts?
+@4260
+...Then what should I do!?
+@4261
+Take holy orders and become a monk yourself, my lord. Then they will rejoice that you have changed your heart.
+@4262
+...Very well. Do as you see fit.
+@4263
+Soon the priest Iun was invited to {02}{01}N from the Daitokuji in northern Kyoto to guide the tonsure.
+@4264
+...Now, are you ready?
+@4265
+...From this day, {02}{01}n, I give you the Buddhist name "Zuiho Sorin."
+@4266
+Zuiho Sorin... So from today I am {02}{01}2 Sorin...
+@4267
+And so {02}{01}n took holy orders and the name "Sorin."
+@4268
+It seems {02}{01}4, head of the {02}{01}2 clan, has killed his chief retainer {02}{03}n. {02}{05}n seems to have mediated, but {02}{01}4's authority has collapsed.
+@4269
+{02}{01}n had succeeded his father {02}{02}4 as head of the {02}{01}2 clan, but being young he was often hot-headed, and he was a constant trial to his old retainers.
+@4270
+The chief retainer {02}{03}n in particular often warned him, fearing for the house's future, and in time a rift grew between him and {02}{01}4. Then one day...
+@4271
+I am {02}{03}n. I rejoice to see you well as ever, my lord. What is the urgent matter?
+@4272
+First, come closer. There is something I want to tell you in private.
+@4273
+Yes... Is something serious...?
+@4274
+Take this, {02}{03}4!!
+@4275
+Gwah! M-my lord... Do you know what strife... such conduct will bring to the house...?
+@4276
+Enough, be quiet! I'm sick of your nagging! Die!!!
+@4277
+Urgh! Is this the end of the {02}{01}2 clan...
+@4278
+And so {02}{03}4 was killed by his lord {02}{01}4. The news that "{02}{03}n has been murdered" spread at once through the {02}{01}2 lands.
+@4279
+What!? Father was killed by Lord {02}{01}4!? ...I can bear it no longer! From today I am no longer Lord {02}{01}4's man!
+@4280
+Led by {02}{03}4's son {02}{04}4, the vassals all rose up against {02}{01}4's outrage and began gathering troops everywhere.
+@4281
+Frightened by his vassals' fury, fiercer than he had expected, {02}{01}4 fled to {02}{05}n.
+@4282
+...{02}{05}4, p-please... Could you calm my vassals' anger for me?
+@4283
+...There are limits to selfishness. What would you do if I refused?
+@4284
+Don't be so cruel! P-please! I'll do anything you say, please!
+@4285
+...Very well. Since it is your wish, Lord {02}{01}4... I shall act as go-between.
+@4286
+Oh, will you! Thank you! I'll await good news, {02}{05}4!
+@4287
+...From now on, Lord {02}{01}4's power can only wane. This may be the end of the {02}{01}2 clan...
+@4288
+Through {02}{05}4's efforts, {02}{01}4 and his vassals made peace. But at the same time, the {02}{01}2 clan's power declined sharply.
+@4289
+The later "{02}{01}2 Code" binds lord and vassals alike to obey its laws, a record that shows plainly how far the {02}{01}2 clan had fallen.
+@4290
+It seems {02}{03}n, a vassal of the {02}{01}2 clan, has taken his own life on the orders of his brother {02}{01}4. It later proved to be {02}{02}n's slander, and {02}{01}4 is deeply stricken.
+@4291
+{02}{01}n had banished his lord Hosokawa Harumoto and become master of the Kinki, but in recent years a dark shadow had been creeping over his {02}{01}2 clan.
+@4292
+Lord Kazumasa, where are you going?
+@4293
+Bathing in the springs at Arima has cured my illness, so I thought I would go and give thanks at the Arima Gongen shrine.
+@4294
+Lord Kazumasa, they say the god of Arima hates grey horses. Should you not stay, or change your horse?
+@4295
+Hahaha... Don't talk nonsense! I've never heard of such a thing. Well, I'm off...
+@4296
+On the way to the Arima Gongen, Kazumasa fell from his horse and never came home. "Demon Sogo," the bravest man in the house, was gone from the world in a moment.
+@4297
+All of you! The enemy is few! Fight without flinching!
+@4298
+Gwah!! T-to die in a place like this... I still have... things I must...
+@4299
+{02}{01}4's brother Yoshikata, his right arm and most trusted man, was killed by a stray shot in a skirmish with a local lord.
+@4300
+Hmm... Delicious. A treat this fine has been hard to come by of late...
+@4301
+...Hm? I... feel... strange... Ngh! Gwah! Th-the pain... S-someone...
+@4302
+{02}{01}4's eldest son Yoshioki collapsed suddenly at a meal and died. People whispered that {02}{02}n had poisoned him...
+@4303
+Having lost the brothers who were his right arm and the son who was to carry on after him, {02}{01}4 had lost all balance of mind and body...
+@4304
+My lord... I have something urgent to report. My men tell me Lord {02}{03}4 is moving toward rebellion.
+@4305
+Wh-wh-what!? {02}{03}4... With Yoshikata and Kazumasa dead, I thought he was the only one I could rely on... Unforgivable!
+@4306
+{02}{02}4! Seize {02}{03}4 at once! If he resists, cut him down!
+@4307
+And so {02}{03}4 was seized. A few days later, {02}{01}4 ordered him to take his own life.
+@4308
+To be taken in by {02}{02}4's smooth talk... My brother {02}{01}4 has grown old... This is the end of the {02}{01}2 clan. Brother Yoshikata, Kazumasa, I am coming to join you...
+@4309
+{02}{03}4 calmly took his own life. {02}{01}4 later learned he was innocent and regretted it, but too late. Dark clouds hung over the {02}{01}2 clan's future...
+@4310
+It seems {02}{01}n has punished his eldest son {02}{02}4 and his vassal {02}{03}n, who were planning a rebellion. They seem to have opposed {02}{01}4's policy.
+@4311
+One day... a rappa returned to {02}{01}n. This rappa's report would set off an incident that shook the {02}{01}2 clan.
+@4312
+A report has come from the rappa I sent into {02}{06}N. Lord {02}{06}4 seems to spend his days at kickball, with no thought of avenging his father Yoshimoto...
+@4313
+The {02}{06}2 clan seems close to collapse. So I mean to take {02}{06}N before any other province can. What do you all think?
+@4314
+I am against it! The {02}{06}2 clan is my wife's family. Are they not kin to our clan? Such a deed would betray our good faith!
+@4315
+{02}{02}4! This is an age of war. To survive, there are times one must cast good faith aside. Your thinking is naive!
+@4316
+Father! Is it not because this is an age of war that good faith matters? I am firmly against it!
+@4317
+If you still mean to send troops to {02}{06}N... you will have to cut me, {02}{02}4, down first!
+@4318
+!! Don't talk such nonsense! Enough! Get out!
+@4319
+A few days later... saying he was going to watch the lantern floating, {02}{02}4 left his house and went to the house of his guardian {02}{03}n...
+@4320
+{02}{03}4... Nothing Father does of late makes sense to me... Surely he doesn't mean to pass the headship to {02}{05}4 instead of me...
+@4321
+Lord {02}{02}4! What are you saying? You are Lord {02}{01}4's eldest son. Such a thing could never...
+@4322
+No! It must be so! Attacking my wife's family... It is as if I did not exist. That is the proof!
+@4323
+Father's way will lead the {02}{01}2 clan who knows where... So why not... Father himself... {02}{03}4, will you help me?
+@4324
+! Please wait, Lord {02}{02}4!
+@4325
+Don't stop me, {02}{03}4! Did Father not banish my grandfather? Are you saying I may not do what Father did!?
+@4326
+And when my grandfather was banished, they say you helped Father along with Lord Itagaki and others! Will you not help me!?
+@4327
+!!
+@4328
+Father succeeded in banishing my grandfather only because the senior vassal Lord Itagaki helped him... You are the only one I can rely on. Please, lend me your strength!
+@4329
+...I understand your resolve, Lord {02}{02}4... I will help you...
+@4330
+{02}{02}4 and {02}{03}4 began to plot {02}{01}4's banishment. But...
+@4331
+My lord, I have something urgent to tell you...
+@4332
+...What is it, so late at night?
+@4333
+...It seems Lord {02}{02}4 and my brother are plotting rebellion against you, my lord. Here is a letter as proof...
+@4334
+This is {02}{02}4's hand beyond doubt! It sets out the plan to banish me from {02}{01}N... And {02}{03}4 is in it too...
+@4335
+Even if he is my own brother, rebellion cannot be forgiven. All the blame is my brother's, so please forgive Lord {02}{02}4...
+@4336
+And so {02}{01}4 learned of {02}{02}4's rebellion. A few days later...
+@4337
+Hm! Who goes there!!
+@4338
+{02}{03}n! To forget our lord's kindness and plot rebellion is an outrage! I, {02}{04}n, have come to punish you!
+@4339
+I see... So the plan was hopeless after all. Saburobei! Is Lord {02}{02}4 safe? If I die, will Lord {02}{02}4 be forgiven!?
+@4340
+Brother... Have no fear. Our lord says he will forgive Lord {02}{02}4...
+@4341
+I see... That is a relief. Then, Saburobei, I will take responsibility and kill myself. Be my second. Give our lord my apologies...
+@4342
+Brother... Forgive me!!
+@4343
+Gwah!!
+@4344
+{02}{03}4 took the whole blame for the rebellion on himself and took his own life.
+@4345
+Father... Why, Father... Why do you shun me...?
+@4346
+...Why...
+@4347
+{02}{02}4 was confined at the Tokoji and died there, some say by his own hand, some say of illness. So the affair was settled, but ill feeling remained among the vassals.
+@4348
+It seems {02}{01}n will now call himself "Tokugawa Ieyasu." It seems {02}{01}4's ancestor Nitta Yoshisue bore the name Tokugawa.
+@4349
+One day... {02}{01}n visited Kikutei Harusue.
+@4350
+Oh, Lord {02}{01}4, welcome. I hear you have a favour to ask of me today?
+@4351
+It has been a long time, Lord Harusue. I wish to change my family name to "Tokugawa," and would ask for imperial leave to do so.
+@4352
+Oho... "Tokugawa," you say. And on what grounds?
+@4353
+The founder of our house was Chikauji, but my vassals have looked into it and found his ancestors were descendants of the Nitta, of the Seiwa Genji.
+@4354
+They say it began when Lord Yoshisue, son of Lord Nitta Yoshishige, was granted the village of Tokugawa in Kozuke and took the name Tokugawa, which in time came to be written as it is now...
+@4355
+Some generations later, Lord Arichika became a monk of the Ji sect and wandered the provinces. His son was none other than my ancestor, Chikauji.
+@4356
+I see... Then you are truly of the Seiwa Genji line. Very well, I shall put the request to His Majesty.
+@4357
+I am deeply grateful for your kindness.
+@4358
+Some time later, imperial leave to change the name was granted, and so {02}{01}n took the name "Tokugawa Ieyasu"...
+@4359
+It seems {02}{01}n has renamed {02}{01}N "Gifu Castle." The idea seems to come from the saying "King Wen of Zhou rose at Mount Qi and brought order to the realm."
+@4360
+Some time after {02}{01}n moved to {02}{01}N... Takugen Soon, a priest of Owari, came to {02}{01}N at {02}{01}4's invitation.
+@4361
+Oh! Master Takugen! Thank you for coming. I am glad to see you well.
+@4362
+I rejoice to see you in good health too, Lord {02}{01}4. And congratulations on your move to {02}{01}N.
+@4363
+Yes, thank you. I asked you here for one reason: I have a favour to ask, Master. First, look at this.
+@4364
+"Tenka... fu... bu"...? "Spread arms over the realm"... So, Lord {02}{01}4, you mean at last to take the realm?
+@4365
+You see it at once, Master. Just so. And so... I would ask you...
+@4366
+...to give this place a name worthy of the birthplace of the realm's ruler? Then...
+@4367
+There is the saying "King Wen of Zhou rose at Mount Qi and brought order to the realm"... How about "Kizan," after Mount Qi?
+@4368
+Hmm... The origin is good, but... as it stands, it's not quite...
+@4369
+Is that so? Then how about "Kiyo"?
+@4370
+Hmm... Not quite to my taste...
+@4371
+Hmm... Not to your liking? Then... how about "Gifu"?
+@4372
+"Gifu"... That's it! "{02}{01}n rose at Gifu and brought order to the realm"... Yes, a fine name!
+@4373
+Good! From this moment, this castle is named "Gifu Castle"! Master, you have given it a fine name. My thanks!
+@4374
+Hohoho...
+@4375
+And so {02}{01}n renamed {02}{01}N "Gifu Castle." With Gifu Castle as his base, {02}{01}4 set out to spread arms over the realm.
+@4376
+It seems {02}{01}n will now call himself "{02}{01}2 Yoshiaki." It seems he did not like the name "{02}{01}4."
+@4377
+One day... {02}{01}n called for his close aide {02}{02}n.
+@4379
+Ah, {02}{02}4. I want your advice on something. I am thinking of changing my name... What do you say?
+@4380
+Why so, Lord {02}{01}4...? I think it a very fine name.
+@4381
+That may be so, but... the "aki" in it means autumn, and after autumn comes winter. It feels gloomy, and I dislike it. I want a brighter name.
+@4382
+Hmm... If you feel that strongly, I have no objection. Then... how about writing "aki" with the character for "mirror"?
+@4383
+"Yoshiaki" with "mirror"... That sounds like a man who gets killed by his own vassals. No.
+@4384
+Is that so? Then... how about "aki" written as "clear"?
+@4385
+"Yoshiaki" with "clear"... That sounds like a hothead who dies in battle. No.
+@4386
+...Then what about "aki" written as "radiant"?
+@4387
+"Yoshiaki" with "radiant"... Yes! A fine name. The character is made of "sun" and "summon"; I feel it will summon a bright future.
+@4388
+Good! From now on my name is "{02}{01}2 Yoshiaki"!
+@4389
+And so {02}{01}n took the name "{02}{01}2 Yoshiaki."
+@4390
+It seems {02}{01}n and {02}{02}n have made an alliance. Its aim seems to be to check {02}{04}n, who has designs on the {02}{05}2 lands.
+@4391
+When {02}{04}n broke the Zentokuji pact and invaded the lands of the {02}{05}2 clan, {02}{02}n was put in a tight spot.
+@4392
+To face {02}{01}n and {02}{04}4 at once would mean death... Seeing this, {02}{02}4 proposed an alliance to {02}{01}4.
+@4393
+Oh, Lord {02}{02}4. Welcome.
+@4394
+Lord {02}{01}4... Today I have a special request. It is not something I could leave to a vassal, so I have come myself...
+@4395
+...And what is this request?
+@4396
+I want you to make an alliance with our clan. I know full well it is a selfish thing to ask...
+@4397
+Oh... It is indeed rather selfish. And the reason?
+@4398
+You know {02}{04}4 means to swallow the lands of the {02}{05}2 clan. Our clan is allied with the {02}{05}2...
+@4399
+So we will surely clash with {02}{04}4. Then we would have to face both {02}{04}4 and you at once...
+@4400
+Against the two greatest generals of the age at once, our clan could not win. So it is better for us to let past grudges go and join hands with you, Lord {02}{01}4...
+@4401
+I see... {02}{04}4 is our sworn enemy too, one we must defeat some day. The more allies, the better...
+@4402
+But we shelter the former Kanto Kanrei, Lord {02}{06}n. As Kanto Kanrei, it is my duty to return his lands to Lord {02}{06}4.
+@4403
+As to that... we cannot return everything. I must ask you to accept only part of the lands.
+@4404
+Then one more thing... An alliance needs a hostage. Who will it be?
+@4405
+I mean to offer my unworthy son, {02}{03}4. I have brought him with me today.
+@4406
+I rejoice to see you in good health, Lord {02}{01}n. My name is {02}{03}n. I am honoured to meet you.
+@4407
+Good! I agree. Lord {02}{02}4, I accept the alliance.
+@4408
+But there is one more condition. May I make this boy my adopted son? I have no children of my own.
+@4409
+Agreed. From now on let us join our strength and destroy our hard foes together...
+@4410
+And so an alliance was made between the {02}{01}2 clan and the {02}{02}2 clan.
+@4411
+{02}{03}4 was given the name {02}{01}4 had borne in his youth, and was called "Uesugi Kagetora"...
+@4412
+It seems {02}{01}n, a vassal of the {02}{02}2 clan, has rebelled. With a succession dispute on top of this rebellion, the {02}{02}2 clan seems badly shaken.
+@4413
+{02}{02}4, head of the {02}{02}2 clan, had long had no son, and so had married his daughter to his cousin {02}{04}n and made him heir.
+@4414
+But later the long-awaited son Tsuruchiyo was born, and {02}{02}4 began to think of making Tsuruchiyo heir. The {02}{02}2 clan split, and a succession dispute followed...
+@4415
+Welcome. How are things at {02}{02}N?
+@4416
+...It has been a long time since I came here, but I never thought it would be this bad. What are Lord {02}{02}4 and the chief retainers thinking...
+@4417
+The people of Tsugaru are all angry at the {02}{02}2 clan's heavy taxes. This is no time for a quarrel over the succession...
+@4418
+Lord {02}{01}4, are you confident you could govern Tsugaru well?
+@4419
+Yes, of course... But why do you ask me that?
+@4420
+The chaos at {02}{02}N is at its height. Even if a rebellion broke out in Tsugaru, {02}{02}N could not send troops.
+@4421
+! ...You are telling me to rebel? But I owe the {02}{02}2 clan a great debt...
+@4422
+The {02}{02}2 clan is finished. You strike down Lord {02}{03}4. Lord {02}{04}4 is Lord {02}{03}4's son; he is sure to be furious and order you punished.
+@4423
+But I will not go along with it. Then I will bring Lord {02}{04}4 down, have Lord Tsuruchiyo removed too, and make my brother head of the {02}{02}2 clan.
+@4424
+I will be my brother's guardian, and you and I will rule this region together... That is the plan. What do you say?
+@4425
+...Very well. If you go that far, Lord {02}{05}4...
+@4426
+{02}{01}4 made up his mind to rebel, returned to {02}{01}N and laid his plans. And the day came...
+@4427
+Heh heh... It is New Year's Day; they'll be off their guard... They all seem fast asleep.
+@4427.1
+Heh heh... It is the Boys' Festival; they'll be off their guard... They all seem fast asleep.
+@4427.2
+Heh heh... It is the Chrysanthemum Festival; they'll be off their guard... They all seem fast asleep.
+@4427.3
+Heh heh... It is the year's end; they'll be off their guard... They all seem fast asleep.
+@4428
+Right! Listen, all of you! Now we storm {02}{03}N! Fall behind me, and your shame will last for generations!
+@4429
+What is this! Soldiers breaking in!? Everyone, calm down! Find out whose men they are, quickly! ...{02}{01}4's army!?
+@4430
+...So he has outwitted me... No help can be expected from {02}{02}N... This is the end. I will fight with all my might!
+@4431
+{02}{03}N fell into utter chaos, and {02}{03}4 soon took his own life. The news of "{02}{01}n's rebellion" quickly reached {02}{02}N.
+@4432
+What, {02}{01}n has rebelled!? And Father? What of Father!? ...He took his own life!? Curse you, {02}{01}4!
+@4433
+{02}{05}4! We march to punish {02}{01}4. Make ready at once!
+@4434
+...Please restrain yourself.
+@4435
+Why!? {02}{01}4 is a villain who has drawn his bow against the {02}{02}2 clan!
+@4436
+If you leave the castle now, Lord {02}{04}4, Lord Tsuruchiyo's faction is sure to seize it.
+@4437
+And if {02}{01}4's army beats you, what then? You will have no castle to return to.
+@4438
+Grrrr... {02}{01}4... So he was waiting for this chance...
+@4439
+In the end, no troops came from {02}{02}N, and so {02}{01}n won his independence from the {02}{02}2 clan.
+@4440
+It seems {02}{01}n has burned the Enryakuji on Mount Hiei. Four or five hundred halls were burned on Mount Hiei, and as many as 3,000 people seem to have been killed.
+@4441
+The Enryakuji on Mount Hiei, which even Retired Emperor Go-Shirakawa lamented he could not control in the Kamakura age, answered the call of the {02}{03}2 and {02}{04}2 clans and turned against {02}{01}n.
+@4442
+To break the deadlock, {02}{01}4 sent an envoy, but Mount Hiei ignored him. His patience gone, {02}{01}4 at last ordered his whole army to burn Mount Hiei.
+@4443
+My lord! There is something I must say. I beg you to hear me...
+@4444
+What is it, {02}{02}4? Mount Hiei? You'll tell me to stop, no doubt. It's because of priest-lovers like you that there are men who abuse Mount Hiei!
+@4445
+And the priests of Hiei love killing, eat fish and fowl, keep women and never study... It makes me sick just to think of it. I will bring the hammer down on those rotten monks.
+@4446
+Wh-what you say is true, but... 3,000 Buddhas dwell on Mount Hiei. What sin have the Buddhas committed?
+@4447
+Don't talk nonsense! What are Buddhas made of? Gold and wood, are they not? Gold is gold and wood is wood. If the Buddha truly existed...
+@4448
+...he would have punished them already. Yet the priests of Hiei still live without a care... Is that not proof that there is no Buddha?
+@4449
+N-no, but... Burning Mount Hiei will earn you an evil name for all time.
+@4450
+Let later ages judge for themselves!! Listen, {02}{02}4!! I am not burning Mount Hiei! I am burning a fortress full of lawless men!
+@4451
+What destroys Mount Hiei is Mount Hiei itself!! Understood!? Then get back to your post!!
+@4452
+{02}{01}4's resolve did not change. Fires rose on every side and soon engulfed all of Mount Hiei, and a hellish scene of screaming horror unfolded...
+@4453
+Show no mercy! Burn everything! Gods, Buddhas, priests, women, children, kill them all!!
+@4454
+{02}{01}4!!!
+@4455
+Hm!? Who are you!?
+@4456
+I am Kongo Sagami, the fiercest warrior monk of Mount Hiei! With this arrow of 3 feet 6 inches I bring you the Buddha's punishment!
+@4457
+Tch! It hit the horse!
+@4458
+Fool! As if a corrupt monk's arrow could hit me, {02}{01}4! Everyone, what are you doing? Kill that wild monk!
+@4459
+Damn!
+@4460
+If the gods and Buddhas protected the monks of Hiei, that arrow would have struck. That it missed proves I am in the right. Everyone! Burn every corner!!
+@4461
+Every shrine, temple, hall and pagoda was burned, and everyone on the mountain, from high priest to small boy, was cut down.
+@4462
+I-I was brought here against my will by the monks, so I mean no resistance. Please, spare my life.
+@4463
+Hmph... What reason would a captive have to live so comfortably on Mount Hiei? Listen! Cut down these women and children before me, 30 at a time.
+@4464
+D-demon! Monster!! I'll haunt you! I'll curse you!! ...Gurk!
+@4465
+So Mount Hiei, the holy ground that guarded the capital, was reduced to ashes by {02}{01}4. It is said four or five hundred halls burned and as many as 3,000 people were killed...
+@4466
+It seems {02}{01}n will now call himself "Hashiba {02}{01}4." He seems to have taken one character each from the names of {02}{02}n and {02}{03}n.
+@4467
+One day... {02}{01}n asked his wife Nei a question.
+@4468
+Say, Nei, who are the most loyal vassals of our clan? Name two.
+@4469
+Pardon? Our clan's most loyal vassals? Why, surely Lord {02}{02}2 and Lord {02}{03}2.
+@4470
+Hmm... I thought so. And if the two of them each led an army against the other, who would win?
+@4471
+That would be... Lord {02}{03}2, I suppose. Lord {02}{02}2 is so hot-headed... But why do you ask such a thing, dear?
+@4472
+Well... I mean to change my family name. I was torn between "Shibaha" and "Hashiba," but your words have decided it. From today my name is "Hashiba."
+@4473
+My... What will you come out with next... Why change your name?
+@4474
+I rose from a sandal-bearer to where I stand now. Many of the senior retainers think ill of me.
+@4475
+So if I change my name by taking one character each from our loyal vassals Lord {02}{02}2 and Lord {02}{03}2, it will sound well in the house.
+@4476
+Hoho... What plausible reasons you give. What you really mean is: "I am a man who does the work of Lord {02}{02}2 and Lord {02}{03}2 put together," isn't it, dear?

@@ -1,0 +1,1342 @@
+# chunk c: e3f6000 .. g1ffffff
+e3f6018	Yes
+e3f6020	No
+e3f6088	-
+e3f6098	-
+e3f60b0	-
+e3f60d0	-
+e3f6100	-
+e3f6120	-
+e3f6140	-
+e3f6160	-
+e3f6180	-
+e3f61a0	-
+e3f61c0	Done
+e3f61d0	-
+e3f6208	Success
+e3f6260	-
+e3f6290	-
+e3f6930	%s, %s
+e3f6940	-
+e3f6958	%d times
+e3f6990	-
+e3f69b0	-
+e3f69c0	-
+e3f69d8	-
+e3f69e8	-
+e3f69f8	-
+e3f6a10	-
+e3f6a30	-
+e3f6a60	-
+e3f6a90	-
+e3f6ad0	-
+e3f6af0	-
+e3f6b20	-
+e3f6b60	-
+e3f6b90	-
+e3f6bd0	-
+e3f6c10	-
+e3f6c50	-
+e3f6c90	-
+e3f6cc0	-
+e3f6d10	-
+e3f6d60	-
+e3f6db8	Daimyo
+e3f6dc0	Corps Cmdr.
+e3f6dd0	-
+e3f6e30	-
+e3f6e50	-
+e3f6e98	Check
+e3f6ea0	Confirm
+e3f6ec8	-
+e3f6f50	-
+e3f6f80	-
+e3f6fa0	-
+e3f6fe0	-
+e3f7010	-
+e3f7030	-
+e3f7060	-
+e3f7090	-
+e3f70b0	-
+e3f7458	Check
+e3f7460	Register
+e3f7488	Special
+e3f7490	Goal
+e3f74a0	Scoring
+e3f74b0	Rank
+e3f74b8	Difficulty
+e3f74c0	Restrictions
+e3f7ce0	-
+e3f7d10	-
+e3f7d40	-
+e3f7d70	Check
+e3f7d80	Special
+e3f7d88	Officer
+e3f7d90	Goal
+e3f7da0	Prizes Won
+e3f7dc8	Officer Mania
+e3f7dd8	Treasure Mania
+e3f7de8	Speed Mania
+e3f7df8	Hardship Mania
+e3f7e08	Battle Mania
+e3f7e18	Intrigue Mania
+e3f7e28	Wedding Mania
+e3f7e30	Free Mania
+e3f7e48	Rank
+e3f7e50	Difficulty
+e3f7e58	Restrictions
+e3f7e68	Prize
+e3f7ef0	-
+e3f7f10	Narrator
+e3f7f20	-
+e3f7f40	Narrator
+e3f7f50	-
+e3f7f70	Narrator
+e3f7f80	Kujo
+e3f7f88	Masamoto
+e3f7f90	-
+e3f7fb0	Narrator
+e3f7fc0	-
+e3f7fe0	Narrator
+e3f7ff0	-
+e3f8010	Narrator
+e3f8020	Omori
+e3f8028	Fujiyori
+e3f8030	-
+e3f8050	Narrator
+e3f8060	Nanban
+e3f8068	Merchant
+e3f8070	-
+e3f8098	Narrator
+e3f80a8	Francis
+e3f80b0	Xavier
+e3f80c0	-
+e3f80e0	-
+e3f80f0	Deceased
+e3f8130	-
+e3f8150	-
+e3f8180	-
+e3f81a0	-
+e3f81c0	Face
+e3f81c8	Life
+e3f81d0	Confirm
+e3f81d8	Age
+e3f81e0	Married To
+e3f81e8	Family
+e3f81f0	Father
+e3f81f8	Guardian
+e3f8228	Compat.
+e3f8230	Good Compatibility
+e3f8240	Bad Compatibility
+e3f8258	Oda Nobunaga type
+e3f8268	Takeda Katsuyori type
+e3f8278	Matsunaga Hisahide type
+e3f8288	Uesugi Kenshin type
+e3f8298	Hojo Ujimasa type
+e3f82a8	Imagawa Ujizane type
+e3f82b8	Court
+e3f82c0	Shogun
+e3f82c8	Prestige
+e3f82d0	Face
+e3f82d8	POL
+e3f82e0	LDR
+e3f82e8	INT
+e3f82f0	Nature
+e3f82f8	Duty
+e3f8300	Ambition
+e3f8308	Compat.
+e3f8310	Troops
+e3f8318	Skills
+e3f8320	Tactics
+e3f8328	Origin
+e3f8330	Priority
+e3f8338	Life
+e3f8340	Confirm
+e3f8348	Male
+e3f8350	Infantry
+e3f8358	Sk.1
+e3f8360	Tac.1
+e3f8368	Tac.2
+e3f8370	Tac.3
+e3f8378	Ikko
+e3f8380	Serving
+e3f8388	Killed
+e3f8390	-
+e3f83c8	-
+e3f83e0	-
+e3f83f8	-
+e3f8408	-
+e3f8430	-
+e3f8460	Family
+e3f8468	Given
+e3f8470	Fam. Rd.
+e3f8478	Given Rd.
+e3f8480	Castle
+e3f8488	Status
+e3f8490	Age
+e3f8498	Sex
+e3f84a0	Father
+e3f8510	None
+e3f8518	Small
+e3f8520	Medium
+e3f8528	Large
+e3f8530	Rice
+e3f8538	Yield
+e3f8540	Main
+e3f8548	Gold
+e3f8550	Commerce
+e3f8558	2nd
+e3f8560	Horses
+e3f8568	Horse Br.
+e3f8570	3rd
+e3f8578	Guns
+e3f8580	Smiths
+e3f8588	Gold Mine
+e3f8590	Silver
+e3f8598	Confirm
+e3f85d0	-
+e3f8610	-
+e3f8650	-
+e3f86d8	Main Def.
+e3f86e8	Main Max. Def.
+e3f86f8	2nd Def.
+e3f8710	2nd Max. Def.
+e3f8728	3rd Def.
+e3f8740	3rd Max. Def.
+e3f8758	Smiths
+e3f8768	Compat.
+e3f8770	Good Compatibility
+e3f8780	Bad Compatibility
+e3f8798	Face Type
+e3f87b0	Type
+e3f8878	Life
+e3f8880	Illness
+e3f8888	Killed
+e3f8890	Confirm
+e3f88a0	Item
+e3f88a8	Change
+e3f88b0	Min.
+e3f88b8	Max.
+e3f9c80	Face
+e3f9c88	Abilities
+e3f9c90	Sex
+e3f9c98	Confirm
+e3f9cc0	S
+e3f9cc8	A
+e3f9cd0	B
+e3f9cd8	C
+e3f9ce0	D
+e3f9ce8	E
+e3f9cf0	Confirm
+e3f9cf8	Abilities
+e3f9d48	Male
+e3f9d50	Female
+e3f9d58	Confirm
+e3f9d60	Sex
+e3f9d78	Infantry
+e3f9d80	Pikes
+e3f9d88	Cavalry
+e3f9d90	Gunners
+e3f9d98	Mtd.Gun
+e3f9da0	Confirm
+e3f9da8	Troops
+e3f9dc0	Confirm
+e3f9dc8	Tac.1
+e3f9dd0	Tac.2
+e3f9dd8	Tac.3
+e3f9de0	Tactics
+e3f9df0	-
+e3f9ea0	Oda Nobunaga type
+e3f9eb0	Takeda Katsuyori type
+e3f9ec0	Matsunaga Hisahide type
+e3f9ed0	Uesugi Kenshin type
+e3f9ee0	Hojo Ujimasa type
+e3f9ef0	Imagawa Ujizane type
+e3f9f00	Confirm
+e3f9f08	Nature
+e3f9f10	-
+e3f9f80	Samurai
+e3f9f88	Gentry
+e3f9f90	Ikko
+e3f9f98	Old Buddhist
+e3f9fa0	Christian
+e3f9fa8	Merchant
+e3f9fb0	Pirate
+e3f9fb8	Ninja
+e3f9fc0	Court
+e3f9fc8	Confirm
+e3f9fd0	Origin
+e3f9fe8	Plea
+e3f9ff0	Menace
+e3f9ff8	Tea
+e3fa000	Sword
+e3fa008	Farming
+e3fa010	Trade
+e3fa018	Repair
+e3fa020	Recruit
+e3fa028	Speech
+e3fa030	Confirm
+e3fa038	Sk.1
+e3fa040	Skills
+e3fa050	-
+e3fa0c8	Court
+e3fa0d0	Shogun
+e3fa0d8	Prestige
+e3fa0e0	Confirm
+e3fa0e8	Priority
+e3fd7b8	Heading
+e3fd7c8	Digits
+e3fd7d0	Change
+e3fd7d8	Min.
+e3fd7e0	Max.
+e3fd7f8	Yield
+e3fd800	Max. Yield
+e3fd810	Confirm
+e3fd830	Change
+e3fd838	Min.
+e3fd840	Max.
+e3fd858	Small
+e3fd860	Medium
+e3fd868	Large
+e3fd870	Confirm
+e3fd878	Size
+e3fd890	Create registered treasure data
+e3fd8b0	Edit registered treasure data
+e3fd8d0	Delete registered treasure data
+e3fd8f0	Load registered treasure data
+e3fd910	Save registered treasure data
+e3fd930	Choose which registered treasures appear
+e3fd970	-
+e3fd9a0	-
+e3fd9e0	-
+e3fda50	-
+e3fdac0	-
+e3fdb00	-
+e3fdb30	-
+e3fdb50	-
+e3fdba0	-
+e3fdbd0	-
+e3fdc00	-
+e3fdc20	-
+e3fdc60	-
+e3fdca0	-
+e3fdcd0	Name
+e3fdcd8	Reading
+e3fdce0	Image
+e3fdce8	Type
+e3fdcf0	Grade
+e3fdcf8	Origin
+e3fdd00	Save
+e3fdd08	Matchlock
+e3fdd10	Eloquence
+e3fdd18	Grade 1
+e3fdd20	Nanban
+e3fdd28	Effect
+e3fdd30	-
+e3fdd68	-
+e3fdd78	-
+e3fddc0	Caddy
+e3fddc8	Tea Jar
+e3fddd0	Kettle
+e3fddd8	Tea Bowl
+e3fdde0	Vase
+e3fdde8	Scoop
+e3fddf0	Censer
+e3fddf8	Water Jar
+e3fde00	Sword
+e3fde08	Spear
+e3fde10	Caplock
+e3fde18	Pistol
+e3fde20	Cannon
+e3fde28	Armour
+e3fde30	Helmet
+e3fde38	Steed
+e3fde40	Fencing
+e3fde48	Farming
+e3fde50	Commerce
+e3fde58	Building
+e3fde60	Tales
+e3fde68	Diplomacy
+e3fde70	Martial
+e3fde78	Riding
+e3fde80	Gunnery
+e3fde88	Learning
+e3fde90	Strategy
+e3fde98	Medicine
+e3fdea0	Ink Art
+e3fdea8	Colour Art
+e3fdeb0	Sweets
+e3fdeb8	Sake
+e3fdec0	Incense
+e3fdec8	Confirm
+e3fded8	Japan
+e3fdee0	Ming
+e3fdef0	-
+e3fdf40	-
+e3fdf70	-
+e3fdfb8	-
+e3fdfc0	Vassal
+e3fdfc8	Ronin
+e3fdfd0	Oda Nobunaga type
+e3fdfe0	Takeda Katsuyori type
+e3fdff0	Matsunaga Hisahide type
+e3fe000	Uesugi Kenshin type
+e3fe010	Hojo Ujimasa type
+e3fe020	Imagawa Ujizane type
+e3fe030	Court
+e3fe038	Shogun
+e3fe040	Prestige
+e3fe048	Born
+e3fe050	Face
+e3fe058	Status
+e3fe060	Ambition
+e3fe068	Duty
+e3fe070	Skills
+e3fe078	Life
+e3fe080	Sex
+e3fe088	Nature
+e3fe090	Compat.
+e3fe098	Priority
+e3fe0a0	Tactics
+e3fe0a8	Father
+e3fe0b0	Browse
+e3fe0b8	Register
+e3fe150	Change
+e3fe158	Min.
+e3fe160	Max.
+e3fe170	%4d-%4d
+e3fe180	%4d
+e3fe188	Age %2d
+e3fe190	Age %d
+e3fe198	No Father
+e3fe1a8	Set Father
+e3fe1c0	Create registered officer data
+e3fe1e0	Edit registered officer data
+e3fe200	Delete registered officer data
+e3fe220	Load registered officer data
+e3fe240	Load Soutenroku registered officers
+e3fe270	Load Ranseiki registered officers
+e3fe2a0	Load Ranseiki with PK registered officers
+e3fe2d0	Save registered officer data
+e3fe2f0	Set registered officers to appear or wait
+e3fe340	Born
+e3fe350	 Select
+e3fe418	Name
+e3fe420	Year
+e3fe428	Conditions
+e3fe430	Test
+e3fe438	Register
+e3fe440	Load Scenario
+e3fe450	Event: 
+e3fe460	Year and Season
+e3fe4a8	Ill Daimyo
+e3fe4b8	Successor
+e3fe4c8	Retiring Daimyo
+e3fe4d8	Slain Daimyo
+e3fe4e8	Plotting Daimyo
+e3fe4f8	Plotter Unknown
+e3fe508	Rebel Officer
+e3fe518	Deserting Officer
+e3fe528	Traitor Lord
+e3fe538	Betrayed To
+e3fe548	Indep. Lord
+e3fe558	Joining Lord 1
+e3fe568	Joining Lord 2
+e3fe578	No Joining Lord 1
+e3fe588	No Joining Lord 2
+e3fe598	Hired Officer
+e3fe5a8	Hiring Castle
+e3fe5b8	Poached Officer
+e3fe5c8	Poaching Castle
+e3fe5d8	Defecting Officer
+e3fe5e8	Defected To
+e3fe5f8	Punished Officer
+e3fe608	Slanderer
+e3fe618	Slanderer Unknown
+e3fe628	Host Daimyo
+e3fe638	Adopted Officer
+e3fe648	Husband
+e3fe650	Father of Princess
+e3fe660	Proposer
+e3fe670	Other Daimyo
+e3fe680	Proposer
+e3fe690	Minor Power
+e3fe698	Other Daimyo 1
+e3fe6a8	Other Daimyo 2
+e3fe6b8	No Other Daimyo 2
+e3fe6c8	Indep. Daimyo
+e3fe6d8	Indep. Power
+e3fe6e8	Titled Daimyo
+e3fe6f8	Court Title
+e3fe700	Appointee
+e3fe710	Post
+e3fe718	Giving Daimyo
+e3fe728	Other Officer
+e3fe738	Treasure Given
+e3fe748	Treasure Unknown
+e3fe758	Burning Base
+e3fe7e8	or later
+e3fe7f0	Before
+e3fe7f8	%d %s %s
+e3fe830	Create registered event data
+e3fe850	Edit registered event data
+e3fe870	Delete registered event data
+e3fe890	Load registered event data
+e3fe8b0	Save registered event data
+e3fe8d0	Set registered events to occur
+e3fe910	-
+e3fe950	-
+e3fe970	-
+e3fe9a0	-
+e3fe9d0	-
+e3fe9f0	-
+e3fea30	-
+e3fea70	-
+e402910	-
+e402930	-
+e402a20	-
+s1adcc90	-
+s1adccc0	-
+s1adced0	-
+s1adcf60	-
+s1adcfb0	-
+s1add808	-
+s1add890	-
+s1add8b0	-
+s1add8d0	-
+s1add8e0	-
+s1add900	-
+s1add920	-
+s1add940	-
+s1add970	-
+s1add990	-
+s1add9b0	-
+s1adda40	-
+s1adda50	-
+s1addb08	-
+s1addd70	-
+s1addd90	-
+s1adddb0	-
+s1adddd0	-
+s1adde00	-
+s1adde30	-
+s1adde60	-
+s1adde90	-
+s1addec0	-
+s1addef0	-
+s1addf20	-
+s1addf48	-
+s1addfb0	-
+s1addfd0	-
+s1addff0	-
+s1ade030	-
+s1ade060	-
+s1ade090	-
+s1ade0c0	-
+s1ade0f0	-
+s1ade120	-
+s1ade140	-
+s1ade160	-
+s1ade188	-
+s1ade458	-
+s1ade470	-
+s1ade4b8	-
+s1ade4f0	-
+s1ade500	-
+s1ade558	-
+s1ade570	-
+s1ade5a0	-
+s1ade610	-
+s1ade640	-
+s1ade6b0	-
+s1ade8e0	-
+s1ade910	-
+s1ade940	-
+s1ade960	-
+s1ade9c0	-
+s1ade9e0	-
+s1adeaf0	-
+s1adeb00	-
+s1adeb10	-
+e3fecb8	or later
+e3fecc0	Before
+e3fee68	Details
+e3fee70	or later
+e3fee78	Before
+e3feec8	Details
+e3feed0	or later
+e3feed8	Before
+e3fef28	Details
+e3fef30	or later
+e3fef38	Before
+e3fef68	Event: 
+e3fef78	Year and Season
+e3fefa8	or later
+e3fefb0	Before
+e3fefb8	%d %s %s
+e3fefc8	Confirm
+e3fefd0	Test
+e3fefd8	Event: 
+e3fefe8	Year and Season
+e3ff020	or later
+e3ff028	Before
+e3ff030	%d %s %s
+e3ff068	 Select
+e3ff070	 Select
+e3ff078	 Select
+e3ff080	 Select
+e3ff088	Select Allied Power
+e3ff098	 Select
+e3ff0a0	Proposer
+e3ff0b0	Other Daimyo
+e3ff0c0	Threat
+e3ff0c8	Submit
+e3ff0d0	Select Proposer
+e3ff0e0	Select Other Daimyo
+e3ff0f0	Spring
+e3ff0f8	Summer
+e3ff100	Autumn
+e3ff108	Winter
+e3ff110	Before
+e3ff118	or later
+e3ff120	Confirm
+e3ff158	By decade
+e3ff190	%4d
+e3ff198	Court
+e3ff1a0	 Select
+e3ff1a8	Select Power to Meet
+e3ff1e0	 Select
+e3ff210	 Select
+e3ff240	 Select
+e3ff268	 Select
+e402a40	Narrator
+e402a50	Aide
+e402a58	Messenger
+s1add528	Accept
+# s1ae2400/s1ae2450 middle dot, s1ae36c8 debug, g1aaf390/g1ab2ed0 junk/debug
+s1add530	Give Up
+s1add538	Haggle
+s1add540	Change Goods
+s1add550	Gold
+s1add558	Rice
+s1add560	Horses
+s1add568	Guns
+s1add570	Treasure
+s1add578	All
+s1add580	2/10
+s1add588	4/10
+s1add590	6/10
+s1add598	7/10
+s1add5a0	8/10
+s1add5a8	9/10
+s1add5b0	Back
+s1add5b8	End Trade
+s1add5c8	Buy
+s1add5d0	Sell
+s1add5d8	Punish
+s1add5e0	Exile
+s1add5e8	Refuse
+s1add5f0	Report
+s1add5f8	Set Terms
+s1add608	Offer Submission
+s1add618	Small Talk
+s1add620	Slander
+s1add628	Successor
+s1add630	Leave
+s1add638	Offer Goods
+s1add648	Lord's Repute
+s1add658	Boast of Clan
+s1add668	Poach Officer
+s1adea00	Castle of the same clan as the target castle
+s1adea20	Target castle = conquest target
+s1adea40	Target castle = not friendly
+s1adea60	Target castle = friendly
+s1adeb28	-
+s1adeb40	-
+s1adeb60	-
+s1adeb78	-
+s1adeb88	-
+s1adeb98	-
+s1adebb0	-
+s1adebd0	-
+s1adebf0	-
+s1adec10	-
+s1adec30	-
+s1adec50	-
+s1adec68	-
+s1adec78	-
+s1adec88	-
+s1adec98	-
+s1adecb0	-
+s1adecd0	-
+s1adece0	-
+s1adeda8	-
+s1adedc0	-
+s1adee90	-
+s1adeee8	-
+s1adeef8	-
+s1adef08	-
+s1adef20	-
+s1adef38	-
+s1adef58	-
+s1adef70	-
+s1adef88	-
+s1adef98	-
+s1adefa8	-
+s1adefb8	-
+s1adefc8	-
+s1adefd8	-
+s1adefe8	-
+s1adf0e0	-
+s1adf108	-
+s1adf118	-
+s1adf180	-
+s1adf258	-
+s1adf290	-
+s1adf310	-
+s1adf6c0	-
+s1adf6e0	-
+s1adf700	-
+s1adf740	-
+s1adf7a8	-
+s1adf840	-
+s1adf858	-
+s1adf868	-
+s1adf878	-
+s1adf888	-
+s1adf8a0	-
+s1adf8b0	-
+s1adf8c0	-
+s1adf8d0	-
+s1adf910	-
+s1adf930	-
+s1adf970	-
+s1adf9a0	-
+s1adf9c0	-
+s1adf9f0	-
+s1adfa20	-
+s1adfa50	-
+s1adfa90	-
+s1adfae0	-
+s1adfb20	-
+s1adfb40	-
+s1adfb60	-
+s1adfba0	-
+s1adfbe0	-
+s1adfc18	-
+s1adfc20	-
+s1adfc38	-
+s1adfc50	-
+s1adfca0	-
+s1adfcc0	-
+s1adfce0	-
+s1adfd68	-
+s1adfd78	-
+s1adfd88	-
+s1adfd98	-
+s1adfda8	-
+s1adfdc0	-
+s1adfde0	-
+s1adfe00	-
+s1adfe18	-
+s1adfe30	-
+s1adfe80	-
+s1adfea0	-
+s1adfeb8	-
+s1adfed0	-
+s1adff10	-
+s1adff70	-
+s1adffa0	-
+s1adfff0	-
+s1ae0040	-
+s1ae0070	-
+s1ae00c0	-
+s1ae0138	-
+s1ae0148	-
+s1ae01d0	-
+s1ae01e8	-
+s1ae0200	-
+s1ae0220	-
+s1ae0290	-
+s1ae02b0	-
+s1ae02d0	-
+s1ae0300	-
+s1ae0320	-
+s1ae0350	-
+s1ae0370	-
+s1ae03c0	-
+s1ae0410	-
+s1ae0460	-
+s1ae04d0	-
+s1ae0520	-
+s1ae0540	-
+s1ae0560	-
+s1ae05b0	-
+s1ae0600	-
+s1ae06c0	-
+s1ae06d8	-
+s1ae06e8	-
+s1ae06f8	-
+s1ae0708	-
+s1ae0720	-
+s1ae0738	-
+s1ae0748	-
+s1ae0760	-
+s1ae0780	-
+s1ae07b0	-
+s1ae07c0	-
+s1ae07d0	-
+s1ae07f0	-
+s1ae0838	-
+s1ae0848	-
+s1ae0860	-
+s1ae0870	-
+s1ae0890	-
+s1ae08a0	-
+s1ae0948	-
+s1ae0960	-
+s1ae0980	-
+s1ae09b0	-
+s1ae09e0	-
+s1ae09f0	-
+s1ae0a00	-
+s1ae0a10	-
+s1ae0a50	-
+s1ae0a70	-
+s1ae0a90	-
+s1ae0ad0	-
+s1ae0af0	-
+s1ae0b10	-
+s1ae0b60	-
+s1ae0b70	-
+s1ae0b90	-
+s1ae0ba0	-
+s1ae0bb0	-
+s1ae0dc8	-
+s1ae1210	-
+s1ae1ce0	-
+s1ae1d10	-
+s1ae1d60	-
+s1ae1d80	-
+s1ae1da0	-
+s1ae1dc0	-
+s1ae1df0	-
+s1ae1e20	-
+s1ae1e50	-
+s1ae1e80	-
+s1ae1eb0	-
+s1ae1ed0	-
+s1ae1f00	-
+s1ae1f20	-
+s1ae1f50	-
+s1ae1f90	-
+s1ae1fb0	-
+s1ae1fd0	-
+s1ae2010	-
+s1ae2050	-
+s1ae2218	-
+s1ae22a8	-
+s1ae22e8	-
+s1ae2348	-
+s1ae2740	-
+s1ae2f00	-
+s1ae2f20	-
+s1ae2f40	-
+s1ae2fb0	-
+s1ae2fd0	-
+s1ae2ff0	-
+s1ae3010	-
+s1ae31f8	-
+s1ae3208	-
+s1ae3218	-
+s1ae3228	-
+g1aaff50	-
+g1aaffa0	-
+g1aaffe0	-
+g1ab0020	-
+g1ab0050	-
+g1ab0090	-
+g1ab00d0	-
+g1ab0110	-
+g1ab0150	-
+g1ab01a0	-
+g1ab01e0	-
+g1ab0210	-
+g1ab0250	-
+g1ab0290	-
+g1ab02c0	-
+g1ab0300	-
+g1ab0350	-
+g1ab0390	-
+g1ab03e0	-
+g1ab0430	-
+g1ab0460	-
+g1ab0490	-
+g1ab04d0	-
+g1ab0500	-
+g1ab0540	-
+g1ab0570	-
+g1ab05c0	-
+g1ab0640	-
+g1ab0680	-
+g1ab06b0	-
+g1ab06f0	-
+g1ab0740	-
+g1ab0780	-
+g1ab07e0	-
+g1ab0810	-
+g1ab0850	-
+g1ab0890	-
+g1ab08c0	-
+g1ab08f0	-
+g1ab0940	-
+g1ab0970	-
+g1ab09a0	-
+g1ab09d0	-
+g1ab0a00	-
+g1ab0a50	-
+g1ab0a80	-
+g1ab0ab0	-
+g1ab0b00	-
+g1ab0b50	-
+g1ab0b90	-
+g1ab0bc0	-
+g1ab0bf0	-
+g1ab0c20	-
+g1ab0c60	-
+g1ab0ca0	-
+g1ab0cd0	-
+g1ab0d00	-
+g1ab0d30	-
+g1ab0d70	-
+g1ab0db0	-
+g1ab0de0	-
+g1ab11c0	-
+g1ab17f8	-
+g1ab1838	-
+g1ab1ae0	-
+g1ab1e10	-
+g1ab1e30	-
+g1ab1e80	-
+g1ab2220	-
+g1ab2660	-
+g1ab26a0	-
+g1ab26e0	-
+g1ab2720	-
+g1ab2790	-
+g1ab2800	-
+g1ab2820	-
+g1ab2840	-
+g1ab2870	-
+g1ab28a0	-
+g1ab28d0	-
+g1ab2900	-
+g1ab2930	-
+g1ab2960	-
+g1ab29d8	-
+g1ab29f0	-
+g1ab2a10	-
+g1ab2a30	-
+g1ab2a40	-
+g1ab2a60	-
+g1ab2a80	-
+g1ab2ab0	-
+g1ab2ae0	-
+g1ab2b10	-
+g1ab2b60	-
+g1ab2bb0	-
+g1ab2bd0	-
+g1ab2bf0	-
+g1ab2c30	-
+g1ab2c70	-
+g1ab2ca0	-
+g1ab2cf0	-
+g1ab2d40	-
+g1ab2d60	-
+g1ab2d80	-
+g1ab2da0	-
+g1ab2dc0	-
+g1ab2de0	-
+g1ab2ef0	-
+g1ab2f30	-
+g1ab2f50	-
+g1ab2f70	-
+g1ab2f90	-
+g1ab2fb0	-
+g1ab2fe0	-
+g1ab3000	-
+g1ab3020	-
+g1ab3030	-
+g1ab3110	-
+g1ab3130	-
+g1ab3170	-
+g1ab31e0	-
+g1ab3210	-
+g1ab3230	-
+g1ab3260	-
+g1ab3280	-
+g1ab3300	-
+g1ab3330	-
+g1ab3390	-
+g1ab33c0	-
+g1ab33f0	-
+g1ab34e0	-
+g1ab3510	-
+g1ab35c0	-
+g1ab35f0	-
+g1ab3620	-
+g1ab3660	-
+g1ab36a0	-
+g1ab36e0	-
+g1ab3800	-
+g1ab3830	-
+g1ab3850	-
+g1ab3880	-
+g1ab3910	-
+g1ab39b0	-
+g1ab39e0	-
+g1ab3a10	-
+g1ab3a50	-
+g1ab3a90	-
+g1ab3ae0	-
+g1ab3b00	-
+g1ab3b20	-
+g1ab3b40	-
+g1ab3b68	-
+g1ab3bc0	-
+g1ab3be0	-
+g1ab3c00	-
+g1ab3c20	-
+g1ab3c38	-
+g1ab3c40	-
+g1ab3c48	-
+g1ab3c50	-
+g1ab3c70	-
+g1ab3c90	-
+g1ab3cb0	-
+g1ab3cf0	-
+g1ab3d10	-
+g1ab3d40	-
+g1ab3d90	-
+g1ab3dd0	-
+g1ab3e20	-
+g1ab3e60	-
+g1ab3e80	-
+g1ab3f10	-
+g1ab3f30	-
+g1ab3f40	-
+g1ab3f70	-
+g1ab3fe0	-
+g1ab4010	-
+g1ab4050	-
+g1ab4090	-
+g1ab40c0	-
+g1ab4110	-
+g1ab4150	-
+g1ab4170	-
+g1ab41c0	-
+g1ab4200	-
+g1ab4240	-
+g1ab4270	-
+g1ab42a0	-
+g1ab42d0	-
+g1ab4310	-
+g1ab4350	-
+g1ab4390	-
+g1ab43d0	-
+g1ab4410	-
+g1ab4440	-
+g1ab4480	-
+g1ab44a0	-
+g1ab44c0	-
+g1ab4540	-
+g1ab4580	-
+g1ab4630	-
+g1ab4650	-
+g1ab4660	-
+g1ab4698	-
+g1ab46d0	-
+g1ab4700	-
+g1ab4730	-
+g1ab4750	-
+g1ab4790	-
+g1ab47e0	-
+g1ab4830	-
+g1ab48f0	-
+g1ab4920	-
+g1ab4950	-
+g1ab49b0	-
+s1ae2788	-
+s1ae2798	-
+s1ae27a8	-
+s1ae2820	-
+s1ae2838	Prestige
+s1ae2840	Yield
+s1ae2848	Comm.
+s1ae2850	Post
+s1ae2858	Troops
+s1ae2860	Gold
+s1ae2868	Title
+s1ae2870	Main
+s1ae2878	Horses
+s1ae2880	2nd Bailey
+s1ae2888	Rice
+s1ae2890	3rd Bailey
+s1ae2898	Target
+s1ae28a8	Guns
+s1ae28e0	-
+s1ae28f0	-
+s1ae2900	-
+s1ae2910	-
+s1ae2930	-
+s1ae2940	Clan
+s1ae2948	Influence
+s1ae2970	Corps Cmdr.
+s1ae2b80	-
+s1ae2b90	Choose Target
+s1ae2ba0	Delegate
+s1ae2bb0	Defend Only
+s1ae2bc8	Corps Orders
+s1ae2bd8	Target
+s1ae2be0	Troops
+s1ae2be8	Castles
+s1ae2bf0	Commander
+s1ae2bf8	Orders
+s1ae2c10	%s
+s1ae3448	Gold
+s1ae3450	Rice
+s1ae3458	Horses
+s1ae3460	Guns
+s1ae36d8	-
+g1aaff78	Narrator
+g1aaff88	Takeda
+g1aaff90	Soldier
+g1aaffc8	Narrator
+g1ab0008	Narrator
+g1ab0040	Narrator
+g1ab0078	Narrator
+g1ab00b0	Narrator
+g1ab00c0	Iwamatsu
+g1ab00c8	Hachiya
+g1ab00f0	Narrator
+g1ab0100	Minamoto
+g1ab0108	Yoritomo
+g1ab0138	Narrator
+g1ab0170	Narrator
+g1ab0180	A
+g1ab0188	Merchant
+g1ab0190	Ichi no
+g1ab0198	Dai
+g1ab01c8	Narrator
+g1ab0200	Narrator
+g1ab0238	Narrator
+g1ab0278	Narrator
+g1ab02b0	Narrator
+g1ab02e8	Narrator
+g1ab0320	Narrator
+g1ab0330	Kongo
+g1ab0338	Sagami
+g1ab0340	Mt. Hiei
+g1ab0348	Woman
+g1ab0378	Narrator
+g1ab0388	Nene
+g1ab03b0	Narrator
+g1ab03c0	Todaiji
+g1ab03d0	Monk
+g1ab0400	Narrator
+g1ab0410	Okabe
+g1ab0418	Mataemon
+g1ab0450	Narrator
+g1ab0480	Narrator
+g1ab04b0	Narrator
+g1ab04c0	Nonaka
+g1ab04c8	Shigemasa
+g1ab04f0	Narrator
+g1ab0520	Narrator
+g1ab0530	Abe
+g1ab0538	Yashichiro
+g1ab0560	Narrator
+g1ab0590	Narr.
+g1ab05a0	Akanuma
+g1ab05a8	Bitchu
+g1ab05b0	Okuse
+g1ab05b8	Aki
+g1ab05e8	Narrator
+g1ab05f8	Kosai
+g1ab0600	Yamato
+g1ab0608	Saito
+g1ab0610	Harima
+g1ab0618	Taguchi
+g1ab0620	Shinkurodo
+g1ab0628	Tsukumi
+g1ab0630	Mimasaka
+g1ab0668	Narrator
+g1ab06a0	Narrator
+g1ab06d0	Narrator
+g1ab06e0	Hirate
+g1ab06e8	Nagamasa
+g1ab0718	Narrator
+g1ab0728	Hotta
+g1ab0730	Doku
+g1ab0760	Narr.
+g1ab0770	Onishi
+g1ab0778	Jubei
+g1ab07a8	Narrator
+g1ab07b8	Hotta
+g1ab07c0	Doku
+g1ab07c8	Komaki
+g1ab07d0	Genta
+g1ab0800	Narrator
+g1ab0830	Narrator
+g1ab0840	Kikutei
+g1ab0848	Harusue
+g1ab0870	Narrator
+g1ab0880	Kishu
+g1ab0888	Genpaku
+g1ab08b0	Narrator
+g1ab08e0	Narrator
+g1ab0910	Narrator
+g1ab0920	Hattori
+g1ab0928	Koheita
+g1ab0930	Mori
+g1ab0938	Shinsuke
+g1ab0960	Narrator
+g1ab0990	Narrator
+g1ab09c0	Narrator
+g1ab09f0	Narrator
+g1ab0a28	Narrator
+g1ab0a38	Tsuge
+g1ab0a48	Saburozaemon
+g1ab0a70	Narrator
+g1ab0aa0	Narrator
+g1ab0ad8	Narrator
+g1ab0ae8	Nihonmatsu
+g1ab0af8	Soldier
+g1ab0b28	Narrator
+g1ab0b38	Kikutei
+g1ab0b40	Harusue
+g1ab0b78	Narrator
+g1ab0bb0	Narr.
+g1ab0be0	Narrator
+g1ab0c10	Narrator
+g1ab0c48	Narrator
+g1ab0c80	Narrator
+g1ab0c90	Iun
+g1ab0c98	the Priest
+g1ab0cc0	Narrator
+g1ab0cf0	Narrator
+g1ab0d20	Narrator
+g1ab0d50	Narrator
+g1ab0d60	Kikutei
+g1ab0d68	Harusue
+g1ab0d90	Narrator
+g1ab0da0	Takugen
+g1ab0da8	Soon
+g1ab0dd0	Narrator
+g1ab0e08	Narrator
+g1ab1078	LDR
+g1ab1080	INT
+g1ab1090	%2d
+g1ab10b0	Defence
+g1ab10b8	Defend
+g1ab10c0	Shoot
+g1ab10c8	Ram
+g1ab1170	-
+g1ab1180	-
+g1ab11a0	Injured
+g1ab11a8	Dead
+g1ab11b0	Normal
+g1ab11f0	-
+g1ab1200	Captured by %s
+g1ab12f0	-
+g1ab1308	%s %d
+g1ab1310	-
+g1ab16d0	Castle
+g1ab16d8	Trap
+g1ab16e0	Yield
+g1ab16e8	Back
+g1ab1720	Castle
+g1ab1750	Ram
+g1ab1758	Shoot
+g1ab1760	Move
+g1ab1768	Leave
+g1ab1770	Defend
+g1ab1778	Return
+g1ab17a0	3rd L
+g1ab17a8	3rd R
+g1ab17b0	2nd L
+g1ab17b8	2nd R
+g1ab17c0	Main
+g1ab17f0	Auto
+g1ab20e0	Begin
+g1ab20e8	3rd L
+g1ab20f0	3rd R
+g1ab20f8	2nd L
+g1ab2100	2nd R
+g1ab2108	Main
+g1ab2118	"3rd Bailey L. Gate"
+g1ab2128	"3rd Bailey R. Gate"
+g1ab2138	"2nd Bailey L. Gate"
+g1ab2148	"2nd Bailey R. Gate"
+g1ab2158	"Main Bailey"
+g1ab21c0	To 3rd L. Gate
+g1ab21d0	To 3rd R. Gate
+g1ab21e0	To 2nd L. Gate
+g1ab21f0	To 2nd R. Gate
+g1ab2200	To Main Bailey
+g1ab2210	Selected
+g1ab2240	Outside
+g1ab2248	3rd Bailey
+g1ab2250	2nd Bailey
+g1ab2258	Main Bailey
+g1ab2260	Atk: Break Gate
+g1ab2270	Atk: Shoot
+g1ab2280	Atk: Storm
+g1ab2290	Def: Defend
+g1ab22a0	Def: Shoot
+g1ab22b0	Def: Intercept
+g1ab2410	3rd Bailey L. Gate
+g1ab2420	3rd Bailey R. Gate
+g1ab2430	2nd Bailey L. Gate
+g1ab2440	2nd Bailey R. Gate
+g1ab29a0	Available
+g1ab2aa0	Match
+g1ab2e38	Swap
+g1ab2e40	Rally
+g1ab2e48	Take Cover
+g1ab2e50	HQ
+g1ab2e58	Enemy Info
+g1ab2e68	Speed
+g1ab2e70	Deploy
+g1ab2e80	Switch Enemy
+g1ab2f10	-
+g1ab3158	Success
+g1ab31a0	<No units to defect>
+g1ab3248	Deploy
+g1ab34d8	Deploy
+g1ab3548	Approve
+g1ab3598	LDR
+g1ab35a0	INT
+g1ab3ba8	Attackers
+g1ab3bb0	Defenders
+g1ab3e08	Daimyo
+g1ab40a8	Attackers
+g1ab40b0	Defenders
+g1ab44e8	Surrender
+g1ab4680	-
+g1ab46b8	Surrender
+g1ab46c0	Release
+g1ab46c8	Punish
+g1ab4a18	HQ
+g1ab4a28	Select Centre
+g1ab4a38	Select Left Wing
+g1ab4a48	Select Right Wing
+g1ab4a58	Select HQ
+g1ab4a68	Selected
+s1ae2400	-
+s1ae2450	-
+s1ae36c8	-
+g1aaf390	-
+g1ab2ed0	-
+# siege deployment Confirm button: only an ELF data word (0x4DA0A8) points here (overlay address), fits in place
+g1ab2110	OK

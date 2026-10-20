@@ -1,0 +1,1900 @@
+@5000
+Give orders to the people in the castle?
+@5001
+Give march orders to castles and armies.
+@5002
+This castle cannot be given orders.
+@5002.1
+This base cannot be given orders.
+@5003
+An army has already set out.
+@5004
+There are no officers available to sortie.
+@5005
+Send out an army.
+@5006
+A reinforcement sortie cannot be cancelled.
+@5007
+The army has already set out and cannot be stopped.
+@5008
+No sortie is planned.
+@5009
+Cancel the sortie from this castle.
+@5010
+No army has set out from this castle.
+@5011
+Switch the map to where the army is.
+@5012
+Show information on this castle.
+@5012.1
+Show information on this base.
+@5013
+Show this castle's officers.
+@5013.1
+Show this base's officers.
+@5014
+This army cannot be given orders.
+@5015
+Acting as reinforcements; cannot be given orders.
+@5016
+Attacking an enemy castle; target cannot be changed.
+@5017
+Change the army's target.
+@5018
+A retreat has already been ordered.
+@5019
+Disband the army and hurry back to the castle.
+@5020
+Not at an enemy castle; cannot besiege.
+@5021
+Continuing the siege has already been ordered.
+@5022
+Continue the siege of the castle.
+@5023
+Not at an enemy castle; cannot assault.
+@5024
+An assault has already been ordered.
+@5025
+Assault the castle.
+@5026
+Not at an enemy castle; cannot demand surrender.
+@5027
+A demand for surrender has already been ordered.
+@5028
+Demand that the castle surrender.
+@5029
+Can only wait on a road.
+@5030
+Waiting has already been ordered.
+@5031
+Wait until ordered to resume the march.
+@5032
+Not currently waiting.
+@5033
+Order the army to resume its march.
+@5034
+No information on this army.
+@5035
+List this army's officers.
+@5036
+No negotiations possible at present.
+@5037
+Request reinforcements or negotiate a ceasefire.
+@5038
+Not enough funds (gold needed: 500).
+@5039
+No officers available as envoys.
+@5040
+No one to request a sortie from.
+@5041
+Ask an allied castle to sortie (cost 500 gold; held %d).
+@5042
+No army from this castle to join up with.
+@5043
+No one to request reinforcements from.
+@5044
+Ask an allied castle for reinforcements (cost 500 gold; held %d).
+@5045
+No enemy armies in sight.
+@5046
+Propose a ceasefire to an enemy army (cost 500 gold; held %d).
+@5047
+No stratagems possible at present.
+@5048
+Spread false orders or order defections.
+@5049
+No ninja available.
+@5050
+No armies from other castles in sight.
+@5051
+Send false orders to make an enemy army withdraw.
+@5052
+No one to order a defection.
+@5053
+Give orders to a castle that has promised to defect.
+@5054
+No armies to gather.
+@5055
+Gather your corps' armies at a chosen place.
+@5056
+No orders from the corps commander.
+@5057
+Ready to act on the corps commander's orders.
+@5058
+Orders have come from the corps commander.
+@5059
+A daimyo cannot rise against their lord.
+@5060
+Not ready to rise against your lord.
+@5061
+Ready to rise against your lord.
+@5062
+Not ready for independence.
+@5063
+Break away from the {02}{0B}E (supporters: %d).
+@5064
+Not ready to switch sides.
+@5065
+Switch sides to the {02}{0B}E (supporters: %d).
+@5066
+No list information can be viewed at present.
+@5067
+List information on clans, officers and more.
+@5068
+List information related to daimyo clans.
+@5069
+List information on daimyo clans.
+@5070
+List information on officers.
+@5071
+List information on corps.
+@5072
+List information on armies.
+@5073
+List information on princesses.
+@5074
+List information on ninja.
+@5075
+List information related to provinces and castles.
+@5076
+List information on provinces.
+@5077
+List information on castles.
+@5078
+List information on minor powers.
+@5079
+List information on court titles, posts and treasures.
+@5080
+List information on court titles.
+@5081
+List information on posts.
+@5082
+List information on treasures.
+@5083
+Choose a castle or army to give orders to.
+@5084
+Choose a castle or army as the target.
+@5085
+We have a secret pact. Attack? (%s)
+@5086
+This is our target. Attack? (%s)
+@5087
+An allied castle. Head there? (%s)
+@5087.1
+An allied base. Head there? (%s)
+@5088
+An enemy castle. Attack? (%s)
+@5088.1
+An enemy base. Attack? (%s)
+@5089
+This is the castle the army set out from.
+@5090
+This is the castle the army is at now.
+@5090.1
+This is the base the army is at now.
+@5091
+Out of marching range.
+@5092
+An army we have a secret pact with. Attack?
+@5093
+The army we are targeting. Attack?
+@5094
+An army of our corps. Join up?
+@5095
+Allied reinforcements. Attack?
+@5096
+An enemy army. Attack?
+@5097
+Cannot join up with another corps' army.
+@5098
+Marching as reinforcements; cannot join up.
+@5099
+An army from our own castle.
+@5100
+An allied army.
+@5102
+Give orders to all the joined armies at once?
+@5105
+Order the army to continue the siege.
+@5106
+Order the army to assault.
+@5107
+Order the army to demand surrender.
+@5108
+Order the army to wait.
+@5109
+Have the army resume its march.
+@5110
+Disband the army and hurry back to the castle?
+@5111
+Choose a castle to ask to sortie.
+@5112
+Ask this castle to sortie?
+@5112.1
+Ask this base to sortie?
+@5113
+This castle cannot be asked to sortie.
+@5113.1
+This base cannot be asked to sortie.
+@5114
+Choose the castle the army will head for.
+@5115
+Send an army to defend this castle?
+@5115.1
+Send an army to defend this base?
+@5116
+Send an army to take this castle?
+@5116.1
+Send an army to take this base?
+@5117
+Armies cannot be sent to this castle.
+@5117.1
+Armies cannot be sent to this base.
+@5118
+Choose a castle to ask for reinforcements.
+@5119
+This castle cannot join up with our castle's army.
+@5119.1
+This base cannot join up with our castle's army.
+@5120
+This castle has already been asked.
+@5120.1
+This base has already been asked.
+@5121
+This castle's army has already set out.
+@5121.1
+This base's army has already set out.
+@5122
+This castle is under siege and cannot be asked.
+@5122.1
+This base is under siege and cannot be asked.
+@5123
+This castle seems to have no troops to spare.
+@5123.1
+This base seems to have no troops to spare.
+@5124
+Ask this castle for reinforcements.
+@5124.1
+Ask this base for reinforcements.
+@5125
+Our own castle.
+@5126
+This castle cannot be asked.
+@5126.1
+This base cannot be asked.
+@5127
+Choose an army to negotiate a ceasefire with.
+@5129
+Cannot negotiate a ceasefire with an allied army.
+@5130
+Negotiate a ceasefire with this army?
+@5131
+Choose an army to send false orders to.
+@5133
+An allied army. Send false orders to make it withdraw?
+@5134
+Send false orders to this army to make it withdraw?
+@5135
+Choose a castle to make defect.
+@5136
+Send this castle a letter urging it to defect?
+@5137
+This castle has refused to defect.
+@5138
+This castle has not promised to defect.
+@5139
+Send this castle a secret letter urging it to defect?
+@5140
+Choose where to gather the armies.
+@5141
+No armies to gather at this castle.
+@5141.1
+No armies to gather at this base.
+@5142
+Gather armies to besiege this castle?
+@5142.1
+Gather armies to besiege this base?
+@5143
+Gather at this castle?
+@5143.1
+Gather at this base?
+@5144
+Reinforcements cannot be a gathering point.
+@5146
+Allied armies outside our corps cannot be a gathering point.
+@5147
+Gather at this army?
+@5148
+Disband the army and retreat to our castle?
+@5149
+I have disbanded the army as ordered.
+@5149.1
+I have disbanded the army as ordered.
+@5149.2
+I have disbanded the army as you commanded.
+@5150
+Set out to take {02})N?
+@5151
+Set out to defeat the army at {02})N?
+@5152
+Set out for {02})N?
+@5153
+Set out to join the army at {02})N?
+@5154
+I have sent the army towards its target as ordered.
+@5154.1
+I have sent the army towards its target as ordered.
+@5154.2
+I have sent the army towards its target as you commanded.
+@5155
+Assault {02})N?
+@5156
+Demand that {02})N surrender?
+@5157
+Wait at the current position?
+@5158
+Besiege {02})N?
+@5159
+Head out to defeat the army at {02})N?
+@5160
+Head for {02})N?
+@5161
+Head out to join the army at {02})N?
+@5162
+I have made the arrangements as ordered.
+@5162.1
+I have made the arrangements as ordered.
+@5162.2
+I have made the arrangements as you commanded.
+@5163
+Please check the current situation (supporters: %d).
+@5164
+Betray the {02}{0B}E?
+@5164.1
+Betray the {02}{0B}E without a just cause?
+@5165
+So we've made it back to {02})N safely... {02}{02}4, you must be tired too. Concentrate on restoring morale.
+@5165.1
+Ah, we've made it back to {02})N safely. I'm so glad you're safe too, {02}{02}4.
+@5165.2
+{02}{01}n and {02}{BF} others have just returned to {02})N.
+@5166
+So I've made it back to {02})N safely... First, I shall concentrate on restoring the troops' morale.
+@5166.1
+Ah, at last I've made it back to {02})N. Don't worry, I am safe.
+@5166.2
+{02}{01}n has just returned to {02})N.
+@5167
+Choose what to give orders to (awaiting orders: %d).
+@5168
+Shall I finish giving march orders...? (awaiting orders: %d)
+@5168.1
+Perhaps I should finish giving march orders... (awaiting orders: %d)
+@5168.2
+Finish giving march orders? (awaiting orders: %d)
+@5169
+Check the situation and give your orders.
+@5170
+If we betray the house we serve without a just cause, our credit will suffer. But it would be a greater shame to miss this chance...
+@5170.1
+How many will trust me when I act without a just cause? Still, I must do it now, even if it stains my name.
+@5170.2
+If we betray the house we serve without a just cause, our credit will suffer and relations with the other castle lords will worsen. Are you sure?
+@5171
+Please check the situation.
+@5172
+If we betray the house we serve without a just cause, our credit will suffer... Shall I attack an allied force...?
+@5172.1
+How many will trust me when I act without a just cause...? Perhaps I should attack an allied force...
+@5172.2
+If we betray the house we serve without a just cause, our credit will suffer and relations with the other castle lords will worsen. Attack an allied force?
+@5173
+The version of the Soutenroku with Power-Up Kit game data on the "PlayStation BB Unit" does not match the game data on the disc.
+@5174
+The Soutenroku with Power-Up Kit game data is already installed.
+@5175
+Installation cancelled.
+@5176
+Cancel the installation of the Soutenroku with Power-Up Kit game data. Are you sure?
+@5177
+Continue installing the Soutenroku with Power-Up Kit game data?
+@5178
+Installation complete.
+@5179
+Installation failed.
+@5180
+Not enough free space on the "PlayStation BB Unit". Installing the Soutenroku with Power-Up Kit game data needs at least %dMB.
+@5181
+Installing the Soutenroku with Power-Up Kit game data.\nDo not switch off the power or remove the "PlayStation BB Unit".\n<To cancel: hold the {1B}PX button>
+@5182
+Delete unneeded data, then try the installation again.
+@5183
+Installation stopped.
+@5184
+Install the Soutenroku with Power-Up Kit game data on the "PlayStation BB Unit". Are you sure?
+@5185
+From now on, data will be read from the disc.
+@5186
+Cannot read the Soutenroku with Power-Up Kit game data on the "PlayStation BB Unit". The game data may be damaged.
+@5187
+Cannot read the Soutenroku with Power-Up Kit game data on the "PlayStation BB Unit".
+@5188
+The Soutenroku with Power-Up Kit game data is not installed.
+@5189
+Repair the "PlayStation BB Unit" as described in the manual that came with it.
+@5190
+A fault was found in the "PlayStation BB Unit".
+@5191
+The "PlayStation BB Unit" is not connected correctly.
+@5192
+The "PlayStation BB Unit" is not formatted. Format the "PlayStation BB Unit" as described in the manual that came with it.
+@5193
+Uninstall, then try the installation again.
+@5194
+Uninstallation cancelled.
+@5195
+Continue uninstalling the Soutenroku with Power-Up Kit game data?
+@5196
+Uninstallation complete.
+@5197
+Uninstallation failed.
+@5198
+Uninstalling the Soutenroku with Power-Up Kit game data.\nDo not switch off the power or remove the "PlayStation BB Unit".
+@5199
+Uninstallation stopped.
+@5200
+Uninstall the Soutenroku with Power-Up Kit game data from the "PlayStation BB Unit". Are you sure?
+@5201
+Install the game data.
+@5202
+Uninstall the game data.
+@5203
+There is no memory card (PS2) in MEMORY CARD slot 1. Saving needs at least %dKB of free space. Start the game anyway?
+@5204
+The memory card (PS2) in MEMORY CARD slot 1 does not have enough free space. Saving needs at least %dKB. Start the game anyway?
+@5205
+Insert a memory card (PS2) with at least %dKB of free space into MEMORY CARD slot 1.
+@5206
+There is no memory card (PS2) in MEMORY CARD slot 1. Saving needs at least %dKB of free space.
+@5207
+There is no memory card (PS2) in MEMORY CARD slot 1.
+@5208
+Continue %s?
+@5209
+The memory card (PS2) in MEMORY CARD slot 1 is not formatted.
+@5210
+Format the memory card now?
+@5211
+Saving to the memory card (PS2) in MEMORY CARD slot 1.\nDo not remove the memory card (PS2), switch off the power or reset.
+@5212
+Saving to the memory card (PS2) in MEMORY CARD slot 1.\nDo not remove the memory card (PS2), switch off the power or reset.\n<This takes a while. Please wait.>
+@5213
+Loading from the memory card (PS2) in MEMORY CARD slot 1.\nDo not remove the memory card (PS2), switch off the power or reset.
+@5214
+Formatting the memory card (PS2) in MEMORY CARD slot 1.\nDo not remove the memory card (PS2), switch off the power or reset.
+@5215
+%s stopped: memory card (PS2) removed from MEMORY CARD slot 1.
+@5216
+%s failed.
+@5217
+%s cancelled.
+@5218
+There is no data on the memory card (PS2) in MEMORY CARD slot 1.
+@5219
+There is no saved data.
+@5220
+Choose the data to load.
+@5221
+Load this data? Are you sure?
+@5222
+The data is corrupted.
+@5223
+Choose where to save.
+@5224
+There is no Soutenroku with Power-Up Kit system data on the memory card (PS2) in MEMORY CARD slot 1. Create new system data?
+@5225
+Creating system data on the memory card (PS2) in MEMORY CARD slot 1.\nDo not remove the memory card (PS2), switch off the power or reset.
+@5226
+Not enough free space. Saving needs a memory card (PS2) with at least %dKB of free space.
+@5227
+Loaded.
+@5228
+Saved.
+@5229
+Overwrite the data? Are you sure?
+@5230
+There is no custom officer data on the memory card (PS2) in MEMORY CARD slot 1.
+@5231
+If you have not saved, the officer data being edited will be lost. Are you sure?
+@5232
+Custom officers: %d\n\nLoad this data?
+@5233
+The custom officers have changed. If you do not save, the changes will not take effect. Are you sure?
+@5234
+Save the clear data?
+@5235
+Quit without saving the clear data? Are you sure?
+@5236
+Clear data saved.
+@5237
+Checking the memory card (PS2) in MEMORY CARD slot 1.\nDo not remove the memory card (PS2), switch off the power or reset.
+@5238
+There is no Ranseiki custom officer data on the memory card (PS2) in MEMORY CARD slot 1.
+@5239
+There is no Ranseiki with Power-Up Kit custom officer data on the memory card (PS2) in MEMORY CARD slot 1.
+@5240
+There is no Soutenroku custom officer data on the memory card (PS2) in MEMORY CARD slot 1.
+@5241
+There is no custom event data on the memory card (PS2) in MEMORY CARD slot 1.
+@5242
+If you have not saved, the event data being edited will be lost. Are you sure?
+@5243
+Custom events: %d\n\nLoad this data?
+@5244
+The custom events have changed. If you do not save, the changes will not take effect. Are you sure?
+@5245
+There is no custom treasure data on the memory card (PS2) in MEMORY CARD slot 1.
+@5246
+There is no custom treasure data set to appear on the memory card (PS2) in MEMORY CARD slot 1.
+@5247
+If you have not saved, the treasure data being edited will be lost. Are you sure?
+@5248
+The custom treasures have changed. If you do not save, the changes will not take effect. Are you sure?
+@5249
+Load %d custom treasures? Are you sure?
+@5250
+Delete the data of the %d selected custom treasures? Are you sure?
+@5251
+Make %d custom treasures appear? Are you sure?
+@5252
+Some characters used may not display correctly. Is that all right?
+@5253
+Officers who had a custom officer set as their father no longer have a father set.
+@5254
+Choose a custom officer to change.
+@5255
+Choose custom officers to load.
+@5256
+Choose Ranseiki custom officers to load.
+@5257
+Load %d custom officers? Are you sure?
+@5258
+There are no custom officers.
+@5259
+Choose custom officers to save.
+@5260
+Choose custom officers to delete.
+@5261
+Choose custom officers to make appear.
+@5262
+Make %d custom officers appear? Are you sure?
+@5263
+Custom officer management
+@5264
+Create new Soutenroku with Power-Up Kit system data. Are you sure?
+@5265
+Overwrite the existing data with the current data? Are you sure?
+@5266
+Set the custom officer's family name.
+@5267
+Set the custom officer's given name.
+@5268
+Set the reading of the custom officer's family name.
+@5269
+Set the reading of the custom officer's given name.
+@5270
+Set the custom officer's status on appearing.
+@5271
+Set the custom officer's home castle.
+@5272
+Set the custom officer's domestic and diplomatic ability.
+@5273
+Set the custom officer's battle ability.
+@5274
+Set the custom officer's strategic tendency.
+@5275
+Set the custom officer's ability in plots and tactics.
+@5276
+Set the custom officer's sense of duty.
+@5277
+Set officers the custom officer gets on well with.
+@5278
+Set how readily the custom officer betrays.
+@5279
+Set the custom officer's origin.
+@5280
+Set what the custom officer values most.
+@5281
+Set the troop types the custom officer can organise.
+@5282
+Set the custom officer's skill (1 at most).
+@5283
+Set the custom officer's tactics (3 at most).
+@5284
+Set the custom officer's year of birth.
+@5285
+Set the custom officer's lifespan.
+@5286
+Set the officer who is the custom officer's father.
+@5287
+There are no officers who can be set as father.
+@5288
+Set the custom officer's portrait.
+@5289
+Set the custom officer's gender.
+@5290
+Load data based on a historical officer.
+@5291
+Register an officer with the current data.
+@5292
+A child of the Warring States era, strong in every field, strategy and war alike.
+@5293
+Loves war, but values righteousness above all. Never attacks a weak province without reason.
+@5294
+Loves war and becomes a demon on the battlefield. Dislikes underhand tricks such as stratagems.
+@5295
+Loves war and has a boundless love of stratagems. Skilled at setting plots and traps.
+@5296
+Hates war and avoids pointless battles. Survives the age of war by stratagems and political skill.
+@5297
+Hates war; a pacifist who gets along with everyone. Can such a one survive this age of war...?
+@5298
+Confirm.
+@5299
+Is there no one free in the castle...?
+@5299.1
+There seems to be no one free in the castle...
+@5299.2
+There is no one free in the castle, my lord.
+@5300
+No shinobi to give orders to...
+@5300.1
+No shinobi to give orders to, it seems...
+@5300.2
+There are no shinobi to carry out orders, my lord.
+@5301
+I must keep the troops together; I cannot do that from the field...
+@5301.1
+I must keep the troops together; I can't do that from the field...
+@5301.2
+{01}C{0C}{00} is out in the field. Please keep the troops together for now.
+@5301.3
+{01}C{0C}{00} is out in the field. Please keep the troops together for now.
+@5302
+I'm a little tired... I don't feel like doing anything now.
+@5302.1
+I am a little tired... I don't feel like doing anything now.
+@5302.2
+We cannot do so much at once. Let us leave it for another time.
+@5302.3
+We cannot do so much at once. Let us leave it for another time.
+@5303
+Not enough gold in the castle...\n(Gold needed: 500)
+@5303.1
+Not enough gold in the castle...\n(Gold needed: 500)
+@5303.2
+There is not enough gold in the castle.\n(Gold needed: 500)
+@5304
+Not enough gold in the castle...\n(Gold needed: 200)
+@5304.1
+Not enough gold in the castle...\n(Gold needed: 200)
+@5304.2
+There is not enough gold in the castle.\n(Gold needed: 200)
+@5305
+As ruler of the {02}{02}r, I have other things to do...
+@5305.1
+As ruler of the {02}{02}r, I have other things to do...
+@5305.2
+Surely {01}C{0C}{00}, ruler of the {02}{02}r, has other things to do.
+@5305.3
+That is not a job for me, a corps commander.
+@5305.4
+That is not a job for me, a corps commander.
+@5305.5
+That is not a job for {01}C{0C}{00}, a corps commander.
+@5305.6
+That is not my job. I'll leave it to those above me...
+@5305.7
+That is not my job. I'll leave it to those above me...
+@5305.8
+{01}C{0C}{00}, leave such things to those above.
+@5306
+All of Japan belongs to us...
+@5306.1
+All of Japan belongs to us...
+@5306.2
+All of Japan belongs to us, my lord.
+@5307
+No princess to marry...
+@5307.1
+No princess to marry, it seems...
+@5307.2
+There are no princesses who can marry now, my lord.
+@5308
+No shogunate has been founded...
+@5308.1
+No shogunate has been founded, it seems...
+@5308.2
+No shogunate has been founded, my lord.
+@5309.1
+I am the Shogun...
+@5309.2
+{01}C{0C}{00} is the Shogun.
+@5309.3
+I am a retainer of the shogunate...
+@5309.4
+I am a retainer of the shogunate...
+@5309.5
+{01}C{0C}{00} is a retainer of the shogunate.
+@5310
+I can't do that unless I'm appointed Shogun...
+@5310.1
+I can't do that unless I'm appointed Shogun...
+@5310.2
+First, you must become Shogun.
+@5311
+I am in no position to negotiate...
+@5311.1
+I am in no position to negotiate...
+@5311.2
+{01}C{0C}{00} cannot negotiate.
+@5312
+First I must have the enemy-of-the-court branding lifted...
+@5312.1
+First I must have the enemy-of-the-court branding lifted...
+@5312.2
+Forgive me, but I doubt the Court will seriously listen to us while we are branded enemies of the court.
+@5313
+My hands are full...
+@5313.1
+My hands are full...
+@5313.2
+{01}C{0C}{00}, please do not overdo it...
+@5314
+Shall I negotiate with lords and officers of other castles...?
+@5314.1
+Perhaps I should negotiate with lords and officers of other castles...
+@5314.2
+Let us negotiate with lords and officers of other castles.
+@5315
+There is no one I can visit now.
+@5315.1
+There is no one I can visit now.
+@5315.2
+There is no one to visit, my lord.
+@5316
+Shall I make friends with lords of other castles...?
+@5316.1
+Perhaps I should make friends with lords of other castles...
+@5316.2
+Let us make friends with lords of other castles.
+@5317
+There is no castle lord to send a friendly envoy to now...
+@5317.1
+There is no castle lord to send a friendly envoy to now...
+@5317.2
+There is no castle lord to send a friendly envoy to now, my lord.
+@5318
+Shall I send envoys to lords of other castles to deepen our friendship...?
+@5318.1
+Perhaps I should send envoys to lords of other castles to deepen our friendship...
+@5318.2
+Let us send envoys to lords of other castles to deepen our friendship.
+@5319
+Shall I send gold to lords of other castles to deepen our friendship...?\n(Gold needed: %d)
+@5319.1
+Perhaps I should send gold to lords of other castles to deepen our friendship...\n(Gold needed: %d)
+@5319.2
+Let us send gold to lords of other castles to deepen our friendship.\n(Gold needed: %d)
+@5320
+There is no castle lord worth sending gold to...
+@5320.1
+There is no castle lord worth sending gold to...
+@5320.2
+There is no castle lord worth sending gold to, my lord.
+@5321
+Shall I tell lords of other castles about our clan's merits...?
+@5321.1
+Perhaps I should tell lords of other castles about our clan's merits...
+@5321.2
+Let us tell lords of other castles about our clan's merits.
+@5322
+There is no castle lord who needs to hear of our merits...
+@5322.1
+There is no castle lord who needs to hear of our merits...
+@5322.2
+There is no castle lord who needs to hear of our merits, my lord.
+@5323
+Shall I ask lords of other castles for financial aid...?
+@5323.1
+Perhaps I should ask lords of other castles for financial aid...
+@5323.2
+Let us ask lords of other castles for financial aid.
+@5324
+The castle has more than enough gold.
+@5324.1
+The castle has more than enough gold.
+@5324.2
+The castle has plenty of gold, my lord.
+@5325
+Shall I whisper something to lords of other castles...?
+@5325.1
+Perhaps I should whisper something to lords of other castles...
+@5325.2
+Let us whisper something to lords of other castles.
+@5326
+There is nothing to whisper to lords of other castles...
+@5326.1
+There is nothing to whisper to lords of other castles...
+@5326.2
+There is nothing to whisper to lords of other castles, my lord.
+@5327
+Shall I drive a wedge between a castle lord and his lord...?
+@5327.1
+Perhaps I should drive a wedge between a castle lord and his lord...
+@5327.2
+Let us drive a wedge between a castle lord and his lord.
+@5328
+There is no need to slander lords of other castles now...
+@5328.2
+There is no need to slander lords of other castles now, my lord.
+@5329
+Shall I promise a daimyo of another clan to defect...?
+@5329.1
+Perhaps I should promise a daimyo of another clan to defect...
+@5329.2
+Let us promise a daimyo of another clan to defect.
+@5330
+There seems to be no daimyo worth promising to defect to now...
+@5330.1
+There seems to be no daimyo worth promising to defect to now...
+@5330.2
+There is no daimyo worth promising to defect to now, my lord.
+@5331
+Shall I invite castle lords of other clans to betray their lords for us...?
+@5331.1
+Perhaps I should invite castle lords of other clans to betray their lords for us...
+@5331.2
+Let us invite castle lords of other clans to betray their lords for us.
+@5332
+No castle lord will switch sides to us when we are not an independent daimyo...
+@5332.1
+No castle lord will switch sides to us when we are not an independent daimyo...
+@5332.2
+I doubt any castle lord will switch sides to us while we serve another clan...
+@5333
+There is no castle lord I can incite now...
+@5333.1
+There is no castle lord I can incite now...
+@5333.2
+There is no castle lord we can incite now, my lord.
+@5334
+Shall I invite lords of other castles to go independent with us...?
+@5334.1
+Perhaps I should invite lords of other castles to go independent with us...
+@5334.2
+Let us invite lords of other castles to go independent with this castle.
+@5335
+There is no castle lord likely to support independence...
+@5335.1
+There is no castle lord likely to support independence...
+@5335.2
+There is no castle lord likely to support independence, my lord.
+@5336
+Shall I egg on lords of other castles to go independent...?
+@5336.1
+Perhaps I should egg on lords of other castles to go independent...
+@5336.2
+Let us persuade lords of other castles to go independent.
+@5337
+There is no castle lord strong enough to go independent now...
+@5337.1
+There is no castle lord strong enough to go independent now...
+@5337.2
+There is no castle lord strong enough to go independent now, my lord.
+@5338
+Shall I send an envoy to an officer of another clan...?
+@5338.1
+Perhaps I should send an envoy to an officer of another clan...
+@5338.2
+Let us send an envoy to an officer of another clan.
+@5339
+There seems to be no officer worth welcoming into our clan...
+@5339.1
+There seems to be no officer worth welcoming into our clan...
+@5339.2
+There is no officer worth welcoming into our clan, my lord.
+@5340
+Shall I set an officer of another clan against his castle lord...?
+@5340.1
+Perhaps I should set an officer of another clan against his castle lord...
+@5340.2
+Let us set an officer of another clan against his castle lord.
+@5341
+There is no officer worth setting against his castle lord...
+@5341.1
+There is no officer worth setting against his castle lord...
+@5341.2
+There is no officer worth setting against his castle lord, my lord.
+@5342
+Shall I tell an officer of another clan about our merits and win his heart...?
+@5342.1
+Perhaps I should tell an officer of another clan about our merits and win his heart...
+@5342.2
+Let us tell an officer of another clan about our merits and win his heart.
+@5343
+There is no officer who needs to hear of our merits...
+@5343.1
+There is no officer who needs to hear of our merits...
+@5343.2
+There is no officer who needs to hear of our merits, my lord.
+@5344
+Shall I try to persuade an officer of another clan to serve us...?
+@5344.1
+Perhaps I should try to persuade an officer of another clan to serve us...
+@5344.2
+Let us persuade an officer of another clan to serve us.
+@5346
+Shall I conduct diplomacy with other powers...?
+@5346.1
+Perhaps I should conduct diplomacy with other powers...
+@5346.2
+Let us conduct diplomacy with other powers.
+@5347
+There are no powers to conduct diplomacy with...
+@5347.1
+There are no powers to conduct diplomacy with...
+@5347.2
+There are no powers to conduct diplomacy with, my lord.
+@5348
+Shall I negotiate with other daimyo clans...?
+@5348.1
+Perhaps I should negotiate with other daimyo clans...
+@5348.2
+Let us negotiate with other daimyo clans.
+@5349
+No daimyo clans to negotiate with...?
+@5349.1
+No daimyo clans to negotiate with...
+@5349.2
+There are no daimyo clans to negotiate with, my lord.
+@5350
+Shall I make a non-aggression pact with another clan...?
+@5350.1
+Perhaps I should make a non-aggression pact with another clan...
+@5350.2
+Let us make a non-aggression pact with another clan.
+@5351
+There is no daimyo clan to make a non-aggression pact with...
+@5351.1
+There is no daimyo clan to make a non-aggression pact with...
+@5351.2
+There is no daimyo clan to make a non-aggression pact with, my lord.
+@5352
+Shall I make a military alliance with another clan...?
+@5352.1
+Perhaps I should make a military alliance with another clan...
+@5352.2
+Let us make a military alliance with another clan.
+@5353
+I cannot make a military alliance without the consent of the daimyo I serve...
+@5353.1
+I cannot make a military alliance without the consent of the daimyo I serve...
+@5353.2
+We are subordinate to another clan, so we cannot make a military alliance on our own.
+@5354
+Shall I form an encirclement to hold down a hostile daimyo...?
+@5354.1
+Perhaps I should form an encirclement to hold down a hostile daimyo...
+@5354.2
+Let us form an encirclement to hold down a hostile daimyo.
+@5355
+We are already part of an encirclement...
+@5355.1
+We are already part of an encirclement...
+@5355.2
+We are already part of an encirclement, my lord.
+@5356
+There is no one to form an encirclement with...
+@5356.1
+There is no one to form an encirclement with...
+@5356.2
+There is no one to form an encirclement with, my lord.
+@5357
+Shall I negotiate a marriage with another clan...?
+@5357.1
+Perhaps I should negotiate a marriage with another clan...
+@5357.2
+Let us negotiate a marriage with another clan.
+@5358
+I cannot negotiate a marriage now...
+@5358.1
+I cannot negotiate a marriage now...
+@5358.2
+We cannot negotiate a marriage now, my lord.
+@5359
+Shall I threaten another daimyo and make them kneel to us...?
+@5359.1
+Perhaps I should threaten another daimyo and make them kneel to us...
+@5309
+I am the Shogun...
+@5359.2
+Let us threaten another daimyo and make them kneel to us.
+@5360
+No daimyo will bow to threats from us when we are not an independent daimyo...
+@5360.1
+No daimyo will bow to threats from us when we are not an independent daimyo, will they...
+@5360.2
+I doubt any daimyo will bow to threats from us, as we are not an independent daimyo...
+@5361
+Shall I come under another daimyo clan and ask for protection...?
+@5361.1
+Perhaps I should come under another daimyo clan and ask for protection...
+@5361.2
+Let us come under another daimyo clan and ask for protection.
+@5362
+Shall I undo our current vassalage...?
+@5362.1
+Perhaps I should undo our current vassalage...
+@5362.2
+Let us undo our current vassalage.
+@5363
+No daimyo clan is in a vassalage with us.
+@5363.1
+No daimyo clan is in a vassalage with us.
+@5363.2
+No daimyo clan is in a vassalage with us, my lord.
+@5364
+Shall I negotiate with the shogunate...?
+@5364.1
+Perhaps I should negotiate with the shogunate...
+@5364.2
+Let us negotiate with the shogunate.
+@5365
+Shall I use the shogunate's authority...?
+@5365.1
+Perhaps I should use the shogunate's authority...
+@5365.2
+Let us use the shogunate's authority.
+@5366
+There seems to be nothing to negotiate with the shogunate now...
+@5366.1
+There seems to be nothing to negotiate with the shogunate now...
+@5366.2
+There is nothing to negotiate with the shogunate now, my lord.
+@5367
+There is nothing to do as the shogunate...
+@5367.1
+There is nothing to do as the shogunate...
+@5367.2
+There is nothing we can do as the shogunate now, my lord.
+@5368
+Shall I send gold to the shogunate to stay in its good graces...?\n(Gold needed: %d)
+@5368.1
+Perhaps I should send gold to the shogunate to stay in its good graces...\n(Gold needed: %d)
+@5368.2
+Let us send gold to the shogunate to stay in its good graces.\n(Gold needed: %d)
+@5369
+There is no need to send gold to the shogunate now...
+@5369.1
+There is no need to send gold to the shogunate now...
+@5369.2
+There is no need to send gold to the shogunate now, my lord.
+@5370
+Shall I ask the shogunate for a post...?
+@5370.1
+Perhaps I should ask the shogunate for a post...
+@5370.2
+Let us ask the shogunate for a post.
+@5371
+There is no shogunate post worthy of our clan at present...
+@5371.1
+There is no shogunate post worthy of our clan at present...
+@5371.2
+There is no shogunate post worthy of our clan at present, my lord.
+@5372
+Shall I give another clan a shogunate post...?
+@5372.1
+Perhaps I should give another clan a shogunate post...
+@5372.2
+Let us give another clan a shogunate post.
+@5373
+There are no posts to give to other clans at present...
+@5373.1
+There are no posts to give to other clans at present...
+@5373.2
+There are no posts to give to other clans at present, my lord.
+@5374
+Shall I ask the shogunate to issue a punitive order against another clan...?
+@5374.1
+Perhaps I should ask the shogunate to issue a punitive order against another clan...
+@5374.2
+Let us ask the shogunate to issue a punitive order against another clan.
+@5375
+A punitive order has already been issued...
+@5375.1
+A punitive order has already been issued...
+@5375.2
+A punitive order has already been issued, my lord.
+@5376
+There is no daimyo to target with a punitive order...
+@5376.1
+There is no daimyo to target with a punitive order...
+@5376.2
+There is no daimyo to target with a punitive order, my lord.
+@5377
+Shall I ask the shogunate to withdraw the punitive order...?
+@5377.1
+Perhaps I should ask the shogunate to withdraw the punitive order...
+@5377.2
+Let us ask the shogunate to withdraw the punitive order.
+@5378
+No punitive order has been issued against us.
+@5378.1
+No punitive order has been issued against us.
+@5378.2
+No punitive order has been issued against us, my lord.
+@5379
+Shall I issue a punitive order against a clan that defies the shogunate...?
+@5379.1
+Perhaps I should issue a punitive order against a clan that defies the shogunate...
+@5379.2
+Let us issue a punitive order against a clan that defies the shogunate.
+@5381
+All of Japan is on my side...
+@5381.1
+All of Japan is on my side...
+@5381.2
+No power is hostile to us at present, my lord.
+@5382
+Shall I ask the shogunate to mediate a ceasefire...?
+@5382.1
+Perhaps I should ask the shogunate to mediate a ceasefire...
+@5382.2
+Let us ask the shogunate to mediate a ceasefire.
+@5383
+No need for the shogunate's mediation at present...
+@5383.1
+No need for the shogunate's mediation at present...
+@5383.2
+There is no enemy army for which to ask the shogunate to mediate a ceasefire.
+@5384
+Shall I get something in writing from the shogunate, for when the time comes to act...?
+@5384.1
+Perhaps I should get something in writing from the shogunate, for when the time comes to act...
+@5384.2
+Let us get something in writing from the shogunate, for when the time comes to act.
+@5385
+I have already received a letter from the Shogun's house that gives us just cause.
+@5385.1
+I have already received a letter from the Shogun's house that gives us just cause.
+@5385.2
+We have already received a letter from the Shogun's house that gives us just cause, my lord.
+@5386
+Shall I send an envoy to the Imperial Court...?
+@5386.1
+Perhaps I should send an envoy to the Imperial Court...
+@5387
+There is nothing to negotiate with the Court...
+@5387.1
+There is nothing to negotiate with the Court...
+@5387.2
+There is nothing to negotiate with the Court now, my lord.
+@5388
+Shall I donate to the court nobles to win their favour...?\n(Gold needed: %d)
+@5388.1
+Perhaps I should donate to the court nobles to win their favour...\n(Gold needed: %d)
+@5388.2
+Let us donate to the court nobles to win their favour.\n(Gold needed: %d)
+@5389
+There is no need to donate any more...
+@5389.1
+There is no need to donate any more...
+@5389.2
+There is no need to donate any more, my lord.
+@5390
+Shall I have the court nobles arrange a new court title...?
+@5390.1
+Perhaps I should ask the court nobles about a new court title...
+@5390.2
+Let us ask the court nobles about a new court title.
+@5391
+There is no court title I could be granted now...
+@5391.1
+There is no court title I could be granted now...
+@5391.2
+There is no court title we could be granted at present...
+@5392
+Shall I spread bad rumours at Court to ruin another castle's reputation...?
+@5392.1
+Perhaps I should spread bad rumours at Court to ruin another castle's reputation...
+@5392.2
+Let us spread bad rumours at Court to ruin another castle's reputation.
+@5393
+Shall I have another clan named an enemy of the court...?
+@5393.1
+Perhaps I should have another clan named an enemy of the court...
+@5393.2
+Let us have another clan named an enemy of the court.
+@5394
+There is no daimyo clan to make an enemy of the court now...
+@5394.1
+There is no daimyo clan to make an enemy of the court now...
+@5394.2
+There is no daimyo clan to make an enemy of the court, my lord.
+@5395
+Shall I negotiate to have our enemy-of-the-court branding lifted...?
+@5395.1
+Perhaps I should negotiate to have our enemy-of-the-court branding lifted...
+@5395.2
+Let us negotiate to have our enemy-of-the-court branding lifted...
+@5396
+We are not an enemy of the court.
+@5396.1
+We are not an enemy of the court.
+@5396.2
+We are not an enemy of the court, my lord.
+@5397
+Shall I have the Court order a ceasefire on a clan at war with us...?
+@5397.1
+Perhaps I should have the Court order a ceasefire on a clan at war with us...
+@5397.2
+Let us have the Court issue a ceasefire order to a clan at war with us.
+@5398
+No need for the Court's mediation at present...
+@5398.1
+No need for the Court's mediation at present...
+@5398.2
+There is no enemy army for which to ask the Court for a ceasefire order.
+@5399
+Shall I obtain an imperial edict, for when the time comes to act...?
+@5399.1
+Perhaps I should obtain an imperial edict, for when the time comes to act...
+@5399.2
+Let us obtain an imperial edict, for when the time comes to act.
+@5400
+I have already received an imperial sanction from the Court that gives us just cause.
+@5400.1
+I have already received an imperial sanction from the Court that gives us just cause.
+@5400.2
+We have already received an imperial sanction from the Court that gives us just cause, my lord.
+@5401
+Shall I send envoys to the minor powers...?
+@5401.1
+Perhaps I should send envoys to the minor powers...
+@5401.2
+Let us send envoys to the minor powers.
+@5402
+There are no minor powers to negotiate with...
+@5402.1
+There are no minor powers to negotiate with...
+@5402.2
+There are no minor powers to negotiate with, my lord.
+@5403
+Shall I aid the minor powers to get on good terms...?\n(Gold needed: %d)
+@5403.1
+Perhaps I should aid the minor powers to get on good terms...\n(Gold needed: %d)
+@5403.2
+Let us aid the minor powers to deepen our friendship.\n(Gold needed: %d)
+@5404
+There are no minor powers worth aiding now...
+@5404.1
+There are no minor powers worth aiding now...
+@5404.2
+There are no minor powers worth aiding now, my lord.
+@5405
+Shall I slander another clan to turn the minor powers against it...?
+@5405.1
+Perhaps I should slander another clan to turn the minor powers against it...
+@5405.2
+Let us slander another clan to turn the minor powers against it.
+@5406
+There are no minor powers to slander others to...
+@5406.1
+There are no minor powers to slander others to...
+@5406.2
+There are no minor powers to slander others to, my lord.
+@5407
+Shall I make a non-aggression pact with a minor power to pass through its bases...?
+@5407.1
+Perhaps I should make a non-aggression pact with a minor power to pass through its bases...
+@5407.2
+Let us make a non-aggression pact with a minor power to be allowed through its bases.
+@5408
+There are no minor powers worth a non-aggression pact...
+@5408.1
+There are no minor powers worth a non-aggression pact...
+@5408.2
+There are no minor powers worth a non-aggression pact, my lord.
+@5409
+Shall I threaten a minor power into submitting to us...?
+@5409.1
+Perhaps I should threaten a minor power into submitting to us...
+@5409.2
+Let us threaten a minor power into submitting to us.
+@5410
+There are no minor powers to cow into obedience...
+@5410.1
+There are no minor powers to cow into obedience...
+@5410.2
+There are no minor powers to cow into obedience, my lord.
+@5411
+Shall I stir up the minor powers to act against another clan...?
+@5411.1
+Perhaps I should stir up the minor powers to act against another clan...
+@5411.2
+Let us stir up the minor powers to act against another clan.
+@5412
+There are no minor powers to stir up...
+@5412.1
+There are no minor powers to stir up...
+@5412.2
+There are no minor powers to stir up, my lord.
+@5413
+Shall I negotiate with the minor powers to stop their hostility towards us...?
+@5413.1
+Perhaps I should negotiate with the minor powers to stop their hostility towards us...
+@5413.2
+Let us negotiate with the minor powers to stop their hostility towards us.
+@5414
+No minor powers are acting against us.
+@5414.1
+No minor powers are acting against us.
+@5414.2
+No minor powers are acting against us, my lord.
+@5415
+Shall I ask the pirates to trade for us...?
+@5415.1
+Perhaps I should ask the pirates to trade for us...
+@5415.2
+Let us ask the pirates to trade for us.
+@5416
+There are no pirates to ask to trade...
+@5416.1
+There are no pirates to ask to trade...
+@5416.2
+There are no pirates to ask to trade, my lord.
+@5417
+Shall I see to the castle's domestic affairs and supplies...?
+@5417.1
+Perhaps I should see to the castle's domestic affairs and supplies...
+@5417.2
+Let us see to the castle's domestic affairs and supplies.
+@5418
+Shall I see to the castle's domestic affairs and supplies? Come to think of it, I haven't appointed any magistrates...
+@5418.1
+I must see to the castle's domestic affairs and supplies. Come to think of it, I haven't appointed any magistrates...
+@5418.2
+Let us see to the castle's domestic affairs and supplies. {01}C{0C}{00}, no one has been appointed magistrate yet.
+@5418.3
+Let us see to the castle's domestic affairs and supplies. {01}C{0C}{00}, no one has been appointed magistrate yet!
+@5419
+Shall I see to the castle's domestic affairs and supplies? There seem to be people in the castle who are free and not appointed magistrate...
+@5419.1
+I must see to the castle's domestic affairs and supplies. There are people in the castle who are free and not appointed magistrate...
+@5419.2
+Let us see to the castle's domestic affairs and supplies. There seem to be people in the castle who are free and not appointed magistrate.
+@5420
+Shall I reassign the domestic magistrates...?
+@5420.1
+Perhaps I should reassign the domestic magistrates...
+@5420.2
+Let us reassign the domestic magistrates.
+@5421
+Shall I trade goods with the minor powers...?
+@5421.1
+Perhaps I should trade goods with the minor powers...
+@5421.2
+Let us trade goods with the minor powers.
+@5422
+No minor powers to trade with...?
+@5422.1
+There are no minor powers to trade with...
+@5422.2
+There are no minor powers to trade with, my lord.
+@5423
+No goods to trade...?
+@5423.1
+There are no goods to trade...
+@5423.2
+There are no goods to trade, my lord.
+@5424
+Shall I trade goods with the local merchants...?
+@5424.1
+Perhaps I should trade goods with the local merchants...
+@5424.2
+Let us trade goods with the local merchants.
+@5426
+Shall I distribute goods among the corps' castles...?
+@5426.1
+Perhaps I should distribute goods among the corps' castles...
+@5426.2
+Let us distribute goods among the corps' castles.
+@5427
+There are no castles to transport goods to...
+@5427.1
+There are no castles to transport goods to...
+@5427.2
+There are no castles to transport goods to, my lord.
+@5428
+Goods cannot be transported at present...
+@5428.1
+Goods cannot be transported at present...
+@5428.2
+Goods cannot be transported at present, my lord.
+@5429
+Shall I prepare our forces for war...?
+@5429.1
+Perhaps I should prepare our forces for war...
+@5429.2
+Let us prepare our forces for war with the enemy.
+@5430
+Nothing to do in military matters for now...?
+@5430.1
+Nothing to do in military matters for now...
+@5430.2
+There is nothing to do in military matters for now, my lord.
+@5431
+Shall I change the equipment of the troops my officers lead...?
+@5431.1
+Perhaps I should change the equipment of the troops my officers lead...
+@5431.2
+Let us change the equipment of the troops the officers lead.
+@5432
+There is no one in the castle who can change troop equipment now...
+@5432.1
+There is no one in the castle who can change troop equipment now...
+@5432.2
+There is no one in the castle who can change troop equipment now, my lord.
+@5433
+Shall I spend gold to recruit troops...?
+@5433.1
+Perhaps I should spend gold to recruit troops...
+@5433.2
+Let us spend gold to recruit troops.
+@5434
+The castle lacks the supplies to raise troops...
+@5434.1
+The castle lacks the supplies to raise troops...
+@5434.2
+The castle lacks the supplies to raise troops, my lord.
+@5435
+I have only just recruited troops...
+@5435.1
+I have only just recruited troops...
+@5435.2
+We have only just recruited troops, my lord.
+@5436
+There is no need to recruit more troops...
+@5436.1
+There is no need to recruit more troops...
+@5436.2
+There is no need to recruit more troops, my lord.
+@5437
+The castle is under siege; I can't do that...
+@5437.1
+The castle is under siege; I can't do that...
+@5437.2
+We cannot recruit troops while the castle is under siege.
+@5438
+Shall I give orders to the castle lords under my command...?
+@5438.1
+Perhaps I should give orders to the castle lords under my command...
+@5438.2
+Let us give orders to the castle lords under your command.
+@5439
+My corps has no castle other than this one...
+@5439.1
+My corps has no castle other than this one...
+@5439.2
+Our corps has no castle other than this one, my lord.
+@5440
+The corps has no target...
+@5440.1
+The corps has no target...
+@5440.2
+The corps has no target, my lord.
+@5441
+I shall carry out this castle's policy as Lord {02}{03}4 instructs...
+@5441.1
+I shall carry out this castle's policy as Lord {02}{03}4 instructs...
+@5441.2
+Let us carry out this castle's policy as Lord {02}{03}4 instructs.
+@5442
+Shall I give targets to my corps commanders and vassal daimyo...?
+@5442.1
+Perhaps I should give targets to my corps commanders and vassal daimyo...
+@5442.2
+Let us give targets to the corps commanders and vassal daimyo.
+@5443
+We have no corps or vassal daimyo that can act separately...
+@5443.1
+We have no corps or vassal daimyo that can act separately...
+@5443.2
+We have no corps or vassal daimyo that can act separately, my lord.
+@5444
+There is no daimyo to attack...
+@5444.1
+There is no daimyo to attack...
+@5444.2
+There is no daimyo to attack, my lord.
+@5445
+I must do my best as {01}C{17}{00} instructs...
+@5445.1
+I must do my best as {01}C{17}{00} instructs...
+@5445.2
+Let us do our best as {01}C{17}{00} instructs.
+@5446
+Shall I organise the corps...?
+@5446.1
+Perhaps I should organise the corps...
+@5446.2
+Let us organise the corps.
+@5447
+To form a corps, I must first expand my territory...
+@5447.1
+To form a corps, I must first expand my territory...
+@5447.2
+To form a corps, we must first take enemy castles and hold more of them.
+@5448
+Shall I review personnel matters...?
+@5448.1
+Perhaps I should review personnel matters...
+@5448.2
+Let us see to personnel matters.
+@5449
+No personnel changes to make...
+@5449.1
+No personnel changes to make...
+@5449.2
+There are no personnel changes to make, my lord.
+@5450
+For a commander, sure reward and certain punishment are the basics...
+@5450.1
+For a commander, sure reward and certain punishment are the basics...
+@5450.2
+Let us reward and punish your retainers.
+@5451
+No need for rewards or punishments now...?
+@5451.1
+No need for rewards or punishments now...
+@5451.2
+There is no need for rewards or punishments now, my lord.
+@5452
+Shall I change the fiefs of those in the castle...?
+@5452.1
+Perhaps I should change the fiefs of those in the castle...
+@5452.2
+Let us change the fiefs of those in the castle.
+@5453
+There is no one whose fief I can change...
+@5453.1
+There is no one whose fief I can change...
+@5453.2
+There is no one whose fief can be changed, my lord.
+@5454
+Shall I reward my officers...?\n(Gold needed: 200 per person)
+@5454.1
+Perhaps I should reward my officers...\n(Gold needed: 200 per person)
+@5454.2
+Let us reward your retainers.\n(Gold needed: 200 per person)
+@5455
+There is no one here but me...
+@5455.1
+There is no one here but me...
+@5455.2
+There is no one to reward, my lord...
+@5456
+Shall I give or take treasures...?
+@5456.1
+Perhaps I should give or take treasures...
+@5456.2
+Let us give or take treasures.
+@5457
+There are no treasures to give or take...
+@5457.1
+There are no treasures to give or take...
+@5457.2
+There are no treasures to give or take, my lord.
+@5458
+Shall I punish an officer...?
+@5458.2
+Punish a retainer.
+@5459
+There is no one who deserves punishment...
+@5459.1
+There is no one who deserves punishment...
+@5459.2
+There is no one who can be punished, my lord.
+@5460
+Shall I reassign officers...?
+@5460.1
+Perhaps I should reassign officers...
+@5460.2
+Let us reassign officers.
+@5461
+No need for reassignments now...
+@5461.1
+No need for reassignments now...
+@5461.2
+Reassignments cannot be made now, my lord.
+@5462
+Shall I change a retainer's home castle...?
+@5462.1
+Perhaps I should change a retainer's home castle...
+@5462.2
+Let us change a retainer's home castle.
+@5463
+There are no officers to reassign...
+@5463.1
+There are no officers to reassign...
+@5463.2
+There are no officers to reassign, my lord.
+@5464
+To make the most of the corps, shall I transfer the castles under my command...?
+@5464.1
+To make the most of the corps, perhaps I should transfer the castles under my command...
+@5464.2
+Let us transfer the castles under your command.
+@5465
+There are no castles to transfer...
+@5465.1
+There are no castles to transfer...
+@5466
+Shall I appoint new corps commanders or castle lords...?
+@5466.1
+Perhaps I should appoint new corps commanders or castle lords...
+@5466.2
+Let us appoint new corps commanders or castle lords.
+@5466.3
+Shall I change the castle lords under me...?
+@5466.4
+Perhaps I should change the castle lords under me...
+@5466.5
+Let us appoint new castle lords.
+@5466.6
+Shall I appoint a castle lord...?
+@5466.7
+Perhaps I should appoint a castle lord...
+@5466.8
+You could hand the castle lordship to one of your officers...
+@5467
+There is no one to appoint...
+@5467.1
+There is no one to appoint...
+@5467.2
+There is no one to appoint, my lord.
+@5468
+Shall I replace a corps commander...?
+@5468.1
+Perhaps I should replace a corps commander...
+@5468.2
+Let us replace a corps commander.
+@5469
+There is no corps whose commander can be replaced...
+@5469.1
+There is no corps whose commander can be replaced...
+@5469.2
+There is no corps whose commander can be replaced, my lord.
+@5470
+Shall I hand the castle lordship to another officer...?
+@5470.1
+Perhaps I should hand the castle lordship to another officer...
+@5470.2
+Hand the castle lordship to one of your retainers.
+@5470.3
+Shall I change the lords of the castles under my command...?
+@5470.4
+Perhaps I should change the lords of the castles under my command...
+@5470.5
+Let us change the lords of the castles under your command.
+@5471
+There is no one to entrust a castle to...
+@5471.1
+There is no one to entrust a castle to...
+@5471.2
+There is no one to entrust a castle to, my lord.
+@5471.3
+There are no castle lords under me that can be changed...
+@5471.4
+There are no castle lords under me that can be changed...
+@5471.5
+There are no castle lords under your command that can be changed.
+@5472
+Shall I settle some matters concerning my kin...?
+@5472.1
+Perhaps I should settle some matters concerning my kin...
+@5472.2
+Let us settle matters concerning your kin.
+@5473
+Nothing to settle concerning my kin...
+@5473.1
+Nothing to settle concerning my kin...
+@5473.2
+There is nothing that can be settled concerning your kin now.
+@5474
+Shall I give a princess to a retainer...?
+@5474.1
+Perhaps I should find a princess a husband among my retainers...
+@5474.2
+Let us arrange a match between a retainer and a princess.
+@5475
+There is no retainer to marry a princess to...
+@5475.1
+There is no retainer to marry a princess to...
+@5475.2
+There is no retainer to marry a princess to, my lord.
+@5476
+Shall I name an heir...?
+@5476.1
+Perhaps I should name an heir...
+@5476.2
+Let us name an heir.
+@5476.3
+Shall I recommend to other castle lords who should be heir...?
+@5476.4
+Perhaps I should recommend to other castle lords who should be heir...
+@5476.5
+Let us recommend to other castle lords who should be heir.
+@5477
+There is no one in the house fit to be heir...
+@5477.1
+There is no one in the house fit to be heir...
+@5477.2
+There is no one in the house fit to be heir, my lord.
+@5477.3
+There is no heir to recommend...
+@5477.4
+There is no heir to recommend...
+@5477.5
+There is no heir to recommend, my lord.
+@5478
+There is no castle lord to persuade...
+@5478.1
+There is no castle lord to persuade...
+@5478.2
+There is no one who can be persuaded, my lord.
+@5479
+Shall I retire and make way for the next generation...?
+@5479.1
+Perhaps I should retire and make way for the next generation...
+@5479.2
+Retire and leave the future to your heir.
+@5480
+I must keep working hard...
+@5480.1
+I must keep working hard...
+@5480.2
+No one but {01}C{0C}{00} can hold our clan together.
+@5481
+I cannot step down and leave this army...
+@5481.1
+I cannot step down and leave this army...
+@5481.2
+{01}C{0C}{00} is in the field. Please do not jest.
+@5482
+I have only just taken over the clan...
+@5482.1
+I have only just taken over the clan...
+@5482.2
+But {01}C{0C}{00} has only just become head of the clan!
+@5483
+Shall I invite other castle lords here to discuss the future of the realm...?\n(Gold needed: 200 per person)
+@5483.1
+It would be nice to invite other castle lords here and talk about all sorts of things...\n(Gold needed: 200 per person)
+@5483.2
+Let us invite other castle lords to this castle.\n(Gold needed: 200 per person)
+@5484
+There are no castle lords to invite...
+@5484.1
+There are no castle lords to invite...
+@5485
+This is no time to be inviting other castle lords...
+@5485.1
+This is no time to be inviting other castle lords...
+@5485.2
+This is no time to be inviting other castle lords, my lord.
+@5486
+I am busy with something else...
+@5486.1
+I am busy with something else...
+@5486.2
+{01}C{0C}{00} is already busy with something else.
+@5487
+Shall I give orders to the shinobi...?
+@5487.1
+Perhaps I should give orders to the shinobi...
+@5487.2
+Let us give orders to the shinobi.
+@5488
+There are no officers or shinobi free...
+@5488.1
+There are no officers or shinobi free...
+@5488.2
+There are no officers or shinobi free, my lord.
+@5489
+There is nothing to do with the shinobi...
+@5489.1
+There is nothing to do with the shinobi...
+@5489.2
+There is nothing to be done with the shinobi, my lord.
+@5490
+Shall I send word to a ninja village and hire some shinobi...?
+@5490.1
+Perhaps I should send word to a ninja village and hire some shinobi...
+@5490.2
+Let us send word to a ninja village and hire some shinobi.
+@5491
+No village likely to lend us shinobi...?
+@5491.1
+There is no village likely to lend us shinobi...
+@5491.2
+There is no village likely to lend us shinobi, my lord.
+@5492
+Shall I change where the shinobi are hiding...?
+@5492.1
+Perhaps I should change where the shinobi are hiding...
+@5492.2
+Let us change where the shinobi are hiding.
+@5493
+There are no shinobi who can change their hideout...
+@5493.1
+There are no shinobi who can change their hideout...
+@5493.2
+There are no shinobi who can change their hideout, my lord.
+@5494
+Shall I use shinobi to spread rumours that another castle lord is plotting rebellion...?
+@5494.1
+Perhaps I should use shinobi to spread rumours that another castle lord is plotting rebellion...
+@5494.2
+Let us use shinobi to spread rumours that another castle lord is plotting rebellion.
+@5495
+No need to spread rumours of rebellion now...
+@5495.1
+No need to spread rumours of rebellion now...
+@5495.2
+There is no need to spread rumours of rebellion now, my lord.
+@5496
+Shall I have shinobi attack an officer of another castle...?
+@5496.1
+Perhaps I should have shinobi attack an officer of another castle...
+@5496.2
+Let us have shinobi attack an officer of another castle.
+@5497
+There is no officer we could assassinate...
+@5497.1
+There is no officer we could assassinate...
+@5497.2
+There is no officer we could assassinate, my lord.
+@5498
+Shall I use shinobi to sabotage another castle...?
+@5498.1
+Perhaps I should use shinobi to sabotage another castle...
+@5498.2
+Let us use shinobi to break down another castle's walls.
+@5499
+There is no castle we could sabotage...
+@5499.1
+There is no castle we could sabotage...
+@5499.2
+There is no castle we could sabotage, my lord.

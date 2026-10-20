@@ -1,0 +1,4534 @@
+@2654
+Lately I feel I have come to grasp the art of manoeuvre...\n(Intellect {02}{03}c)
+@2654.1
+Lately I feel I have come to grasp the art of manoeuvre...\n(Intellect {02}{03}c)
+@2654.2
+Lately {02}{03}4 seems to have grasped the art of manoeuvre too...\n(Intellect {02}{03}c)
+@2654.3
+Lately {02}{03}4 seems to have grasped the art of manoeuvre too...\n(Intellect {02}{03}c)
+@2654.4
+Lately {01}C{17}{00}'s skill at manoeuvre seems sharper than ever...\n(Intellect {02}{03}c)
+@2654.5
+Lately {01}C{17}{00}'s skill at manoeuvre seems sharper than ever... How impressive.\n(Intellect {02}{03}c)
+@2654.6
+Lately {02}{03}4 seems to have grown skilled at manoeuvre...\n(Intellect {02}{03}c)
+@2654.7
+Lately {02}{03}4 seems to have grown skilled at manoeuvre...\n(Intellect {02}{03}c)
+@2654.8
+Lately I feel I have come to grasp the art of manoeuvre, my lord...\n(Intellect {02}{03}c)
+@2654.9
+Lately {01}C{17}{00}'s skill at manoeuvre seems sharper than ever...\n(Intellect {02}{03}c)
+@2654.10
+Lately {01}C{17}{00}'s skill at manoeuvre seems sharper than ever... How impressive.\n(Intellect {02}{03}c)
+@2654.11
+Lately {01}C{17}{00}'s skill at manoeuvre seems keener than ever... and there is surely more to come.\n(Intellect {02}{03}c)
+@2654.12
+Lately {01}C{17}{00}'s skill at manoeuvre seems keener than ever...\n(Intellect {02}{03}c)
+@2654.13
+Lately {01}C{17}{00}'s skill at manoeuvre seems keener than ever...\n(Intellect {02}{03}c)
+@2654.14
+Lately {01}C{17}{00}'s skill at manoeuvre seems keener than ever, my lord...\n(Intellect {02}{03}c)
+@2654.16
+Lately my child {02}{03}4 seems to have grown skilled at manoeuvre...\n(Intellect {02}{03}c)
+@2654.17
+Lately {01}C{1A}{00} seems to have grown skilled at manoeuvre...\n(Intellect {02}{03}c)
+@2654.19
+Lately {02}{03}n seems to have grown skilled at manoeuvre...\n(Intellect {02}{03}c)
+@2655
+I rested as the medical book prescribed, and now I feel completely well.
+@2655.1
+I rested as the medical book prescribed, and now I feel completely well.
+@2655.2
+I rested as the medical book prescribed, my lord, and I am now fully recovered.
+@2656
+Thanks to the rest, I feel completely well again.
+@2656.1
+Thanks to the rest, I feel completely well again.
+@2656.2
+Thanks to the rest, I am fully recovered, my lord.
+@2657
+*cough* *cough*... I am not feeling well at all.
+@2657.1
+*cough* *cough*... I don't feel well at all.
+@2657.2
+*cough* *cough*... I am not feeling at all well, my lord.
+@2658
+I have had my fill of {02}{02}n. From now on I go my own way. Farewell!
+@2658.1
+I have had enough of {02}{02}n. From now on I shall go my own way. Farewell.
+@2659
+{02}{03}n, who was at our {02}{03}N, seems to have deserted.
+@2659.1
+{02}{03}n, who was at our {02}{03}N, seems to have deserted.
+@2659.2
+{01}C{0C}{00}, {02}{03}n, who was at our {02}{03}N, seems to have deserted.
+@2659.3
+{02}{03}n, who was at {02}{03}N of the {02}{03}v, seems to have deserted.
+@2659.4
+{02}{03}n, who was at {02}{03}N of the {02}{03}v, seems to have deserted.
+@2659.5
+{01}C{0C}{00}, {02}{03}n, who was at {02}{03}N of the {02}{03}v, seems to have deserted.
+@2660
+Our shinobi inside {02}{03}N of the {02}{03}v report that {02}{03}n has deserted.
+@2660.1
+Our shinobi inside {02}{03}N of the {02}{03}v report that {02}{03}n has deserted.
+@2660.2
+{01}C{0C}{00}, our shinobi inside {02}{03}N of the {02}{03}v report that {02}{03}n has deserted.
+@2661
+Someone seems to have deserted from {02}{03}N of the {02}{03}v.
+@2661.1
+Someone seems to have deserted from {02}{03}N of the {02}{03}v.
+@2661.2
+{01}C{0C}{00}, someone seems to have deserted from {02}{03}N of the {02}{03}v.
+@2662
+One {02}{03}n is asking to enter service at this castle.
+@2662.1
+One {02}{03}n is asking to enter service at this castle.
+@2662.2
+{01}C{0C}{00}, one {02}{03}n is asking to enter service at this castle.
+@2663
+Shall I recruit {02}{03}n...?
+@2663.1
+Shall I recruit {02}{03}n...?
+@2663.2
+Will you recruit {02}{03}n, my lord?
+@2664
+I see... Then I take my leave.
+@2664.1
+I see... Then I shall try another castle. Farewell.
+@2665
+One {02}{03}n has been taken into service at {02}{03}N.
+@2665.1
+One {02}{03}n has been taken into service at {02}{03}N.
+@2665.2
+{01}C{0C}{00}, one {02}{03}n has been taken into service at {02}{03}N.
+@2666
+Our shinobi inside {02}{03}N report that one {02}{03}n has been taken into service there.
+@2666.1
+Our shinobi inside {02}{03}N report that one {02}{03}n has been taken into service there.
+@2666.2
+{01}C{0C}{00}, our shinobi inside {02}{03}N report that one {02}{03}n has been taken into service there.
+@2667
+Our non-aggression pact with the {02}{03}v has expired.
+@2667.1
+Our non-aggression pact with the {02}{03}v has expired.
+@2667.2
+{01}C{0C}{00}, our non-aggression pact with the {02}{03}v has expired.
+@2668
+Our %s with the {02}{03}v has expired.
+@2668.1
+Our %s with the {02}{03}v has expired.
+@2668.2
+{01}C{0C}{00}, our %s with the {02}{03}v has expired.
+@2669
+The encirclement of the {02}{0C}E that we led has lost its force. It is an encirclement in name only now...
+@2669.1
+The encirclement of the {02}{0C}E that we led has lost its force. It is an encirclement in name only now...
+@2669.2
+The encirclement of the {02}{0C}E that we led has lost its force over time and exists in name only now.
+@2669.3
+The encirclement of the {02}{0C}E led by the {02}{0B}E seems to have lost its force. It exists in name only now...
+@2669.4
+The encirclement of the {02}{0C}E led by the {02}{0B}E seems to have lost its force. It exists in name only now...
+@2669.5
+The encirclement of the {02}{0C}E led by the {02}{0B}E seems to have lost its force over time and exists in name only now.
+@2670
+A secret letter has come from %s, revoking the just cause granted to the {02}{02}v... How can this be!
+@2670.1
+A secret letter has come from %s, revoking the just cause granted to the {02}{02}v... Why now, of all times...
+@2670.2
+A secret letter has come from %s, my lord. The just cause granted to the {02}{02}v is revoked.
+@2671
+{02}{03}n's promise to defect will hardly hold now. If we want a defection, we must send another envoy.
+@2671.1
+{02}{03}n's promise to defect will hardly hold now. If we want a defection, we must send another envoy.
+@2671.2
+{02}{03}n's promise to defect no longer holds, my lord.
+@2672
+You attack our village...? Curse you, we have been deceived! I am pulling all our people out. You will pay for this!
+@2673
+{01}C{0D}{00}, our term is up, so I will take the %d men of our {02}{01}v home. Call on us again if you need anything.
+@2674
+{01}C{0D}{00}, how do our villagers serve you? The term for my %d men ends today, but we can talk if you wish.
+@2675
+Keeping them 2 more years would cost %d gold. Shall I extend the term...? My castle has about %d gold.
+@2675.1
+Keeping them 2 more years would cost %d gold. Shall I extend the term...? My castle has about %d gold.
+@2675.2
+Keeping them 2 more years will cost %d gold. Will you extend the term? The castle has %d gold left.
+@2676
+Then we will lend you our people a while longer.
+@2677
+Then I will take my %d men home. Call on us again if you need anything.
+@2678
+Flood-control works seem to be complete in one of our provinces.
+@2678.1
+Flood-control works seem to be complete in one of our provinces.
+@2678.2
+Flood-control works seem to be complete in one of our provinces, my lord.
+@2679
+The flood-control works here in {02}{1F}2 are complete too, and the farmland has grown.
+@2679.1
+The flood-control works here in {02}{1F}2 are complete too, and the farmland has grown.
+@2679.2
+The flood-control works here in {02}{1F}2 are complete too, and the farmland has grown, my lord.
+@2679.3
+The flood-control works here in {02}{1F}2 are complete too, and the farmland has grown, my lord.
+@2680
+Flood-control works seem to have begun in our domain.
+@2680.1
+Flood-control works seem to have begun in our domain.
+@2680.2
+Flood-control works seem to have begun in our domain, my lord.
+@2681
+So flood-control works have begun here in {02}{1F}2 too. Once they are done, we can expand our farmland further.
+@2681.1
+So flood-control works have begun here in {02}{1F}2 too. Once they are done, we can expand our farmland further.
+@2681.2
+Flood-control works have begun here in {02}{1F}2 too. Once they are done, we can expand our farmland further.
+@2682
+The {02}{03}v has declared independence from us!
+@2682.1
+The {02}{03}v has declared independence from us!
+@2682.2
+The {02}{03}v has declared independence from us, my lord.
+@2682.3
+The {02}{03}v seems to have broken away from the {02}{04}v.
+@2682.4
+The {02}{03}v seems to have broken away from the {02}{04}v.
+@2682.5
+The {02}{03}v seems to have broken away from the {02}{04}v, my lord.
+@2683
+{02}{03}n's reputation is rising. That voice already carries more weight than mine...
+@2683.1
+{02}{03}n's reputation is rising. That voice already carries more weight than mine...
+@2683.2
+{02}{03}n's reputation is rising. {01}C{0C}{00}, you too must work all the harder for the {02}{03}v...
+@2684
+Perhaps because I ignored {02}{03}n's orders on campaign, my voice has not gained the weight my deeds deserve...
+@2684.1
+Perhaps because I ignored {02}{03}n's orders on campaign, my voice has not gained the weight my deeds deserve...
+@2684.2
+{01}C{0C}{00}, if you ignore {02}{03}n's orders on campaign too often, no one will listen to your words.
+@2684.3
+{01}C{0C}{00}, if you ignore {02}{03}n's orders on campaign too often, no one will listen to your words.
+@2685
+My reputation has improved a good deal. The day I become a corps commander cannot be far off.
+@2685.1
+My reputation has improved a good deal. I shall be a corps commander soon.
+@2685.2
+{01}C{0C}{00}, your standing in the clan is no less than {02}{03}n's. You will surely be named corps commander soon.
+@2686
+My words seem to be taken lightly... I must try harder.
+@2686.1
+My words are taken lightly... I must try harder.
+@2686.2
+{01}C{0C}{00}, the other castle lords take your words lightly. You must work a little harder...
+@2687
+I thought I worked hard last year, but my reputation hardly rose.
+@2687.1
+I thought I worked hard last year, but my reputation hardly rose.
+@2687.2
+With last year's efforts, {01}C{0C}{00}, your standing seems to have hardly risen.
+@2688
+{01}C{0C}{00} will not share the supplies I need... What am I to do?
+@2688.1
+{01}C{0C}{00} will not share the supplies I need... Oh, what shall I do?
+@2689
+{02}{03}n was to betray their lord and join us, but has had a change of heart. Sitting on the fence... worthless wretch!
+@2689.1
+{02}{03}n was to betray their lord and join us, but has had a change of heart. Sitting on the fence... what a coward!
+@2689.2
+{01}C{0C}{00}, {02}{03}n was to betray their lord and join us, but has had a change of heart!
+@2690
+It seems the moment to switch sides to the {02}{03}v has passed. Let us drop the matter.
+@2690.1
+It seems the moment to switch sides to the {02}{03}v has passed. Let us drop the matter.
+@2690.2
+{01}C{0C}{00}, the moment to switch sides to the {02}{03}v has passed. Please consider the matter closed.
+@2691
+We of {02}{01}M will no longer obey the {02}{02}v! If you will not accept it, we will fight to the last!
+@2691.1
+We of {02}{01}M will no longer obey the {02}{02}v! If you will not accept it, we will fight to the last!
+@2692
+The repairs to the walls of {02}{01}N seem to be complete.
+@2692.1
+The repairs to the walls of {02}{01}N seem to be complete.
+@2692.2
+{01}C{0C}{00}, the repairs to the walls of {02}{01}N are complete.
+@2693
+There are no officers at {02})N who can march out.
+@2693.1
+There seem to be no officers at {02})N who can march out.
+@2693.2
+There are no officers at {02})N who can march out, my lord.
+@2694
+{02}{02}4's corps did splendid work last year. I expect great things from you.
+@2694.1
+{02}{02}4's corps did splendid work last year. I expect great things from you.
+@2695
+{02}{02}4's corps did poorly last year next to the other corps... {01}C{0B}{00}, do not disappoint me.
+@2695.1
+{02}{02}4's corps did poorly last year next to the other corps... Please do not disappoint me.
+@2696
+Last year's greatest merit goes to {02}{02}n. I expect great things from you.
+@2696.1
+Last year's greatest merit goes to {02}{02}n. I expect great things from you.
+@2697
+Why won't {01}C{0C}{00} make me a corps commander...? But perhaps, any day now...
+@2697.1
+Why will {01}C{0C}{00} not make me a corps commander...? What can my lord think of me?
+@2698
+Why won't {01}C{0C}{00} make me a corps commander...? What can my lord think of me?
+@2698.1
+Why won't {01}C{0C}{00} make me a corps commander...? No, surely any day now...
+@2699
+Everyone seems to accept {02}{03}n as heir. From now on {02}{03}4 is my rightful heir. I count on you all.
+@2699.1
+Everyone seems to accept {02}{03}n as heir. From now on {02}{03}4 is my rightful heir. I count on you all.
+@2700
+There is no land left to clear around this castle. I shall give the farming magistrate another post.
+@2700.1
+There is no land left to clear around this castle. I shall give the farming magistrate another post.
+@2700.2
+There is no land left to clear around this castle. It would be best to give the farming magistrate another post.
+@2700.3
+There is no land left to clear around this castle. It would be best to give the farming magistrate another post.
+@2701
+There is no land left to clear in {02})6, where this castle stands. I shall give the farming magistrate another post.
+@2701.1
+There is no land left to clear in {02})6, where this castle stands. I shall give the farming magistrate another post.
+@2701.2
+There is no land left to clear in {02})6, where this castle stands. It would be best to give the farming magistrate another post.
+@2701.3
+There is no land left to clear in {02})6, where this castle stands. It would be best to give the farming magistrate another post.
+@2702
+The castle town here has prospered as far as it can. I shall give the commerce magistrate another post.
+@2702.1
+The castle town here has prospered as far as it can. I shall give the commerce magistrate another post.
+@2702.2
+The castle town here has prospered as far as it can. It would be best to give the commerce magistrate another post.
+@2703
+{02})6, where this castle stands, has prospered as far as it can. I shall give the commerce magistrate another post.
+@2703.1
+{02})6, where this castle stands, has prospered as far as it can. I shall give the commerce magistrate another post.
+@2703.2
+{02})6, where this castle stands, has prospered as far as it can. It would be best to give the commerce magistrate another post.
+@2704
+{02}{03}n's unit has been wiped out.
+@2705
+I have wiped out {02}{03}n's unit.
+@2705.1
+Ha! {02}{03}n's unit is wiped out!
+@2705.2
+How is that! We have wiped out {02}{03}n's unit.
+@2705.3
+I have wiped out {02}{03}n's unit!
+@2705.4
+Yes! {02}{03}n's unit is wiped out!
+@2705.5
+We have wiped out {02}{03}n's unit.
+@2706
+{02}{03}n has fallen in battle.
+@2707
+I have slain {02}{03}n!
+@2707.1
+{02}{03}n is slain by my hand!
+@2707.2
+We have slain {02}{03}n!
+@2707.3
+I have slain {02}{03}n!
+@2707.5
+We have slain {02}{03}n!
+@2708
+{02}{03}n is down! Behold the might of my cannon!
+@2708.1
+Ha! {02}{03}n is down! Now you know what my cannon can do!
+@2708.2
+{02}{03}n is down! Such is the might of the cannon!
+@2708.3
+{02}{03}n is down! Behold the might of my cannon!
+@2708.4
+Yes! {02}{03}n is down! Now you know what my cannon can do!
+@2708.5
+{02}{03}n is down. Friend and foe alike, behold this might!
+@2709
+{02}{03}n has been wounded.
+@2710
+I have captured {02}{03}n.
+@2710.1
+Ha! I have captured {02}{03}n!
+@2710.2
+We have captured {02}{03}n, heh.
+@2710.3
+I have captured {02}{03}n.
+@2710.4
+Yes! I caught {02}{03}n!
+@2710.5
+We have captured {02}{03}n.
+@2711
+{02}{03}n has been captured.
+@2712
+{02}{03}n, a prisoner of {02}{04}n, has escaped.
+@2713
+Our prisoner {02}{03}n has escaped.
+@2714
+We cannot hold, pushed back this far. Back to headquarters to regroup!
+@2714.1
+Damn, pushed back this far... Back to headquarters and regroup!
+@2714.2
+Pushed back this far, there is no help for it. We return to headquarters to regroup.
+@2714.3
+We cannot hold, pushed back this far. Let us return to headquarters and regroup.
+@2714.4
+Damn, pushed back this far... Back to headquarters, we regroup!
+@2714.5
+Pushed back this far, there is no help for it. Return to headquarters and regroup.
+@2715
+Good, the enemy has fallen back! Now we reinforce the centre and drive them back in one push!
+@2715.1
+The enemy's falling back! Men! Reinforce the centre and drive them back in one push!!
+@2715.2
+Hm, the enemy seems to have fallen back. Everyone, we shall now reinforce the centre.
+@2715.3
+The enemy seems to have fallen back. Now we reinforce the centre and drive them back in one push!
+@2715.4
+The enemy's falling back! Everyone, reinforce the centre!!
+@2715.5
+The enemy seems to have fallen back. Then let us reinforce the centre.
+@2716
+We cannot hold with morale this low. Back to headquarters to regroup!
+@2716.1
+Damn, morale has sunk this low... Back to headquarters to regroup.
+@2716.2
+With morale this low, there is no help for it. Return to headquarters and regroup.
+@2716.3
+We cannot hold with morale this low. Let us return to headquarters and regroup.
+@2716.4
+We cannot fight with morale this low. Back to headquarters, we regroup.
+@2716.5
+With morale this low, there is no help for it. Return to headquarters and regroup.
+@2717.1
+Is the enemy falling back? Men! Reinforce the centre and drive them back in one push!!
+@2717.3
+The enemy seems to have fallen back! Now we reinforce the centre and drive them back in one push!
+@2717.4
+The enemy's falling back! Everyone, reinforce the centre!!
+@2718
+{02}{03}n's unit was driven all the way back to headquarters and has taken refuge there.
+@2719
+I have driven {02}{03}n's unit back to their headquarters.
+@2719.1
+Ha! I have driven {02}{03}n's unit back to their headquarters!
+@2719.2
+We have driven {02}{03}n's unit back to their headquarters.
+@2719.3
+I have driven {02}{03}n's unit back to their headquarters.
+@2719.4
+Yes! I drove {02}{03}n's unit back to their headquarters!
+@2720
+Morale is falling and the men are deserting. I must do something.
+@2720.1
+Damn... this is bad.
+@2720.2
+Morale is falling and the men are running off.
+@2720.3
+Morale is falling and the men are deserting. What is to be done?
+@2720.4
+Morale is falling and the men are running off. I must do something.
+@2720.6
+Morale is falling and the men are running off. Something must be done.
+@2721
+{01}C{18}{00}, we will cover you from the sea! Fire!
+@2721.1
+{01}C{18}{00}, we will cover you from the sea. Loose!
+@2722
+The battle is going our way! Right, move headquarters forward!
+@2722.1
+Hahaha, the vanguard has left headquarters behind! Right, move headquarters forward!
+@2722.2
+The vanguard seems rather far from headquarters. Let us move headquarters forward.
+@2722.3
+The battle is going our way! Let us move headquarters forward!
+@2722.4
+Heh heh, the vanguard has left headquarters behind. Move headquarters forward!
+@2722.5
+The vanguard and headquarters are a little too far apart. Let us move headquarters forward.
+@2723
+The enemy has moved their headquarters. Everyone, give no more ground!
+@2723.1
+Their headquarters has moved...! Men, don't give another inch!
+@2723.2
+So the enemy has moved their headquarters... Everyone, give no more ground!
+@2723.3
+The enemy seems to have moved their headquarters. Everyone, give no more ground.
+@2723.4
+Their headquarters has moved... Everyone, don't give another inch!
+@2723.5
+So the enemy has moved their headquarters... Everyone, give no more ground!
+@2724
+The men are in confusion... Everyone, calm down, calm yourselves!
+@2724.1
+Damn... the men are in confusion. Quiet, you lot! Quiet, I say!
+@2724.2
+The men are in confusion... Everyone, calm yourselves!
+@2724.3
+The men are in confusion... Everyone, calm yourselves!
+@2724.4
+The men are in confusion... Quiet! Quiet down!
+@2724.5
+The men are in confusion... Everyone, compose yourselves!
+@2725
+Now is the time to throw my unit at %s!
+@2725.1
+Now is the time to throw my unit at %s!
+@2725.2
+Now is the time to send a unit at %s. Please give that task to me.
+@2725.3
+Now's the time to send a unit at %s! Give that task to me.
+@2725.4
+Now is the time to send a unit at %s. Pray, give that task to me.
+@2725.5
+Now is the time to send a unit at %s. Please give that task to me.
+@2725.6
+Now's the time to send a unit at %s! Please give that task to me.
+@2725.7
+Now is the time to send a unit at %s. Do give that task to me, I beg you.
+@2726
+I can wait no longer! Men, attack %s!
+@2726.1
+Now it is my unit's turn. Everyone, attack %s!
+@2726.2
+I must win glory somehow... I can wait no longer. Attack %s!
+@2726.3
+No point coming this far without a fight. Who cares? We attack %s!
+@2726.4
+The glory shall be mine. I can wait no longer. We attack %s!
+@2726.5
+I simply must win glory here... I can't wait any longer. Attacking %s!
+@2726.6
+I came here to fight... Never mind, attack %s!
+@2726.7
+Why must I stay at headquarters? I can wait no longer. Let us attack %s.
+@2727
+Hmm... Should I attack %s...?
+@2727.1
+Shall I attack %s...?
+@2727.2
+How long must I wait? Let me attack %s.
+@2727.3
+How long will you keep me waiting!? Let me attack %s!
+@2727.4
+How long must I wait, I wonder... I should like to attack %s...
+@2727.5
+How long must I wait? Please let me attack %s.
+@2727.6
+How long will you keep me waiting? Please, let me attack %s.
+@2727.7
+How long must we wait, I wonder? I believe we should attack %s.
+@2728
+Everyone, follow me! Charge!
+@2728.1
+We'll scatter them in one blow! Men, follow me!
+@2728.2
+Well, shall we charge? Everyone, follow me.
+@2728.3
+Follow me! Scatter the enemy!
+@2728.4
+Now, charge! Let's give them the fright of their lives!
+@2728.5
+Well then, shall we charge?
+@2729
+Ride in and break their line! Don't fall behind! Attack!
+@2729.1
+We'll smash them with the horse! Men, attack!!
+@2729.2
+Allow me to break them with my horsemen. Come, everyone, attack!
+@2729.3
+Let us ride in and break their line! Everyone, attack!
+@2729.4
+I'll smash them with my horsemen! Everyone, let's go!!
+@2729.5
+Let me break them with my horsemen for you. Come, everyone, attack!
+@2730
+Everyone, level your spears and charge!
+@2730.1
+Men, drive your spears into them! Forward, forward!
+@2730.2
+Everyone, charge! Drive your spears into them.
+@2730.3
+Pikemen, step forward! Charge the enemy!
+@2730.4
+Everyone, drive your spears into them! Forward, forward!
+@2730.5
+Everyone, charge with your pikes.
+@2731
+Take this! They are helpless before this spear wall. Push them back in one go!
+@2731.1
+Spears in line, forward! Push them back and skewer the lot!
+@2731.2
+Now, let us form a spear wall. Everyone, close up the spears!
+@2731.3
+Everyone, form a spear wall! Close up and push them back in one go!
+@2731.4
+Spears in line, forward! Push them back and skewer them!
+@2731.5
+Let us form a spear wall here and push the enemy back in one go.
+@2732
+Everyone, follow me! Charge!
+@2732.1
+Men, follow me! Don't fall behind! Charge!
+@2732.2
+Everyone, follow me. Charge!
+@2732.3
+Everyone, follow me! Charge!
+@2732.4
+Everyone, follow me! We're charging!
+@2732.5
+Well, it is about time... Let us charge.
+@2733
+We now launch an all-out attack! Push them back in one go!
+@2733.1
+All-out attack! We'll push them back in one go! Men, don't fall behind!
+@2733.2
+Time for an all-out attack, I think. Everyone, do not fall behind.
+@2733.3
+We now launch an all-out attack and push them back in one go!
+@2733.4
+Right, all-out attack! Push them back in one go!
+@2733.5
+Then let us launch an all-out attack and push them back in one go.
+@2734
+Learn the power of the three-rank volley!
+@2734.1
+Volley fire! Give them all the lead they can eat!
+@2734.2
+We begin the volley. Now, fire! Next rank, fire!
+@2734.3
+Learn the power of the three-rank volley!
+@2734.4
+Volley fire! Give them all the lead they can eat!
+@2734.5
+Let us begin the volley. Now, fire! Next rank, fire!
+@2735
+Face this wheeling attack!
+@2735.1
+The wheeling attack! Scatter them!
+@2735.2
+The wheeling attack. Everyone, here we go!
+@2735.3
+Face this wheeling attack!
+@2735.4
+We'll scatter them with the wheeling attack!
+@2735.5
+Well then, the wheeling attack...
+@2736
+Everyone, we make a mounted fire charge! Show what your training is worth!
+@2736.1
+Men, mounted fire charge! Show them what your training is worth!
+@2736.2
+Everyone, a mounted fire charge! Show what your training is worth!
+@2736.3
+Everyone, a mounted fire charge! Show what your training is worth!
+@2736.4
+Everyone, mounted fire charge! Show them your training!
+@2736.5
+Everyone, let us make a mounted fire charge. Show what your training is worth.
+@2737
+Whatever attack you throw at me, I, {02}{01}4, will turn it all aside!
+@2737.1
+Such an attack does not even sting. I will shrug it off.
+@2737.2
+Hmph, no effect. I'll shrug it off.
+@2737.3
+Hohoho... Such an attack has no effect on me.
+@2737.4
+Such an attack does not even sting. I shall shrug it off.
+@2737.5
+Hmph, as if that would work. I'll shrug it off.
+@2737.6
+My, whatever was that...? I shall shrug it off...
+@2738
+The enemy cavalry are good. Everyone, do not falter.
+@2738.1
+Curse them... their cavalry are no joke. Men, don't falter!
+@2738.2
+The enemy cavalry are rather strong... Everyone, do not falter.
+@2738.3
+The enemy cavalry seem rather strong... Everyone, you must not falter!
+@2738.4
+Damn that cavalry! Everyone, don't falter!
+@2738.5
+The enemy cavalry are not to be scorned. Everyone, keep calm...
+@2739
+Whoa! I never thought their cavalry hit so hard...
+@2739.1
+Gwah! What was that attack!?
+@2739.2
+What! Their cavalry are this strong...?
+@2739.3
+Eek! Their cavalry are this strong...?
+@2739.4
+Eek! What was that attack!?
+@2739.5
+Ah! Whatever was that attack!?
+@2740
+Their spear points are sharp. Everyone, do not give ground.
+@2740.1
+Men, don't falter! Stop their charge!
+@2740.2
+A fine charge by the enemy... Everyone, do not falter.
+@2740.3
+Their spear points are rather sharp.
+@2740.4
+Don't falter at this! Stop their charge!
+@2740.5
+The enemy pikes are not to be scorned...
+@2741
+What! Their spear wall is driving us back!
+@2741.1
+Gwah! It's a spear wall! Don't rush in!
+@2741.2
+Eek! It is a spear wall! Do not rush in!
+@2741.3
+Their spear wall is pushing us back...
+@2741.4
+Ah! It's a spear wall! Careful!
+@2741.5
+A spear wall! Everyone, take care.
+@2742
+Everyone, do not falter! Shall we give way to mere foot soldiers?
+@2742.1
+Damn it... Men, don't give ground! Hold!
+@2742.2
+What...! Everyone, do not falter!
+@2742.3
+Ugh... Everyone, hold fast!
+@2742.4
+Ngh! Everyone, hold!
+@2742.5
+Their foot soldiers are formidable, are they not...
+@2743
+How can this be? We cannot stop their onslaught...
+@2743.1
+Damn! They got us!
+@2743.2
+Whoa! An all-out enemy attack! Everyone, hold fast!
+@2743.3
+Eek! An all-out enemy attack! Can we hold...?
+@2743.4
+Ngh! What an onslaught... They're so strong...
+@2743.5
+Ah! Everyone, hold fast!
+@2744
+Their guns fire one after another... What fearsome power...
+@2744.1
+Gwaah! They just keep firing!
+@2744.2
+Eeek! Guns are such frightful things...
+@2744.3
+Their guns fire one after another... What frightful power!
+@2744.4
+Eek! We can't even get close!
+@2744.5
+Such a dreadful noise of guns... I can see nothing for the smoke...
+@2745
+Their attack has us reeling. So this is the power of the wheeling attack...
+@2745.1
+Damn, they keep sending in horsemen! So this is the wheeling attack...
+@2745.2
+Horsemen coming on one after another... we cannot hold. Fearsome power...
+@2745.3
+Their attack has us reeling. So this is the power of the wheeling attack...
+@2745.4
+Ah, horsemen keep coming at us! Is this the power of the wheeling attack...?
+@2745.5
+Horsemen coming on one after another... we cannot possibly hold.
+@2746
+Cavalry firing guns... What a fearsome tactic.
+@2746.1
+Cavalry with guns!? Fine skill, for an enemy...
+@2746.2
+Eek! H-how frightful... They fire guns from horseback!
+@2746.3
+Cavalry firing guns... What a fearsome tactic.
+@2746.4
+Cavalry firing guns!? Fine skill, for an enemy...
+@2746.5
+The enemy can fire guns from horseback!? H-how frightful...
+@2747
+Wh-why! We are the ones taking the damage!
+@2747.1
+What!? We attacked, and we're the ones getting hurt!
+@2747.2
+Wh-what...! We are the ones getting hurt!
+@2747.3
+What is this? Our own side is getting hurt...
+@2747.4
+What is this! We're the ones getting hurt!
+@2747.5
+My... Well done, for an enemy...
+@2748
+What is this? My tactic is not working at all...
+@2748.1
+Wha... My tactic doesn't work at all!
+@2748.2
+What...! My tactic has no effect at all...
+@2748.3
+Wh-what!? My tactic is not working at all!
+@2748.4
+Why... My tactic isn't working at all!
+@2748.5
+My... No effect at all...?
+@2749
+Have the spies among the enemy spread rumours. Throw them into confusion!
+@2749.1
+Right, signal the spies! Throw them into confusion with rumours!
+@2749.2
+Now, shall we set our spies among the enemy to work...
+@2749.3
+Let us set our spies among the enemy to work and throw them into confusion.
+@2749.4
+I'll throw them into confusion with rumours.
+@2749.5
+Signal the spies! Now, let us set our spies among the enemy to work...
+@2750
+To die in battle is a warrior's honour! Forward without fear!
+@2750.1
+We win this battle whatever it takes! Men, win all the glory you can!
+@2750.2
+Win glory, and you will be richly rewarded! Now, forward!
+@2750.3
+Trust in me! Lead our army to victory!!
+@2750.4
+We win this battle whatever it takes! Now, win all the glory you can!
+@2750.5
+Victory is at hand! Whoever wins glory will be richly rewarded!
+@2751
+The enemy are weaklings with no backbone! Everyone, laugh at them!
+@2751.1
+Hahaha! They're scared stiff! Laugh at them, you lot!
+@2751.2
+The enemy seem to have lost their nerve. Everyone, laugh at them.
+@2751.3
+The enemy seem to be weaklings with no backbone. Everyone, laugh at them.
+@2751.4
+Ahahaha! They're scared stiff! Go on, laugh at them!
+@2751.5
+The enemy seem to have lost their nerve. Everyone, do laugh at them.
+@2752
+Spread a false report that their general is slain. Break their morale!
+@2752.1
+Men, shout at the top of your lungs that their general is slain!
+@2752.2
+Now, everyone, spread a false report that their general is slain.
+@2752.3
+Let us spread a false report that their general is slain and sap their morale.
+@2752.4
+Everyone, shout at the top of your lungs that their general is slain!
+@2752.5
+Now, everyone, spread a false report that their general is slain.
+@2753
+Give the wounded the best of care.
+@2753.1
+Carry the wounded! Tend to them!
+@2753.2
+Tend to the wounded. Do not throw lives away.
+@2753.3
+Tend to the wounded. Quickly now!
+@2753.4
+Carry the wounded! Tend them somewhere safe!
+@2753.5
+Tend to the wounded. Do not throw lives away.
+@2754
+Surrender to my army, and I promise you generous treatment.
+@2754.1
+Hear me! This battle is already decided. Surrender to us now!
+@2754.2
+Hear me! Cease this pointless fight and surrender to us. You will not be ill used.
+@2754.3
+Surrender to my army, and I promise you generous treatment!
+@2754.4
+Hear me! The battle is already decided. Surrender to my army now!
+@2754.5
+Cease this pointless fight and surrender to us. You will not be ill used.
+@2755
+Hear me, enemy soldiers. The outcome is clear. Do not throw your lives away.
+@2755.1
+Listen, you lot! Further fighting is pointless. Clear off!
+@2755.2
+Enemy soldiers, this battle is decided. Do not waste your lives; withdraw.
+@2755.3
+Hear me, enemy soldiers! The outcome is clear. Do not throw your lives away.
+@2755.4
+Listen, you lot! Stop this pointless resistance, drop your arms and go!
+@2755.5
+Soldiers of the enemy, the outcome is clear. Do not throw your lives away.
+@2756
+Right, signal the shinobi. Throw their units into confusion!
+@2756.1
+Right, give the shinobi their orders. Throw their units into confusion!
+@2756.2
+Then, as planned, I signal the shinobi. Throw their units into confusion.
+@2756.3
+Right, signal the shinobi. Throw their units into confusion!
+@2756.4
+Right, I'll give the shinobi their orders. Let's throw their units into confusion!
+@2756.5
+Then, as planned, signal the shinobi... Throw their units into confusion.
+@2757
+Let's lead the enemy a merry dance... "We're on your side! The enemy is behind you!"
+@2757.1
+Let's lead them a merry dance... "We're on your side! The enemy is behind you!"
+@2757.2
+Shall I lead the enemy a merry dance... "We're on your side! The enemy is behind you!"
+@2757.3
+Shall I lead the enemy a merry dance... "We're on your side! The enemy is behind you!"
+@2757.4
+Let's lead them a merry dance... "We're on your side! The enemy is behind you!"
+@2757.5
+Shall I lead the enemy a merry dance... "We are on your side! The enemy is behind you!"
+@2758
+A hundred years too early to use stratagems on {02}{01}4! This is a real stratagem... There!
+@2758.1
+In my hands, undoing an enemy stratagem is a simple matter.
+@2758.2
+In my hands, undoing an enemy stratagem is child's play.
+@2758.3
+Before me, a stratagem of that sort means nothing.
+@2758.4
+In my hands, undoing an enemy stratagem is a simple matter.
+@2758.5
+In my hands, undoing an enemy stratagem is easy.
+@2758.6
+Before me, a stratagem of that sort means nothing.
+@2759
+What is this? This is getting out of hand!
+@2759.1
+H-hey! Men, calm down!
+@2759.2
+Wh-what is this! Come, everyone, calm yourselves.
+@2759.3
+What is happening? This is getting out of hand...
+@2759.4
+Wh-what!? Everyone, calm down!
+@2759.5
+What is happening? Everyone, calm yourselves.
+@2760
+Morale seems to have risen. Ride that momentum and press the attack!
+@2760.1
+Good, morale is up! Ride the momentum, forward!
+@2760.2
+Hm, morale seems to have risen. Ride that momentum and press the attack!
+@2760.3
+The men's morale seems to have risen. Ride that momentum and press the attack!
+@2760.4
+Yes, morale is up! Ride the momentum and charge!
+@2760.5
+Hohoho... Morale seems to have risen.
+@2761
+Laughed at by the enemy... what humiliation!
+@2761.1
+C-curse them... I won't forget this humiliation!
+@2761.2
+Laughed at by the enemy... How shameful...
+@2761.3
+Laughed at by the enemy... I shall not forget this humiliation.
+@2761.4
+Ngh... How dare they laugh! I'll never forgive them!
+@2761.5
+Laughed at by the enemy... How shameful...
+@2762
+My unit's morale is falling! What has happened?
+@2762.1
+Blast! The men's morale is sinking...
+@2762.2
+What is this? Morale is falling!
+@2762.3
+What is wrong? Morale is falling...
+@2762.4
+This is bad. The men's morale is falling...
+@2762.5
+My, morale seems to be falling...
+@2763
+Recovered men seem to have rejoined the unit.
+@2763.1
+Good, the men have recovered a little.
+@2763.2
+The men who were tended seem to have rejoined the unit.
+@2763.3
+Recovered men seem to have rejoined the unit.
+@2763.4
+Good, the men seem to have recovered a little.
+@2763.5
+Oh, the men who were tended seem to have come back.
+@2764
+The men are going over to the enemy... Have they given up on our army?
+@2764.1
+The men are going over to the enemy? C-curse them...
+@2764.2
+The men are going over to the enemy... Would they abandon my army?
+@2764.3
+The men are going over to the enemy... Have they given up on our army?
+@2764.4
+The men are going over to the enemy? How dare they...
+@2764.5
+My, what is this? The men are going over to the enemy.
+@2765
+H-hey! Don't show the enemy your backs! I won't forgive deserters!
+@2765.1
+Hey! Don't fall back! Anyone who runs, I'll cut down!
+@2765.2
+H-here! Do not show the enemy your backs! I will not forgive deserters.
+@2765.3
+Everyone, do not show the enemy your backs! I will not forgive deserters!
+@2765.4
+What are you doing!? Run off and you'll answer to me!
+@2765.5
+What...! Our own men are running away...
+@2766
+Wh-what? The ranks are breaking... Everyone, calm down!
+@2766.1
+Wh-what? The ranks are breaking... Men, calm down!
+@2766.2
+Wh-what is this! The ranks are breaking... Everyone, calm yourselves!
+@2766.3
+What is wrong? The ranks are breaking... Everyone, calm down!
+@2766.4
+Wh-what? The ranks are breaking... Everyone, calm down!
+@2766.5
+Wh-what? The ranks seem to be breaking... Everyone, calm yourselves!
+@2767
+H-hey! What are you doing fighting each other! There's no enemy behind, the enemy is in front!
+@2767.1
+Y-you fools! Those are our own men! There's no enemy behind us!!
+@2767.2
+H-here! What are you doing fighting each other! I tell you, there is no enemy behind!
+@2767.3
+Why are you fighting each other? There is no enemy behind!
+@2767.4
+What are you doing! Those are our own men! There's no enemy behind!
+@2767.5
+H-here! Why fight each other... The enemy is in front, not behind.
+@2768
+Right, sally forth!
+@2768.2
+Very well, sally forth.
+@2768.3
+Now, sally forth.
+@2768.5
+Let us sally forth.
+@2769
+Return to headquarters at once.
+@2769.1
+Return to headquarters at once.
+@2769.2
+Return to headquarters at once.
+@2769.3
+Return to headquarters at once.
+@2769.4
+Get back to headquarters right away.
+@2769.5
+Return to headquarters at once.
+@2770
+As you say, {01}C{0B}{00}, I leave %s to you. I expect much of you!
+@2770.1
+As you say, {01}C{0B}{00}, %s is yours. Show me some glory!
+@2770.2
+As you say, {01}C{0B}{00}, I leave %s to you. I look forward to great deeds!
+@2770.3
+As you say, {01}C{0B}{00}, I leave %s to you. I expect much of you!
+@2770.4
+As you say, {01}C{0B}{00}, %s is yours. Show me some glory!
+@2770.5
+As you say, {01}C{0B}{00}, I shall leave %s to you. I expect much of you.
+@2771
+Attack, attack! Our only target is the enemy general!!
+@2771.1
+Everyone, attack! Scatter them in one blow!
+@2771.2
+Men, attack with everything you've got! Anyone who turns his back gets cut down!!
+@2771.3
+Everyone, attack! Attack! Win all the glory you can!
+@2771.4
+Everyone, attack! Scatter them in one blow!
+@2771.5
+Everyone, attack with everything you've got! Anyone who turns tail, I'll cut down!
+@2771.6
+Everyone, attack! Attack! Win all the glory you can!
+@2772
+Wh-what is this? The enemy attack is growing fiercer!
+@2772.1
+Hm... The enemy attack is getting fiercer.
+@2772.2
+Wh-what? The enemy attack is growing fiercer.
+@2772.3
+Wh-what is happening? The enemy attack is growing fiercer.
+@2772.4
+Ngh... The enemy attack is getting fiercer.
+@2772.5
+Wh-whatever is happening? The enemy attack seems to grow fiercer...
+@2773
+Forward, forward! Push and keep pushing! My army does not know the word "retreat"!!
+@2773.1
+Everyone, forward! Push them back in one go!!
+@2773.2
+Men, follow me! Forward and keep going!!
+@2773.3
+Everyone, forward! Forward! Push them back in one go!
+@2773.4
+Everyone, forward! Push them back in one go!
+@2773.5
+Follow me! Just keep going forward!!
+@2773.6
+Everyone, forward! Forward! Push the enemy back in one go!
+@2774
+The enemy is suddenly pushing back... Everyone, hold fast!!
+@2774.1
+Hm... they're pushing back. Men, don't give ground! Hold!!
+@2774.2
+The enemy is suddenly pushing back... Everyone, hold fast!
+@2774.3
+The enemy is suddenly pushing back... Everyone, hold fast!!
+@2774.4
+Ngh... they're pushing back. Everyone, hold!!
+@2774.5
+The enemy is suddenly pushing back. Everyone, hold fast!
+@2775
+Everyone, quiet! The enemy is right before you. Do not be distracted.
+@2775.1
+Men, quiet down!! The fight's only begun. Forward!
+@2775.2
+Everyone, calm yourselves! The enemy is right before you!
+@2775.3
+Everyone, quiet! The enemy is right before you. You must not be distracted.
+@2775.4
+Everyone, calm down! If we panic, we play into the enemy's hands!
+@2775.5
+Everyone, calm yourselves! If we panic, we play into the enemy's hands!
+@2776
+Good. The confusion seems to have settled.
+@2776.1
+Phew. The confusion's settled.
+@2776.2
+Well, well. The confusion seems to have settled.
+@2776.3
+Good. The confusion has settled.
+@2776.4
+Phew. The confusion seems to have settled.
+@2776.5
+The confusion seems to have settled...
+@2777
+Hmm. The confusion will not settle.
+@2777.1
+Damn... the confusion won't settle.
+@2777.2
+Hmm... the confusion has not settled yet.
+@2777.3
+Oh... the confusion will not settle.
+@2777.4
+Ngh! The confusion won't settle!
+@2777.5
+Oh dear... the confusion has not settled yet.
+@2778
+Right, we swing round to %s!
+@2778.1
+Right, let us swing round to %s!
+@2778.2
+Right. {01}C{16}{00}, swing round to %s!
+@2778.4
+Now, {01}C{16}{00}, swing round to %s!
+@2778.5
+{01}C{16}{00}, swing round to %s!
+@2778.6
+Now, {01}C{16}{00}, swing round to %s!
+@2778.7
+{01}C{16}{00}, please swing round to %s!
+@2779
+It is not yet time to move.
+@2779.1
+We should wait and see a little longer.
+@2779.2
+It is too early to send in {01}C{16}{00}. We must judge the moment first.
+@2779.3
+Too early to send in {01}C{16}{00}. Wait for a chance.
+@2779.4
+It would be a little early to send in {01}C{16}{00}. Let us wait and see.
+@2779.5
+It is too early to send in {01}C{16}{00}. Let us wait and see a little longer.
+@2779.6
+Too early to send in {01}C{16}{00}. Wait for a chance.
+@2779.7
+It seems too early to send in {01}C{16}{00}. Let us wait and see a while.
+@2780
+Right, back to headquarters at once.
+@2780.1
+Come, let us return to headquarters.
+@2780.2
+A sound proposal. Return to headquarters at once.
+@2780.3
+A sound proposal. Return to headquarters at once.
+@2780.4
+A sound proposal. Return to headquarters.
+@2780.5
+Quite right. Return to headquarters at once.
+@2780.6
+A sound proposal. Return to headquarters at once.
+@2780.7
+A sound proposal. Do return to headquarters.
+@2781
+Now is the time to endure.
+@2781.1
+We have no choice but to endure.
+@2781.2
+What faint-hearted talk is this? Stand your ground.
+@2781.3
+Why so cowardly? Stand your ground, I say!
+@2781.4
+It would be a little early for {01}C{16}{00} to withdraw. Let us wait and see.
+@2781.5
+What faint-hearted talk is this? Stand your ground.
+@2781.6
+Why so cowardly? Stand your ground.
+@2781.7
+It seems too early for {01}C{16}{00} to withdraw. Let us wait and see a while.
+@2782
+Right, we break through the centre!
+@2782.1
+Right, let us break through the centre!
+@2782.2
+Right. {01}C{16}{00}, drive through the centre!
+@2782.4
+Now, {01}C{16}{00}, drive through the centre!
+@2782.5
+{01}C{16}{00}, drive through the centre!
+@2782.6
+Now, {01}C{16}{00}, drive through the centre!
+@2782.7
+{01}C{16}{00}, please drive through the centre!
+@2783.3
+Everyone, quiet! The enemy is right before you. You must not be distracted!
+@2783.5
+Everyone, calm down! If we panic, we play into the enemy's hands!
+@2784
+We cannot lose here. Everyone, lend me your strength!
+@2784.1
+Men, now's the time to win glory! Show me what you can do!!
+@2784.2
+Everyone, victory is ours! Win glory! Leave no regrets!
+@2784.3
+We cannot lose here. Everyone, please lend me your strength!
+@2784.4
+Now's the time to win glory! Come on, show me your strength!!
+@2784.5
+Everyone, victory is ours. Win all the glory you can.
+@2785
+Take a last look at the secret arts of the Iga ninja, to carry with you to the grave!
+@2785.1
+Heh heh... My wiles will throw you into confusion.
+@2785.2
+Hmph... Fall for my wiles and be confounded.
+@2785.3
+Hohoho... Allow my wiles to confound you.
+@2785.4
+Heh heh... My wiles will throw you into confusion.
+@2785.5
+Heh heh... Fall for my wiles and be confounded.
+@2785.6
+Hohoho... Let my wiles confound you.
+@2786
+Behold my swordsmanship! {02}{03}n seems to be wounded.
+@2786.1
+Now you know how deadly my blade is... {02}{03}n seems to be wounded.
+@2786.2
+You made light of my blade. {02}{03}n seems to be wounded.
+@2786.3
+Behold my swordsmanship! {02}{03}n seems to be wounded.
+@2786.4
+Now you know how deadly my blade is... {02}{03}n seems to be wounded.
+@2786.5
+Never make light of my blade. {02}{03}n seems to be wounded.
+@2787
+We have struck their headquarters! Everyone, raise the victory cry!
+@2787.1
+We've struck their headquarters! Men, raise the victory cry!
+@2787.2
+We have struck their headquarters! Everyone, raise the victory cry.
+@2787.3
+We have struck their headquarters! Everyone, raise the victory cry!
+@2787.4
+We've struck their headquarters! Everyone, raise the victory cry!
+@2787.5
+We have struck their headquarters. Everyone, raise the victory cry.
+@2788
+Our headquarters struck by the enemy... No help for it, we withdraw.
+@2788.1
+They've struck our headquarters! No help for it, retreat!
+@2788.2
+They have struck our headquarters! No help for it, withdraw!
+@2788.3
+They have struck our headquarters. It is over... We withdraw!
+@2788.4
+They've struck our headquarters. No choice, retreat!
+@2788.5
+Our headquarters struck by the enemy... It is over. Let us withdraw.
+@2788.6
+Our side has collapsed. We can only withdraw.
+@2788.7
+Our side has collapsed. We can only withdraw.
+@2788.8
+Our side has collapsed. We can only withdraw.
+@2789
+We cannot break through... We pull back for today.
+@2789.1
+Damn, no end to it! No help for it, we pull back.
+@2789.2
+This will not be decided easily... We pull back for today.
+@2789.3
+The sun will soon set... Let us pull back for today.
+@2789.4
+Nearly dusk... Everyone, we pull back for today.
+@2789.5
+This will not be decided easily... Let us pull back for today.
+@2790
+We have destroyed the enemy commander's unit. Victory is ours!
+@2790.2
+We have destroyed the enemy commander's unit. Victory is Ours!
+@2790.3
+We have destroyed the enemy commander's unit. Our army is victorious!
+@2790.4
+We've destroyed the enemy commander's unit. Victory is ours!
+@2790.5
+We have destroyed the enemy commander's unit. Our army is victorious, it seems.
+@2791
+My unit has collapsed... No help for it, we withdraw for now.
+@2791.1
+My unit has collapsed... No help for it, retreat!
+@2791.2
+My unit has collapsed, of all things... It cannot be helped. Withdraw!
+@2791.3
+My unit has collapsed... It is over. We withdraw!
+@2791.4
+My unit has collapsed... No choice, retreat!
+@2791.5
+My unit has collapsed... It is over. Let us withdraw.
+@2792
+We have destroyed the enemy units. Victory is ours!
+@2792.2
+We have destroyed the enemy units. Victory is Ours!
+@2792.3
+We have destroyed the enemy units. Our army is victorious!
+@2792.4
+We've destroyed the enemy units. Victory is ours!
+@2792.5
+We have destroyed the enemy units. Our army is victorious, it seems.
+@2793
+Our units are wiped out. We can only withdraw.
+@2793.1
+Our units are wiped out. We can only withdraw.
+@2793.2
+Our units are wiped out. We can only withdraw.
+@2794
+The {02}{03}v army is small. Their commander seems to be {02}{03}n.
+@2794.1
+The {02}{03}v army numbers about {02}{BF}. Their commander seems to be {02}{03}n.
+@2794.2
+The {02}{03}v army is small. Their commander seems to be {02}{03}n.
+@2794.3
+The {02}{03}v army numbers about {02}{BF}. Their commander seems to be {02}{03}n.
+@2794.4
+The {02}{03}v army is very small, and their commander seems to be {02}{03}n.
+@2794.5
+The {02}{03}v army numbers about {02}{BF}. Their commander seems to be {02}{03}n.
+@2795
+It seems the enemy has {02}{03}n, famed as a great general.
+@2795.1
+It seems the enemy has {02}{03}n, famed as a great general.
+@2795.2
+The enemy army seems to include {02}{03}n, hailed as the greatest general of all time.
+@2796
+It seems the enemy has {02}{03}n, famed as a valiant general.
+@2796.1
+It seems the enemy has {02}{03}n, famed as a valiant general.
+@2796.2
+The enemy army seems to include {02}{03}n, famed as a valiant general.
+@2797
+It seems the enemy has {02}{03}n, a very sharp mind.
+@2797.1
+It seems the enemy has {02}{03}n, a very sharp mind.
+@2797.2
+The enemy army seems to include {02}{03}n, said to have the cunning of a god.
+@2798
+If we lure them to the river, their guns will be useless.
+@2798.1
+If we lure them to the river, their guns will be useless.
+@2798.2
+Let us lure them to the river so they cannot use their guns.
+@2799
+Here it is best to fight by the book. We should take up position on the plain.
+@2799.1
+Here it is best to fight by the book. We should take up position on the plain.
+@2799.2
+We should fight by the book. Let us take up position on the plain.
+@2800
+Our morale is high. The mountains should give us the advantage here.
+@2800.1
+Our morale is high. The mountains should give us the advantage here.
+@2800.2
+Our morale is high. Let us take the mountains and settle this in one blow.
+@2801
+To turn the tide, we should lure them into the forest.
+@2801.1
+To turn the tide, we should lure them into the forest.
+@2801.2
+To turn the tide, we should lure them into the forest.
+@2802
+The pirates may help us. Shall I try luring the enemy to the coast?
+@2802.1
+The pirates may help us. Shall I try luring the enemy to the coast?
+@2802.2
+We can count on the pirates' help. Luring the enemy to the coast would be best.
+@2803
+Given our numbers, it pays to lure them into the valley.
+@2803.1
+Given our numbers, it pays to lure them into the valley.
+@2803.2
+Given our numbers, we should lure them into the valley.
+@2804
+The pirates seem to be staying neutral, but shall I lure the enemy to the coast?
+@2804.1
+The pirates seem to be staying neutral, but shall I lure the enemy to the coast?
+@2804.2
+The pirates seem to be staying neutral, but let us lure the enemy to the coast.
+@2804.3
+Shall I lure the enemy to the coast?
+@2804.4
+Shall I lure the enemy to the coast?
+@2804.5
+Let us lure the enemy to the coast.
+@2805
+At last our turn has come. Everyone, show what you can do!
+@2805.1
+Our turn, men! Put your backs into it!
+@2805.2
+It seems our turn has come. Everyone, are you ready?
+@2805.3
+At last our turn seems to have come. Come, let us show them our strength.
+@2805.4
+Our turn at last! Everyone, let's go!
+@2805.5
+Our turn seems to have come at last. Everyone, let us go.
+@2806
+Back to headquarters. We regroup.
+@2806.1
+Damn it. We can only go back to headquarters.
+@2806.2
+It cannot be helped. Back to headquarters for now.
+@2806.3
+I am returning to headquarters. Let us regroup.
+@2806.4
+Ngh... back to headquarters, we regroup!
+@2806.5
+A pity, but let us return to headquarters.
+@2807
+Now's our chance! We hit their centre from the flank!
+@2807.1
+Right! Smash into the flank of their centre!
+@2807.2
+Now is the perfect chance to strike their centre. Everyone, charge!
+@2807.3
+Now's our chance! Attack their centre from the flank!
+@2807.4
+Their centre has a wide-open flank! Everyone, let's smash into it!
+@2807.5
+Come, this is our chance to attack their centre. Everyone, let us go.
+@2808
+Advance! Drive straight through to their headquarters!
+@2808.1
+Forward, forward! Smash their headquarters in one go!
+@2808.2
+Advance! Do not stop!
+@2808.3
+Advance! Drive straight through to their headquarters!
+@2808.4
+We drive straight through to their headquarters!
+@2808.5
+Come, advance. Their headquarters is right before us.
+@2809
+Struck in the flank... I cannot command properly like this.
+@2809.1
+Ngh, they've caught us in a pincer! Blast it, men, don't falter!
+@2809.2
+They are attacking from the flank too... This is too much.
+@2809.3
+They are attacking from the flank too... Everyone, hold your ground somehow!
+@2809.4
+What is going on? They're attacking from everywhere!
+@2809.5
+Attacked in the flank... Oh, how dreadful.
+@2810
+We are pushing them back! Drive them off!
+@2810.1
+We have the upper hand! Men, charge!
+@2810.2
+Our army has the upper hand. Everyone, press them hard!
+@2810.3
+We have the upper hand. Let us drive them off!
+@2810.4
+Good, we have the upper hand. Our troop types match up well, too!
+@2810.5
+Our army seems to be pushing them back. Everyone, let us press them hard!
+@2811
+We have the upper hand. Keep pushing them back, step by step!
+@2811.1
+We have the upper hand. Men, keep pushing!
+@2811.2
+Our army has the upper hand. Everyone, keep it up.
+@2811.3
+We have the upper hand. Let us keep pushing them back, step by step!
+@2811.4
+Good, we have the upper hand. Keep pushing!
+@2811.5
+Our army seems to be pushing them back. Everyone, let us keep it up.
+@2812
+We are pushing them back for now, but our troop types match up badly...
+@2812.1
+We have the upper hand for now, but our troop types match up badly... I don't like it.
+@2812.2
+We are pushing them back, but our troop types seem to match up badly.
+@2812.3
+We are pushing them back, but our troop types seem to match up badly.
+@2812.4
+We're pushing them back for now, but our troop types match up badly... I'm worried.
+@2812.5
+Our army is pushing them back, but our troop types match up poorly.
+@2813
+We are being pushed back... but our troop types should match up well.
+@2813.1
+We're losing ground, but our troop types match up well.
+@2813.2
+We are being pushed back... but our troop types should match up well.
+@2813.3
+We are being pushed back, but our troop types should match up well... Let us hold.
+@2813.4
+We're losing ground... but our troop types should match up well.
+@2813.5
+Our army is being pushed back, though our troop types should match up well...
+@2814
+We are being pushed back. Our troop types match up evenly, but we are at a disadvantage...
+@2814.1
+Our troop types match up evenly, but it will be hard to turn this round...
+@2814.2
+We are being pushed back... Our troop types match evenly, but this is hard.
+@2814.3
+Our troop types match up evenly, but they are pushing us back. We are at a disadvantage...
+@2814.4
+Our troop types match up evenly, but it'll be hard to turn this round...
+@2814.5
+Our army is being pushed back. Our troop types match up evenly, but...
+@2815
+Our troop types match up badly and morale is falling. We cannot turn this round...
+@2815.1
+Our troop types match up badly and morale is sinking. At this rate we're done for!
+@2815.2
+Our troop types match up badly and morale is sinking. At this rate we face ruin...
+@2815.3
+Our troop types match up badly and morale is falling. I fear we cannot turn this round.
+@2815.4
+Our troop types match up badly and morale is sinking. At this rate we're done for!
+@2815.5
+Our troop types match up badly and morale is sinking. At this rate we cannot escape ruin...
+@2816
+We are evenly matched, but our troop types have the edge... Keep on, and we will win.
+@2816.1
+We're evenly matched, but our troop types have the edge. One more push!
+@2816.2
+Neither side gives way... but our troop types have the edge. We will gain the upper hand.
+@2816.3
+We are evenly matched, but our troop types have the edge... Keep on, and we shall win.
+@2816.4
+We're evenly matched, but our troop types have the edge. Keep on, and we'll surely win!
+@2816.5
+Neither side gives way... but our troop types should have the edge. We shall prevail in time.
+@2817
+Evenly matched... We must push them back somehow.
+@2817.1
+The men are evenly matched. The rest depends on my command.
+@2817.2
+Neither side gives way... Is there no breaking this deadlock?
+@2817.3
+Evenly matched... We must push them back somehow.
+@2817.4
+Evenly matched, then. The rest depends on my command.
+@2817.5
+We seem evenly matched. Is there no breaking this deadlock?
+@2818
+Neither side gives way, but our troop types match up badly and morale is dropping fast...
+@2818.1
+We're evenly matched, but our troop types match up badly... This is getting us nowhere!
+@2818.2
+Neither side gives way... but our troop types are at a disadvantage. We will lose ground in time.
+@2818.3
+We are evenly matched, but our troop types are at a disadvantage. In time they will push us back!
+@2818.4
+We're evenly matched, but our troop types match up badly. Morale will drop at this rate...
+@2818.5
+Neither side gives way... but with our troop types at a disadvantage, we may lose ground in time...
+@2819
+Everyone, rest while you can.
+@2819.1
+Men, rest while you can.
+@2819.2
+Everyone, rest while you can.
+@2819.3
+Let us rest while we can.
+@2819.4
+Rest while you can.
+@2819.5
+Rest well while you can.
+@2820
+We are ready to sally forth.
+@2820.1
+We can sally forth any time.
+@2820.2
+We have long been ready to sally forth.
+@2820.3
+We are ready to sally forth.
+@2820.4
+We can sally forth any time.
+@2820.5
+We are fully ready to sally forth.
+@2820.6
+We are ready to sally forth, yet my turn has still not come?
+@2820.7
+We can sally forth any time, yet my turn has still not come?
+@2820.8
+We have long been ready to sally forth... Will my turn never come?
+@2820.9
+We are ready to sally forth, yet my turn has still not come...
+@2820.10
+We can sally forth any time. Isn't it my turn yet?
+@2820.11
+We are fully ready to sally forth, yet my turn has still not come...
+@2821
+I suppose this deployment will do. I can still change it by choosing a position...
+@2821.1
+Will this deployment do? I can still change it by choosing a position.
+@2821.2
+Is this deployment acceptable? To change it, choose a position.
+@2822
+Each unit seems to have its post.
+@2822.1
+Each unit seems to have its post.
+@2822.2
+Each unit seems to have its post.
+@2823
+This message is unused.
+@2824
+I will deploy a unit at %s.
+@2824.1
+Let us deploy a unit at %s.
+@2824.2
+I will deploy a unit at %s.
+@2825
+I must deploy a unit in the "Centre"...
+@2825.1
+I must deploy a unit in the "Centre"...
+@2825.2
+Please deploy a unit in the "Centre".
+@2826
+There is a gap in the vanguard, so I must move a unit up from "Headquarters"...
+@2826.1
+There is a gap in the vanguard. I must move a unit up from "Headquarters"...
+@2826.2
+There is a gap in the vanguard. Please move a unit up from "Headquarters".
+@2827
+This deployment will do. Now, to battle!
+@2827.1
+This deployment will do. Come, let the battle begin!
+@2827.2
+The deployment is set and the battle begins.
+@2828
+I will change the unit at %s.
+@2828.1
+Let us change the unit at %s.
+@2828.2
+I will change the unit at %s.
+@2829
+Which unit shall I deploy...?
+@2829.1
+Which unit shall I deploy...?
+@2829.2
+Please choose a unit to deploy.
+@2830
+I will deploy this unit.
+@2830.1
+Let us deploy this unit.
+@2830.2
+I will deploy this unit.
+@2831
+I will leave it empty.
+@2831.1
+Let us leave it empty.
+@2831.2
+I will leave the position empty.
+@2832
+Back to checking the deployment.
+@2832.1
+Let us go back to checking the deployment.
+@2832.2
+Returning to the deployment check.
+@2833
+I shall choose the reserve units. Up to 7 can be placed at headquarters.
+@2833.1
+Let us choose the reserve units. Up to 7 can be placed at headquarters.
+@2833.2
+Please choose the reserve units. Up to 7 can be placed at headquarters.
+@2834
+I shall choose units to deploy. Up to 5 can be deployed.
+@2834.1
+Let us choose units to deploy. Up to 5 can be deployed.
+@2834.2
+Please choose units to deploy. Up to 5 can be deployed.
+@2835
+I shall choose units to deploy. Up to 5 units in all can be placed at the 2 gates.
+@2835.1
+Let us choose units to deploy. Up to 5 units in all can be placed at the 2 gates.
+@2835.2
+Please choose units to deploy. Up to 5 units in all can be placed at the 2 gates.
+@2836
+I shall choose units to deploy. Up to 4 units in all can be placed at the 2 gates.
+@2836.1
+Let us choose units to deploy. Up to 4 units in all can be placed at the 2 gates.
+@2836.2
+Please choose units to deploy. Up to 4 units in all can be placed at the 2 gates.
+@2837
+I shall choose units to deploy. Up to 3 can be placed in the main bailey.
+@2837.1
+Let us choose units to deploy. Up to 3 can be placed in the main bailey.
+@2837.2
+Please choose units to deploy. Up to 3 can be placed in the main bailey.
+@2838
+I will swap the units.
+@2838.1
+Let us swap the units.
+@2838.2
+I will swap the units.
+@2839
+I shall choose the terrain to lure the enemy into.
+@2839.1
+Let us choose the terrain to lure the enemy into.
+@2839.2
+Please choose the terrain to lure the enemy into.
+@2840
+Our army will lure the enemy to %s.
+@2840.1
+Our army will lure the enemy to %s.
+@2840.2
+Our army is to lure the enemy to %s.
+@2841
+I will draw the enemy to %s.
+@2841.1
+Let us draw the enemy to %s.
+@2841.2
+I will draw the enemy to %s.
+@2842
+The battle begins!
+@2842.1
+The battle begins!
+@2842.2
+The battle begins!
+@2843
+The river as our battlefield...? Guns will be useless there.
+@2843.1
+Shall I choose the river as our battlefield...? Guns will be useless there.
+@2843.2
+The river is chosen as the battlefield. Guns cannot be used there.
+@2844
+The river as our battlefield...?
+@2844.1
+Shall I choose the river as our battlefield...?
+@2844.2
+The river is chosen as the battlefield.
+@2845
+The plain as our battlefield...? Terrain with no special features.
+@2845.1
+Shall I choose the plain as our battlefield...? Terrain with no special features.
+@2845.2
+The plain is chosen as the battlefield. The terrain has no special features.
+@2846
+The mountains as our battlefield...? The men will tire, and morale will fall more easily.
+@2846.1
+Shall I choose the mountains as our battlefield...? The men will tire, and morale will fall more easily.
+@2846.2
+The mountains are chosen as the battlefield. The men will tire, and morale will fall more easily.
+@2847
+The forest as our battlefield...? Units fall into confusion more easily, so care is needed.
+@2847.1
+Shall I choose the forest as our battlefield...? Units fall into confusion more easily, so care is needed.
+@2847.2
+The forest is chosen as the battlefield. Units fall into confusion more easily, so take care.
+@2848
+The coast as our battlefield...? Ironclads may support us with their guns.
+@2848.1
+Shall I choose the coast as our battlefield...? Ironclads may support us.
+@2848.2
+The coast is chosen as the battlefield. Ironclads may support us.
+@2849
+The valley as our battlefield...? The field is narrow, so the units on the wings cannot fight.
+@2849.1
+Shall I choose the valley as our battlefield...? The field is narrow, so the units on the wings cannot fight.
+@2849.2
+The valley is chosen as the battlefield. The field is narrow, so the units on the wings cannot fight.
+@2850
+The pirates seem to be siding with the enemy. Should I still choose the coast as our battlefield...?
+@2850.1
+The pirates seem to be siding with the enemy. Should I still choose the coast as our battlefield...?
+@2850.2
+The pirates seem to be siding with the enemy. Will you still choose the coast as the battlefield?
+@2851
+The pirates seem to be staying neutral. Shall I still choose the coast as our battlefield...?
+@2851.1
+The pirates seem to be staying neutral. Shall I still choose the coast...?
+@2851.2
+The pirates seem to be staying neutral. Will you still choose the coast as the battlefield?
+@2851.3
+The coast as our battlefield...?
+@2851.4
+Shall I choose the coast...?
+@2851.5
+Will you choose the coast as the battlefield?
+@2852
+I shall decide the fate of the prisoners.
+@2852.1
+Let us decide the fate of the prisoners.
+@2852.2
+Please decide the fate of the prisoners.
+@2853
+I will recruit the prisoner with a fief of %d.
+@2853.1
+Let us recruit the prisoner with a fief of %d.
+@2853.2
+I will recruit the prisoner with a fief of %d.
+@2854
+I will release the prisoner and send them home.
+@2854.1
+Let us release the prisoner and send them home.
+@2854.2
+I will release the prisoner and send them home.
+@2855
+I will have the prisoner executed.
+@2855.1
+Let us have the prisoner executed.
+@2855.2
+I will have the prisoner executed.
+@2856
+They seem determined never to accept service with us.
+@2856.1
+They seem determined never to accept service with us.
+@2856.2
+They seem determined never to accept service with us.
+@2858
+I shall bring the prisoner's force into our clan.
+@2858.1
+I shall bring the prisoner's force into our clan.
+@2858.2
+I will bring the prisoner's force into our clan.
+@2861
+The prisoner refuses to surrender.
+@2861.1
+The prisoner refuses to surrender.
+@2861.2
+The prisoner seems to refuse to surrender.
+@2862
+Fighting the {02}{03}v will break our alliance with them.
+@2862.1
+Fighting the {02}{03}v will break our alliance with them.
+@2862.2
+Fighting the {02}{03}v will break our alliance with them.
+@2863
+The alliance between the {02}{03}v and the {02}{04}v seems to have been broken.
+@2863.1
+The alliance between the {02}{03}v and the {02}{04}v seems to have been broken.
+@2863.2
+The alliance between the {02}{03}v and the {02}{04}v seems to have been broken.
+@2864
+This battle means we must withdraw from the encirclement of the {02}{03}v.
+@2864.1
+This battle means we must withdraw from the encirclement of the {02}{03}v.
+@2864.2
+This battle means we must withdraw from the encirclement of the {02}{03}v.
+@2865
+This battle seems to have taken the {02}{04}v out of the encirclement of the {02}{03}v.
+@2865.1
+This battle seems to have taken the {02}{04}v out of the encirclement of the {02}{03}v.
+@2865.2
+This battle means the {02}{04}v must withdraw from the encirclement of the {02}{03}v.
+@2866
+This battle means the encirclement of the {02}{03}v that we led will collapse.
+@2866.1
+This battle means the encirclement of the {02}{03}v that we led will collapse.
+@2866.2
+This battle means the encirclement of the {02}{03}v that we led will collapse.
+@2867
+This battle means the encirclement of the {02}{03}v led by the {02}{04}v will collapse.
+@2867.1
+This battle means the encirclement of the {02}{03}v led by the {02}{04}v will collapse.
+@2867.2
+This battle means the encirclement of the {02}{03}v led by the {02}{04}v will collapse.
+@2868
+Hmm... the {02}{03}v seems to be with the enemy. They are our allies, so we will not fight this time.
+@2868.1
+Oh... the {02}{03}v seems to be with the enemy. They are our allies, so let us not fight this time.
+@2868.2
+The {02}{03}v is with the enemy. They are our allies, so we cannot fight this time.
+@2869
+The {02}{04}v is friendly with the {02}{03}v, so it seems they will stay out of this battle and watch.
+@2869.1
+The {02}{04}v is friendly with the {02}{03}v, so it seems they will stay out of this battle and watch.
+@2869.2
+The {02}{04}v is friendly with the {02}{03}v, so it seems they will stay out of this battle and watch.
+@2870
+It seems I have no part in this battle... I shall wait quietly.
+@2870.1
+It seems I have no part in this battle... I shall wait quietly.
+@2870.2
+It seems I have no part in this battle. I shall wait quietly.
+@2871
+Shall I command this battle myself...?
+@2871.1
+Shall I command this battle myself...?
+@2871.2
+Will you command this battle yourself, my lord?
+@2872
+Whoever stands in my way, I will trample them underfoot!
+@2872.1
+Whoever stands in my way, I will trample them underfoot!
+@2873
+We have more troops. Shall we simply overpower them?
+@2873.1
+We seem to have more troops. Let us overpower them.
+@2873.2
+We have more troops, which gives us the advantage. Let us overpower them.
+@2873.3
+We have fewer troops. Let us make up for it with tactics.
+@2873.4
+We seem to have fewer troops. Let us make up for it with tactics.
+@2873.5
+We have fewer troops. This is where tactics must show their worth.
+@2873.6
+Our forces seem about even.
+@2873.7
+Our forces seem about even.
+@2873.8
+Our forces are about even.
+@2876
+I leave %s in your hands, {01}C{0D}{00}.
+@2876.1
+I leave %s in your hands, {01}C{0D}{00}.
+@2876.2
+%s is yours! I expect great deeds from you, {01}C{0B}{00}.
+@2876.3
+I leave %s to you. I expect great deeds from you, {01}C{0B}{00}.
+@2876.4
+I leave %s to you, {01}C{0D}{00}. Do your utmost.
+@2876.5
+I leave %s to you, {01}C{0D}{00}. Please do your utmost.
+@2876.6
+I entrust %s to you, {01}C{0D}{00}.
+@2876.7
+I entrust %s to you, {01}C{0D}{00}.
+@2876.9
+I have left %s to you, {01}C{0D}{00}. I expect much of you.
+@2876.10
+I leave %s to you, {01}C{0D}{00}. Pray do your utmost.
+@2876.11
+I entrust %s to you, {01}C{0D}{00}. Please do your utmost.
+@2877
+So we lured them into %s. Use the lie of the land and fight!
+@2877.1
+We lured them into %s. Use the lie of the land and fight!
+@2878
+Blast! We fell for their trick and were lured into %s!
+@2878.1
+Blast! We fell for their trick and were lured into %s!
+@2879
+So we lured them into %s.
+@2879.1
+We lured them into %s.
+@2880
+Everyone, sally forth!
+@2880.1
+Everyone, sally forth!
+@2881
+The {02}{03}v army has defeated the {02}{04}v army.
+@2881.1
+The {02}{03}v army has defeated the {02}{04}v army.
+@2881.2
+The {02}{03}v army has defeated the {02}{04}v army.
+@2882
+The battle between the {02}{03}v and the {02}{04}v ended in a draw.
+@2882.1
+The battle between the {02}{03}v and the {02}{04}v ended in a draw.
+@2882.2
+The battle between the {02}{03}v and the {02}{04}v ended in a draw.
+@2883
+The army of my retainer {02}{03}n has defeated the {02}{04}v army!
+@2883.1
+The army of my retainer {02}{03}n has defeated the {02}{04}v army!
+@2883.2
+{01}C{17}{00}'s army has defeated the {02}{04}v army!
+@2883.3
+Our {02}{03}n's army has defeated the {02}{04}v army!
+@2883.4
+{01}C{17}{00}'s army has defeated the {02}{04}v army!
+@2883.5
+Our {02}{03}n's army has defeated the {02}{04}v army!
+@2883.6
+{01}C{17}{00}'s army has defeated the {02}{04}v army!
+@2883.7
+Our {02}{03}n's army has defeated the {02}{04}v army!
+@2883.8
+The army of our ally {02}{03}n has defeated the {02}{04}v army!
+@2883.9
+The army of our ally the {02}{03}v has defeated the {02}{04}v army!
+@2883.10
+The army of our ally {02}{03}n has defeated the {02}{04}v army!
+@2883.11
+The army of our ally the {02}{03}v has defeated the {02}{04}v army!
+@2883.12
+The army of our ally {02}{03}n has defeated the {02}{04}v army!
+@2883.13
+The army of our ally the {02}{03}v has defeated the {02}{04}v army!
+@2884
+The army of my retainer {02}{03}n has been defeated by the {02}{04}v army!
+@2884.1
+The army of my retainer {02}{03}n has been defeated by the {02}{04}v army!
+@2884.2
+{01}C{17}{00}'s army has been defeated by the {02}{04}v army!
+@2884.3
+Our {02}{03}n's army has been defeated by the {02}{04}v army!
+@2884.4
+{01}C{17}{00}'s army has been defeated by the {02}{04}v army!
+@2884.5
+Our {02}{03}n's army has been defeated by the {02}{04}v army!
+@2884.6
+{01}C{17}{00}'s army has been defeated by the {02}{04}v army!
+@2884.7
+Our {02}{03}n's army has been defeated by the {02}{04}v army!
+@2884.8
+The army of our ally {02}{03}n has been defeated by the {02}{04}v army!
+@2884.9
+The army of our ally the {02}{03}v has been defeated by the {02}{04}v army!
+@2884.10
+The army of our ally {02}{03}n has been defeated by the {02}{04}v army!
+@2884.11
+The army of our ally the {02}{03}v has been defeated by the {02}{04}v army!
+@2884.12
+The army of our ally {02}{03}n has been defeated by the {02}{04}v army!
+@2884.13
+The army of our ally the {02}{03}v has been defeated by the {02}{04}v army!
+@2885
+The army of my retainer {02}{03}n fought the {02}{04}v army to a draw.
+@2885.1
+The army of my retainer {02}{03}n fought the {02}{04}v army to a draw.
+@2885.2
+{01}C{17}{00}'s army fought the {02}{04}v army to a draw.
+@2885.3
+Our {02}{03}n's army fought the {02}{04}v army to a draw.
+@2885.4
+{01}C{17}{00}'s army fought the {02}{04}v army to a draw.
+@2885.5
+Our {02}{03}n's army fought the {02}{04}v army to a draw.
+@2885.6
+{01}C{17}{00}'s army fought the {02}{04}v army to a draw.
+@2885.7
+Our {02}{03}n's army fought the {02}{04}v army to a draw.
+@2885.8
+The army of our ally {02}{03}n fought the {02}{04}v army to a draw.
+@2885.9
+The army of our ally the {02}{03}v fought the {02}{04}v army to a draw.
+@2885.10
+The army of our ally {02}{03}n fought the {02}{04}v army to a draw.
+@2885.11
+The army of our ally the {02}{03}v fought the {02}{04}v army to a draw.
+@2885.12
+The army of our ally {02}{03}n fought the {02}{04}v army to a draw.
+@2885.13
+The army of our ally the {02}{03}v fought the {02}{04}v army to a draw.
+@2886
+The army of my retainer {02}{03}n lost to the {02}{04}v army, but the enemy withdrew too, so neither side won.
+@2886.1
+The army of my retainer {02}{03}n lost to the {02}{04}v army, but the enemy withdrew too, so neither side won.
+@2886.2
+{01}C{17}{00}'s army lost to the {02}{04}v army, but the enemy withdrew too, so neither side won.
+@2886.3
+Our {02}{03}n's army lost to the {02}{04}v army, but the enemy withdrew too, so neither side won.
+@2886.4
+{01}C{17}{00}'s army lost to the {02}{04}v army, but the enemy withdrew too, so neither side won.
+@2886.5
+Our {02}{03}n's army lost to the {02}{04}v army, but the enemy withdrew too, so neither side won.
+@2886.6
+{01}C{17}{00}'s army lost to the {02}{04}v army, but the enemy withdrew too, so neither side won.
+@2886.7
+Our {02}{03}n's army lost to the {02}{04}v army, but the enemy withdrew too, so neither side won.
+@2886.8
+The army of our ally {02}{03}n lost to the {02}{04}v army, but the enemy withdrew too, so neither side won.
+@2886.9
+The army of our ally the {02}{03}v lost to the {02}{04}v army, but the enemy withdrew too, so neither side won.
+@2886.10
+The army of our ally {02}{03}n lost to the {02}{04}v army, but the enemy withdrew too, so neither side won.
+@2886.11
+The army of our ally the {02}{03}v lost to the {02}{04}v army, but the enemy withdrew too, so neither side won.
+@2886.12
+The army of our ally {02}{03}n lost to the {02}{04}v army, but the enemy withdrew too, so neither side won.
+@2886.13
+The army of our ally the {02}{03}v lost to the {02}{04}v army, but the enemy withdrew too, so neither side won.
+@2887
+The {02}{03}v has become a vassal of the {02}{04}v.
+@2887.1
+The {02}{03}v has become a vassal of the {02}{04}v.
+@2887.2
+The {02}{03}v has become a vassal of the {02}{04}v.
+@2888
+{02}{03}N of the {02}{03}v has surrendered to the {02}{04}v.
+@2888.1
+{02}{03}N of the {02}{03}v has surrendered to the {02}{04}v.
+@2888.2
+{02}{03}N of the {02}{03}v has surrendered to the {02}{04}v.
+@2889
+{02}{03}n, lord of {02}{03}N of the {02}{03}v, captured by the {02}{04}v, has been put to the sword by {02}{04}n.
+@2889.1
+{02}{03}n, lord of {02}{03}N of the {02}{03}v, captured by the {02}{04}v, has been put to the sword by {02}{04}n.
+@2889.2
+{02}{03}n, lord of {02}{03}N of the {02}{03}v, captured by the {02}{04}v, has been put to the sword by {02}{04}n.
+@2890
+So our army has beaten the {02}{03}v army.
+@2890.1
+Our army has beaten the {02}{03}v army.
+@2890.2
+Our army has defeated the {02}{03}v army.
+@2891
+So our army has lost to the {02}{03}v army.
+@2891.1
+Our army has lost to the {02}{03}v army.
+@2891.2
+Our army has been defeated by the {02}{03}v army.
+@2892
+So the battle between our army and the {02}{03}v army was not decided.
+@2892.1
+The battle between our army and the {02}{03}v army was not decided.
+@2892.2
+The battle between our army and the {02}{03}v army was not decided.
+@2893
+Has Heaven forsaken me...?
+@2893.1
+Has Heaven forsaken me...?
+@2894
+It would be a shame to let a man of your calibre die. Will you not take a new path with the {02}{01}v?
+@2894.1
+It would be a shame to let someone of your calibre die. Will you not take a new path with the {02}{01}v?
+@2895
+The {02}{02}v cannot make proper use of someone like you. Why not show your talents with the {02}{01}v?
+@2895.1
+The {02}{02}v can hardly make proper use of someone like you. Why not show your talents with the {02}{01}v?
+@2896
+What nonsense. Even in defeat, I have not sunk so low as to serve the {02}{02}v.
+@2896.1
+I have not sunk so low as to bow to the {02}{02}v.
+@2897
+Rubbish. If it has come to this, cut me down and be done with it.
+@2897.1
+I have not sunk so low as to bow to the {02}{02}v.
+@2898
+To serve the {02}{01}v in life, and to be its guardian spirit in death: that is my one wish.
+@2899.1
+I serve one lord alone, and that lord is not you.
+@2900
+{01}C{09}{00}, I was wrong. I shall mend my ways and devote myself to the {02}{02}v.
+@2900.1
+{01}C{09}{00}, I was wrong. I shall mend my ways and devote myself to the {02}{02}v.
+@2900.2
+It seems I was wrong. From now on I shall serve the {02}{02}v.
+@2900.3
+It seems I was wrong. From now on I shall serve the {02}{02}v.
+@2900.4
+This too is fate... I shall join the {02}{02}v.
+@2900.5
+You tell me to live? Then I entrust my life to the {02}{02}v.
+@2900.6
+Thank you for your kindness. From now on I shall work for the {02}{02}v.
+@2900.7
+They say a warrior knows a warrior's heart... I am moved by your kindness.
+@2900.8
+Oh... not only sparing my life, but such an offer too... I shall gladly serve you.
+@2901
+This too is fate... I will join the {02}{02}v.
+@2901.1
+I still have things left undone. I cannot die yet.
+@2901.2
+If you think so highly of me, serving the {02}{02}v would not be so bad.
+@2901.3
+What... You would have me live on? ...Very well.
+@2901.4
+Most gracious words. I shall gladly serve you.
+@2902
+Our {02}{03}v has become a vassal of the {02}{04}v... How bitter...
+@2902.1
+Our {02}{03}v has become a vassal of the {02}{04}v... How sad...
+@2902.2
+Our {02}{03}v has become a vassal of the {02}{04}v.
+@2902.3
+Our {02}{03}v seems to have become a vassal of the {02}{04}v!
+@2902.4
+Our {02}{03}v seems to have become a vassal of the {02}{04}v!
+@2903
+Our {02}{03}N has surrendered to the {02}{04}v... How bitter...
+@2903.1
+Our {02}{03}N has surrendered to the {02}{04}v... How sad...
+@2903.2
+Our {02}{03}N has surrendered to the {02}{04}v.
+@2903.3
+Our {02}{03}N seems to have surrendered to the {02}{04}v!
+@2500
+How kind. I was just hoping to stay on good terms with {01}C{18}{00}.
+@2500.2
+How kind. I hope to stay on good terms with {01}C{18}{00}.
+@2500.3
+How kind. I hope to stay on good terms with {01}C{18}{00}.
+@2500.4
+How kind. I do hope to stay on good terms with {01}C{18}{00}.
+@2503
+A splendid resolve, but regret will come too late. Next time, we meet on the battlefield.
+@2503.1
+A splendid resolve, but regret will come too late. Next time, we meet on the battlefield.
+@2503.2
+A splendid resolve, but regret will come too late. Next time, we meet on the battlefield.
+@2505
+Even if it means our ruin, I will never yield to the {02}{03}v. Leave at once!
+@2505.1
+Even if it means our ruin, I will never yield to the {02}{03}v. Leave at once.
+@2506.3
+Ah, {01}C{0D}{00}... What may I do for you today?
+@2506.4
+Ah, {01}C{0D}{00}. What brings you here today?
+@2507
+The {02}{0C}E is overlord in name only. They seem to be merely using {01}C{0D}{00} as it suits them.
+@2507.1
+The {02}{0C}E is overlord in name only. They seem to be merely using {01}C{0D}{00} as it suits them.
+@2507.2
+The {02}{0C}E is overlord in name only. They seem to be merely using {01}C{0D}{00} as it suits them.
+@2508
+So it looks that way to you too? I was thinking something must be done.
+@2508.1
+So it looks that way to you too? I was just thinking something must be done.
+@2509
+The key is to play your hand well so you are not easily used.
+@2509.1
+The key is surely to play your hand well so you are not easily used.
+@2509.2
+I believe the key is to play your hand well so you are not easily used.
+@2510
+It does not look that way to me. {01}C{0B}{00} must be mistaken.
+@2510.1
+It does not look that way to me. {01}C{0B}{00} must be mistaken.
+@2511
+If you say so, I shall meddle no further.
+@2511.1
+If you say so, I shall meddle no further.
+@2511.2
+If you say so, I shall meddle no further.
+@2512
+You will not listen at all. Then I shall take my leave.
+@2512.1
+There seems to be no room for talk at all. I shall take my leave, then.
+@2512.2
+You do not seem willing to listen. I shall take my leave, then.
+@2512.3
+You do not seem willing to listen. I shall take my leave, then.
+@2513
+What are you saying? Do you think I would believe an enemy? Get back to the battlefield while you still have your life.
+@2513.1
+What are you saying? Do you think I would believe an enemy? Go back to the battlefield while you still can.
+@2514
+You can hardly stand alone any longer. I will treat you well, so join our clan and show what you can do.
+@2514.1
+You can hardly stand alone any longer. I will treat you well, so join our clan and show what you can do.
+@2514.2
+It seems you can hardly stand alone any longer. You will be treated well, so join our clan and show what you can do.
+@2515
+It is over... We shall join the {02}{03}v...
+@2515.1
+It is over... We shall join the {02}{03}v...
+@2516
+From now on, the {02}{03}v releases the {02}{02}v from its service. I came today to tell you so.
+@2516.1
+From now on, the {02}{03}v releases the {02}{02}v from its service. I came today to tell you so.
+@2516.2
+From now on, the {02}{03}v releases the {02}{02}v from its service. I came to tell you so.
+@2517
+What!? What is the meaning of this? What have we done!?
+@2517.1
+What!? What is the meaning of this? What have we done!?
+@2519
+The {02}{0D}E and our clan share a bitter history. We cannot make a pact with such a clan.
+@2519.1
+The {02}{0D}E and our clan share a bitter history. We cannot make a pact with such a clan.
+@2520
+How could we join hands with the {02}{04}v, who issued a punitive order against us? We cannot join this pact.
+@2520.1
+How could we join hands with the {02}{04}v, who issued a punitive order against us!? We cannot join this pact.
+@2522
+We are at war with the {02}{03}v. How could we join an encirclement side by side with them?
+@2522.1
+We are at war with the {02}{03}v. How could we join an encirclement side by side with them?
+@2523
+The {02}{02}v cannot be trusted. An encirclement? What a sham!
+@2523.1
+The {02}{02}v cannot be trusted. An encirclement? What a sham.
+@2524
+We are on close terms with the {02}{0E}E. We cannot join any encirclement.
+@2524.1
+We are on close terms with the {02}{0E}E. We cannot join any encirclement.
+@2526
+I have come today hoping to build better relations between our clan and the shogunate. First, please accept this.
+@2526.1
+I have come today hoping to build better relations between our clan and the shogunate. First, please accept this.
+@2527
+The {02}{03}v and our shogunate cannot coexist. We cannot accept this.
+@2527.1
+The {02}{03}v and our shogunate cannot coexist. We cannot accept this.
+@2528
+Well, well... The shogunate is smaller-minded than I thought. Then I shall take my leave.
+@2528.1
+My... The shogunate is smaller-minded than I thought. I shall take my leave, then.
+@2528.2
+It is most regrettable that you will not accept it. I shall take my leave, then.
+@2903.4
+Our {02}{03}N seems to have surrendered to the {02}{04}v!
+@2904
+I thank you for your warrior's mercy. It seems I am in the {02}{02}v's debt.
+@2904.1
+I thank you for your warrior's mercy. It seems I am in the {02}{02}v's debt.
+@2904.2
+{01}C{09}{00}, you would set me free...? But I offer no thanks. Farewell!
+@2904.3
+{01}C{09}{00}, you would set me free...? Yet I offer no thanks. I take my leave.
+@2904.4
+{02}{02}4, you would let me go...? I will not forget your name, {01}C{0D}{00}.
+@2904.5
+{02}{02}4, you would let me go...? I will not forget your name, {01}C{0D}{00}.
+@2904.6
+Thank you for your mercy.
+@2904.7
+I am most grateful. I shall not forget your name, {01}C{0D}{00}.
+@2904.8
+The {02}{02}v seems to know its manners. Then I take my leave.
+@2905
+I thank you for your warrior's mercy.
+@2905.1
+Oh, you would set me free... You are a model warrior indeed.
+@2905.2
+The {02}{02}v seems to know its manners. Farewell, then!
+@2906
+I was careless enough to be captured, yet they released me. A fine general, for an enemy.
+@2906.1
+I was careless enough to be captured, yet they released me. A fine general, for an enemy.
+@2906.2
+{02}{03}n, captured by the enemy, has been released unharmed. That was a close call.
+@2906.3
+{02}{03}n, captured by the enemy, has been released. That was a close call.
+@2906.4
+{02}{03}n, captured by the enemy, has been released.
+@2906.5
+{02}{03}n, captured by the enemy, has been released.
+@2906.6
+{02}{03}n, captured by the enemy, has been released.
+@2906.7
+Our {02}{03}n, captured by the enemy, has been released.
+@2906.8
+Our {02}{03}n, captured by the enemy, has been released.
+@2907
+To be cut down by {01}C{09}{00} is all I could wish. Come, take my head quickly...
+@2907.1
+If it is {01}C{09}{00} who cuts me down, I have no regrets. Come, take my head quickly...
+@2907.2
+{02}{02}4... I never thought it would be you who struck me down...
+@2907.3
+{02}{02}4... to think it is you who will strike me down. How cruel fate is...
+@2907.4
+A flower's life is short, and it falls as the wind blows...
+@2907.5
+To end here, never having known a woman's happiness... What was my life for...?
+@2907.6
+When I close my eyes, so many memories come back. I have no regrets, no bitterness now.
+@2907.7
+I don't want to die... I don't want to die... Aaah!
+@2907.8
+One last request... Please, make a world without war as soon as you can... Ugh!
+@2908
+Watch closely how a warrior dies! ...Gwah!
+@2908.1
+To perish in a place like this... Has Heaven abandoned me? Bitter...
+@2908.2
+Then I ask you to be my second. ...Gwah!
+@2908.3
+Glory to the {02}{01}v! ...Ugh!
+@2908.4
+In death I will leave my name in history. Farewell! ...Gwah!
+@2909
+Captured, of all things... Is this the end?
+@2909.1
+Captured, of all things... To perish in a place like this...
+@2909.2
+{02}{03}n, captured by the enemy, has been put to the sword! How can this be!
+@2909.3
+{02}{03}n, captured by the enemy, has been put to the sword! How can this be!
+@2909.4
+{02}{03}n, captured by the enemy, has been put to the sword.
+@2909.5
+{02}{03}n, captured by the enemy, has been put to the sword.
+@2909.6
+Grave news! {02}{03}n, captured by the enemy, has been put to the sword!
+@2909.7
+Our {02}{03}n, captured by the enemy, has been put to the sword.
+@2909.8
+Our {02}{03}n, captured by the enemy, has been put to the sword.
+@2910
+Captured, of all things...
+@2911
+A loyal retainer does not serve two lords...
+@2911.1
+I have no wish to change my lord...
+@2912
+Do not underestimate me! Whatever you say, I will not serve you.
+@2912.1
+Whatever you say, I will not serve you!
+@2913
+You think so highly of me? Then I shall join the {02}{02}v.
+@2913.1
+You think so highly of me...? Then I shall join the {02}{02}v.
+@2914
+Our {02}{03}n, captured by the {02}{04}v, has been taken into their service!
+@2914.1
+Our {02}{03}n, captured by the {02}{04}v, has been taken into their service.
+@2914.2
+Our {02}{03}n, captured by the {02}{04}v, has been taken into their service!
+@2914.3
+Our {02}{03}n, captured by the {02}{04}v, has been taken into their service!
+@2914.4
+{02}{03}n, captured by the {02}{04}v, seems to have been taken into their service.
+@2916
+So {02}{03}n, captured by the {02}{04}v, has been released. Thank goodness you are safe.
+@2916.1
+So our {02}{03}n, captured by the {02}{04}v, has been released.
+@2916.2
+{02}{03}n, captured by the {02}{04}v, has been released. Thank goodness you are safe.
+@2916.3
+Our {02}{03}n, captured by the {02}{04}v, has been released.
+@2916.4
+{02}{03}n, captured by the {02}{04}v, has been released. Thank goodness you are safe.
+@2916.5
+Our {02}{03}n, captured by the {02}{04}v, has been released.
+@2916.6
+Our {02}{03}n, captured by the {02}{04}v, has been released.
+@2916.7
+{02}{03}n, daimyo of the {02}{03}v, captured by the {02}{04}v, seems to have been released.
+@2916.8
+{02}{03}n, lord of {02}{03}N of the {02}{03}v, captured by the {02}{04}v, seems to have been released.
+@2916.9
+{02}{03}n of the {02}{03}v, captured by the {02}{04}v, seems to have been released.
+@2918
+{02}{03}n, captured by the {02}{04}v, has been put to the sword! How can this be...
+@2918.1
+Our {02}{03}n, captured by the {02}{04}v, has been put to the sword.
+@2918.2
+{02}{03}n, captured by the {02}{04}v, has been put to the sword! How can this be...
+@2918.3
+Our {02}{03}n, captured by the {02}{04}v, has been put to the sword.
+@2918.4
+Grave news! {02}{03}n, captured by the {02}{04}v, has been put to the sword!
+@2918.5
+Our {02}{03}n, captured by the {02}{04}v, has been put to the sword.
+@2918.6
+Our {02}{03}n, captured by the {02}{04}v, has been put to the sword.
+@2918.7
+{02}{03}n, daimyo of the {02}{03}v, captured by the {02}{04}v, seems to have been put to the sword.
+@2918.8
+{02}{03}n, lord of {02}{03}N of the {02}{03}v, captured by the {02}{04}v, seems to have been put to the sword.
+@2918.9
+{02}{03}n of the {02}{03}v, captured by the {02}{04}v, seems to have been put to the sword.
+@2919
+Our army lost to the {02}{03}v army, but the enemy seems to be withdrawing too. Neither side has won this battle.
+@2919.1
+Our army lost to the {02}{03}v army, but the enemy seems to be withdrawing too. Neither side has won this battle.
+@2919.2
+Our army lost to the {02}{03}v army, but the enemy seems to have withdrawn too. Neither side has won this battle.
+@2919.3
+Our army lost to the {02}{03}v army, but the enemy withdrew too, so it seems neither side won.
+@2919.4
+Our army lost to the {02}{03}v army, but the enemy withdrew too, so it seems neither side won.
+@2920
+Ngh... I have been wounded.
+@2920.1
+Ngh... I have been wounded.
+@2920.2
+I have carelessly let myself be wounded.
+@2920.3
+{02}{03}n has been wounded!
+@2920.4
+Our {02}{03}n has been wounded.
+@2920.5
+{02}{03}n has been wounded!
+@2920.6
+Our {02}{03}n has been wounded.
+@2920.7
+Lord {02}{03}4, hold on! The wound is not deep!
+@2920.8
+{02}{03}n has been wounded!
+@2920.9
+Our {02}{03}n has been wounded.
+@2920.10
+Our {02}{03}n has been wounded.
+@2920.11
+{02}{03}n of the {02}{03}v seems to have been wounded.
+@2920.12
+{02}{03}n of the {02}{03}v seems to have been wounded.
+@2920.13
+{02}{03}n of the {02}{03}v seems to have been wounded.
+@2920.14
+{02}{03}n of the {02}{03}v seems to have been wounded.
+@2920.15
+{02}{03}n, daimyo of the {02}{03}v, seems to have been wounded.
+@2920.16
+{02}{03}n, lord of {02}{03}N of the {02}{03}v, seems to have been wounded.
+@2920.17
+{02}{03}n of the {02}{03}v seems to have been wounded.
+@2921
+{02}{03}n has fallen in battle!
+@2921.1
+Our {02}{03}n has fallen in battle.
+@2921.2
+Our {02}{03}n has fallen in battle.
+@2921.3
+{02}{03}n has fallen in battle!
+@2921.4
+Our {02}{03}n has fallen in battle.
+@2921.5
+Our {02}{03}n has fallen in battle.
+@2921.6
+Grave news! {02}{03}n has fallen in battle!
+@2921.7
+Our {02}{03}n has fallen in battle.
+@2921.8
+Our {02}{03}n has fallen in battle.
+@2921.9
+{02}{03}n of the {02}{03}v seems to have fallen in battle.
+@2921.10
+{02}{03}n of the {02}{03}v seems to have fallen in battle.
+@2921.11
+{02}{03}n of the {02}{03}v seems to have fallen in battle.
+@2921.12
+{02}{03}n of the {02}{03}v seems to have fallen in battle.
+@2921.13
+{02}{03}n, daimyo of the {02}{03}v, seems to have fallen in battle.
+@2921.14
+{02}{03}n, lord of {02}{03}N of the {02}{03}v, seems to have fallen in battle.
+@2921.15
+{02}{03}n of the {02}{03}v seems to have fallen in battle.
+@2922
+Our {02}{03}n seems to have fallen in battle.
+@2922.1
+Our {02}{03}n seems to have fallen in battle.
+@2922.2
+{02}{03}n seems to have fallen in battle!
+@2922.3
+{02}{03}n seems to have fallen in battle!
+@2922.6
+Grave news! {02}{03}n seems to have fallen in battle!
+@2922.7
+Our {02}{03}n seems to have fallen in battle.
+@2922.8
+Our {02}{03}n seems to have fallen in battle.
+@2922.9
+{02}{03}n of the {02}{03}v seems to have fallen in battle.
+@2922.10
+{02}{03}n of the {02}{03}v seems to have fallen in battle.
+@2922.11
+{02}{03}n of the {02}{03}v seems to have fallen in battle.
+@2922.13
+{02}{03}n, daimyo of the {02}{03}v, seems to have fallen in battle.
+@2922.14
+{02}{03}n, lord of {02}{03}N of the {02}{03}v, seems to have fallen in battle.
+@2923
+I have captured an enemy officer.
+@2923.1
+I have captured an enemy officer.
+@2923.2
+We have captured an enemy officer.
+@2924
+{02})N of the {02})S, which our army is attacking, offers to surrender. Shall I accept?
+@2924.1
+{02})N of the {02})S, which our army is attacking, offers to surrender. Shall I accept?
+@2924.2
+{02})N of the {02})S, which our army is attacking, offers to surrender. Will you accept?
+@2925
+False reports are my speciality. Let me throw their units into a panic...
+@2925.1
+Shall we spread a false report of a surprise attack on their headquarters?
+@2925.2
+Spread a false report of a surprise attack on their headquarters!
+@2925.3
+Spread a false report of a surprise attack on their headquarters.
+@2925.4
+Let us spread a false report of a surprise attack on their headquarters.
+@2925.5
+I'll spread a false report of a surprise attack on their headquarters.
+@2925.6
+Spread a false report of a surprise attack on their headquarters.
+@2926
+What? The enemy is heading for headquarters! We must get back at once!
+@2926.1
+What? The enemy is heading for headquarters! No help for it, back to headquarters now!
+@2926.2
+What? The enemy is heading for headquarters? This will not do, we must go back!
+@2926.3
+The enemy is heading for headquarters? No help for it, back to headquarters!
+@2926.4
+The enemy is heading for headquarters? That's serious, we must go back at once!
+@2926.5
+The enemy is heading for headquarters? Then we must go back at once!
+@2927
+Only by risking all can one be saved... We launch an assault raid at once!
+@2927.1
+We now launch an assault raid. Charge the enemy with all your might!
+@2927.2
+Now for an assault raid! Scatter the lot of them!
+@2927.3
+We now launch an assault raid. Charge on with single-minded resolve!
+@2927.4
+We now launch an assault raid. Charge the enemy with all your might!
+@2927.5
+Now for an assault raid. Scatter the enemy!
+@2927.6
+We now launch an assault raid. Charge on with single-minded resolve!
+@2928
+Behold my skill with the spear!
+@2928.1
+Men, spears together and charge!
+@2928.2
+Ready, men? Drive your spears in all at once. Now, attack!
+@2928.3
+Let us treat them to a spear wall. Now, here we go!
+@2928.4
+Everyone, spears together and charge!
+@2928.5
+Drive your spears into them all at once. Now, attack!
+@2928.6
+Let us treat them to a spear wall. Here we go!
+@2929
+Bishamonten is with me! Trample their lines in one blow!
+@2929.1
+We now charge! Men, forward, forward!
+@2929.2
+I'll show them what cavalry can do! Men, charge!
+@2929.3
+Charge the enemy. Now, here we go!
+@2929.4
+We now charge! Follow me!
+@2929.5
+I'll show them what cavalry can do! Men, charge!
+@2929.6
+We charge the enemy. Here we go!
+@2529
+A fine attitude. Keep working for the shogunate.
+@2529.1
+A fine attitude. I count on you to keep serving the shogunate.
+@2531
+I have come today hoping to be granted a post in the shogunate.
+@2531.1
+I have come today hoping to be granted a post in the shogunate.
+@2531.2
+I have come today hoping that our clan may be granted a post in the shogunate.
+@2532
+Hahaha. I see. Very well. Then present %s %d.
+@2532.1
+Very well. Then present %s %d.
+@2533
+You defy the shogunate, and now you say this? Go home.
+@2533.1
+You defy the shogunate, and now you say this? Go home.
+@2534
+The shogunate wants %d gold. Shall I pay as asked and be appointed to the post...?
+@2534.1
+The shogunate wants %d gold. Perhaps I shall pay as asked and be appointed to the post...
+@2534.2
+The shogunate wants %d gold. Will you pay as asked and be appointed to the post?
+@2535
+I shall pay the sum asked and be appointed to the post. (Demand: %s %d)
+@2535.1
+I shall pay the sum asked and be appointed to the post. (Demand: %s %d)
+@2535.2
+Pay the sum asked and be appointed to the post. (Demand: %s %d)
+@2536
+I have seen the loyalty of the {02}{03}v. I shall appoint you {02}G2.
+@2536.1
+I have seen the loyalty of the {02}{03}v. I appoint you {02}G2.
+@2537
+I cannot grant a post to one so lacking in devotion.
+@2537.1
+I cannot grant a post to one so lacking in devotion.
+@2538.1
+A pity, but it cannot be helped. I shall take my leave, then.
+@2538.2
+A pity, but it cannot be helped. I shall take my leave, then.
+@2538.3
+A pity, but it cannot be helped. I shall take my leave, then.
+@2539
+Of late, {02}{03}n's disregard for the Imperial Court has gone too far.
+@2539.1
+Of late, {02}{03}n's disregard for the Imperial Court has gone too far.
+@2539.2
+Of late, {02}{03}n has often shown disregard for the Imperial Court.
+@2540
+Hmm... Now that you mention it, I do seem to recall something...
+@2541
+I should think so. {02}{03}n is not to be trusted. Do not place your faith in them lightly.
+@2541.1
+I should think so. {02}{03}n is not to be trusted. You must not rely on them.
+@2541.2
+{02}{03}n is not to be trusted. Please do not place your faith in them lightly.
+@2542
+Hohoho, what nonsense. Such a thing could never be.
+@2543
+It seems you will not lend an ear to my words. I shall take my leave, then.
+@2543.1
+It seems you will not lend an ear to my words. I shall take my leave, then.
+@2543.2
+It seems you do not believe my words. I shall take my leave, then.
+@2544
+Hmm... True, I am not entirely unaware of it myself.
+@2544.1
+Hmm... True, I feel the same.
+@2545
+In my castle, all trust one another and everyone works to the full.
+@2545.1
+In my castle, all trust one another and everyone works to the full.
+@2545.2
+{01}C{17}{00} is a wonderful person. I am truly glad to serve them.
+@2545.3
+{01}C{17}{00} is a wonderful person. I am truly glad to serve them.
+@2546
+Oh, how enviable.
+@2546.1
+My, how enviable.
+@2547
+If {01}C{0D}{00} wishes, you may come to us at any time.
+@2547.1
+If {01}C{0D}{00} wishes, you may come to us at any time.
+@2547.2
+If {01}C{0D}{00} is willing, I can introduce you to our clan at any time.
+@2547.3
+If {01}C{0D}{00} is willing, I can introduce you to our clan at any time.
+@2548
+Hahaha, I shall think about it.
+@2548.1
+Yes, I shall think about it.
+@2549
+Then I shall call again.
+@2549.1
+Then I shall call again.
+@2549.2
+Then I shall call again.
+@2549.3
+Then I shall call again.
+@2550
+And here I wondered what it was... Idle boasting! If you have time for such prattle, get back to the battlefield.
+@2550.1
+And here I wondered what it was... Such silly boasting! If you have time for that, go back to the battlefield while you still can.
+@2550.2
+It is the same in my castle. There can be little difference.
+@2550.3
+It is the same in my castle. There is surely little difference.
+@2550.4
+I do not think so. {01}C{1F}{00} is far superior.
+@2550.5
+I do not think so. {01}C{1F}{00} is without doubt the superior.
+@2551
+As I thought, {01}C{0D}{00}'s work goes largely unrecognised. Is now not the time to move?
+@2551.1
+As I thought, {01}C{0D}{00}'s work goes largely unrecognised. Is now not the time to move?
+@2551.2
+As I thought, {01}C{0D}{00}'s work goes largely unrecognised. Is now not the time to move?
+@2551.3
+As I thought, {01}C{0D}{00}'s work goes largely unrecognised. Is now not the time to move?
+@2552
+Wait patiently. My mind is already made up.
+@2552.1
+Wait patiently. I made up my mind long ago.
+@2553
+Is that so? Then I shall wait.
+@2553.1
+Is that so? Then I shall wait.
+@2553.2
+Understood. I shall wait.
+@2553.3
+Understood. I shall wait.
+@2554
+I shall meet the demand and obtain a just cause. (Demand: %s %d)
+@2554.1
+Perhaps I shall meet the demand and obtain a just cause. (Demand: %s %d)
+@2554.2
+Let us meet the demand and obtain a just cause. (Demand: %s %d)
+@2554.3
+Let us meet the demand and obtain a just cause. (Demand: %s %d)
+@2556
+I cannot choose a castle with a corps commander.
+@2556.1
+I cannot choose a castle with a corps commander.
+@2556.2
+You cannot choose a castle with a corps commander, my lord.
+@2556.3
+You cannot choose a castle with a corps commander.
+@2557
+There are no officers left to send as envoys, so no more visits can be made.
+@2557.1
+There are no officers left to send as envoys, so no more visits can be made.
+@2557.2
+There are no officers left to send as envoys, so no more visits can be made, my lord.
+@2557.3
+There are no officers left to send as envoys, so no more visits can be made.
+@2558
+I shall be off, then. I will surely become heir to the {02}{03}v!
+@2558.1
+I shall be off, then. I will surely become heir to the {02}{03}v!
+@2558.2
+I have sent {01}C{1E}{00} to the {02}{03}v for adoption.
+@2558.3
+I have sent {01}C{1E}{00} to the {02}{03}v for adoption.
+@2558.4
+I have sent {01}C {00} to the {02}{03}v for adoption, my lord.
+@2559
+I have turned down the {02}{03}v's offer.
+@2559.1
+I have turned down the {02}{03}v's offer.
+@2559.2
+I have turned down the {02}{03}v's offer, my lord.
+@2560
+Will you accept the {02}{03}v's offer? If I became their heir, their loyalty to our clan would be assured...
+@2560.2
+Shall I accept the {02}{03}v's offer and give {01}C{1E}{00} for adoption...? If {01}C{1E}{00} becomes their heir, it is no bad thing for us.
+@2560.3
+Perhaps I shall accept the {02}{03}v's offer and give {01}C{1E}{00} for adoption... If {01}C{1E}{00} becomes their heir, it is no bad thing for us.
+@2560.4
+Will you accept the {02}{03}v's offer and give {01}C {00} for adoption? If {01}C {00} becomes their heir, it is no bad thing for us.
+@2561
+I shall go to the {02}{03}v as an adopted heir.
+@2561.2
+I shall give {01}C{1E}{00} to the {02}{03}v for adoption.
+@2561.3
+I shall give {01}C{1E}{00} to the {02}{03}v for adoption.
+@2561.4
+Give {01}C {00} to the {02}{03}v for adoption.
+@2562
+I shall turn down the {02}{03}v's offer.
+@2562.1
+Perhaps I shall turn down the {02}{03}v's offer.
+@2562.2
+Turn down the {02}{03}v's offer.
+@2563
+Very well, agreed. Take good care of {01}C{1E}{00}.
+@2563.1
+Very well. Please take good care of {01}C{1E}{00}.
+@2564
+I am most grateful. As heir to our clan, they will have every chance to shine.
+@2564.1
+Thank you. As heir to our clan, they will have every chance to shine.
+@2565
+I am sorry, but {01}C{1E}{00} is a pillar of our clan. I cannot give them to another.
+@2565.1
+Regrettably, {01}C{1E}{00} is a pillar of our clan. I cannot give them to another.
+@2566
+To survive this age of war, let us extend our non-aggression pact.
+@2566.1
+To survive this age of war, we should extend our non-aggression pact.
+@2566.2
+To survive this age of war, let us extend our non-aggression pact.
+@2567
+To survive this age of war, let us extend the mutual non-aggression pact with the {02}{0D}E.
+@2567.1
+To survive this age of war, we should extend the mutual non-aggression pact with the {02}{0D}E.
+@2567.2
+To survive this age of war, let us extend the mutual non-aggression pact with the {02}{0D}E.
+@2568
+To survive this age of war, let us extend our military alliance.
+@2568.1
+To survive this age of war, we should extend our military alliance.
+@2568.2
+To survive this age of war, let us extend our military alliance.
+@2569
+To survive this age of war, let us extend the mutual military alliance with the {02}{0D}E.
+@2569.1
+To survive this age of war, we should extend the mutual military alliance with the {02}{0D}E.
+@2569.2
+To survive this age of war, let us extend the mutual military alliance with the {02}{0D}E.
+@2570
+I come with a request. We wish to adopt {01}C{0D}{00}'s son, Lord {02}{04}4, into our clan.
+@2570.1
+I come with a request. We would like to adopt {01}C{0D}{00}'s son, Lord {02}{04}4, into our clan.
+@2570.2
+I come with a request. We wish to adopt {01}C{0D}{00}'s daughter, Lady {02}{04}4, into our clan.
+@2570.3
+I come with a request. We would like to adopt {01}C{0D}{00}'s daughter, Lady {02}{04}4, into our clan.
+@2571
+I have no intention of building friendly ties, so I sent {01}C {00} home.
+@2571.1
+I have no intention of building friendly ties, so I sent {01}C {00} home.
+@2571.2
+We have no intention of building friendly ties, so I sent {01}C {00} home.
+@2572
+I have turned down the {02}{04}v's proposal.
+@2572.1
+I have turned down the {02}{04}v's proposal.
+@2572.2
+I have turned down the {02}{04}v's proposal, my lord.
+@2573
+It would be a shame to end our ties here. For the sake of {02}{01}4's good name, please agree to extend the pact.
+@2573.1
+Ending our ties here would be your loss. {02}{01}4 offers to extend the pact. You would be a fool to refuse.
+@2573.3
+It would be a shame to end our ties here. For the sake of my lord's good name, please agree to extend the pact.
+@2573.4
+Ending our ties here would be your loss. Extending the pact with us now is in {01}C{0D}{00}'s own interest.
+@2574
+Very well. We shall extend the non-aggression pact with {01}C{18}{00}.
+@2575
+Now, what shall I do...
+@2575.1
+Now, what shall I do, I wonder...
+@2575.2
+What will you do?
+@2576
+Our gold is running low and that worries me, but I shall do my best for {01}C{0C}{00}.
+@2576.1
+Our gold is running low and times are hard, but I shall do my best for {01}C{0C}{00}.
+@2576.2
+I am fortunate to serve {01}C{0C}{00}. Command me as you will.
+@2576.3
+I am fortunate to serve {01}C{0C}{00}. Command me as you will.
+@2576.4
+Our gold is running low and that worries me, but I must do my best to earn {01}C{0C}{00}'s trust...
+@2576.5
+Our gold is running low and times are hard, but I shall do my best to earn {01}C{0C}{00}'s trust.
+@2576.6
+I shall do my best for our clan.
+@2576.7
+I shall do my best for our clan.
+@2576.8
+These days I must watch our gold in everything I do.
+@2576.9
+These days I must watch our gold in everything I do.
+@2576.10
+What is {01}C{0C}{00} thinking these days... I wish I were trusted more.
+@2576.11
+What is {01}C{0C}{00} thinking these days? I wish I were trusted more...
+@2576.12
+I cannot help feeling I am not given my due...
+@2576.13
+I cannot help feeling I am not given my due...
+@2576.14
+Is {01}C{0C}{00} truly worth serving, I wonder...
+@2576.15
+Is {01}C{0C}{00} truly worth serving, I wonder...
+@2576.16
+I must stay ready to act the moment {01}C{0C}{00} gives the call.
+@2576.17
+I must stay ready to act the moment {01}C{0C}{00} gives the call.
+@2576.18
+The {02}{04}v must be struck down! I will show them what it means to scorn our shogunate!
+@2576.19
+The {02}{04}v must be struck down! I will show them what it means to scorn our shogunate!
+@2576.20
+Now that the encirclement is in place, this is the perfect chance to strike the {02}{04}v! Let us unite and destroy the foe.
+@2576.21
+Now that the encirclement is in place, this is the perfect chance to strike the {02}{04}v! Let us unite and destroy the foe.
+@2576.22
+The one to defeat is {02}{02}4! Our clan cannot prosper until the {02}{04}v is destroyed!
+@2576.23
+The one to defeat is {02}{02}4! Our clan cannot prosper until the {02}{04}v is destroyed!
+@2576.24
+The {02}{04}v is my enemy! {02}{02}4 and I can never be reconciled.
+@2576.25
+The {02}{04}v is my enemy! {02}{02}4 and I can never be reconciled.
+@2576.26
+So the {02}{04}v covets our lands... We shall not yield so easily!
+@2576.27
+So the {02}{04}v covets our lands... We shall not yield so easily!
+@2576.28
+So the {02}{04}v covets our lands? They have some nerve. I will send them packing!
+@2576.29
+So the {02}{04}v covets our lands? They have some nerve. I will send them packing!
+@2576.30
+I would like us to prosper, following the {02}{04}v's example.
+@2576.31
+I would like us to prosper, following the {02}{04}v's example.
+@2576.32
+I hope to stay on good terms with the {02}{04}v.
+@2576.33
+I hope to stay on good terms with the {02}{04}v.
+@2576.34
+The {02}{04}v's growth is remarkable. We must not fall behind.
+@2576.35
+The {02}{04}v's growth is remarkable. We must not fall behind.
+@2576.38
+Our clan's fortunes depend on my efforts. I must work all the harder.
+@2576.39
+Our clan's fortunes depend on my efforts. I must work all the harder.
+@2576.40
+For now, I shall meekly obey the {02}{04}v...
+@2576.41
+For now, I shall meekly obey the {02}{04}v...
+@2576.42
+They seem obedient for now, but I do not trust the {02}{04}v.
+@2576.43
+They seem obedient for now, but I do not trust the {02}{04}v.
+@2576.44
+The {02}{04}v's growth is remarkable. What is to be done...
+@2576.45
+The {02}{04}v's growth is remarkable. Now, what is to be done...
+@2576.46
+I must deal with the {02}{04}v before they become a thorn in our side.
+@2576.47
+I must deal with the {02}{04}v before they become a thorn in our side.
+@2576.48
+I serve the {02}{04}v for now, but some day I shall win independence...
+@2576.49
+I serve the {02}{04}v for now, but some day I shall win independence...
+@2576.50
+The {02}{04}v... What an eyesore.
+@2576.51
+The {02}{04}v... What an eyesore.
+@2576.52
+The {02}{04}v is no concern of mine.
+@2576.53
+I could not care less about the {02}{04}v.
+@2576.54
+Now, what strategy should I adopt to rule the realm...
+@2576.55
+Now, what strategy should I adopt to rule the realm...
+@2576.56
+The {02}{04}v dares to defy us! I will show them the true might of the shogunate!
+@2576.57
+The {02}{04}v dares to defy us! I will show them the true might of the shogunate!
+@2576.58
+The {02}{04}v is our enemy! I shall destroy them for {01}C{17}{00}.
+@2576.60
+If {01}C{17}{00} commands it, why should I hesitate to strike the {02}{04}v!
+@2576.61
+If {01}C{17}{00} commands it, why should I hesitate to strike the {02}{04}v!
+@2576.62
+There is no lord worth serving but {01}C{17}{00}.
+@2576.63
+There is no lord worth serving but {01}C{17}{00}.
+@2576.66
+What does {01}C{17}{00} think of me... They seem colder of late...
+@2576.67
+What does {01}C{17}{00} think of me, I wonder... They seem colder of late...
+@2576.68
+I must win some distinction to earn {01}C{17}{00}'s trust...
+@2576.69
+I must win some distinction to earn {01}C{17}{00}'s trust...
+@2576.70
+{01}C{17}{00} is a small-minded one. Perhaps I chose the wrong lord to serve...
+@2576.71
+{01}C{17}{00} is so small-minded. Perhaps I chose the wrong lord to serve...
+@2576.72
+I am through with {01}C{17}{00}.
+@2576.73
+I have had enough of {01}C{17}{00}.
+@2577
+I must order {01}C{0B}{00} to defect at just the right moment.
+@2577.1
+I must order {01}C{0B}{00} to defect at just the right moment...
+@2577.2
+I trust {01}C{0B}{00}'s loyalty to our clan, but I would like to see a little more effort.
+@2577.3
+I trust {01}C{0B}{00}'s loyalty, but I would like to see a little more effort.
+@2577.4
+{01}C{0B}{00}'s loyalty to our clan is beyond doubt. I shall keep putting them to good use.
+@2577.5
+{01}C{0B}{00}'s loyalty is beyond doubt. I shall keep putting them to good use.
+@2577.6
+I have high hopes for {01}C{0B}{00}, so I would like to see a little more effort.
+@2930
+Now is the time to show the power of the three-rank volley! Wipe out their units in one go!
+@2930.1
+Keep firing without a break! Do not let up!
+@2930.2
+Fire, fire and keep firing! Don't let up!
+@2930.3
+Everyone, take good aim. Now, fire!
+@2930.4
+Keep firing without a break! You must not let up!
+@2930.5
+Fire, fire and keep firing! Don't let up!
+@2930.6
+Everyone, take good aim... Now, fire!
+@2931
+Now is the time to show the realm the One-Eyed Dragon's might! Fire and charge!
+@2931.1
+Now is the time to show the realm the might of the Saika! Fire and charge!
+@2931.2
+We now fire and charge!
+@2931.3
+I'll show them how deadly a fire and charge is! Men, attack!
+@2931.4
+Fire and charge. Now, here we go!
+@2931.5
+We fire and charge! Now, attack!
+@2931.6
+I'll show them how deadly a fire and charge is! Men, let's go!
+@2931.7
+We fire and charge. Here we go!
+@2932.5
+Everyone, calm yourselves! If we panic, we play into the enemy's hands!
+@2934
+Everyone, put your backs into it! Victory depends on your efforts!
+@2934.1
+Men, quiet down!! Victory depends on your efforts!
+@2934.2
+Everyone, put your backs into it! Victory in this battle rests on your efforts!
+@2934.3
+Everyone, do your best! Victory depends on your efforts!
+@2934.4
+Please, do your best! Victory depends on all of you!
+@2934.5
+Everyone, please do your best! Victory depends on all of you!
+@2935
+Good. Fighting spirit seems to be up.
+@2935.1
+Good. Fighting spirit is up.
+@2935.2
+Good, good. Fighting spirit seems to be up.
+@2935.3
+Good. Fighting spirit is up.
+@2935.4
+Good! Fighting spirit seems to be up.
+@2935.5
+Fighting spirit seems to be up...
+@2936
+Good, their centre has fallen back! Seize the chance and break through!
+@2936.1
+Good, there's a gap! Seize the chance and break through the centre!
+@2936.2
+Good, the enemy seems to have fallen back! Let us break through the centre!
+@2936.3
+Good, the enemy has fallen back! Let us break through the centre!
+@2936.4
+Good, their centre is open! Seize the chance and break through!
+@2936.5
+Good, the enemy has fallen back! Let us break through the centre!
+@2937
+Everyone, calm down, calm yourselves!
+@2937.1
+At this rate they will push us back!
+@2937.2
+Quiet, you lot! Quiet, I say! At this rate they'll push us back!
+@2937.3
+Everyone, calm yourselves! At this rate they will push us back!
+@2937.4
+Everyone, calm yourselves! At this rate they will push us back!
+@2937.5
+Quiet, I said quiet! At this rate they'll push us back!
+@2937.6
+Everyone, compose yourselves! At this rate they will push us back!
+@2943
+Hmm, morale seems to be falling. I must do something.
+@2943.1
+Hm, morale is falling. I must do something.
+@2943.2
+Oh dear, morale is falling. Something must be done.
+@2943.3
+Oh, morale seems to be falling. I must do something.
+@2943.4
+Ngh, morale is falling. I have to do something.
+@2943.5
+Morale seems to be falling. Something must be done...
+@2947
+The enemy flinches before our onslaught! Scatter them in one blow!
+@2947.1
+The enemy flinches before our onslaught! We'll scatter them in one blow!
+@2947.2
+The enemy flinches before our onslaught! Scatter them in one blow!
+@2947.3
+The enemy flinches before our onslaught! Let us scatter them in one blow!
+@2947.4
+The enemy flinches before our onslaught! Scatter them in one blow!
+@2947.5
+The enemy flinches before our onslaught! Scatter them in one blow!
+@2948
+As things stand, we can only wait to be wiped out. I must do something...
+@2948.1
+As things stand, we can only wait to be wiped out... I must do something...
+@2948.2
+As things stand, we can only wait to be wiped out. Something must be done...
+@2948.3
+As things stand, we can only wait to be wiped out. I must do something...
+@2948.4
+As things stand, we can only wait to be wiped out... I'll do something...
+@2948.5
+As things stand, we can only wait to be wiped out. Something must be done...
+@2949
+Good, the battle is going our way! Keep hitting them!
+@2949.1
+Good, the battle is going our way! Keep hitting them!
+@2949.2
+Good, the battle is going our way! Keep hitting them!
+@2949.3
+The battle seems to be going our way. Keep hitting them!
+@2949.4
+The battle seems to be going our way. Keep hitting them!
+@2949.5
+The battle seems to be going our way. Let us keep hitting them!
+@2950
+Hmm... We seem to be holding our own.
+@2950.1
+Ngh... About even, I'd say...
+@2950.2
+Hmm... We seem to be holding our own.
+@2950.3
+Hmm... We seem to be holding our own.
+@2950.4
+Hmm... About even, I'd say.
+@2950.5
+We seem to be holding our own.
+@2951
+The battle is against us, but hold on somehow!
+@2951.1
+We're on the back foot, but hold on somehow!
+@2951.2
+The battle is against us, but hold on somehow!
+@2951.3
+The battle is against us, but hold on somehow!
+@2951.4
+We are on the back foot, but hold on somehow!
+@2951.5
+The battle is against us, but hold on somehow!
+@2952
+If the {02}{03}v has been destroyed, we will fight on alone, independent.
+@2952.1
+If the {02}{03}v has been destroyed, we will fight on alone, independent.
+@2952.2
+So the {02}{03}v has fallen to the {02}{02}v. Good, a fine chance to break free of them. From now on we are an independent daimyo!
+@2952.3
+The {02}{03}v has fallen to the {02}{02}v. Good, a fine chance to break free of them. From now on we are an independent daimyo!
+@2953
+So the {02}{03}v has fallen to the {02}{02}v. Good, a fine chance to break free of them. From now on we are free!
+@2953.1
+The {02}{03}v has fallen to the {02}{02}v. Good, a fine chance to break free of them. From now on we are free!
+@2954
+Captured, of all things... Is this the end...? ...Urgh.
+@2954.1
+Captured, of all things... To perish in a place like this... ...Ngh.
+@2955
+Right, break down the gate!
+@2955.1
+Men! Smash that gate!!
+@2955.2
+Well then... Everyone, let us go and break the gate.
+@2955.3
+Everyone, we now break down the gate!
+@2955.4
+Everyone, break the gate!
+@2955.5
+Well then... let us go and break the gate.
+@2956
+Right, break down the gate.
+@2956.1
+Right, I'll break down the gate.
+@2956.2
+Right, {01}C{0B}{00}, break down the gate.
+@2956.3
+Right, {01}C{0B}{00}, smash that gate!
+@2956.5
+Right, {01}C{0B}{00}, break down the gate!
+@2956.6
+Right, {01}C{0B}{00}, break the gate!
+@2956.7
+Then, {01}C{0B}{00}, please break down the gate.
+@2957
+No, there is no need for that.
+@2957.1
+No, there's no need for that.
+@2957.2
+There is no need for that. Say no more and keep to your present task.
+@2957.3
+No need. We've no time for that now.
+@2957.4
+There is no need for that. Hold your tongue.
+@2957.5
+There is no need for that. Continue with your present task.
+@2957.6
+There's no need for that. Keep to your present task.
+@2957.7
+There is no need for that. Hold your tongue.
+@2958
+Right, we open fire. Move to a good firing position.
+@2958.1
+Right, let's give them a taste of lead. Men, move to a good firing position.
+@2958.2
+Right, fire into the castle. We take up a good firing position.
+@2958.3
+Right, we open fire! Let us move to a good firing position.
+@2958.4
+Right, I'll give them a taste of lead. Everyone, move to a good firing position.
+@2958.5
+Let us fire into the castle. Take up a good firing position.
+@2959
+Right, show them what guns can do.
+@2959.1
+Right, I'll show them what guns can do.
+@2959.2
+Right, {01}C{0B}{00}, show them what guns can do.
+@2959.3
+Right, {01}C{0B}{00}, shoot down the enemy inside the castle!
+@2959.4
+Right, {01}C{0B}{00}, show them what guns can do!
+@2959.5
+Right, {01}C{0B}{00}, show them what guns can do!
+@2959.6
+Right, {01}C{0B}{00}, shoot down the enemy inside the castle!
+@2959.7
+Then, {01}C{0B}{00}, do show them what guns can do.
+@2960.2
+There is no need to shoot. Continue with your present task.
+@2960.3
+No need for shooting. Hold your tongue.
+@2960.4
+No shooting yet. Continue with your present task.
+@2960.5
+There is no need to shoot. Continue with your present task.
+@2960.6
+There's no need to shoot. Get back to your task.
+@2960.7
+There is no need to shoot. Please continue with your present task.
+@2961
+Hmm... Shall we withdraw for now?
+@2961.1
+Damn... Withdraw for now.
+@2961.2
+Hmm... Withdraw for now.
+@2961.3
+Ngh... Let us withdraw for now.
+@2961.4
+Ngh... Withdraw for now.
+@2961.5
+Hmm... Let us withdraw for now.
+@2962
+Right, we withdraw.
+@2962.1
+Right, we withdraw.
+@2962.2
+A sound proposal. Withdraw at once.
+@2962.3
+Damn, no help for it. Withdraw at once.
+@2962.4
+A sound proposal. Withdraw at once.
+@2962.5
+It cannot be helped. Withdraw at once.
+@2962.6
+No help for it. Withdraw at once.
+@2962.7
+It cannot be helped. Withdraw at once.
+@2963.2
+What are you saying? I will not allow you to withdraw on your own.
+@2963.3
+Don't talk such feeble rubbish! I won't allow a withdrawal!
+@2963.4
+Why so faint-hearted? You can fight on yet.
+@2963.5
+What are you saying? I will not allow you to withdraw on your own.
+@2963.6
+Don't say such feeble things. I won't allow a withdrawal.
+@2963.7
+Why so faint-hearted? Surely you can fight on yet.
+@2964
+Right, we change position. Everyone, follow me.
+@2964.1
+Right, we change position. Men, don't fall behind.
+@2964.2
+Right, let us change position. Everyone, follow me.
+@2964.3
+We now change position. Everyone, follow me.
+@2964.4
+Right, we're changing position. Everyone, keep up.
+@2964.5
+Then let us change position. Where would be best...?
+@2965
+Right, I'll change position.
+@2965.1
+Right, I'll change position.
+@2965.2
+Very well, change position.
+@2965.3
+Right, change position!
+@2965.4
+Very well, change position.
+@2965.5
+Very well, change position.
+@2965.6
+Right, change position!
+@2965.7
+Then please move.
+@2966.2
+Do not move your unit on your own.
+@2966.3
+I won't allow you to move on your own.
+@2966.4
+Do not leave that position now.
+@2966.5
+I will not allow you to move on your own.
+@2966.6
+I won't allow you to move on your own.
+@2966.7
+It would trouble me if you moved now.
+@2967
+Right, we lure the enemy away. That should leave this gate thinly guarded.
+@2967.1
+We'll lure the enemy on while moving to another gate.
+@2967.2
+Lure the enemy to another gate.
+@2967.3
+Lure the enemy away! That should leave this gate thinly guarded.
+@2967.4
+We'll lure the enemy on while moving to another gate.
+@2967.5
+Let us lure the enemy to another gate.
+@2968
+Right, I'll draw the enemy out while changing position.
+@2968.1
+Right, I'll draw the enemy out while changing position.
+@2968.2
+Right, {01}C{0B}{00}, draw the enemy out while you change position.
+@2968.3
+Right, {01}C{0B}{00}, draw the enemy out while you change position.
+@2968.4
+Very well, {01}C{0B}{00}, draw the enemy out while you change position.
+@2968.5
+Very well, {01}C{0B}{00}, draw the enemy out while you change position.
+@2968.6
+All right, {01}C{0B}{00}, draw the enemy out while you change position.
+@2968.7
+Very well, {01}C{0B}{00}, please draw the enemy out while you change position.
+@2969.2
+There is no need for that now. Return to your post at once.
+@2969.3
+No need. Hit the enemy where you stand.
+@2969.4
+That would be pointless. Return to your post.
+@2969.5
+There is no need for that now. Return to your post at once.
+@2969.6
+There's no need for that! Hit the enemy where you stand.
+@2969.7
+That would be pointless. Do return to your post at once.
+@2970.1
+Right, let's give them a taste of our arrows. Men, move to a good firing position.
+@2970.2
+Right, loose arrows into the castle. We take up a good firing position.
+@2970.4
+Right, I'll give them a taste of our arrows. Everyone, move to a good firing position.
+@2970.5
+Let us loose arrows into the castle. Take up a good firing position.
+@2971
+Right, show them what our bows can do.
+@2971.1
+Right, show them what our bows can do.
+@2971.2
+Right, {01}C{0B}{00}, show them what our bows can do.
+@2971.3
+Right, {01}C{0B}{00}, shoot down the enemy inside the castle!
+@2971.4
+Right, {01}C{0B}{00}, show them what our bows can do!
+@2971.5
+Right, {01}C{0B}{00}, show them what our bows can do!
+@2971.6
+Right, {01}C{0B}{00}, shoot down the enemy inside the castle!
+@2971.7
+Then, {01}C{0B}{00}, do show them what our bows can do.
+@2972.2
+There is no need to loose arrows. Continue with your present task.
+@2972.3
+No need for arrows. Hold your tongue.
+@2972.4
+No arrows yet. Continue with your present task.
+@2972.5
+There is no need to loose arrows. Continue with your present task.
+@2972.6
+There's no need for arrows. Get back to your task.
+@2972.7
+There is no need to loose arrows. Please continue with your present task.
+@2973
+We change position to hold off the enemy. Everyone, follow me.
+@2973.1
+We'll change position and block their attack. Men, follow me.
+@2973.2
+We change position to hold off the enemy. Everyone, follow me.
+@2973.3
+Let us move to a better place to hold off the enemy.
+@2973.4
+We're moving to a better place to hold off the enemy.
+@2974
+We now change position and open fire.
+@2974.1
+Right, we change position and open fire.
+@2974.2
+Let us open fire. We must change position.
+@2974.3
+Move to a good firing position.
+@2974.4
+Come, we change position and open fire.
+@2974.5
+Let us move to a good firing position.
+@2975
+Meet the enemy head-on! Don't let them advance any further!
+@2975.1
+Men, we sally out! Win all the glory you can!
+@2975.2
+We cannot let the enemy attack any longer. Let us sally out.
+@2975.3
+We meet the enemy head-on. They must not advance any further!
+@2975.4
+Come, we sally out! Win all the glory you can!
+@2975.5
+We must not let the enemy attack any longer. Let us sally out.
+@2976
+It seems we cannot hold here. Shall we withdraw for now?
+@2976.1
+Ngh... we can't hold them! Withdraw!
+@2976.2
+We cannot hold any longer. Everyone, withdraw!
+@2976.3
+It seems we cannot hold here... Withdraw for now.
+@2976.4
+Ngh... we can't hold them! We withdraw!
+@2976.5
+We cannot hold any longer... Let us withdraw.
+@2977
+We hold the enemy somewhere else. Everyone, follow me.
+@2977.3
+Let us hold the enemy somewhere else. Everyone, follow me.
+@2978
+Further resistance seems useless. I shall surrender with honour.
+@2978.1
+Hmm... the battle is decided. I shall surrender with honour.
+@2978.2
+Further resistance will only add to the dead. Let us surrender with honour.
+@2978.3
+Further resistance seems useless. Let us surrender with honour.
+@2978.4
+...The battle seems decided. I'll surrender with honour.
+@2978.5
+Further resistance will only add to the dead... Let us surrender with honour.
+@2979
+The gate to %s is broken! All troops, follow me and pour in!
+@2979.1
+The gate to %s is smashed! All troops, follow me and storm in!
+@2979.2
+The gate to %s is broken! All troops, follow me and pour in!
+@2979.3
+The gate to %s is broken! All troops, storm in!
+@2979.4
+Good, the gate to %s is broken! All troops, follow me!
+@2979.5
+The gate to %s is broken. Everyone, let us go through!
+@2980
+Good, the gate is open! All troops, pour in!
+@2980.1
+The gate's open! All troops, storm in!
+@2980.2
+The gate seems to be open. All troops, pour in!
+@2980.3
+The gate is open! All troops, pour in!
+@2980.4
+The gate seems to be open! All troops, storm in!
+@2980.5
+Oh my, the gate seems to be open. All troops, let us go in!
+@2981
+{02}{03}n's unit has withdrawn.
+@2982
+{02}{03}n's unit has retreated.
+@2983
+Our units are utterly exhausted and can fight no more. All troops, withdraw!
+@2983.1
+Our units are utterly exhausted and can't fight any more. All troops, withdraw!
+@2983.2
+Our units are utterly exhausted and can fight no more. All troops are withdrawing.
+@2984
+All the enemy units have withdrawn. Our army is victorious!
+@2984.1
+All the enemy units have withdrawn. Our army is victorious!
+@2984.2
+All the enemy units have withdrawn. Victory is ours.
+@2985
+My units are wiped out... All troops have no choice but to withdraw.
+@2985.1
+My units seem to be destroyed... All troops have no choice but to withdraw.
+@2985.2
+{02}{03}n's unit has been destroyed... All troops have no choice but to withdraw.
+@2985.3
+{02}{03}n's unit seems to have been destroyed... All troops have no choice but to withdraw.
+@2985.4
+{02}{03}n's unit has been destroyed. All troops must withdraw.
+@2986
+There are no officers left to defend the castle. It seems we can only surrender...
+@2986.1
+There seem to be no officers left to defend the castle. We can only surrender...
+@2986.2
+There are no officers left to defend the castle. It seems we can only surrender...
+@2987
+We seem to have wiped out the enemy units. Our army is victorious!
+@2987.1
+We seem to have wiped out the enemy units. Our army is victorious!
+@2987.2
+We seem to have wiped out the enemy units. Victory is ours.
+@2988
+The main bailey has fallen to the enemy! Must we surrender...?
+@2988.1
+The main bailey has fallen to the enemy! We can only surrender...
+@2988.2
+The main bailey has fallen to the enemy! It seems we can only surrender.
+@2989
+We have stormed the enemy's main bailey! Our army is victorious!
+@2989.1
+We are in the enemy's main bailey! Our army is victorious!
+@2989.2
+We have stormed the main bailey. Victory is ours.
+@2990
+The enemy has surrendered! Our army is victorious!
+@2990.1
+The enemy has surrendered! Our army is victorious!
+@2990.2
+The enemy has surrendered. Victory is ours.
+@2991
+The trap is ready.
+@2992
+Hahaha, fools! Be crushed under the stones!
+@2992.1
+Hahaha, you fools! I'll crush you under the stones!
+@2992.2
+Hohoho, such fools. Let Us crush you under the stones.
+@2992.3
+Heh heh, how foolish... Be crushed under the stones!
+@2992.4
+Sorry for you, but you're going under the stones!
+@2992.5
+Hohoho, how foolish... Do be crushed under the stones.
+@2993
+What, the trap missed!? To let such a chance slip away...
+@2993.1
+The trap won't work!? Damn, how can this be...
+@2993.2
+Our fine trap is useless... The work must have gone wrong.
+@2993.3
+The trap missed!? To let such a chance slip away...
+@2993.4
+The trap won't work!? How can this be...
+@2993.5
+Our fine trap is useless... The work must have gone wrong.
+@2994
+Hahaha, wrong place for the trap! Now, be crushed under the stones!
+@2994.1
+Hahaha, the trap's at this gate! Now I'll crush you under the stones!
+@2994.2
+Hohoho, such fools. Now, let Us crush you under the stones.
+@2994.3
+Heh heh, how comical to mistake where the trap is. There, be crushed under the stones!
+@2994.4
+Sorry for you, but the trap is over here! There, you're going under the stones!
+@2994.5
+Hohoho, how foolish to mistake where the trap is. Now, do be crushed under the stones.
+@2995
+There are enemies even among friends. I, {02}{01}4, will set the enemy against itself.
+@2995.1
+Heh... all is ready. Let them fight their own side.
+@2995.2
+Signal our spies among the enemy! Make them fight each other!
+@2995.3
+Behold my stratagem. Fight among yourselves.
+@2995.4
+Heh heh... all seems ready. Let them fight their own side.
+@2995.5
+Signal our spies among the enemy! I'll make them fight each other!
+@2995.6
+Allow me to show you my stratagem. Let them fight their own side.
+@2996
+Wh-what is happening? The men are so mixed up we cannot tell friend from foe!
+@2996.1
+Wh-what!? The men are so mixed up we can't tell friend from foe!
+@2996.2
+Wh-what is this? The men are so mixed up we cannot tell friend from foe!
+@2996.3
+Wh-what is going on? The men are so mixed up we cannot tell friend from foe!
+@2996.4
+Wh-what? The men are so mixed up we can't tell friend from foe!
+@2996.5
+Wh-what is happening? The men are so mixed up we cannot tell friend from foe!
+@2997
+While I, {02}{01}4, am here, our army cannot lose! Throw the fire pots!
+@2997.1
+Heh... Take this fire pot!
+@2997.2
+Heh... I'll set you ablaze with this fire pot!
+@2997.3
+Hohoho... Take this fire pot!
+@2997.5
+Heh... I'll set you ablaze with this fire pot!
+@2997.6
+Hohoho... Allow me to present you with this fire pot.
+@2998
+H-hot! Everyone, put out the fire!
+@2998.1
+Whoa! Men, put out the fire!
+@2998.2
+Eek! Everyone, put out the fire! Put it out!
+@2998.3
+H-hot! Everyone, put out the fire!
+@2998.4
+Eek! Put out the fire, quick!
+@2998.5
+H-hot! Put out the fire, quickly, quickly!
+@2999
+Shall we spread a rumour that someone among the enemy is in league with us...?
+@2999.1
+Put it about that someone among the enemy is in league with us.
+@2999.2
+Shall we try spreading a rumour that someone among the enemy is in league with us?
+@2999.3
+Let us spread a rumour that someone among the enemy is in league with us.
+@2999.4
+Put it about that someone among the enemy is in league with us.
+@2577.7
+I have high hopes for {01}C{0B}{00}, so I would like to see a little more effort.
+@2577.8
+I have high hopes for {01}C{0B}{00}. I shall keep putting them to good use.
+@2577.9
+I have high hopes for {01}C{0B}{00}. I shall keep putting them to good use.
+@2577.10
+I would like to see a little more effort from {01}C{0B}{00}.
+@2577.11
+I would like to see a little more effort from {01}C{0B}{00}.
+@2577.12
+I shall keep putting {01}C{0B}{00} to good use.
+@2577.13
+I shall keep putting {01}C{0B}{00} to good use.
+@2577.14
+{01}C{0B}{00} seems unhappy with our clan, and perhaps that is why their work falls short. What is to be done?
+@2577.15
+{01}C{0B}{00} seems unhappy with our clan, and perhaps that is why their work falls short. What is to be done?
+@2577.16
+{01}C{0B}{00} seems unhappy with our clan. What is to be done?
+@2577.17
+{01}C{0B}{00} seems unhappy with our clan. What is to be done?
+@2577.18
+{01}C{0B}{00} seems deeply unhappy with our clan, and their work falls short. I hope they are not plotting something.
+@2577.19
+{01}C{0B}{00} seems deeply unhappy with our clan, and their work falls short. I do hope they are not plotting something.
+@2577.20
+{01}C{0B}{00} seems deeply unhappy with our clan. Something must be done.
+@2577.21
+{01}C{0B}{00} seems deeply unhappy with our clan. Something must be done...
+@2577.22
+Born into this age of war, I would leave my name in the annals of the realm.
+@2577.23
+Born into this age of war, I would leave my name in the annals of the realm.
+@2577.24
+I look forward to the day {01}C{0D}{00} puts the plan into action.
+@2577.25
+I look forward to the day {01}C{0D}{00} puts the plan into action.
+@2577.26
+{01}C{0D}{00} seems willing to follow me too. Now it is only a question of when.
+@2577.27
+{01}C{0D}{00} seems willing to follow me too. Now it is only a question of when.
+@2577.28
+When will {01}C{0D}{00} make their move? I can hardly wait.
+@2577.29
+When will {01}C{0D}{00} make their move, I wonder? I can hardly wait.
+@2577.30
+I must stay ready to act the moment {01}C {00} gives the call.
+@2577.31
+I must stay ready to act the moment {01}C {00} gives the call.
+@2577.32
+Our gold is running low and that worries me, but I shall do my best for {01}C{17}{00}.
+@2577.33
+Our gold is running low and times are hard, but I shall do my best for {01}C{17}{00}.
+@2577.34
+I am content to serve {01}C{17}{00}. I shall never forget this kindness.
+@2577.35
+I am fortunate to serve {01}C{17}{00}. I shall never forget this kindness.
+@2577.36
+Our gold is running low and that worries me, but I must do my best to earn {01}C{17}{00}'s trust...
+@2577.37
+Our gold is running low and times are hard, but I shall do my best to earn {01}C{17}{00}'s trust.
+@2577.42
+What is {01}C{17}{00} thinking these days... I wish I were trusted more.
+@2577.43
+What is {01}C{17}{00} thinking these days? I wish I were trusted more...
+@2577.46
+Is {01}C{17}{00} truly worth serving, I wonder...
+@2577.47
+Is {01}C{17}{00} truly worth serving, I wonder...
+@2577.52
+The one to defeat is {02}{04}4! Our clan cannot prosper until the {02}{04}v is destroyed!
+@2577.53
+The one to defeat is {02}{04}4! Our clan cannot prosper until the {02}{04}v is destroyed!
+@2577.54
+The {02}{04}v is my enemy! {02}{04}4 and I can never be reconciled.
+@2577.55
+The {02}{04}v is my enemy! {02}{04}4 and I can never be reconciled.
+@2577.86
+It pains me to fight {01}C{0D}{00}, but must I accept it as the fate of this age of war...?
+@2577.87
+I never wanted to fight {01}C{0D}{00}, but I must accept it as the fate of this age of war...
+@2577.88
+I have been longing to face {01}C{0D}{00}! Now, a fair fight!
+@2577.89
+I have been longing to face {01}C{0D}{00}! Now, a fair fight!
+@2577.90
+{02}{02}4 is nothing to fear. I shall crush them with my own hands!
+@2577.91
+{02}{02}4 is nothing to fear. I shall crush them with my own hands!
+@2577.98
+There is no lord worth serving but {01}C{17}{00}.
+@2577.99
+There is no lord worth serving but {01}C{17}{00}.
+@2577.100
+{01}C{0D}{00} and I serve different masters, yet we seem to have something in common. Let us spur each other on.
+@2577.101
+{01}C{0D}{00} and I serve different masters, yet we seem to have something in common. Let us spur each other on.
+@2578
+{02}{C9} has been assassinated!?
+@2578.1
+{02}{C9} has been assassinated at our {02})N!?
+@2578.2
+{02}{C9} has been assassinated!?
+@2578.3
+{02}{C9} has been assassinated at our {02})N!?
+@2578.4
+{02}{C9} has been assassinated, my lord!
+@2578.5
+{02}{C9} has been assassinated at our {02})N!
+@2578.6
+It seems {02}{C9}, head of the {02}{03}v, has been assassinated at {02})N.
+@2578.7
+It seems {02}{C9}, head of the {02}{03}v, has been assassinated at {02})N.
+@2578.8
+It seems {02}{C9}, head of the {02}{03}v, has been assassinated at {02})N.
+@2578.9
+It seems {02}{C9} of the {02}{03}v has been assassinated at {02})N.
+@2578.10
+It seems {02}{C9} of the {02}{03}v has been assassinated at {02})N.
+@2578.11
+It seems {02}{C9} of the {02}{03}v has been assassinated at {02})N.
+@2579
+The lord of {02}{03}N has changed from {02}{C9} to {01}C{18}{00}. That voids their secret pact with us to rise against their lord.
+@2579.1
+The lord of {02}{03}N has changed from {02}{C9} to {01}C{18}{00}. That voids their secret pact with us to rise against their lord.
+@2579.2
+The lord of {02}{03}N has changed from {02}{C9} to {01}C{18}{00}. That voids their secret pact with us to rise against their lord.
+@2580
+What shall I propose to {01}C{17}{00}...
+@2580.1
+What shall I propose to {01}C{17}{00}, I wonder...
+@2580.2
+What will you propose to {01}C{17}{00}?
+@2581
+Everyone already recommends me.
+@2581.1
+Everyone already recommends me.
+@2581.2
+Everyone already recommends you, my lord.
+@2581.3
+Everyone already recommends {01}C{16}{00}.
+@2581.4
+Everyone already recommends {01}C{16}{00}.
+@2581.5
+Everyone already recommends {01}C{18}{00}.
+@2581.6
+Everyone already recommends {01}C{18}{00}.
+@2581.7
+Everyone already recommends {01}C{18}{00}.
+@2582.2
+{01}C{0C}{00}, your orders, please.
+@2583
+We are currently hostile with this minor power.
+@2583.1
+We are currently hostile with this minor power.
+@2583.2
+We are currently hostile with this minor power, my lord.
+@2583.3
+We are currently hostile with this minor power.
+@2584
+A typhoon seems to have struck {02}{1F}2.
+@2584.1
+A typhoon seems to have struck {02}{1F}2.
+@2584.2
+A typhoon has struck {02}{1F}2.
+@2585
+A typhoon passed near {02}{01}N, but thanks to our flood works the damage was slight.
+@2585.1
+A typhoon passed near {02}{01}N, but thanks to our flood works the damage was slight.
+@2585.2
+A typhoon passed near {02}{01}N, but thanks to our flood works the damage was kept to a minimum.
+@2586
+What...! A flood near {02}{01}N has brought down the castle walls.
+@2586.1
+Oh...! A flood near {02}{01}N has brought down the castle walls.
+@2586.2
+Grave news! A flood near {02}{01}N has badly damaged the castle walls...
+@2587
+Hmm... A typhoon passed near {02}{01}N and part of the castle walls seems to have collapsed.
+@2587.1
+Oh... A typhoon passed near {02}{01}N and part of the castle walls seems to have collapsed.
+@2587.2
+Bad news. A typhoon passed near {02}{01}N and part of the castle walls has collapsed.
+@2588
+Some of our castles also seem to have had walls brought down by the typhoon.
+@2588.1
+Some of our castles also seem to have had walls brought down by the typhoon.
+@2588.2
+Some of our castles also seem to have had walls brought down by the typhoon.
+@2589
+It seems our clan has escaped the typhoon unharmed.
+@2589.1
+It seems our clan has escaped the typhoon unharmed.
+@2589.2
+It seems our clan has escaped the typhoon unharmed.
+@2590
+Some regions seem to have had a good harvest.
+@2590.1
+Some regions seem to have had a good harvest.
+@2590.2
+Some regions seem to have had a good harvest.
+@2591
+{02}{01}N has had a good harvest too! We can expect plenty of rice.
+@2591.1
+{02}{01}N has had a good harvest too! We can expect plenty of rice.
+@2591.2
+{02}{01}N has had a good harvest too! We can expect plenty of rice.
+@2592
+Some of our castles also seem to have reaped more rice from a good harvest.
+@2592.1
+Some of our castles also seem to have reaped more rice from a good harvest.
+@2592.2
+Some of our castles also seem to have reaped more rice from a good harvest.
+@2593
+It seems our lands did not have a good harvest.
+@2593.1
+It seems our lands did not have a good harvest.
+@2593.2
+It seems our lands did not have a good harvest.
+@2594
+Some regions seem to have had a poor harvest.
+@2594.1
+Some regions seem to have had a poor harvest.
+@2594.2
+Some regions seem to have had a poor harvest.
+@2595
+Hmm... We seem to have had a poor harvest too. I fear for our rice...
+@2595.1
+Oh... We seem to have had a poor harvest too. I fear for our rice...
+@2595.2
+We seem to have had a poor harvest too. I fear for our rice...
+@2596
+The people of {02}{01}N seem to be suffering from famine. We can expect no rice harvest now...
+@2596.1
+The people of {02}{01}N seem to be suffering from famine. We can expect no rice harvest now...
+@2596.2
+The people of {02}{01}N are suffering from famine! We can expect no rice harvest now...
+@2597
+Some of our castles also seem to have reaped less rice from a poor harvest.
+@2597.1
+Some of our castles also seem to have reaped less rice from a poor harvest.
+@2597.2
+Some of our castles also seem to have reaped less rice from a poor harvest.
+@2598
+It seems our lands escaped a poor harvest.
+@2598.1
+It seems our lands escaped a poor harvest.
+@2598.2
+It seems our lands escaped a poor harvest.
+@2599
+An epidemic seems to have broken out in {02}{1F}2.
+@2599.1
+An epidemic seems to have broken out in {02}{1F}2.
+@2599.2
+An epidemic has broken out in {02}{1F}2.
+@2600
+The epidemic seems to have reached our {02}{01}N. Our troops are falling one after another...
+@2600.1
+The epidemic seems to have reached our {02}{01}N. Our troops are falling one after another...
+@2600.2
+The epidemic has reached our {02}{01}N! Our troops are falling one after another...
+@2601
+At some of our castles too, troops seem to be falling to the epidemic.
+@2601.1
+At some of our castles too, troops seem to be falling to the epidemic.
+@2601.2
+At some of our castles too, troops seem to be falling to the epidemic.
+@2602
+The epidemic that broke out in {02}{1F}2 seems to be spreading.
+@2602.1
+The epidemic that broke out in {02}{1F}2 seems to be spreading.
+@2602.2
+The epidemic that broke out in {02}{1F}2 is spreading.
+@2603
+The epidemic seems to be spreading. At our {02}{01}N, troops are falling one after another...
+@2603.1
+The epidemic seems to be spreading. At our {02}{01}N, troops are falling one after another...
+@2603.2
+The epidemic seems to be spreading. At our {02}{01}N, troops are falling one after another...
+@2604
+The epidemic seems to be spreading. At some of our castles too, troops are falling to it.
+@2604.1
+The epidemic seems to be spreading. At some of our castles too, troops are falling to it.
+@2604.2
+The epidemic seems to be spreading. At some of our castles too, troops are falling to it.
+@2605
+The epidemic seems to have run its course.
+@2605.1
+The epidemic seems to have run its course.
+@2605.2
+The epidemic seems to have run its course.
+@2606
+An earthquake seems to have struck, centred on {02}{1F}2.
+@2606.1
+An earthquake seems to have struck, centred on {02}{1F}2.
+@2606.2
+An earthquake seems to have struck, centred on {02}{1F}2.
+@2607
+Hmm... The earthquake seems to have brought down part of the walls of our {02}{01}N.
+@2607.1
+Oh... The earthquake seems to have brought down part of the walls of our {02}{01}N.
+@2607.2
+Bad news. The earthquake has brought down part of the walls of our {02}{01}N.
+@2608
+Some of our castles also seem to have had walls brought down by the earthquake.
+@2608.1
+Some of our castles also seem to have had walls brought down by the earthquake.
+@2608.2
+Some of our castles also seem to have had walls brought down by the earthquake.
+@2609
+Some regions seem to have been hit by heavy snow.
+@2609.1
+Some regions seem to have been hit by heavy snow.
+@2609.2
+Some regions seem to have been hit by heavy snow.
+@2610
+Snow has closed the roads. The army of our {02}{01}N cannot march freely.
+@2610.1
+Snow has closed the roads. The army of our {02}{01}N cannot march freely.
+@2610.2
+Snow has closed the roads. The army of our {02}{01}N is hampered on the march.
+@2611
+Snow has closed the roads. Our clan's armies cannot march freely.
+@2611.2
+Snow has closed the roads. Our clan's armies seem hampered on the march.
+@2612
+The snow is melting. Now the armies can move.
+@2612.1
+The snow is melting. Now the armies can move.
+@2612.2
+The snow is melting. The armies can move again.
+@2613
+Hmm... The ship of {02}{AB}{AF} we sent to trade seems to have been wrecked.
+@2613.1
+Oh... The ship of {02}{AB}{AF} we sent to trade seems to have been wrecked.
+@2613.2
+The ship of {02}{AB}{AF} we sent to trade seems to have been wrecked.
+@2614
+Ah, the trading ship of {02}{AB}{AF} has returned!
+@2614.1
+The trading ship of {02}{AB}{AF} is back at last. I wonder what it has brought.
+@2614.2
+The trading ship of {02}{AB}{AF} has returned!
+@2615
+Oh? Trade has brought us {02}32.
+@2615.1
+This time, trade has brought us {02}32.
+@2615.2
+Good news! Trade has brought us {02}32.
+@2616
+Hmm, the profit from this trade is %d gold.
+@2616.1
+The profit from this trade is %d gold... A pity it was not a treasure.
+@2616.2
+Good news! Trade has brought us %d gold.
+@2617
+There seem to be uprisings in some provinces.
+@2617.1
+There seem to be uprisings in some provinces.
+@2617.2
+There seem to be uprisings in some provinces.
+@2618
+Rebels surround my castle! At this rate our income will plummet. I must do something...
+@2618.1
+Rebels surround my castle! At this rate our income will plummet. I must do something...
+@2618.2
+Rebels surround our castle! Unless we act, our income will plummet.
+@2619
+Some of our castles also seem to be targets of uprisings.
+@2619.1
+Some of our castles also seem to be targets of uprisings.
+@2619.2
+Some of our castles also seem to be targets of uprisings.
+@2620
+{02}{AB}{AF} and {02}{AC}{AF} seem to be locked in a feud.
+@2620.1
+{02}{AB}{AF} and {02}{AC}{AF} seem to be locked in a feud.
+@2620.2
+{02}{AB}{AF} and {02}{AC}{AF} seem to be locked in a feud.
+@2621
+{02}{AB}{AF} seems to have won. {02}{AC}{AF} will now come under {02}{AB}{AF}.
+@2621.1
+{02}{AB}{AF} seems to have won. {02}{AC}{AF} will now come under {02}{AB}{AF}.
+@2621.2
+{02}{AB}{AF} has won. {02}{AC}{AF} will come under {02}{AB}{AF}.
+@2622
+{02}{AC}{AF} has won. {02}{AB}{AF} seems to have withdrawn.
+@2622.1
+{02}{AC}{AF} has won. {02}{AB}{AF} seems to have withdrawn.
+@2622.2
+{02}{AC}{AF} has won. {02}{AB}{AF} seems to have withdrawn.
+@2623
+It seems to have ended in a draw.
+@2623.1
+It seems to have ended in a draw.
+@2623.2
+It seems to have ended in a draw.
+@2624
+Pirates seem to be plundering.
+@2624.1
+Pirates seem to be plundering.
+@2624.2
+Pirates seem to be plundering.
+@2625
+Pirates seem to be plundering freely near {02}{01}N... At this rate, this castle's income will suffer.
+@2625.1
+Pirates seem to be plundering freely near {02}{01}N... At this rate, this castle's income will suffer.
+@2625.2
+Pirates are plundering freely near {02}{01}N! At this rate, this castle's income will suffer.
+@2626
+Pirates seem to be plundering some of our castles too.
+@2626.1
+Pirates seem to be plundering some of our castles too.
+@2626.2
+Pirates seem to be plundering some of our castles too.
+@2627
+I have found someone named {02}{03}n.
+@2627.1
+I have found someone named {02}{03}n.
+@2627.2
+{01}C{0C}{00}, I have found a promising person named {02}{03}n.
+@2628
+Shall I recruit {02}{03}n...?
+@2628.1
+Perhaps I shall recruit {02}{03}n...
+@2628.2
+Will you recruit {02}{03}n?
+@2629
+I shall prove my worth to {01}C{0C}{00}, without fail.
+@2629.1
+I'll win distinction for you, you'll see.
+@2629.2
+To be taken into service is all I could wish for. Command me as you will.
+@2629.3
+I shall prove my worth to Lord {02}{02}4, without fail.
+@2629.4
+I shall win distinction for you, you will see.
+@2629.5
+To be taken into service is all I could wish for. Command me as you will.
+@2630
+I thank you for the offer, but I have no wish to take service for now. I shall take my leave...
+@2630.1
+Sorry, but I've no wish to serve the {02}{02}v. Farewell...
+@2630.2
+I am delighted by the offer, but the free life of a ronin suits me. Do forgive me...
+@2630.3
+I thank you for the offer, but I have no wish to take service at present. I shall take my leave...
+@2630.4
+I am sorry, but I have no wish to serve the {02}{02}v. Farewell...
+@2630.5
+I am delighted by the offer, but I would rather live the free life of a ronin. Do forgive me...
+@2631
+I shall not approach {02}{03}n after all.
+@2631.1
+I shall not approach {02}{03}n after all.
+@2631.2
+I shall not approach {02}{03}n after all.
+@2632
+It seems someone named {02}{03}n has entered service at our {02})N.
+@2632.1
+It seems someone named {02}{03}n has entered service at our {02})N.
+@2632.2
+It seems someone named {02}{03}n has entered service at our {02})N.
+@2633
+My child {02}{04}4 has come of age. How time flies...
+@2633.1
+My child {02}{04}4 has come of age. How time flies...
+@2633.2
+It seems {02}{04}4, child of {02}{03}n, has come of age.
+@2633.3
+It seems {02}{04}4, child of {02}{03}n, has come of age.
+@2633.4
+It seems {02}{04}4, sibling of {02}{03}n, has come of age.
+@2633.5
+It seems {02}{04}4, sibling of {02}{03}n, has come of age.
+@2633.6
+It seems {02}{04}4, adopted child of {02}{03}n, has come of age.
+@2633.7
+It seems {02}{04}4, adopted child of {02}{03}n, has come of age.
+@2633.8
+{01}C{0C}{00}, my younger brother {02}{04}4 has come of age.
+@2633.9
+{01}C{0C}{00}, my younger sister {02}{04}4 has come of age.
+@2633.10
+Congratulations! {01}C{0C}{00}'s son, Lord {02}{04}4, has come of age.
+@2633.11
+Congratulations! {01}C{0C}{00}'s daughter, Lady {02}{04}4, has come of age.
+@2633.12
+{01}C{0C}{00}, my unworthy son {02}{04}4 has now come of age.
+@2633.13
+{01}C{0C}{00}, my daughter {02}{04}4 has now come of age.
+@2633.14
+{01}C{0C}{00}, {02}{04}4, child of {02}{03}n, has come of age.
+@2633.15
+{01}C{0C}{00}, {02}{04}4, younger brother of {02}{03}n, has come of age.
+@2633.16
+{01}C{0C}{00}, {02}{04}4, younger sister of {02}{03}n, has come of age.
+@2633.17
+{01}C{0C}{00}, {02}{04}4, adopted child of {02}{03}n, has come of age.
+@2634
+I shall strive with all my might not to disgrace the name of {01}C{09}{00}.
+@2634.1
+I shall serve the {02}{03}v so as not to fall short of my father, {02}{03}4.
+@2634.2
+I shall serve the {02}{03}v so as not to disgrace my mother's name.
+@2634.3
+I shall work my fingers to the bone for {01}C{0C}{00}.
+@2635
+It seems {02}{03}n has come of age at our {02})N.
+@2635.1
+It seems {02}{03}n has come of age at our {02})N.
+@2635.2
+{02}{03}n has come of age at our {02})N.
+@2636
+My child is born! What joy! Tonight I shall gather everyone for a feast!
+@2636.1
+Phew... At last, the baby is born. How adorable...
+@2636.2
+It seems {02}{03}n has had a child.
+@2636.3
+It seems {02}{03}n has had a child.
+@2636.4
+My heartiest congratulations on the birth of {01}C{0C}{00}'s child.
+@2636.5
+{01}C{0C}{00}, I have come to report that my child has been born.
+@2636.6
+{01}C{0C}{00}, {02}{03}n has had a child.
+@2636.7
+{01}C{0C}{00}, {02}{03}n has had a child.
+@2637
+When this child comes of age, I shall name them {02}{03}4. I look forward to seeing them grow.
+@2637.1
+When this child comes of age, I shall name them {02}{03}4. How will they live in this age of war, I wonder...
+@2637.2
+Splendid news. When the child comes of age, name them {02}{03}4.
+@2637.3
+What happy news. When the child comes of age, name them {02}{03}4.
+@2638
+It seems {02}{03}n has had a child. I wonder what kind of officer they will become.
+@2638.1
+It seems {02}{03}n has had a child. I wonder what kind of officer they will become.
+@2638.2
+It seems {02}{03}n has had a child.
+@2638.3
+It seems our {02}{03}n has had a child. I wonder what kind of officer they will become.
+@2638.4
+It seems our {02}{03}n has had a child. I wonder what kind of officer they will become.
+@2638.5
+It seems our {02}{03}n has had a child.
+@2639
+My daughter's hair-tying ceremony seems to have gone off without a hitch.
+@2639.1
+My daughter's hair-tying ceremony seems to have gone off without a hitch.
+@2639.2
+{01}C{0C}{00}, my younger sister's hair-tying ceremony has gone off without a hitch.
+@2639.3
+{01}C{0C}{00}, my younger sister's hair-tying ceremony has gone off without a hitch.
+@2639.4
+{01}C{0D}{00}, your daughter's hair-tying ceremony seems to have gone off without a hitch. Congratulations.
+@2639.5
+{01}C{0D}{00}, your daughter's hair-tying ceremony seems to have gone off without a hitch. Congratulations.
+@2639.6
+{01}C{0C}{00}, your daughter's hair-tying ceremony has gone off without a hitch. My heartiest congratulations.
+@2640
+My daughter has completed her hair-tying ceremony.
+@2640.1
+My daughter has completed her hair-tying ceremony.
+@2640.2
+My daughter has completed her hair-tying ceremony.
+@2640.3
+It seems {02}{03}n's daughter has completed her hair-tying ceremony.
+@2640.4
+It seems {02}{03}n's daughter has completed her hair-tying ceremony.
+@2640.5
+It seems {02}{03}n's daughter has completed her hair-tying ceremony.
+@2640.6
+It seems the daughter of our {02}{03}n has completed her hair-tying ceremony.
+@2640.7
+It seems the daughter of our {02}{03}n has completed her hair-tying ceremony.
+@2640.8
+It seems the daughter of our {02}{03}n has completed her hair-tying ceremony.
+@2641
+Shall I raise the princess as an officer...?
+@2641.1
+Shall I raise the princess as an officer?
+@2641.2
+Will you raise the princess as an officer?
+@2641.3
+Shall I order this princess to be raised as an officer...?
+@2641.4
+Shall I order this princess to be raised as an officer?
+@2641.5
+Will you order the princess to be raised as an officer?
+@2642
+To bring peace to this land, I wish to live as an officer of our clan.
+@2642.1
+Since I was a little girl, I have longed for this day.
+@2642.2
+I wish to become a famed woman warrior, like Lady Tomoe.
+@2642.3
+I may be a woman, but I believe I understand what it means to be a warrior.
+@2642.4
+I shall become a fine warrior, worthy of Father's name.
+@2643
+I wish to find my own way to serve our clan as a woman.
+@2643.1
+I wish to work for our clan in my own way.
+@2643.2
+I hope to spend my life with a good husband.
+@2643.3
+Where might my future husband be? Oh, I long to meet him.
+@2643.4
+What a pity. I meant to fight beside Father as a woman warrior...
+@2644
+{02}{03}4... To go before me... How cruel this world is...
+@2644.1
+Princess {02}{03}4, who married into our clan, has died... That ends our marriage ties with the {02}{03}{F1}.
+@2644.2
+Princess {02}{03}4, who married into our clan, has died... That ends our marriage ties with the {02}{03}{F1}.
+@2644.3
+{01}C{0C}{00}, it grieves me to say that your wife has passed away. Our marriage ties with the {02}{03}{F1} are ended.
+@2644.4
+My wife {02}{03}4 has passed away. Our marriage ties with the {02}{03}{F1} are ended.
+@2644.5
+Princess {02}{03}4, who married into our clan, has died. Our marriage ties with the {02}{03}{F1} are ended.
+@2644.6
+How can this be... {02}{03}4, to die before me... Ungrateful child...
+@2644.7
+Princess {02}{03}4, who married into the {02}{04}v, has died... That ends our marriage ties with the {02}{04}v.
+@2644.8
+Princess {02}{03}4, who married into the {02}{04}v, has died... That ends our marriage ties with the {02}{04}v.
+@2644.9
+Word has come that Princess {02}{03}4, who married into the {02}{04}v, has passed away... You have my deepest sympathy...
+@2644.10
+Word has come that my daughter {02}{03}4, who married into the {02}{04}v, has passed away...
+@2644.11
+Princess {02}{03}4, who married into the {02}{04}v, has died. Our marriage ties with the {02}{04}v are ended.
+@2645.1
+Princess {02}{03}4, who married {02}{04}n, has died...
+@2645.2
+Princess {02}{03}4, who married {02}{04}n, has died...
+@2645.3
+{01}C{0C}{00}, it grieves me to say that your wife has passed away. You have my deepest sympathy...
+@2645.4
+My wife {02}{03}4 has passed away... *sob*
+@2645.5
+Princess {02}{03}4, wife of {02}{04}n, has died.
+@2646.1
+{01}C{0C}{00}, it grieves me to say that Princess {02}{03}4 has passed away. You have my deepest sympathy...
+@2647
+So my fate ends here...\n\n\n(Died in %d, aged %d)
+@2647.1
+So my fate ends here, it seems...\n\n\n(Died in %d, aged %d)
+@2647.2
+{01}C{0C}{00}, my life is at its end, it seems...\n\n(Died in %d, aged %d)
+@2647.3
+{01}C{0C}{00}, my life is at its end, it seems...\n\n(Died in %d, aged %d)
+@2648
+It seems {02}{03}n, a ronin famed as a statesman, has died in {02}{1F}2.
+@2648.1
+It seems {02}{03}n, a ronin famed as a statesman, has died in {02}{1F}2.
+@2648.2
+{01}C{0C}{00}, rumour has it that {02}{03}n, a ronin famed as a statesman, has died in {02}{1F}2.
+@2648.3
+It seems {02}{03}n, a ronin feared as a fierce warrior, has died in {02}{1F}2.
+@2648.4
+It seems {02}{03}n, a ronin feared as a fierce warrior, has died in {02}{1F}2.
+@2648.5
+{01}C{0C}{00}, rumour has it that {02}{03}n, a ronin feared as a fierce warrior, has died in {02}{1F}2.
+@2648.6
+It seems {02}{03}n, a ronin praised for godlike cunning, has died in {02}{1F}2.
+@2648.7
+It seems {02}{03}n, a ronin praised for godlike cunning, has died in {02}{1F}2.
+@2648.8
+{01}C{0C}{00}, rumour has it that {02}{03}n, a ronin praised for godlike cunning, has died in {02}{1F}2.
+@2648.9
+It seems the ronin {02}{03}n has died in {02}{1F}2.
+@2648.10
+It seems the ronin {02}{03}n has died in {02}{1F}2.
+@2648.11
+{01}C{0C}{00}, rumour has it that the ronin {02}{03}n has died in {02}{1F}2.
+@2649
+{02}{03}n, lord of {02}{03}N, has died...
+@2649.1
+{02}{03}n, lord of {02}{03}N, has died...
+@2649.2
+{02}{03}n of {02}{03}N has died...
+@2649.3
+{02}{03}n of {02}{03}N has died...
+@2649.4
+{01}C{17}{00} has passed away!? How can this be...
+@2649.5
+{01}C{17}{00} has passed away!? How can this be...
+@2649.6
+{02}{03}n, lord of {02}{03}N, has died...
+@2649.7
+{02}{03}n, lord of {02}{03}N, has died...
+@2649.10
+Grave news! {02}{03}4, our clan head, has died!
+@2649.11
+Grave news! {02}{03}4, our clan head, has died!
+@2649.12
+Grave news! Lord {02}{03}4 has passed away!
+@2649.13
+Grave news! Our clan head, Lord {02}{03}4, has passed away!
+@2649.14
+{01}C{0C}{00}, {02}{03}n, lord of {02}{03}N, has died.
+@2649.15
+{01}C{0C}{00}, {02}{03}n of {02}{03}N has died.
+@2649.16
+It seems {02}{03}n, head of the {02}{03}v, has died.
+@2649.17
+It seems {02}{03}n, head of the {02}{03}v, has died.
+@2649.18
+It seems {02}{03}n has died at {02}{03}N of the {02}{03}v.
+@2649.19
+It seems {02}{03}n has died at {02}{03}N of the {02}{03}v.
+@2649.20
+{01}C{0C}{00}, it seems {02}{03}n, head of the {02}{03}v, has died.
+@2649.21
+{01}C{0C}{00}, it seems {02}{03}n has died at {02}{03}N of the {02}{03}v.
+@2650
+None but I can succeed to our clan. At last my time has come!
+@2650.1
+None but I can succeed to our clan. At last my time has come.
+@2650.2
+Our clan's fate now rests with {01}C{18}{00}. Please take up our late lord's mantle with resolve.
+@2650.3
+It seems {01}C{18}{00} has been chosen as the new clan head.
+@2650.4
+It seems {01}C{18}{00} has been chosen as the new clan head.
+@2650.5
+It seems {01}C{18}{00} has been chosen as the new clan head.
+@2650.6
+It seems {02}{03}n will succeed as head of the %s.
+@2650.7
+It seems {02}{03}n will succeed as head of the %s.
+@2650.8
+It seems {02}{03}n will succeed as head of the %s.
+@2651.6
+With its head killed in battle, it seems {02}{03}n will succeed as head of the %s.
+@2651.7
+With its head killed in battle, it seems {02}{03}n will succeed as head of the %s.
+@2651.8
+With its head killed in battle, it seems {02}{03}n will succeed as head of the %s.
+@2652
+Lately I feel my grasp of politics has broadened... (Politics {02}{03}_)
+@2652.1
+Lately I feel my grasp of politics has broadened... (Politics {02}{03}_)
+@2652.2
+Lately {02}{03}4's grasp of politics seems to have grown sharper too... (Politics {02}{03}_)
+@2652.3
+Lately {02}{03}4's grasp of politics seems to have grown sharper too... (Politics {02}{03}_)
+@2652.4
+Lately I feel {01}C{17}{00}'s grasp of politics has grown sharper... (Politics {02}{03}_)
+@2652.5
+Lately {01}C{17}{00}'s grasp of politics seems to have grown sharper... Impressive. (Politics {02}{03}_)
+@2652.6
+Lately {02}{03}4's grasp of politics seems to have grown sharper... (Politics {02}{03}_)
+@2652.7
+Lately {02}{03}4's grasp of politics seems to have grown sharper... (Politics {02}{03}_)
+@2652.8
+Lately I feel my grasp of politics has broadened... (Politics {02}{03}_)
+@2652.9
+Lately I feel {01}C{17}{00}'s grasp of politics has grown sharper... (Politics {02}{03}_)
+@2652.10
+Lately {01}C{17}{00}'s grasp of politics seems to have grown sharper... Impressive. (Politics {02}{03}_)
+@2652.11
+Lately I feel {01}C{17}{00}'s grasp of politics has grown sharper... There is still much room to grow. (Politics {02}{03}_)
+@2652.12
+Lately {01}C{17}{00}'s grasp of politics seems to have grown sharper... (Politics {02}{03}_)
+@2652.13
+Lately {01}C{17}{00}'s grasp of politics seems to have grown sharper... (Politics {02}{03}_)
+@2652.14
+Lately {01}C{17}{00}'s grasp of politics seems to have grown sharper... (Politics {02}{03}_)
+@2652.16
+Lately my child {02}{03}4's grasp of politics seems to have grown sharper... (Politics {02}{03}_)
+@2652.17
+Lately my {01}C{1A}{00}'s grasp of politics seems to have grown sharper... (Politics {02}{03}_)
+@2652.18
+Lately {02}{03}4's grasp of politics seems to have grown sharper... (Politics {02}{03}_)
+@2652.19
+Lately {02}{03}n's grasp of politics seems to have grown sharper... (Politics {02}{03}_)
+@2653
+Lately I feel I have gained the power to lead troops... (Leadership {02}{03}a)
+@2653.1
+Lately I feel I have gained the power to lead troops... (Leadership {02}{03}a)
+@2653.2
+Lately {02}{03}4 too seems to have gained the power to lead troops. (Leadership {02}{03}a)
+@2653.3
+Lately {02}{03}4 too seems to have gained the power to lead troops... (Leadership {02}{03}a)
+@2653.4
+Lately I feel {01}C{17}{00}'s power to lead troops has grown even greater... (Leadership {02}{03}a)
+@2653.5
+Lately {01}C{17}{00}'s power to lead troops seems even greater... Impressive. (Leadership {02}{03}a)
+@2653.6
+Lately {02}{03}4's power to lead troops seems to be growing... (Leadership {02}{03}a)
+@2653.7
+Lately {02}{03}4's power to lead troops seems to be growing... (Leadership {02}{03}a)
+@2653.8
+Lately I feel I have gained the power to lead troops... (Leadership {02}{03}a)
+@2653.9
+Lately I feel {01}C{17}{00}'s power to lead troops has grown even greater... (Leadership {02}{03}a)
+@2653.10
+Lately {01}C{17}{00}'s power to lead troops seems even greater... Impressive. (Leadership {02}{03}a)
+@2653.11
+Lately I feel {01}C{17}{00}'s power to lead troops has grown even greater... And it will surely grow more. (Leadership {02}{03}a)
+@2653.12
+Lately {01}C{17}{00}'s power to lead troops seems even greater... (Leadership {02}{03}a)
+@2653.13
+Lately {01}C{17}{00}'s power to lead troops seems even greater... (Leadership {02}{03}a)
+@2653.14
+Lately {01}C{17}{00}'s power to lead troops seems even greater. (Leadership {02}{03}a)
+@2653.15
+Lately {01}C{17}{00}'s power to lead troops seems even greater... (Leadership {02}{03}a)
+@2653.16
+Lately my child {02}{03}4's power to lead troops seems to be growing... (Leadership {02}{03}a)
+@2653.17
+Lately my {01}C{1A}{00}'s power to lead troops seems to be growing... (Leadership {02}{03}a)
+@2653.18
+Lately {02}{03}4's power to lead troops seems to be growing... (Leadership {02}{03}a)
+@2653.19
+Lately {02}{03}n's power to lead troops seems to be growing. (Leadership {02}{03}a)

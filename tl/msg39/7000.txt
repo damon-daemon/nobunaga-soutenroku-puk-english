@@ -1,0 +1,234 @@
+@7000
+That may well be... But even so, they have betrayed us. They must pay for it.
+@7000.1
+That may well be... But even so, they have betrayed us. They must pay for it.
+@7001
+Meanwhile, in the {02}{01}v...
+@7002
+Build forts and strengthen our defences! Gather as many troops as you can before the {02}{02}v army arrives!
+@7002.1
+Build forts and strengthen our defences! Gather as many troops as you can before the {02}{02}v army arrives!
+@7002.2
+Build forts and strengthen our defences! Gather as many troops as you can before the {02}{02}2 army arrives!
+@7002.3
+Build forts and strengthen our defences! Gather as many troops as you can before the {02}{02}2 army arrives!
+@7003
+What fate awaited the {02}{01}v, now independent of the {02}{02}v, no one could know...
+@7003.1
+What fate awaited the {02}{01}v, now independent of the {02}{02}2 clan, no one could know...
+@7004
+At {02}{01}N, home castle of {02}{01}n... The court noble {02}{02}n had come to this castle as an envoy from the Imperial Court.
+@7004.1
+At {02}{01}9, home castle of {02}{01}n... The court noble {02}{02}n had come to this castle as an envoy from the Imperial Court.
+@7005
+I am {02}{01}n. I am most humbled that you have come to so shabby a place.
+@7006
+I am {02}{01}2 {02}{01}4, {02}=2. I am most humbled that you have come to so shabby a place.
+@7007
+Ohoho, Lord {02}{02}4, be at ease.
+@7007.1
+Mm, Lord {02}{02}4, be at ease.
+@7008
+Yes, my lord. And what brings you here this time?
+@7009
+His Majesty has decreed that you be raised to {02}=2. Accept it with due reverence.
+@7009.1
+Mm, His Majesty has decreed that you be raised to {02}=2. Accept it with due reverence.
+@7010
+One such as I, raised to {02}=2... I am deeply grateful.
+@7011
+Pray continue to labour for the Court and for peace in the realm.
+@7012
+And so {02}{01}n was appointed {02}=2.
+@7013
+At {02}{01}N, home castle of {02}{01}n... {02}{02}n had come to this castle as an envoy from the shogunate.
+@7013.1
+At {02}{01}9, home castle of {02}{01}n... {02}{02}n had come to this castle as an envoy from the shogunate.
+@7014
+Well, well, Lord {02}{02}4. I am most obliged that you have come all this way.
+@7015
+I am glad to see {01}C{0D}{00} in good health. I have come this time to deliver the Shogun's decision. Listen carefully.
+@7015.1
+I am glad to see {01}C{0D}{00} in good health. I have come this time to deliver the Shogun's decision. Listen carefully.
+@7017
+The Shogun wishes to appoint you {02}G2. We ask that you accept.
+@7018
+What, one such as I... An honour beyond my station. I humbly accept.
+@7019
+We ask that you continue to protect and serve the Shogun. We count on you.
+@7021
+And so {02}{01}n was appointed {02}G2.
+@7022
+At {02}{01}N, home castle of {02}{01}n... {02}{01}4 summoned the vassal {02}{02}n.
+@7022.1
+At {02}{01}9, home castle of {02}{01}n... {02}{01}4 summoned the vassal {02}{02}n.
+@7023
+{01}C{0D}{00}, what is it today?
+@7023.1
+{01}C{0D}{00}, what is it today?
+@7023.2
+{01}C{0C}{00}, what is your business today?
+@7024
+I have been impressed by {01}C{0D}{00}'s faithful service of late. So I wish to reward it.
+@7024.1
+I have been impressed by {01}C{0D}{00}'s faithful service of late. So I wish to reward {01}C{0D}{00}'s work.
+@7024.2
+Yes, I have been impressed by {01}C{0B}{00}'s faithful service of late. So I wish to reward your work.
+@7025
+My service is a trifle. There is no need for such concern.
+@7025.1
+My service is a trifle. No need for concern.
+@7025.2
+My service is a trifle. There is no need for such concern.
+@7026
+No, I cannot leave it at that. In fact the reward is already prepared. Please, do accept it.
+@7026.1
+No, I cannot leave it at that. In fact the reward is already prepared. Please, do accept it.
+@7026.2
+No, I cannot leave it at that. In fact the reward is already prepared. Come, accept it.
+@7027
+Oh my, the {02}32! What a splendid piece...
+@7027.1
+Oh, the {02}32. Quite a splendid piece.
+@7027.2
+Oh, the {02}32. A fine piece.
+@7028
+Oh, the {02}32! What a splendid piece...
+@7028.1
+Oh, the {02}32. Quite a splendid piece.
+@7028.2
+Oh, the {02}32. A fine piece.
+@7029
+Wh-why, the {02}32! How splendid...
+@7029.1
+The {02}32. Quite a splendid piece.
+@7029.2
+The {02}32. A fine piece.
+@7030
+I bought it for {01}C{0D}{00}. What do you think?
+@7030.1
+I bought it for {01}C{0D}{00}. What do you think?
+@7030.2
+Yes, I bought it for {01}C{0B}{00}. Well?
+@7031
+I chose it from our storehouse treasures for {01}C{0D}{00}. What do you think?
+@7031.1
+I chose it from our storehouse treasures for {01}C{0D}{00}. What do you think?
+@7031.2
+Yes, I chose it from our storehouse treasures for {01}C{0B}{00}. Well?
+@7032
+It is too fine for me, but it is {01}C{0D}{00}'s kind thought. I gratefully accept.
+@7032.1
+It is too fine for me, but it is {01}C{0D}{00}'s kind thought. I gratefully accept.
+@7032.2
+It is far too fine for the likes of me, but I gratefully accept. I, {02}{01}4, shall serve all the harder.
+@7033
+{01}C{0D}{00}, I count on you in future too.
+@7033.1
+{01}C{0D}{00}, I count on you in future too.
+@7033.2
+I expect great things from you.
+@7033.3
+Yes, I expect great things from you.
+@7034
+And so {02}{01}n rewarded {02}{02}n's deeds with the {02}32.
+@7035
+At {02}{01}N, home castle of {02}{01}n... A spy hired by someone had slipped past the tight guard.
+@7035.1
+At {02}{01}9, home castle of {02}{01}n... A spy hired by someone had slipped past the tight guard.
+@7036
+At {02}{01}N of the {02}{01}v... A spy hired by someone had slipped past the tight guard.
+@7037
+A good wind is rising... Tonight of all nights is the time to burn {02}{02}N to cinders...
+@7037.1
+The dead of night is my chance... Right, now!
+@7038
+Just the right wind is rising... Now is the only time to burn {02}{02}N to cinders!
+@7038.1
+Throw this fire in, and {02}{02}N will burn to cinders...
+@7039
+A good wind is rising... Tonight of all nights is the time to burn {02}{02}9 to cinders...
+@7040
+Just the right wind is rising... Now is the only time to burn {02}{02}9 to cinders!
+@7042
+With the fire spreading like this, that's enough. Time to slip away before I'm noticed.
+@7042.1
+Pillars of flame on every side. It has spread far enough. Time to slip away.
+@7043
+With the fire spreading like this, that should be enough. Let me slip away before I'm noticed.
+@7043.1
+At this rate it will spread in no time. Let me slip away before I'm noticed.
+@7045
+Fanned by the wind that had just begun to blow, the fire set by the spy spread in the blink of an eye...
+@7046
+Fire! This must be the work of enemy shinobi... Whatever it takes, put out the fire!
+@7046.1
+Fire! This must be the work of enemy shinobi... Whatever it takes, put out the fire!
+@7047
+This is bad... There is no choice. Pull down the buildings near the fire so it cannot spread!
+@7047.1
+This is bad... There is no choice. Pull down the buildings near the fire so it cannot spread!
+@7048
+By dawn the fire had at last died down, but a scene of utter devastation lay before them.
+@7049
+False orders cannot be used in the present situation.
+@7050
+An event in which a daimyo dies of illness and a kin officer inherits the headship.\nUnder "Conditions", set the officer who dies as "Dying Daimyo" and the successor as "Successor".\n\nThis event happens when all of these conditions are met:\n1. The Dying Daimyo is a daimyo\n2. The Successor is the Dying Daimyo's retainer\n3. The Successor is the Dying Daimyo's kin\n4. Both are in the same castle\n5. Neither is out on campaign\n6. The customise option "Pass Headship" is set to "Yes"
+@7051
+An event in which a daimyo retires and a kin officer inherits the headship.\nUnder "Conditions", set the officer who retires as "Retiring Daimyo" and the successor as "Successor".\n\nThis event happens when all of these conditions are met:\n1. The Retiring Daimyo is a daimyo\n2. The Successor is the Retiring Daimyo's retainer\n3. The Successor is the Retiring Daimyo's kin\n4. Both are in the same castle\n5. Neither is out on campaign\n6. The customise option "Pass Headship" is set to "Yes"
+@7052
+An event in which a daimyo is assassinated.\nUnder "Conditions", set the victim as "Target Daimyo", the successor as "Successor" and the plotter as "Plotting Daimyo". Choose "Plotter Unknown" and the killer is unknown.\n\nThis event happens when all of these conditions are met:\n1. The Target and Plotting Daimyo are daimyo\n2. The Successor is the Target Daimyo's retainer\n3. The Successor is the Target Daimyo's kin\n4. The Target Daimyo and Successor are in the same castle\n5. Neither is out on campaign\n6. The customise option "Pass Headship" is set to "Yes"
+@7053
+An event in which an officer banishes the lord and becomes daimyo.\nUnder "Conditions", set the officer who rebels as "Rebel Officer".\n\nThis event happens when all of these conditions are met:\n1. The Rebel Officer is an ordinary officer\n2. The Rebel Officer's daimyo is not a player officer\n3. The Rebel Officer and their daimyo are in the same castle\n4. Neither is out on campaign
+@7054
+An event in which a castle lord betrays the clan and switches sides.\nUnder "Conditions", set the officer who switches as "Traitor Lord" and the officer they will serve as "New Daimyo".\n\nThis event happens when all of these conditions are met:\n1. The Traitor Lord is a castle lord or corps commander\n2. The New Daimyo is a daimyo\n3. The Traitor Lord's daimyo and the New Daimyo are different daimyo\n4. Neither is out on campaign
+@7055
+An event in which a castle lord rebels and goes independent.\nUnder "Conditions", set the officer who goes independent as "Rebel Lord" and those who join as "Ally Lord 1, 2". Choose "No Ally Lord 1, 2" to clear the allies.\n\nThis event happens when all of these conditions are met:\n1. The Rebel Lord is a castle lord or corps commander\n2. The Ally Lords are castle lords or corps commanders\n3. The Rebel Lord and Ally Lords belong to the same clan\n4. None of them is out on campaign
+@7056
+An event in which a castle lord's rebellion fails and the lord punishes them.\nUnder "Conditions", set the officer who rebels as "Rebel Officer".\n\nThis event happens when all of these conditions are met:\n1. The Rebel Officer is a castle lord or corps commander\n2. Neither the Rebel Officer nor their daimyo is out on campaign\n3. The customise option "Pass Headship" is set to "Yes"
+@7057
+An event in which an officer deserts.\nUnder "Conditions", set the officer who deserts as "Deserter".\n\nThis event happens when all of these conditions are met:\n1. The Deserter is not a daimyo\n2. The Deserter belongs to a daimyo clan\n3. The Deserter is not a player officer\n4. The Deserter is not out on campaign
+@7058
+An event in which a ronin enters service.\nUnder "Conditions", set the officer who enters service as "New Officer" and the castle they will serve as "Castle Served".\n\nThis event happens when all of these conditions are met:\n1. The New Officer is a ronin\n2. The lord of the Castle Served is not out on campaign\n3. The Castle Served has 50 or more yield to spare
+@7059
+An event in which an officer is poached by another clan.\nUnder "Conditions", set the officer to be poached as "Poached Officer" and the castle they will serve as "Poaching Castle".\n\nThis event happens when all of these conditions are met:\n1. The Poached Officer is an ordinary officer\n2. The Poached Officer and the Poaching Castle serve different daimyo\n3. The Poaching Castle's daimyo is not a vassal of the Poached Officer's daimyo\n4. Neither the Poached Officer nor the Poaching Castle's lord is out on campaign\n5. The Poaching Castle has yield to spare of at least the officer's fief
+@7060
+An event in which an officer defects to another clan.\nUnder "Conditions", set the officer who defects as "Defector" and the castle they will serve as "New Castle".\n\nThis event happens when all of these conditions are met:\n1. The Defector is an ordinary officer\n2. The Defector and the New Castle serve different daimyo\n3. The New Castle's daimyo is not a vassal of the Defector's daimyo\n4. Neither the Defector nor the New Castle's lord is out on campaign\n5. The New Castle has yield to spare of at least the Defector's fief
+@7061
+An event in which an officer is slandered by someone of the same clan and punished by the lord.\nUnder "Conditions", set the officer punished as "Punished Officer" and the slanderer as "Slanderer". Choose "Slanderer Unknown" and the slanderer is unknown.\n\nThis event happens when all of these conditions are met:\n1. Neither officer is a daimyo\n2. Both are in the same clan\n3. Neither the Punished Officer, their daimyo nor the Slanderer is out on campaign\n4. The customise option "Pass Headship" is set to "Yes"
+@7062
+An event in which an officer is punished by the lord because of another clan's scheme.\nUnder "Conditions", set the officer punished as "Punished Officer" and the schemer as "Plotting Daimyo". Choose "Plotter Unknown" and the schemer is unknown.\nThis event happens when all of these conditions are met:\n1. The Punished Officer is not a daimyo\n2. The two serve different daimyo\n3. Their clans have no vassalage, alliance, marriage or similar tie\n4. Neither the Punished Officer, their daimyo nor the Plotting Daimyo is out on campaign\n5. The customise option "Pass Headship" is set to "Yes"
+@7063
+An event in which a daimyo marries a princess to a retainer and makes them kin.\nUnder "Conditions", set the princess's father as "Host Daimyo" and the groom as "Groom".\n\nThis event happens when all of these conditions are met:\n1. The Host Daimyo is a daimyo\n2. The Host Daimyo has at least 1 unmarried princess\n3. The Groom is the Host Daimyo's retainer\n4. The Groom is not the Host Daimyo's kin\n5. The Groom is male and unmarried\n6. Neither is out on campaign
+@7064
+An event in which an officer's wife dies.\nUnder "Conditions", set the officer who loses his wife as "Husband".\n\nThis event happens when all of these conditions are met:\n1. The Husband has a wife\n2. The Husband is not a ronin\n3. The Husband is not out on campaign
+@7065
+An event in which a castle lord's daughter has her hair-tying ceremony and appears.\nUnder "Conditions", set the father as "Father".\n\nThis event happens when all of these conditions are met:\n1. The Father is male and 28 or older\n2. The Father is not a ronin\n3. The Father is not out on campaign\n4. Fewer than 210 princesses have appeared
+@7066
+An event in which a daimyo meets another daimyo and raises friendship.\nUnder "Conditions", set the officers who meet as "Proposing Daimyo" and "Other Daimyo".\n\nThis event happens when all of these conditions are met:\n1. Both are daimyo\n2. Neither is out on campaign\n3. Neither clan is a target of the other's encirclement\n4. There are 3 or more daimyo clans
+@7067
+An event in which a castle lord visits a minor power and raises friendship.\nUnder "Conditions", set the visitor as "Proposing Officer" and the minor power visited as "Minor Power". Choose "Imperial Court" to visit the Court.\n\nThis event happens when all of these conditions are met:\n1. The Proposing Officer is a castle lord\n2. The Proposing Officer is not out on campaign\n3. The lord of the minor power visited is not out on campaign
+@7068
+An event in which daimyo clans form a military alliance.\nUnder "Conditions", set the officers who ally as "Proposing Daimyo" and "Other Daimyo". Choose "No Other Daimyo 2" to clear Other Daimyo 2.\n\nThis event happens when all of these conditions are met:\n1. All are daimyo and vassals of no one\n2. None is out on campaign\n3. They have no alliance or marriage ties\n4. None is a target of the other's encirclement\n5. There are 4 or more daimyo clans
+@7069
+An event in which daimyo clans form a non-aggression pact.\nUnder "Conditions", set the officers who make the pact as "Proposing Daimyo" and "Other Daimyo". Choose "No Other Daimyo 2" to clear Other Daimyo 2.\n\nThis event happens when all of these conditions are met:\n1. All are daimyo and vassals of no one\n2. None is out on campaign\n3. They have no alliance or marriage ties\n4. None is a target of the other's encirclement\n5. There are 4 or more daimyo clans
+@7070
+An event in which a daimyo clan makes a pact with a minor power.\nUnder "Conditions", set the officer and minor power making the non-aggression pact as "Proposing Daimyo" and "Minor Power".\n\nThis event happens when all of these conditions are met:\n1. The Proposing Daimyo is a daimyo\n2. The Minor Power is a vassal of no one\n3. Neither the Proposing Daimyo nor the Minor Power's lord is out on campaign\n4. They have no non-aggression pact yet
+@7071
+An event in which daimyo clans form a marriage alliance.\nUnder "Conditions", set the officer proposing the marriage as "Proposing Daimyo" and the officer whose family takes the bride as "Other Daimyo".\n\nThis event happens when all of these conditions are met:\n1. Both are daimyo\n2. Neither is out on campaign\n3. They have no marriage ties yet\n4. The Proposing Daimyo has at least 1 unmarried princess\n5. The Other Daimyo is an unmarried male officer\n6. The Other Daimyo has at least 1 unmarried, adult male kin\n7. There are 3 or more daimyo clans
+@7072
+An event in which daimyo clans form vassalage.\nUnder "Conditions", set the officers as "Proposing Daimyo" and "Other Daimyo". "Threaten" and "Submit" swap their roles.\n\nThis event happens when all of these conditions are met:\n1. Both are daimyo\n2. Neither is out on campaign\n3. Neither is a vassal of another clan\n4. The Proposing Daimyo's clan did not break away from the Other Daimyo by gekokujo\n6. There are 3 or more independent daimyo clans\n7. The customise option "Daimyo Vassalage" is set to "Normal"
+@7073
+An event in which a daimyo clan threatens a minor power into vassalage.\nUnder "Conditions", set the officer and the minor power as "Proposing Officer" and "Minor Power".\n\nThis event happens when all of these conditions are met:\n1. The Proposing Officer is a castle lord (daimyo included)\n2. Neither the Proposing Officer nor the Minor Power is out on campaign\n3. The Proposing Officer's clan is a vassal of no one\n4. The Minor Power is not yet a vassal of the Proposing Officer's clan
+@7074
+An event in which a daimyo clan breaks off vassalage and goes independent.\nUnder "Conditions", set the officer who goes independent as "Independent Daimyo".\n\nThis event happens when all of these conditions are met:\n1. The Independent Daimyo is a daimyo\n2. The Independent Daimyo is a vassal of another clan\n3. Neither the Independent Daimyo nor their overlord is out on campaign
+@7075
+An event in which a minor power breaks off vassalage to a daimyo clan and goes independent.\nUnder "Conditions", set the minor power as "Independent Power".\n\nThis event happens when all of these conditions are met:\n1. The Independent Power is a vassal of a daimyo clan\n2. Neither the Independent Power nor its overlord daimyo is out on campaign
+@7076
+An event in which a daimyo receives a court title from the Imperial Court.\nUnder "Conditions", set the officer as "Appointed Daimyo" and the title as "Court Title".\n\nThis event happens when all of these conditions are met:\n1. The Appointed Daimyo is a daimyo\n2. The Appointed Daimyo is not out on campaign\n3. No one holds the title yet\n4. The title ranks higher than the one the Appointed Daimyo holds
+@7077
+An event in which a daimyo receives a post from the shogunate.\nUnder "Conditions", set the officer as "Appointed Daimyo" and the post as "Post".\n\nThis event happens when all of these conditions are met:\n1. There is a shogunate daimyo\n2. The Appointed Daimyo is a daimyo\n3. The Appointed Daimyo is not the shogunate daimyo\n4. The Appointed Daimyo is not out on campaign\n5. No one holds the post yet\n6. The post ranks higher than the one the Appointed Daimyo holds
+@7078
+An event in which a daimyo gives a treasure to a retainer.\nUnder "Conditions", set the giver as "Giving Daimyo", the receiver as "Receiver" and the treasure as "Gift". Choose "Gift Unknown" to clear it: an unowned treasure held by the clan or a minor power is given.\nThis event happens when all of these conditions are met:\n1. The Giving Daimyo is a daimyo\n2. The Receiver is the Giving Daimyo's retainer\n3. Neither is out on campaign\n4. The Gift is held by the clan or a minor power, or unowned\n5. The Receiver has fewer than 2 treasures
+@7079
+An event in which a castle or base burns and loses defence.\nUnder "Conditions", set the castle or base that burns as "Burning Base".\n\nThis event happens when all of these conditions are met:\n1. The lord of the Burning Base is not out on campaign

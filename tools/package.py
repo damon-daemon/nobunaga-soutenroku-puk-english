@@ -56,6 +56,7 @@ def main():
     md = open(os.path.join(ROOT, 'README.md'), encoding='utf-8').read()
     notice = re.search(r'^> \*\*This is a full machine translation.*?(?=\n\n)', md, re.S | re.M)
     patch_name = '%s_v%s.xdelta' % (os.path.splitext(PATCHED)[0], version)
+    patched_name = '%s_v%s%s' % (os.path.splitext(PATCHED)[0], version, os.path.splitext(PATCHED)[1])
     table = lambda rows: '\n'.join('  %-6s %s' % r for r in rows)
 
     out = [TITLE, 'Version %s' % version, '=' * max(len(TITLE), 20), '']
@@ -69,7 +70,7 @@ def main():
             table(sums(clean)), '',
             'Apply %s to it with an xdelta tool, e.g. Delta Patcher' % patch_name,
             '(https://github.com/marco-calautti/DeltaPatcher), or on the command line:', '',
-            '  xdelta3 -d -s %s %s %s' % (CLEAN, patch_name, PATCHED), '',
+            '  xdelta3 -d -s %s %s %s' % (CLEAN, patch_name, patched_name), '',
             'The patched disc image should match:', '', table(sums(built)), '']
     out += [heading('Known issues'), plain(section(md, 'Known issues')), '']
     out += [heading('Credits'), plain(section(md, 'Credits')), '']

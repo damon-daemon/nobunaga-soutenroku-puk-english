@@ -69,7 +69,7 @@ Long names and labels are shortened where the game's boxes are too small.
    or the command line:
 
    ```
-   xdelta3 -d -s nobunaga_soutenroku_puk.iso nobunaga_soutenroku_puk_en_v<version>.xdelta nobunaga_soutenroku_puk_en.iso
+   xdelta3 -d -s nobunaga_soutenroku_puk.iso nobunaga_soutenroku_puk_en_v<version>.xdelta nobunaga_soutenroku_puk_en_v<version>.iso
    ```
 
 The patched image has the same serial, so it uses the same memory card saves as the

@@ -12,7 +12,7 @@ treasures and events. The game was only released in Japan.
 > proofread by a fluent Japanese speaker. Expect occasional mistranslations, awkward
 > phrasing and inconsistent terms. Corrections are welcome.
 
-> **This is a beta (v0.9.0).** All of the game's text is in English and the main screens
+> **This is a beta (v0.9.1).** All of the game's text is in English and the main screens
 > have been played through, but not every battle screen and event has been seen yet.
 > Expect some text that is squeezed, cut short or wrapped oddly.
 
@@ -92,8 +92,8 @@ Japanese text from your disc with the English from `tl/`. `script/` and `build/`
 never committed. Re-run `setup.py` after editing anything in `tl/`.
 The build is reproducible: the same disc and sources give a byte-identical patch.
 
-To make a release package, run `.venv/bin/python tools/package.py 0.9.0` after building:
-it writes `release/<name>_v0.9.0.zip` with the versioned xdelta patch and a plain-text
+To make a release package, run `.venv/bin/python tools/package.py 0.9.1` after building:
+it writes `release/<name>_v0.9.1.zip` with the versioned xdelta patch and a plain-text
 README.txt. The disc image itself is never packaged.
 
 ## Repository layout

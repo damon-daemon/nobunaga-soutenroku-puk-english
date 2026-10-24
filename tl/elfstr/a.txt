@@ -1077,8 +1077,8 @@ e3c2050	Gather Armies
 e3c2060	Execute Orders
 e3c2070	Gekokujo
 e3c2078	Info
-e3c2080	Prov./Castle
-e3c2088	Minor Powers
+e3c2080	Places
+e3c2088	Minors
 e3c2090	Move
 e3c2098	All
 e3c20a0	Single

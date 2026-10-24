@@ -33,6 +33,11 @@ REPOINT = {0x4D9A00: (0x3C2518, b'+\x1bPUPage')}       # key guide "+(D-pad) 頁
 # the command tables, but the main-bar command at these sites is Military.
 SPLIT = {(0x4162D4, 0x4162E0): b'Military', (0x41823C, 0x418248): b'Military'}
 SPLIT_WORDS = {0x3A0A0C: (0x3EC2B0, b'Military')}       # help reference table: the Military topic
+# gp-relative loads of a shared string (lw a1, off(gp); jal CSTRING_SET): the load becomes lui a1 and the
+# jal goes to a stub (j CSTRING_SET; addiu a1). 国 (gp word 0x4D96E8) is blanked for the Castle Info label
+# (26 px box) but is also the military Info > Prov./Castle > Province button (issue #3).
+CSTRING_SET = 0x22A010
+GP_SPLIT = {0x413C54: (0x8F858778, b'Prov.')}           # lw a1, -0x7888(gp)
 
 # command bar breadcrumb (notes/survey/breadcrumb_re.md): Create 0x28A910 sizes the label widgets through a
 # jump table (0x3F1D20, by element type): types 6/7 = level 1/2 labels, 88 x 22 (0x28AD08). Level 1 sits at
@@ -148,3 +153,9 @@ def apply_late(elf, seg):
         at = seg.add(en + b'\0')
         elfseg.patch(elf, lui_va, assemble(lui_va, [('lui', 'a1', hi(at))]))
         elfseg.patch(elf, add_va, assemble(add_va, [('addiu', 'a1', 'a1', lo(at))]))
+    for lw_va, (lw, en) in GP_SPLIT.items():
+        assert word(elf, lw_va) == lw and word(elf, lw_va + 4) == 0x0C000000 | CSTRING_SET >> 2, 'gp split %x changed' % lw_va
+        at = seg.add(en + b'\0')
+        stub = seg.reserve(8)
+        seg.put(stub, assemble(stub, [('j', CSTRING_SET), ('addiu', 'a1', 'a1', lo(at))]))
+        elfseg.patch(elf, lw_va, assemble(lw_va, [('lui', 'a1', hi(at)), ('jal', stub)]))

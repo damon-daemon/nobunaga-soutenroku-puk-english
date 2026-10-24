@@ -10,7 +10,15 @@ after the overlay region. The heap starts at _end, so it is moved past the segme
 0x10000C/0x100014 (BSS clear end) stays: the BSS still ends at 0x1AE3800. The clear loop
 (sq, then compare, then step) stores once more at the end address: the segment's
 first 16 bytes are zeroed at boot, so they are kept as padding (PAD).
-The heap (and so the segment) must stay below the stack (0x1F20000-0x1F90000).
+
+Stack: crt0's SetupThread (syscall 0x3C) gets stack 0x1F90000, size 0x70000, so the main
+stack is 0x1F90000-0x2000000, and SetupHeap(_end, -1) ends the heap at the stack base
+(sbrk fails above it; a failed malloc makes the game exit to a black screen). The English
+blocks + segment cost ~1 MB of heap: the military-phase Info > Minor Powers list peaked
+20 KB below the limit (GitHub issue #3). The stack never goes deeper than ~50 KB (every
+save state: lowest non-zero word 0x1FF39E0, boot, hall, map, battles, editors), so it is
+cut to STACK_SIZE and the heap gains 0x70000 - STACK_SIZE.
+  0x100038/0x10003C  lui a1 = stack base, lui a2 = stack size
 """
 import struct, sys, os
 
@@ -21,6 +29,8 @@ BASE = 0x1AE3800
 FOFF, VBASE = 0x800, 0x100000
 HEAP_SITES = [(0x10006C, 0x100074, 'a0')]
 HEAP_WORDS = [0x39A8D4]
+STACK_SITES = (0x100038, 0x10003C)       # lui a1, 0x1F9 / lui a2, 7
+STACK_TOP, STACK_SIZE = 0x2000000, 0x20000
 LOAD = 3                                  # index of the empty PT_LOAD
 PAD = 16                                  # zeroed by crt0's BSS clear (see above)
 
@@ -60,6 +70,11 @@ def apply(elf, seg):
     at = phoff + 32 * LOAD
     p = struct.unpack_from('<8I', elf, at)
     assert p[0] == 1 and p[2] == BASE and p[4] == 0 and p[5] == 0, 'PT_LOAD %d is not the empty one at _end' % LOAD
+    base_va, size_va = STACK_SITES
+    assert elf[base_va - VBASE + FOFF:][:4] == asm.assemble(base_va, [('lui', 'a1', 0x1F9)]), 'stack base changed'
+    assert elf[size_va - VBASE + FOFF:][:4] == asm.assemble(size_va, [('lui', 'a2', 7)]), 'stack size changed'
+    patch(elf, base_va, asm.assemble(base_va, [('lui', 'a1', (STACK_TOP - STACK_SIZE) >> 16)]))
+    patch(elf, size_va, asm.assemble(size_va, [('lui', 'a2', STACK_SIZE >> 16)]))
     if len(seg.data) <= PAD:
         return BASE
     elf.extend(bytes(-len(elf) % 0x80))

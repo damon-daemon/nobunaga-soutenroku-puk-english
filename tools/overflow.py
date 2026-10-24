@@ -26,8 +26,9 @@ MSG_BUF = msgbuf.LIMIT   # message output buffer (writer cuts the text there; ms
 SITES = {(39, 5215): (111, 'memory card: sprintf into 112-byte stack buffers (0x284D00, 0x285170)'),
          (39, 5216): (255, 'memory card: sprintf into 256-byte stack buffers (0x285A70, 0x2862A8)')}
 # Blocks 39 and 40 stay loaded on the heap (malloc(TOC size + 0x1000), 0x204920) in a
-# ~4.24 MB heap. Free heap is not measured yet: until it is, English may grow the two
-# blocks by at most this much in total.
+# ~4.24 MB heap. Measured 2026-10-24 (issue #3): the military-phase Info > Minor Powers list
+# peaks at heap top 0x1F8B000 with +693 KB of English (limit = stack base, 0x1F90000 before
+# elfseg cut the stack; +320 KB since). Don't raise this without re-measuring that screen.
 HEAP_GROWTH = 1 << 20
 # save headers: 0x1C70E0 memcpy's clan [16], given [16], full name [24] with no NUL of its own
 # (namehook.py makes those copies NUL-terminate, cutting the name); 0x289D64 strcpy(slot+0x38,
